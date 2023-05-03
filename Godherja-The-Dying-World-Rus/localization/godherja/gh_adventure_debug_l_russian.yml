@@ -1,38 +1,51 @@
 ﻿l_russian:
-  
- ##LOCATIONS## 
- province_adventure_creepy_graveyard_modifier: "Creepy Graveyard" #NT!
- province_adventure_ancient_ruin_modifier: "Ancient Ruin" #NT!
- province_adventure_Forboding_Temple_modifier: "Foreboding Temple" #NT!
- province_adventure_Abandoned_Dungeon_modifier: "Abandoned Dungeon" #NT!
- province_adventure_Mysterious_Cave_modifier: "Mysterious Cave" #NT!
- needadventurelocation: "You and your companions travel to one of the adventure locations in your realm, who knows what awaits!" #NT!
- province_adventure_lost_necropolis_modifier: "Lost Necropolis" #NT!
- province_adventure_ancient_pyramid_modifier: "Ancient Pyramid" #NT!
- province_adventure_forgotten_passage_modifier: "Forgotten Passage" #NT!
- province_adventure_desolate_cemetery_modifier: "Desolate Cemetery" #NT!
- province_adventure_crumbling_citadel_modifier: "Crumbling Citadel" #NT!
- province_adventure_esoteric_shrine_modifier: "Esoteric Shrine" #NT!
- province_adventure_remote_wadi_modifier: "Remote Wadi" #NT!
- province_adventure_unremembered_crypt_modifier: "Unremembered Crypt" #NT!
- ##EVENTS## 
- adventure.100.a: "Creepy Graveyard" #NT!
- adventure.100.b: "Ancient Ruin" #NT!
- adventure.100.c: "Foreboding Temple" #NT!
- adventure.100.d: "Abandoned Dungeon" #NT!
- adventure.100.e: "Mysterious Cave" #NT!
- adventure.1000.a: "oh boy i hope i dont fucking die in this graveyard" #NT!
- adventure.1000.b: "fuck this im going home im not tigtone" #NT!
- adventure.2000.a: "woooow a ruin how original okay lets go" #NT!
- adventure.2000.b: "fuck this im going home im not tigtone" #NT!
- adventure.3000.a: "wowee a temple time to go barge in" #NT!
- adventure.3000.b: "fuck this im going home im not tigtone" #NT!
- adventure.4000.a: "dungeons are fun :)))))))" #NT!
- adventure.4000.b: "fuck this im going home im not tigtone" #NT!
- adventure.5000.a: "i like caves" #NT!
- adventure.5000.b: "fuck this im going home im not tigtone" #NT!
- adventure.1002.desc: "oh no im dead could have been worse tbh if only i wasnt such a fucking idiot" #NT!
- adventure.1003.desc: "wowee thats a lot of gold im great" #NT!
- adventure.1004.desc: "oh wow i found a super cool thing everyone thinks im super cool for it" #NT!
- adventure.1005.desc: "oh hey i found the holy grail like me pope plz" #NT!
- adventure.1006.desc: "i found something, and sadly it found me too" #NT!
+
+##LOCATIONS##
+
+ province_adventure_creepy_graveyard_modifier:0 "Жуткое кладбище" #NT!
+ province_adventure_ancient_ruin_modifier:0 "Древние руины" #NT!
+ province_adventure_Forboding_Temple_modifier:0 "Зловещий храм" #NT!
+ province_adventure_Abandoned_Dungeon_modifier:0 "Заброшенное подземелье" #NT!
+ province_adventure_Mysterious_Cave_modifier:0 "Таинственная пещера" #NT!
+ needadventurelocation:0 "Вы и ваши спутники отправляетесь в одно из приключенческих мест в вашем королевстве, кто знает, что вас ждет!" #NT!
+ province_adventure_lost_necropolis_modifier:0 "Затерянный некрополь" #NT!
+ province_adventure_ancient_pyramid_modifier:0 "Древняя пирамида" #NT!
+ province_adventure_forgotten_passage_modifier:0 "Забытый проход" #NT!
+ province_adventure_desolate_cemetery_modifier:0 "Пустынное кладбище" #NT!
+ province_adventure_crumbling_citadel_modifier:0 "Разрушающаяся цитадель" #NT!
+ province_adventure_esoteric_shrine_modifier:0 "Эзотерический храм" #NT!
+ province_adventure_remote_wadi_modifier:0 "Удаленный Вади" #NT!
+ province_adventure_unremembered_crypt_modifier:0 "Забытый склеп" #NT!
+
+##EVENTS##
+
+ adventure.100.a:0 "Жуткое кладбище"
+ adventure.100.b:0 "Древние руины"
+ adventure.100.c:0 "Предчувствие храма"
+ adventure.100.d:0 "Заброшенное подземелье" #NT!
+ adventure.100.e:0 "Таинственная пещера"
+
+ adventure.1000.a:0 "о боже, надеюсь, я не умру на этом кладбище"
+ adventure.1000.b:0 "к черту это я иду домой я не тигтон"
+
+ adventure.2000.a:0 "уууууу руины как оригинально окей поехали"
+ adventure.2000.b:0 "к черту это я иду домой я не тигтон"
+
+ adventure.3000.a:0 "ух ты храм пора врываться"
+ adventure.3000.b:0 "к черту это я иду домой я не тигтон"
+
+ adventure.4000.a:0 "в подземельях весело :)))))))"
+ adventure.4000.b:0 "к черту это я иду домой я не тигтон"
+
+ adventure.5000.a:0 "мне нравятся пещеры"
+ adventure.5000.b:0 "к черту это я иду домой я не тигтон"
+
+ adventure.1002.desc:0 "о нет я мертв могло быть хуже если бы я только не был таким гребаным идиотом"
+
+ adventure.1003.desc:0 "ух ты сколько золота я молодец"
+
+ adventure.1004.desc:0 "о вау я нашел суперкрутую штуку поэтому все думают что я суперкрут"
+
+ adventure.1005.desc:0 "о я нашел святой грааль я как папа римский"
+
+ adventure.1006.desc:0 "я нашел кое-что, и, к сожалению, оно нашло меня тоже"
