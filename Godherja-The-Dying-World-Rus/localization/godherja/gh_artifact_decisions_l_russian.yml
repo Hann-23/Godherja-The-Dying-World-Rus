@@ -1,6 +1,6 @@
 ﻿l_russian:
- study_malik_cipher: "Study the Cipher of Mas'en Malik" #NT!
- study_malik_cipher_desc: "The Fields of Pearls and the Pits Fulls of Gold is a labyrinthine series of tomes known to contain an intricate and devlilishly complex series of ciphers. Since we have a good translation in our possession we should assemble a team to decode this masterwork and try to squeeze yet more secrets of [dead_magic|E] from its pages. We should be wary however, for the tome is known to contain numerous "trap" rituals meant to trick and kill unskilled decipherers. Cost is another issue, as the process will consume numerous man hours and a veritable mountain of reagents." #NT!
- study_malik_cipher_tooltip: "Assemble the [magi|E], and crack the code!" #NT!
- study_malik_cipher_confirm: "Begin Decoding." #NT!
- study_malik_cipher.effect.tt: "You will assemble a team to try and glean knowledge from the tome. This will take some time." #NT!
+ study_malik_cipher:0 "Изучите шифр Мас'ен Малик"
+ study_malik_cipher_desc:0 "'Жемчужные поля' и 'Золотые ямы' — это запутанная серия томов, которые, как известно, содержат запутанную и чертовски сложную серию шифров. Поскольку у нас есть хороший перевод, мы должны собрать команду, чтобы расшифровать этот шедевр и попытаться выжать из него еще больше секретов [Concept('dead_magic','Смертельной магии')|E] с его страниц. Однако нам следует быть осторожными, так как известно, что фолиант содержит множество ритуалов-«ловушек», предназначенных для того, чтобы обмануть и убить неумелых расшифровщиков. Стоимость является еще одним вопросом, так как процесс потребует многих человеко-часов и настоящей горы реагентов."
+ study_malik_cipher_tooltip:0 "Соберите [Concept('magi','магов')|E], и взломайте код!"
+ study_malik_cipher_confirm:0 "Начать декодирование."
+ study_malik_cipher.effect.tt:0 "Вы соберете команду, чтобы попытаться почерпнуть знания из фолианта. Это займет некоторое время."

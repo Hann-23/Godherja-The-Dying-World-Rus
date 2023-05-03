@@ -1,53 +1,56 @@
 ﻿l_russian:
- action_bordering_fog: "The [fog|E] Approaches..." #NT!
- action_bordering_fog_desc: "One of your [counties|E] borders the [fog|E] and might be consumed in the near future.\n\n#help The [fog|E] will continue to expand across the world until it covers the entirety of its surface. Once fully overtaken, [counties|E] are forever lost to its horrific denizens and can never be reclaimed.\n\nIt might be possible to stall this progression for a time through powerful [magic|E], but time is of the essence.#!" #NT!
- action_bordering_fog_click: "#I Click to view the County in question#!" #NT!
- report_aervalr_shard: "An [aervalr|E] Shard Has Fallen" #NT!
- report_aervalr_shard_desc: "We have received reports that a fragment of the Moon has landed in the [recent_aervalr_shard_county.GetName].\n\n#help Ever since [frodbrokna|E] shattered [aervalr|E], pieces have been making their way towards the surface of the world. Though their impact is potentially incredibly destructive, the shards themselves are a potent source of [magical|E] power.\n\n[dead_magi|E] tend to find them especially useful as they usually derive their abilities directly from [aeras|E]' celestial companion, and hence are able to generate [magic|E] vastly more efficiently from them." #NT!
- report_aervalr_shard_click: "#I Click to view the County in question#!" #NT!
- report_gedeora: "A [gedeora|E] Strikes" #NT!
- report_gedeora_desc: "[recent_gedeora_county.Custom('GetGedeoraScaleCustomLoc')] [recent_gedeora_county.GetName]! [recent_gedeora_county.Custom('GetGedeoraPrimaryEffectCustomLoc')] [recent_gedeora_county.Custom('GetGedeoraSecondaryEffectTargetCustomLoc')] were affected particularly hard[recent_gedeora_county.Custom('GetGedeoraSecondaryEffectCustomLoc')]\n\n#help A powerful [magical|E] phenomenon of unknown cause and variable intensity, a [gedeora|E] strikes without warning and has profound effects on the emotions and personality of any within the affected region.\n\nThough not always the same in their consequences, most often they dramatically intensify any negative personal traits that an individual has already had." #NT!
- report_gedeora_click: "#I Click to view the County in question#!" #NT!
- report_potent_magi: "A Powerful [magi|E] Wanders [aeras|E]" #NT!
- report_potent_magi_desc: "We are receiving reports that a [magi|E] by the name of [potent_magi.GetFirstName] has been exhibiting talent heard of only perhaps a few times in a generation.\n\n#help Beyond a certain level of power, the amount of active [magi|E] in the entire world with that level of skill shrinks to perhaps a handful of individuals in an entire century. To say that their abilities are invaluable would be an understatement - such individuals have singlehandedly built empires from nothing." #NT!
- report_potent_magi_click: "#I Click to view the Character's Location#!" #NT!
- action_chevalie_will_shatter: "[chevalie|E] Will Shatter" #NT!
- action_chevalie_will_shatter_desc: "You do not have a [heir|E] strong enough to keep the throne intact upon their ascension!\n\n#help The lords of the Marches will only follow those that have shown the strength and will to rule. The [succession|E] will be unclear in the following circumstances:\n\n1. Your [heir|E] is not of your own blood.\n2. Your [heir|E] has less than 30 Merit.\n3. Your [heir|E] has less than 30% of the total Merit of all your children.\n\nIn that case, [chevalie|E] is very likely to break up into a protracted, multi-sided civil war.#!" #NT!
- action_chevalie_will_shatter_click: "#I Click to view the County in question#!" #NT!
-  
- gedeora_small: "A small [gedeora|E] has struck the" #NT!
- gedeora_medium: "A [gedeora|E] has struck the" #NT!
- gedeora_big: "A large [gedeora|E] has befallen a vast slice of land, centered around the" #NT!
- gedeora_huge: "A colossal [gedeora|E] has shook parts of the world, centered around the" #NT!
- gedeora_global: "May whatever divine we believe in help us, for a [gedeora|E] of legendary proportions has rocked the entire world! It originated in the" #NT!
- gedeora_generic_evil: "The hearts of all affected have turned black and full of malice." #NT!
- gedeora_bloodlust: "Tempers have exploded, old grudges brought to a boiling point, and a wave of bloodshed has swept the region." #NT!
- gedeora_depravity: "Unspeakable depravities are being committed, from peasant to lord, and the sickening, short sighted opulence has likely indebted everyone for years to come." #NT!
- gedeora_ambition: "The entire area has seemingly become a pit of vipers, with brother turning against brother, vassal against liege, child against parent." #NT!
- gedeora_zeal: "A spiritual enlightenment has swept the entire region, and large portions of the populace claim to have witnessed works of the divine itself." #NT!
- gedeora_target_nobility: "#E Nobles#!" #NT!
- gedeora_target_commoners: "#E Commoners#!" #NT!
- gedeora_target_women: "#E Women#!" #NT!
- gedeora_target_men: "#E Men#!" #NT!
- gedeora_target_children: "#E Children#!" #NT!
- gedeora_target_girls: "#E Girls#!" #NT!
- gedeora_target_boys: "#E Boys#!" #NT!
- gedeora_target_magical_ability: "Any with any magical ability whatsoever" #NT!
- gedeora_target_magi_any: "[magi|E]" #NT!
- gedeora_target_living_magi: "[living_magi|E]" #NT!
- gedeora_target_dead_magi: "[dead_magi|E]" #NT!
- gedeora_target_mixed_magi: "[mixed_magi|E]" #NT!
- gedeora_target_diplomats: "#E Diplomats#! and the socially adept in general" #NT!
- gedeora_target_schemers: "#E Schemers#! and the cutthroat in general" #NT!
- gedeora_target_warriors: "#E Warriors#!" #NT!
- gedeora_target_stewards: "#E Stewards#!" #NT!
- gedeora_target_scholars: "#E Scholars#!" #NT!
- gedeora_target_none: "No group in particular" #NT!
- gedeora_no_primary_effect: 
- gedeora_magic_surge: ", all apparently having seen an improvement in their inherent magical abilities." #NT!
- gedeora_magic_drop: ", all apparently having seen a notable dulling of their inherent magical abilities." #NT!
- gedeora_lunatic: ", all apparently being plagued by hallucinations and suffering complete mental breakdowns." #NT!
- gedeora_melancholy: ", all apparently entering a profoundly morose mood and losing their lust for life." #NT!
- gedeora_impregnate: ", all women in the affected group apparently having become pregnant if not already so." #NT!
- gedeora_barren: ", all in the affected group having been struck with infertility." #NT!
- gedeora_death: ", all in the group meeting an agonizing, rapid demise." #NT!
+ action_bordering_fog:0 "[Concept('fog', 'Туман')|E] приближается..."
+ action_bordering_fog_desc:0 "Одно из ваших [Concept('counties', 'графств')|E] граничит с [Concept('fog', 'туманом')|E] и в ближайшим будущем может быть им поглощен.\n\n#help[Concept('fog', 'Туман')|E] будет продолжать расширяться, пока не покроет весь мир. Как только это случится, [Concept('counties', 'графства')|E] навсегда отданы его ужасным обитателям и никогда не смогут быть возвращены.\n\nВозможно, удастся на какое-то время остановить это развитие с помощью мощной [Concept('magic', 'магии')|E], но время имеет решающее значение.#!"
+ action_bordering_fog_click:0 "#I Нажмите, чтобы просмотреть соответствующее графство#!"
+ report_aervalr_shard:0 "Упал осколок Аэрвалра"
+ report_aervalr_shard_desc:0 "Мы получили сообщения о том, что фрагмент Луны приземлился в [recent_aervalr_shard_county.GetName].\n\n#help С того самого момента как [Concept('frodbrokna', 'Фродброкна')|E] разбила Аэлрварл, осколки падали на поверхность. Хотя их воздействие потенциально невероятно разрушительно, сами осколки являются мощным источником [Concept('magical', 'магической')|E] силы.\n\n[Concept('dead_magi', 'Маги смерти')|E], как правило, находят их особенно полезными, поскольку они обычно получают свои способности непосредственно от небесного спутника Аэраса и, следовательно, способны генерировать из них [Concept('magic', 'магию')|E] значительно эффективнее."
+ report_aervalr_shard_click:0 "#I Нажмите, чтобы просмотреть соответствующее графство#!"
+ report_gedeora:0 "[Concept('gedeora', 'Гедерда')|E] наносит удар"
+ report_gedeora_desc:0 "[recent_gedeora_county.Custom('GetGedeoraScaleCustomLoc')] [recent_gedeora_county.GetName]! [recent_gedeora_county.Custom('GetGedeoraPrimaryEffectCustomLoc')] [recent_gedeora_county.Custom('GetGedeoraSecondaryEffectTargetCustomLoc')] пострадали особенно сильно [recent_gedeora_county.Custom('GetGedeoraSecondaryEffectCustomLoc')]\n\n#help Мощный [Concept('magical', 'магический')|E] феномен неизвестного происхождения и переменной интенсивности, [Concept('gedeora', 'гедерда')|E] наносит удар без предупреждения и оказывает глубокое воздействие на эмоции и личность любого человека в пострадавшем регионе.\n\nХотя последствия не всегда одинаковы, чаще всего они резко усиливают любые негативные личностные черты, которые уже были у человека."
+ report_gedeora_click:0 "#I Нажмите, чтобы просмотреть соответствующее графство#!"
+ report_potent_magi:0 "Могущественный бродячий [Concept('magi', 'маг')|E]"
+ report_potent_magi_desc:0 "Мы получаем сообщения о том, что [Concept('magi', 'маг')|E] по имени [potent_magi.GetFirstName] проявляет способности, о которых слышали, возможно, всего несколько раз за поколение.\n\n#help За пределами определенного уровня силы, количество практикующих [Concept('magi', 'магов')|E] во всем мире с таким уровнем квалификации сокращается, возможно, до горстки человек за целое столетие. Сказать, что их способности бесценны, было бы преуменьшением - такие люди в одиночку строили империи из ничего."
+ report_potent_magi_click:0 "#I Нажмите, чтобы просмотреть местоположение персонажа#!"
+ action_chevalie_will_shatter:0 "Шевалье распадется"
+ action_chevalie_will_shatter_desc:0 "У вас нет [Concept('heir', 'наследника')|E], достаточно сильного, чтобы сохранить трон нетронутым после их восхождения!\n\n#help Правители Пути будут следовать только за теми, кто проявляет силу и волю к власти. [Concept('succession', 'Наследование')|E] будет неясно при следующих обстоятельствах:\n\n1. Ваш [Concept('heir', 'наследник')|E] не вашей крови.\n2. Ваш [Concept('heir', 'наследник')|E] имеет меньше 30 престижа.\n3. Ваш [Concept('heir', 'наследник')|E] имеет менее 30% от общего числа престижа всех ваших детей.\n\nВ этом случае Шевалье, скорее всего, погрузится в затяжную многостороннюю гражданскую войну.#!"
+ action_chevalie_will_shatter_click:0 "#I Нажмите, чтобы просмотреть соответствующее графство#!"
+
+ gedeora_small:0 "Маленькая [Concept('gedeora', 'Гедерда')|E] ударила по"
+ gedeora_medium:0 "[Concept('gedeora', 'Гедерда')|E] ударила по"
+ gedeora_big:0 "Крупная [Concept('gedeora', 'Гедерда')|E] обрушилась на огромные территории, сосредоточенные вокруг"
+ gedeora_huge:0 "Огромная [Concept('gedeora', 'Гедерда')|E] потрясло земли, сосредоточенные вокруг"
+ gedeora_global:0 "Пусть все святое, во что мы верим, поможет нам, ибо [Concept('gedeora', 'Гедерда')|E] легендарных масштабов потрясла весь мир! Она возникла в"
+
+ gedeora_generic_evil:0 "Сердца всех пострадавших почернели и наполнились злобой."
+ gedeora_bloodlust:0 "Вспыхнули страсти, старые обиды достигли точки кипения, и по региону прокатилась волна кровопролития."
+ gedeora_depravity:0 "Совершаются невыразимые злодеяния, от крестьянина до лорда, и отвратительное, недальновидное богатство, вероятно, загоняет всех в долги на долгие годы."
+ gedeora_ambition:0 "Вся местность превратилась в гадючью яму, где брат восстает против брата, вассал против сюзерена, ребенок против родителя."
+ gedeora_zeal:0 "Духовное просвещение охватило весь регион, и значительная часть населения утверждает, что была свидетелем деяний самого божественного."
+
+ gedeora_target_nobility:0 "#E Дворяне#!"
+ gedeora_target_commoners:0 "#E Простолюдины#!"
+ gedeora_target_women:0 "#E Женщины#!"
+ gedeora_target_men:0 "#E Мужчины#!"
+ gedeora_target_children:0 "#E Дети#!"
+ gedeora_target_girls:0 "#E Девочки#!"
+ gedeora_target_boys:0 "#E Мальчики#!"
+ gedeora_target_magical_ability:0 "Любой, обладающий какими-либо магическими способностями"
+ gedeora_target_magi_any:0 "[Concept('magi', 'маг')|E]"
+ gedeora_target_living_magi:0 "[Concept('living_magi', 'Маги жизни')|E]"
+ gedeora_target_dead_magi:0 "[Concept('dead_magi', 'Маги смерти')|E]"
+ gedeora_target_mixed_magi:0 "[Concept('mixed_magi', 'Смешанные маги')|E]"
+ gedeora_target_diplomats:0 "#E Дипломаты#! и социально грамотные в целом"
+ gedeora_target_schemers:0 "#E Интриганы#! и убийцы в целом"
+ gedeora_target_warriors:0 "#E Воины#!"
+ gedeora_target_stewards:0 "#E Управляющие#!"
+ gedeora_target_scholars:0 "#E Ученые#!"
+ gedeora_target_none:0 "Ни одна конкретная группа"
+
+ gedeora_no_primary_effect:0 "."
+ gedeora_magic_surge:0 ", все явно увидели улучшение присущих им магических способностей."
+ gedeora_magic_drop:0 ", все явно увидели заметное притупление присущих им магических способностей."
+ gedeora_lunatic:0 ", все они явно страдают галлюцинациями и страдают от полного психического расстройства."
+ gedeora_melancholy:0 ", все явно впадают в глубокое угрюмое настроение и теряют жажду к жизни."
+ gedeora_impregnate:0 ", все женщины в пострадавшей группе забеременели, если уже не были беременны."
+ gedeora_barren:0 ", все в пострадавшей группе были поражены бесплодием."
+ gedeora_death:0 ", всех в группе ждет мучительная, быстрая кончина."
