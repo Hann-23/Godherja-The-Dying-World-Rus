@@ -1,6 +1,6 @@
 ﻿l_russian:
 
- magocratic_government:0 "Магократия" 
+ magocratic_government:0 "Магократия"  
  magocratic_government_realm:0 "Магократия" 
  magocratic_government_desc:0 "$game_concept_magocracy_desc$\n\n#F Магократия - это земли, управляемые единственным [Concept('magi', 'магом')|Е]. Этот [Concept('magi', 'маг')|Е] правит во многом как феодальный правитель, за исключением того, что государственное устройство таково, что править могут только [Concept('magi', 'маги')|Е]. Это приводит к системе, где любой ребенок, не обладающий магическим даром, автоматически считается лишенным наследства".
  magocratic_government_adjective:0 "Магократ"
