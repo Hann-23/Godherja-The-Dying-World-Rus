@@ -1,67 +1,81 @@
 ﻿l_russian:
-  
- magocratic_government: "Magocracy" #NT!
- magocratic_government_realm: "Magocracy" #NT!
- magocratic_government_desc: "$game_concept_magocracy_desc$\n\n#F Magocracy's are lands ruled by a singular [magi|E]. This [magi|E] rules much like an aristocratic ruler, except that the apperatus of the state is built in such a way that only a [magi|E] is expected to rule. This results in a feudal-like system, where any child without the gift of magic is automatically considered disinherited." #NT!
- magocratic_government_adjective: "Magocratic" #NT!
- magocratic_republic: "Magocratic Republic" #NT!
- magocratic_republic_realm: "Magocratic Republic" #NT!
- magocratic_republic_desc: "$game_concept_magocratic_republic_desc$\n\n#F Magocratic Republics are similar to the standard Magocracy except in the fact that the ruler is not a dynastic autocrat, but an autocrat elected from amongst the [magi|E] of power in their respective realms." #NT!
- magocratic_republic_adjective: "Magocratic" #NT!
- peasant_republic: "Peasant Republic" #NT!
- peasant_republic_realm: "Peasant Republic" #NT!
- peasant_republic_desc: "$game_concept_peasant_republic_desc$\n\n#F Peasant Republics are loosely democratic 'states' that are entirely under the control of the local peasantry. Peasant Republics often appear in times of unrest but rarely last long due to the threat they pose to modern systems of power." #NT!
- peasant_republic_adjective: "Peasant" #NT!
- republic_playable_government: "Republic" #NT!
- republic_playable_government_adjective: "Republic" #NT!
- republic_playable_government_realm: "Republic" #NT!
- republic_playable_government_desc: "$game_concept_republic_desc$\n\n#F Towns are ruled by the privileged citizens of the burgher class, among whom one is chosen as mayor. While the mayor has significant influence, they depend on popularity to be re-elected.#!" #NT!
- republic_playable_government_vassals_label: "Republic [obligations|E] are the same for all Republican [vassals|E]" #NT!
- republic_playable_government_obligations: "Republic [obligations|E]" #NT!
- landed_order_government: "Landed Holy Order" #NT!
- landed_order_government_realm: "Landed Holy Order" #NT!
- landed_order_government_desc: "This holy order has settled down and taken on a role more reminiscent to an aristocratically governed realm. While holy in name and trapping, and perhaps in some of their governmental functions, the brothers of this chapter largely operate like an elective monarchy." #NT!
- landed_order_government_adjective: "Holy Order" #NT!
- military_unit_government: "Military Unit" #NT!
- military_unit_government_realm: "Military Unit" #NT!
- military_unit_government_desc: "The remains of an [aversarian|E] military force left behind in the fall of the Empire. Whether it is an [aversarian|E] Legion that has carved out its own realm or the remnants of [aversaria_possessive|E] military frontiers, this unit now largely fights for themselves." #NT!
- military_unit_government_adjective: "Military" #NT!
- pirate_government: "Pirate" #NT!
- pirate_government_adjective: "Pirate" #NT!
- pirate_government_realm: "Pirate Realm" #NT!
- pirate_government_desc: "$game_concept_pirate_desc$\n\n#F Pirates very rarely abide by any code apart from one - the strongest and most cunning rule. Any man or woman with a heart of steel and wits to match can climb to the top over a mountain of fallen enemies if they put their mind to it.#!" #NT!
- administrative_bureaucracy_government: "Administrative Bureaucracy" #NT!
- administrative_bureaucracy_government_adjective: "Bureaucratic" #NT!
- administrative_bureaucracy_government_realm: "Administrative Bureacracy" #NT!
- administrative_bureaucracy_government_desc: "The mighty empire of Adabyss is the home of perhaps the most centralized state on [aeras|E], with a strong emperor and priestly class ruling efficiently over a vast realm, using their advanced technology to organize massive construction projects and field gargantuan, standardized armies.\n\n#N Bereucratic realms are currently not playable!#!" #NT!
- migratory_government: "Migratory" #NT!
- migratory_government_adjective: "Migratory" #NT!
- migratory_government_realm: "Migratory" #NT!
- migratory_government_desc: "Migratory realms either have no home or migrate between several. Nomads of [aeras|E] range from desert clans to wandering adventuring companies to [Concept('fogeaters','maddened once-men')|E]. Migratory realms should not be confused with large groups performing [Concept('migrations','great migrations')|E] after the cataclysmic events of [frodbrokna|E].\n\n#N Playable Migratory realms coming soon!#!" #NT!
- wasteland_government: "Wasteland" #NT!
- wasteland_government_realm: "Wasteland" #NT!
- #wasteland_government_desc: "Blasted remains and empty wilderness, this wasteland is untouched by the mark of civilization, whether from terrible danger or a simple lack of exploration." #NT!
- wasteland_government_desc: "$wasteland_faith_desc$" #NT!
- wasteland_government_adjective: "Wasteland" #NT!
- government_can_raid_over_water_rule: "Allows the [raiding|E] of overseas [counties|E] for loot" #NT!
- GAME_OVER_CANNOT_PLAY_WASTELAND: "Cannot play as a Wasteland" #NT!
- NOT_GAME_OVER_CANNOT_PLAY_WASTELAND: "$GAME_OVER_CANNOT_PLAY_WASTELAND$" #NT!
- GAME_OVER_CANNOT_PLAY_ADMINISTRATIVE_BUREAUCRACY: "Cannot play as an Administrative Bureaucracy" #NT!
- NOT_GAME_OVER_CANNOT_PLAY_ADMINISTRATIVE_BUREAUCRACY: "$GAME_OVER_CANNOT_PLAY_ADMINISTRATIVE_BUREAUCRACY$" #NT!
- GAME_OVER_CANNOT_PLAY_MIGRATORY: "Cannot play as a Migratory realm" #NT!
- NOT_GAME_OVER_CANNOT_PLAY_MIGRATORY: "$GAME_OVER_CANNOT_PLAY_MIGRATORY$" #NT!
-  ## Contribs 
- vassal_contribution_group: "Vassal Contributions" #NT!
- vassal_contribution_none: "No Contributions" #NT!
- vassal_contribution_none_short: "No Contributions" #NT!
- vassal_contribution_none_desc: "#emphasis The [vassal|E] does not contribute anything to their [liege|E].#!" #NT!
- vassal_contribution_dread: "Based on Fear" #NT!
- vassal_contribution_dread_short: "Based on Fear" #NT!
- vassal_contribution_dread_desc: "#emphasis The amount of taxes and levies the [vassal|E] is expected to contribute is tied to their [liege|E]'s @dread_icon![dread|E].#!\n\n#flavor Pirate vassals will only be cowed by rulers that strike fear in their hearts.#!" #NT!
- vassal_contribution_prestige: "Based on Fame" #NT!
- vassal_contribution_prestige_short: "Based on Fame" #NT!
- vassal_contribution_prestige_desc: "#emphasis The amount of taxes and levies the [vassal|E] is expected to contribute is tied to their [liege|E]'s @prestige_icon![prestige|E].#!\n\n#flavor Military Units will only bow to rulers that they respect.#!" #NT!
- pirate_government_obligations: "Fearful Obligations" #NT!
- pirate_government_obligations_tt: "[feudal_contract|E] starts with [GetVassalContractType( 'vassal_contribution_group' ).GetObligationName( 'vassal_contribution_dread' )]" #NT!
- military_unit_government_obligations: "Fame Obligations" #NT!
- military_unit_government_obligations_tt: "[feudal_contract|E] starts with [GetVassalContractType( 'vassal_contribution_group' ).GetObligationName( 'vassal_contribution_prestige' )]" #NT!
+
+ magocratic_government:0 "Магократия"
+ magocratic_government_realm:0 "Магократия"
+ magocratic_government_desc:0 "$game_concept_magocracy_desc$\n\n#F Магократия - это земли, управляемые единственным [Concept('magi', 'магом')|Е]. Этот [Concept('magi', 'маг')|Е] правит во многом как феодальный правитель, за исключением того, что государственное устройство таково, что править могут только [Concept('magi', 'маги')|Е]. Это приводит к системе, где любой ребенок, не обладающий магическим даром, автоматически считается лишенным наследства".
+ magocratic_government_adjective:0 "Магократ"
+
+ magocratic_republic:0 "Магократическая Республика"
+ magocratic_republic_realm:0 "Магократическая Республика"
+ magocratic_republic_desc:0 "$game_concept_magocratic_republic_desc$\n\n#F Магократические республики похожи на стандартную магократию, за исключением того факта, что правитель не является династическим автократом, а автократом, избранным из числа [Concept('magi', 'магов')|Е] власти в их соответствующих сферах."
+ magocratic_republic_adjective:0 "Магократ"
+
+ peasant_republic:0 "Крестьянская Республика"
+ peasant_republic_realm:0 "Крестьянская Республика"
+ peasant_republic_desc:0 "$game_concept_peasant_republic_desc$\n\n#F Крестьянские республики - это свободные "государства", которые полностью находятся под контролем местного крестьянства. Крестьянские республики часто возникают во времена волнений, но редко существуют долго на политической карте из-за угрозы, которую они представляют для современных систем власти".
+ peasant_republic_adjective:0 "Крестьянин"
+
+ republic_playable_government:0 "Республика" #NT!
+ republic_playable_government_adjective:0 "Республика" #NT!
+ republic_playable_government_realm:0 "Республика" #NT!
+ republic_playable_government_desc:0 "$game_concept_republic_desc$\n\n#F Городами управляют привилегированные граждане из класса бюргеров, один из которых избирается мэром. Хотя мэр имеет значительное влияние, его переизбрание зависит от популярности.#!" #NT!
+ republic_playable_government_vassals_label:1 "[Concept('obligations', 'Обязательства')|Е] одинаковы для всех республиканских [Concept('vassals', 'вассалов')|Е]" #NT!
+ republic_playable_government_obligations:1 "Республиканские [Concept('obligations', 'обязательства')|Е]" #NT!
+
+ landed_order_government:0 "Приземлился Святой Орден" #NT!
+ landed_order_government_realm:0 "Приземлился Святой Орден" #NT!
+ landed_order_government_desc:1 "Этот священный орден остепенился и взял на себя роль, больше напоминающую аристократически управляемое царство. Братья этого ордена, хотя и святы в названии и ловушке, а возможно, и в некоторых своих правительственных функциях, в значительной степени действуют как выборная монархия." #NT!
+ landed_order_government_adjective:0 "Святой Орден" #NT!
+
+ military_unit_government:0 "Военная часть" #NT!
+ military_unit_government_realm:0 "Военная часть" #NT!
+ military_unit_government_desc:1 "Остатки вооруженных сил [aversarian|E], оставшихся после падения Империи. Будь то Легион [aversarian|E], создавший собственное королевство, или остатки военных границ [aversaria_possessive|E], теперь это подразделение в основном сражается за себя." #NT!
+ military_unit_government_adjective:0 "Военный" #NT!
+
+ pirate_government:0 "Пираты" #NT!
+ pirate_government_adjective:0 "Пиратский" #NT!
+ pirate_government_realm:0 "Государство пиратов" #NT!
+ pirate_government_desc:0 "$game_concept_pirate_desc$\n\n#F Пираты очень редко соблюдают какой-либо кодекс, кроме одного - самого сильного и хитрого правила. Любой мужчина или женщина со стальным сердцем и подходящим умом могут взобраться на вершину горы поверженных врагов, если приложат к этому все усилия.#!" #NT!
+
+ administrative_bureaucracy_government:0 "Административная бюрократия" #NT!
+ administrative_bureaucracy_government_adjective:0 "Бюрократический" #NT!
+ administrative_bureaucracy_government_realm:0 "Административная бюрократия" #NT!
+ administrative_bureaucracy_government_desc:0 "Могущественная империя Адабис является домом, пожалуй, самого централизованного государства на [Concept('aeras', 'Аэрасе')|Е], где сильный император и класс жрецов эффективно управляют огромным королевством, используя свои передовые технологии для организации масштабных строительных проектов и создания гигантских стандартизованных армий.\n\ n#N Бюрократическое правительство в настоящее время недоступно!#!" #NT!
+
+ migratory_government:0 "Кочевники" #NT!
+ migratory_government_adjective:0 "Кочующий" #NT!
+ migratory_government_realm:0 "Кочевники" #NT!
+ migratory_government_desc:0 "Кочующие государства либо не имеют дома, либо мигрируют между несколькими. Кочевники [Concept('aeras', 'Аэраса')|Е] варьируются от пустынных кланов до странствующих искателей приключений и [Concept('fogeaters','maddened once-men')|E]. Страны кочевников не следует путать с большими группами, выполняющими [Concept('migrations','great migrations')|E] после катастрофических событий [Concept('frodbrokna', 'Фродброкны')|Е].\n\n#N Правительства кочевников скоро будут доступны#!" #NT!
+
+ wasteland_government:0 "Пустошь" #NT!
+ wasteland_government_realm:0 "Пустошь" #NT!
+ #wasteland_government_desc:0 "Разрушенные останки и пустая дикая местность, эта пустошь не тронута цивилизацией, будь то из-за ужасной опасности или просто из-за отсутствия исследований." #NT!
+ wasteland_government_desc:0 "$wasteland_faith_desc$" #NT!
+ wasteland_government_adjective:0 "Пустошь" #NT!
+
+ government_can_raid_over_water_rule:0 "Разрешить [Concept('raiding', 'налёты')|Е] за границей [Concept('counties', 'графств')|Е] для добычи" #NT!
+
+ GAME_OVER_CANNOT_PLAY_WASTELAND:0 "Нельзя играть за пустошь" #NT!
+ NOT_GAME_OVER_CANNOT_PLAY_WASTELAND:0 "$GAME_OVER_CANNOT_PLAY_WASTELAND$" #NT!
+ GAME_OVER_CANNOT_PLAY_ADMINISTRATIVE_BUREAUCRACY:0 "Нельзя играть за административную бюрократию" #NT!
+ NOT_GAME_OVER_CANNOT_PLAY_ADMINISTRATIVE_BUREAUCRACY:0 "$GAME_OVER_CANNOT_PLAY_ADMINISTRATIVE_BUREAUCRACY$" #NT!
+ GAME_OVER_CANNOT_PLAY_MIGRATORY:0 "Невозможно играть за кочевников." #NT!
+ NOT_GAME_OVER_CANNOT_PLAY_MIGRATORY:0 "$GAME_OVER_CANNOT_PLAY_MIGRATORY$" #NT!
+
+ ## Contribs
+ vassal_contribution_group:0 "Пожертвования вассалов" #NT!
+ vassal_contribution_none:0 "Нет взносов" #NT!
+ vassal_contribution_none_short:0 "Нет взносов" #NT!
+ vassal_contribution_none_desc:0 "#emphasis [Concept('vassal', 'Вассал')|Е] ничего не платит своему [Concept('liege', 'сюзерену')|Е].#!" #NT!
+ vassal_contribution_dread:0 "Основанный на страхе" #NT!
+ vassal_contribution_dread_short:0 "Основанный на страхе" #NT!
+ vassal_contribution_dread_desc:0 "#emphasis Сумма налогов и сборов, которые [Concept('vassal', 'вассал')|Е], как ожидается, будет вносить, привязана к @dread_icon [Concept('dread', 'ужасу')|Е] их [Concept('liege', 'сюзерена')|Е]!.#!\n\n#flavor Пиратские вассалы будут запуганы только правителями, которые вселяют страх в их сердца.#!" #NT!
+ vassal_contribution_prestige:0 "На основе славы" #NT!
+ vassal_contribution_prestige_short:0 "На основе славы" #NT!
+ vassal_contribution_prestige_desc:0 "#emphasis Сумма налогов и сборов, которые [Concept('vassal', 'вассал')|Е], как ожидается, будет вносить, привязана к @prestige_icon их [Concept('prestige', 'престижу')|Е] их [Concept('liege', 'сюзерена')|Е]!.#!\n\n#flavor Военные части склоняются только перед правителями, которых они уважают.#!" #NT!
+
+ pirate_government_obligations:0 "Страшные обязательства" #NT!
+ pirate_government_obligations_tt:0 "[Concept('feudal_contract', 'Контракт')|Е] начинается с [GetVassalContractType( 'vassal_contribution_group' ).GetObligationName( 'vassal_contribution_dread' )]" #NT!
+ military_unit_government_obligations:0 "Обязательства славы" #NT!
+ military_unit_government_obligations_tt:0  "[Concept('feudal_contract', 'Контракт')|Е] начинается с [GetVassalContractType( 'vassal_contribution_group' ).GetObligationName( 'vassal_contribution_prestige' )]" #NT!
+

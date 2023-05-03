@@ -1,41 +1,47 @@
 ﻿l_russian:
-  ################# 
-  # HOLDING TYPES # 
-  
- military_district_holding: "Military District" #NT!
- palatial_district_holding: "Palatial District" #NT!
- maritime_district_holding: "Maritime District" #NT!
- academic_district_holding: "Academic District" #NT!
- trade_district_holding: "Trade District" #NT!
- temple_district_holding: "Temple District" #NT!
- urban_district_holding: "Urban District" #NT!
- workshop_district_holding: "Workshop District" #NT!
- ruined_district_holding: "Ruined District" #NT!
- ruined_military_district_holding: "Ruined Military District" #NT!
- ruined_palatial_district_holding: "Ruined Palatial District" #NT!
- ruined_maritime_district_holding: "Ruined Maritime District" #NT!
- ruined_academic_district_holding: "Academic District" #NT!
- ruined_trade_district_holding: "Ruined Trade District" #NT!
- ruined_temple_district_holding: "Ruined Temple District" #NT!
- ruined_urban_district_holding: "Ruined Urban District" #NT!
- ruined_workshop_district_holding: "Ruined Workshop District" #NT!
- wasteland_empty_holding: "Wasteland" #NT!
- wasteland_empty_holding_concept_key: "Wasteland" #NT!
-  ################ 
-  # CONCEPT KEYS # 
- military_district_holding_concept_key: "[military_district|E]" #NT!
- palatial_district_holding_concept_key: "[palatial_district|E]" #NT!
- maritime_district_holding_concept_key: "[maritime_district|E]" #NT!
- academic_district_holding_concept_key: "[academic_district|E]" #NT!
- trade_district_holding_concept_key: "[trade_district|E]" #NT!
- temple_district_holding_concept_key: "[temple_district|E]" #NT!
- urban_district_holding_concept_key: "[urban_district|E]" #NT!
- workshop_district_holding_concept_key: "[workshop_district|E]" #NT!
- ruined_district_holding_concept_key: "[ruined_district|E]" #NT!
- ruined_military_district_holding_concept_key: "[ruined_military_district|E]" #NT!
- ruined_palatial_district_holding_concept_key: "[ruined_palatial_district|E]" #NT!
- ruined_maritime_district_holding_concept_key: "[ruined_maritime_district|E]" #NT!
- ruined_trade_district_holding_concept_key: "[ruined_trade_district|E]" #NT!
- ruined_temple_district_holding_concept_key: "[ruined_temple_district|E]" #NT!
- ruined_urban_district_holding_concept_key: "[ruined_urban_district|E]" #NT!
- ruined_workshop_district_holding_concept_key: "[ruined_workshop_district|E]" #NT!
+ #################
+ # HOLDING TYPES #
+ #################
+
+ military_district_holding:0 "Военный округ"
+ palatial_district_holding:0 "Дворец"
+ maritime_district_holding:0 "Приморский округ"
+ academic_district_holding:0 "Учебный район"
+ trade_district_holding:0 "Торговый район"
+ temple_district_holding:0 "Храмовый район"
+ urban_district_holding:0 "Городской округ"
+ workshop_district_holding:0 "Район мастерских"
+ ruined_district_holding:0 "Разрушенный район"
+
+ ruined_military_district_holding:0 "Разрушенный военный округ"
+ ruined_palatial_district_holding:0 "Разрушенный дворец"
+ ruined_maritime_district_holding:0 "Разрушенный приморский округ"
+ ruined_academic_district_holding:0 "Учебный район"
+ ruined_trade_district_holding:0 "Разрушенный торговый район"
+ ruined_temple_district_holding:0 "Разрушенный храмовый район"
+ ruined_urban_district_holding:0 "Разрушенный городской округ"
+ ruined_workshop_district_holding:0 "Район разрушенных мастерских"
+
+ wasteland_empty_holding:0 "Пустошь" #NT!
+ wasteland_empty_holding_concept_key:0 "Пустошь" #NT!
+
+ ################
+ # CONCEPT KEYS #
+ ################
+ military_district_holding_concept_key:0 "[Concept('military_district','военный округ')|E]"
+ palatial_district_holding_concept_key:0 "[Concept('palatial_district','дворец')|E]"
+ maritime_district_holding_concept_key:0 "[Concept('maritime_district','приморский округ')|E]"
+ academic_district_holding_concept_key:0 "[Concept('academic_district','учебный район')|E]"
+ trade_district_holding_concept_key:0 "[Concept('trade_district','торговый район')|E]"
+ temple_district_holding_concept_key:0 "[Concept('temple_district','церковый округ')|E]"
+ urban_district_holding_concept_key:0 "[Concept('urban_district','городской округ')|E]"
+ workshop_district_holding_concept_key:0 "[Concept('workshop_district','район мастерских')|E]"
+ ruined_district_holding_concept_key:0 "[Concept('ruined_district','разрушенный округ')|E]"
+
+ ruined_military_district_holding_concept_key:0 "[Concept('ruined_military_district','разрушенный военный округ')|E]"
+ ruined_palatial_district_holding_concept_key:0 "[Concept('ruined_palatial_district','разрушенный дворец')|E]"
+ ruined_maritime_district_holding_concept_key:0 "[Concept('ruined_maritime_district','разрушенный приморский округ')|E]"
+ ruined_trade_district_holding_concept_key:0 "[Concept('ruined_trade_district','разрушенный торговый район')|E]"
+ ruined_temple_district_holding_concept_key:0 "[Concept('ruined_temple_district','разрушенный церковный округ')|E]"
+ ruined_urban_district_holding_concept_key:0 "[Concept('ruined_urban_district','разрушенный городской округ')|E]"
+ ruined_workshop_district_holding_concept_key:0 "[Concept('ruined_workshop_district','разрушенный район мастерских')|E]"
