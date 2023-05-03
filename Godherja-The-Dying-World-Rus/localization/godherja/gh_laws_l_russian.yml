@@ -1,5 +1,5 @@
 ﻿l_russian:
-
+ 
  pirate_authority:0 "#E Cohesion#!"
  pirate_authority_0:0 "Беззаконная коммуна"
  pirate_authority_0_effects_not_in_prev:1 "$EFFECT_LIST_BULLET$Правители могут перемещаться в новые регионы\n$EFFECT_LIST_BULLET$Правители могут назначать [Concept('heir','наследников')|E]\n$EFFECT_LIST_BULLET$[Concept('vassals','Вассалы')|E] и [Concept('courtiers','придворные')|E] могут бросить вызов лидерству\n$EFFECT_LIST_BULLET$[Concept('realm','Государство')|E] может развалиться #N break apart#! при ('succession','наследовании')|E]"
