@@ -1,37 +1,47 @@
 ﻿l_russian:
-   # No tooltip versions 
- knight_aversarian_no_tooltip: "Hēprasitos" #NT!
- knight_aversarian_no_tooltip_plural: "Hēprasitoí" #NT!
-  
- knight_marcher_no_tooltip: "Chevalier" #NT!
- knight_marcher_no_tooltip_plural: "Chevaliers" #NT!
- knight_mubaaizun_no_tooltip: "Mubaaizun" #NT!
- knight_mubaaizun_no_tooltip_plural: "Mubaaizun" #NT!
- knight_sjalvolki_no_tooltip: "Huscarl" #NT!
- knight_sjalvolki_no_tooltip_plural: "Huscarls" #NT!
-   # Lowercase versions 
- knight_aversarian_no_tooltip_lowercase: "hēprasitos" #NT!
- knight_aversarian_no_tooltip_lowercase_plural: "hēprasitoí" #NT!
- knight_aversarian_no_tooltip_lowercase_plural_possessive: "hēprasiton" #NT!
- knight_aversarian_no_tooltip_lowercase_adjective: "hēprasitikós" #NT!
- knight_marcher_no_tooltip_lowercase: "chevalier" #NT!
- knight_marcher_no_tooltip_lowercase_plural: "chevaliers" #NT!
- knight_marcher_no_tooltip_lowercase_plural_possessive: "chevalier's" #NT!
- knight_marcher_no_tooltip_lowercase_adjective: "chevaleresque" #NT!
- knight_mubaaizun_no_tooltip_lowercase: "mubaaizun" #NT!
- knight_mubaaizun_no_tooltip_lowercase_plural: "mubaaizun" #NT!
- knight_mubaaizun_no_tooltip_lowercase_plural_possessive: "mubaaizun'" #NT!
- knight_mubaaizun_no_tooltip_lowercase_adjective: "mubaaizun" #NT!
- knight_sjalvolki_no_tooltip_lowercase: "huscarl" #NT!
- knight_sjalvolki_no_tooltip_lowercase_plural: "huscarls" #NT!
- knight_sjalvolki_no_tooltip_lowercase_plural_possessive: "huscarl's" #NT!
- knight_sjalvolki_no_tooltip_lowercase_adjective: "huscarlish" #NT!
-   #Game Concept versions 
- knight_aversarian: "[Concept( 'knight', '$knight_aversarian_no_tooltip$' )|E]" #NT!
- knight_aversarian_plural: "[Concept( 'knight', '$knight_aversarian_no_tooltip_plural$' )|E]" #NT!
- knight_marcher: "[Concept( 'knight', '$knight_marcher_no_tooltip$' )|E]" #NT!
- knight_marcher_plural: "[Concept( 'knight', '$knight_marcher_no_tooltip_plural$' )|E]" #NT!
- knight_mubaaizun: "[Concept( 'knight', '$knight_mubaaizun_no_tooltip$' )|E]" #NT!
- knight_mubaaizun_plural: "[Concept( 'knight', '$knight_mubaaizun_no_tooltip_plural$' )|E]" #NT!
- knight_sjalvolki: "[Concept( 'knight', '$knight_sjalvolki_no_tooltip$' )|E]" #NT!
- knight_sjalvolki_plural: "[Concept( 'knight', '$knight_sjalvolki_no_tooltip_plural$' )|E]" #NT!
+  # No tooltip versions 
+ knight_aversarian_no_tooltip:0 "Гепразитос" #NT! 
+ knight_aversarian_no_tooltip_plural:0 "Гепраситои" #NT!
+
+ knight_marcher_no_tooltip:0 "Шевалье" #NT! 
+ knight_marcher_no_tooltip_plural:0 "Шевалье" #NT!
+
+ knight_mubaaizun_no_tooltip:0 "Mubaaizun" #NT!
+ knight_mubaaizun_no_tooltip_plural:0 "Мубаризуны" #NT!
+
+ knight_sjalvolki_no_tooltip:0 "Хускарл" #NT!
+ knight_sjalvolki_no_tooltip_plural:0 "Хускарлы" #NT!
+
+  # Lowercase versions
+ knight_aversarian_no_tooltip_lowercase:0 "гепразитос" #NT!
+ knight_aversarian_no_tooltip_lowercase_plural:0 "гепраситои" #NT!
+ knight_aversarian_no_tooltip_lowercase_plural_possessive:0 "гепраситон" #NT!
+ knight_aversarian_no_tooltip_lowercase_adjective:0 "гепраситикос" #NT!
+
+ knight_marcher_no_tooltip_lowercase:0 "шевалье" #NT!
+ knight_marcher_no_tooltip_lowercase_plural:0 "шевалье" #NT!
+ knight_marcher_no_tooltip_lowercase_plural_possessive:0 "Шевалье" #NT!
+ knight_marcher_no_tooltip_lowercase_adjective:0 "шевальеск" #NT!
+
+ knight_mubaaizun_no_tooltip_lowercase:0 "мубаризуны" #NT!
+ knight_mubaaizun_no_tooltip_lowercase_plural:0 "мубаризун" #NT!
+ knight_mubaaizun_no_tooltip_lowercase_plural_possessive:0 "мубаризун'" #NT!
+ knight_mubaaizun_no_tooltip_lowercase_adjective:0 "мубаризунский" #NT!
+
+ knight_sjalvolki_no_tooltip_lowercase:0 "хускарл" #NT!
+ knight_sjalvolki_no_tooltip_lowercase_plural:0 "хускарлы" #NT!
+ knight_sjalvolki_no_tooltip_lowercase_plural_possessive:0 "хускарла" #NT!
+ knight_sjalvolki_no_tooltip_lowercase_adjective:0 "хускарлский" #NT!
+
+  #Game Concept versions
+ knight_aversarian:0 "[Concept( 'knight', '$knight_aversarian_no_tooltip$' )|E]" #NT!
+ knight_aversarian_plural:0 "[Concept( 'knight', '$knight_aversarian_no_tooltip_plural$' )|E]" #NT!
+
+ knight_marcher:0 "[Concept( 'knight', '$knight_marcher_no_tooltip$' )|E]" #NT!
+ knight_marcher_plural:0 "[Concept( 'knight', '$knight_marcher_no_tooltip_plural$' )|E]" #NT!
+
+ knight_mubaaizun:0 "[Concept( 'knight', '$knight_mubaaizun_no_tooltip$' )|E]" #NT!
+ knight_mubaaizun_plural:0 "[Concept( 'knight', '$knight_mubaaizun_no_tooltip_plural$' )|E]" #NT!
+
+ knight_sjalvolki:0 "[Concept( 'knight', '$knight_sjalvolki_no_tooltip$' )|E]" #NT!
+ knight_sjalvolki_plural:0 "[Concept( 'knight', '$knight_sjalvolki_no_tooltip_plural$' )|E]" #NT!
