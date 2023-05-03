@@ -1,10 +1,10 @@
 ﻿l_russian:
- iyrossi_reform_religion_decision: "Return to Tradition!" #NT!
- iyrossi_reform_religion_decision_desc: "For too long we have lived under an [aversarian|E] boot. Ever since the surrender of Pothacleas we have lived as slaves, and we have acted as only the model example of an [aversarian|E] whore. To every whim and insult we bowed and followed.\n\nNo longer! It is time to compile what remains of our traditions, and return to the ancient beliefs of our people! The Iyrossi shall never be slaves again!" #NT!
- iyrossi_reform_religion_decision_tooltip: "You will return to the ancient religion of the Iyrossi, and all Iyrossi Aagiokratan provinces and characters will convert." #NT!
- iyrossi_reform_religion_decision_confirm: "Return to our roots!" #NT!
- reform_iyrossi_homelands_decision: "Reform Mytidon!" #NT!
- reform_iyrossi_homelands_decision_desc: "Ever since the surrender of Pothacleas we have had our homelands forced underneath the boot of [aversarian|E] dogs. With the reclaimation of our old homelands, Old Mytidon may once again rise, this time, her people will never endure slavery again!" #NT!
- reform_iyrossi_homelands_decision_tooltip: "Forever ensure our people will never be slaves again! You will return the homelands to their rightful rulers and they will all be considered Dejure apart of Mytidon!" #NT!
- reform_iyrossi_homelands_decision_confirm: "Old Mytidon is born anew!" #NT!
-  
+ iyrossi_reform_religion_decision:0 "Возвращение к традиции!"
+ iyrossi_reform_religion_decision_desc:0 "Слишком долго мы жили под [Concept('aversarian', 'аверсарианским')|E] сапогом. С тех пор как сдался Потаклеас, мы жили как рабы, и мы действовали только как образцовый пример [Concept('aversarian', 'аверсарианской')|E] шлюхи. На каждую прихоть и оскорбление мы кланялись и следовали за ними.\n\nБольше такому не бывать! Пришло время собрать воедино то, что осталось от наших традиций, и вернуться к древним верованиям нашего народа! Айросси никогда больше не будут рабами!"
+ iyrossi_reform_religion_decision_tooltip:0 "Вы вернетесь к древней религии айросси, и все айроссийский агиократские провинции и персонажи обратятся с вами."
+ iyrossi_reform_religion_decision_confirm:0 "Вернуться к нашим корням!"
+ reform_iyrossi_homelands_decision:0 "Реформировать Митидон!"
+ reform_iyrossi_homelands_decision_desc:0 "С тех пор как сдался Потаклеас, наши родные земли оказались под сапогом [Concept('aversarian', 'аверсарианских')|E] собак. С возвращением нашей старой родины Старая Митидон может снова восстать, на этот раз ее народ больше никогда не будет рабами!"
+ reform_iyrossi_homelands_decision_tooltip:0 "Навсегда сделайте так, что наши люди никогда больше не будут рабами! Вы вернете родные земли их законным правителям, и все они будут считаться де-юре частью Митидона!"
+ reform_iyrossi_homelands_decision_confirm:0 "Старая Митидон возрождается!"
+
