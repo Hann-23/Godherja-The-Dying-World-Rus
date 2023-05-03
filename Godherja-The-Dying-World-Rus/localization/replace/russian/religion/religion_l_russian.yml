@@ -1,0 +1,3 @@
+﻿l_russian:
+ doctrine_clerical_function_taxation_desc: "The [ROOT.Faith.AltPriestTermPlural] derives its authority from [ROOT.Faith.HighGodName] [ROOT.Faith.HighGodHerselfHimself], and that still applies here on [aeras|E]." #NT!
+ faith_conversion_cost_feudal_converting_to_unreformed: "Aristocratic Ruler converting to unreformed Faith" #NT!

@@ -1,0 +1,153 @@
+﻿l_russian:
+ world_central_sarradon: "Central [sarradon|E]" #NT!
+ world_cs_udhaliyya: "Udhaliyya" #NT!
+ world_cs_usfeh: "Usfeh" #NT!
+ world_eastern_sarradon: "Eastern [sarradon|E]" #NT!
+ world_es_adabyss: "Adabyss" #NT!
+ world_es_damota: "Damota" #NT!
+ world_es_desert: "Great Desert" #NT!
+ world_es_eastern_coast: "Eastern Coast" #NT!
+ world_es_forgotten_isle: "Forgotten Isle" #NT!
+ world_es_hajjan_mountains: "Hajjan Mountains" #NT!
+ world_ga_aironoi: "Aironoi" #NT!
+ world_ga_aironoi_formable: "Aironoi" #NT!
+ world_ga_aversarian_homelands: "[aversarian|E] Homelands" #NT!
+ world_ga_aversarian_isles: "[aversarian|E] [Concept('shatteredisles','Isles')|E]" #NT!
+ world_ga_central_aversaria: "Greater [aversaria|E]" #NT!
+ world_ga_clanlands: "Clanlands" #NT!
+ world_ga_eastern_clanlands: "Eastern Clanlands" #NT!
+ world_ga_eastern_marcher_kingdoms: "Eastern Marches" #NT!
+ world_ga_etepezea_formable: "Etepezea" #NT!
+ world_ga_foglands: "[foglands|E]" #NT!
+ world_ga_gurdurbok_formable: "Gurdurbok" #NT!
+ world_ga_imperial_isle: "Imperial Isle" #NT!
+ world_ga_kashirya: "[kashirya|E]" #NT!
+ world_ga_lichdoms: "[lichdoms|E]" #NT!
+ world_ga_malcois_formable: "Malcois" #NT!
+ world_ga_marcher_kingdoms: "[chevalie|E]" #NT!
+ world_ga_mayikprolollan: "[mayikprolollan|E]" #NT!
+ world_ga_megos_kalathipsomi_formable: "Megos Kalathipsomi" #NT!
+ world_ga_mikros_kalathipsomi_formable: "Mikros Kalathipsomi" #NT!
+ world_ga_mountainheights: "Black Mountains" #NT!
+ world_ga_northeast_opakhasia: "Northwestern Opakhasia" #NT!
+ world_ga_northern_aversaria: "Northern [aversaria|E]" #NT!
+ world_ga_opakhasia_formable: "Opakhasia" #NT!
+ world_ga_pirate_coast: "[pirate_coast|E]" #NT!
+ world_ga_sarradon_horn: "Horn of [sarradon|E]" #NT!
+ world_ga_western_aversaria: "Western [aversaria|E]" #NT!
+ world_ga_western_clanlands: "Western Clanlands" #NT!
+ world_ga_western_marcher_kingdoms: "Western Marches" #NT!
+ world_greater_aversaria: "[greater_aversaria|E]" #NT!
+ world_sarradon: "[sarradon|E]" #NT!
+ world_western_sarradon: "Western [sarradon|E]" #NT!
+ world_ws_amsari: "Amsari" #NT!
+ world_ws_ayyar: "Ayyar" #NT!
+ world_ws_kamsaria: "Kamsaria" #NT!
+ the_western_isles: "Western [Concept('shatteredisles','Isles')|E]" #NT!
+ world_es_ayule_decision: "Ayule" #NT!
+ world_ga_black_pass: "Black Passes" #NT!
+ world_ga_east_shattered_coast: "Eastern Shattered Coast" #NT!
+ world_ga_eastern_marcher_kingdoms_konijkmener: "Konijkmener Swamps" #NT!
+ world_ga_isles: "[Concept('shatteredisles','Isles')|E]" #NT!
+ world_ga_mayikprolollan_mayikprolollan_depths: "[mayikrata|E] Depths" #NT!
+ world_ga_mayikprolollan_mayikprolollan_surface: "[mayikrata|E] Surface" #NT!
+ world_ga_northern_opakhasia_formable: "Northern Opakhasia" #NT!
+ world_ga_red_wastes_opakhasia_formable: "Red Wastes" #NT!
+ world_ga_southern_opakhasia_formable: "Southern Opakhasia" #NT!
+ world_ga_stellios_formable: "Stellios" #NT!
+ world_ga_western_opakhasia_formable: "Western Opakhasia" #NT!
+ world_ga_whisperveil: "Whisperveil" #NT!
+ world_kashirya: "[kashirya|E]" #NT!
+  
+ # Biozones 
+ #arcadia_biozone: 
+ #emporikon_biozone: 
+ #malcois_coast_biozone: 
+ #north_amsar_biozone: 
+ aekershaan_biozone: "Aekershaan Crater" #NT!
+ aironoian_southeast_biozone: "Aironoian Southeast" #NT!
+ fools_coast_biozone: "Fool's Coast" #NT!
+ alghazir_biozone: "Al Ghazir" #NT!
+ amaghea_mountains_biozone: "Amaghean Mountains" #NT!
+ amsar_biozone: "Amsar" #NT!
+ ayyar_coast_biozone: "Ayyar Coast" #NT!
+ black_mountains_biozone: "Black Mountains" #NT!
+ boneyard_biozone: "Boneyard" #NT!
+ brass_sea_coasts_biozone: "Brass Sea Coasts" #NT!
+ central_isles_biozone: "Central Isles" #NT!
+ chevalie_biozone: "Chevalie" #NT!
+ continental_interior_biozone: "Continental Interior" #NT!
+ crater_biozone: "Kratemezin" #NT!
+ cyrat_biozone: "Cyrat" #NT!
+ damota_biozone: "Damota" #NT!
+ darmirat_plain_biozone: "Darmirat Plain" #NT!
+ eripomvuno_biozone: "Eripomvuno" #NT!
+ etepezea_biozone: "Etepezea" #NT!
+ foglands_biozone: "Foglands" #NT!
+ great_steppe_biozone: "Oltenic Steppe" #NT!
+ guillate_rocks_biozone: "Rocks of Guillate" #NT!
+ hyratan_biozone: "Hyratan" #NT!
+ hyrea_biozone: "Hyrean Divide" #NT!
+ imperial_isle_biozone: "Imperial Isles" #NT!
+ kafasali_biozone: "Kafasali Hills" #NT!
+ kalath_old_growth_biozone: "The Heartwood" #NT!
+ kalath_redwoods_biozone: "The Redwoods" #NT!
+ kalathipsomi_biozone: "Kalathipsomi" #NT!
+ kashti_flats_biozone: "Kashti Flats" #NT!
+ kasiryat_biozone: "Kasiryat River" #NT!
+ katuppilan_biozone: "Katuppilan" #NT!
+ kemsar_biozone: "Kemsar" #NT!
+ kharadamat_biozone: "Kharadamat" #NT!
+ khenemhat_biozone: "Khenemhat" #NT!
+ knokidbes_biozone: "Knokidbes Valley" #NT!
+ konijkmener_biozone: "Konijkmener Peninsula" #NT!
+ krehejad_biozone: "Krehejad" #NT!
+ krejehad_biozone: "Krehejad" #NT!
+ lichdoms_biozone: "Lichdoms" #NT!
+ magiyor_biozone: "Magiyor Plateau" #NT!
+ malcois_biozone: "Malcois" #NT!
+ mayikprolollan_biozone: "Mayikrata" #NT!
+ migraddar_biozone: "Lieben Highlands" #NT!
+ nightcoast_biozone: "Night Coast" #NT!
+ north_kharadan_biozone: "Northern Kharadan Mountains" #NT!
+ northern_opakhasia_biozone: "Northern Opakhasia" #NT!
+ opakhasia_biozone: "Opakhasia" #NT!
+ pathos_delta_biozone: "Pathos Delta" #NT!
+ red_waste_biozone: "Red Waste" #NT!
+ redlands_biozone: "Redlands" #NT!
+ rojihlat_biozone: "Rojihlat Mangroves" #NT!
+ rovarska_biozone: "Rovarska" #NT!
+ sarradonian_desert_biozone: "Sarradonian Desert" #NT!
+ sarradonian_mountains_biozone: "Sarradonian Mountains" #NT!
+ sinhamiyah_biozone: "Sinhamiyah" #NT!
+ sirwali_biozone: "Sirwali Coast" #NT!
+ southern_kalath_biozone: "Dreaming Hills" #NT!
+ sulzegg_basin_biozone: "Sulzegg Basin" #NT!
+ the_isles_biozone: "Western Isles" #NT!
+ tower_isles_biozone: "Tower Isles" #NT!
+ vichacil_biozone: "Vichacil Forests" #NT!
+ vyshtanka_biozone: "Vyshtanka" #NT!
+ western_aironoi_biozone: "Western Aironoi" #NT!
+ western_opakhasia_biozone: "Western Opakhasia" #NT!
+ whisperveil_biozone: "Whisperveil" #NT!
+ # Confluences 
+ trade_confluence_ageotaros: "Ageotaros" #NT!
+ trade_confluence_bay_of_swords: "The Bay of Swords" #NT!
+ trade_confluence_evimos_strait: "The Evimos Strait" #NT!
+ trade_confluence_helvian_delta: "The Hevlian Delta" #NT!
+ trade_confluence_imperial_strait: "The Imperial Strait" #NT!
+ trade_confluence_korvion_strait: "korvion Strait" #NT!
+ trade_confluence_kratemezin_rim: "Kratemezin Rim" #NT!
+ trade_confluence_krehejad: "Krehejad" #NT!
+ trade_confluence_mouth_of_tarsuria: "The Mouth of Tarsuria" #NT!
+ trade_confluence_pathos_tower: "Pathos Crossing" #NT!
+ trade_confluence_teltheans_strait: "Telthean's Strait" #NT!
+ trade_confluence_the_pirate_coast: "The Pirate Coast" #NT!
+ trade_confluence_the_watched_channel: "The Watched Channel" #NT!
+ trade_confluence_varhara_channel: "The Varhara Channel" #NT!
+ trade_confluence_volos_pathway: "Volo's Pathway" #NT!
+ # Misc 
+ struggle_rite_wars: "Sjalvolki Coast" #NT!
+ struggle_rite_wars_north: "Northern Sjalvolki Coast" #NT!
+ struggle_rite_wars_south: "Southern Sjalvolki Coast" #NT!
+ seventy_seven_cities: "Seventy Seven Cities of the Greater World" #NT!

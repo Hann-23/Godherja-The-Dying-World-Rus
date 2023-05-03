@@ -1,0 +1,70 @@
+﻿l_russian:
+  
+ kemsar_religion: "Kemsar" #NT!
+ kemsar_religion_adj: "Kemsari" #NT!
+ kemsar_religion_adherent: "Kemsari" #NT!
+ kemsar_religion_adherent_plural: "Kemsari" #NT!
+ kemsar_religion_desc: "For centuries, the Kemsari worldview centered around two primordial sibling-deities. The first was Iah, [aervalr|E], bringer of light at night and vanquisher of darkness when the Sun needed to rest. The second was Iteru, the great River, giver of food and transporter of men all throughout the land. If the people were moral and kept these spirits placated, then they would continue to prosper for eternity. But without explanation, Iteru dried up and Iah shattered into a multitude of pieces. The Kemsari people panicked and wondered if they had done something wrong. But questions of morality fell to the wayside, as their lives became consumed with the struggle for survival." #NT!
+ kemsar_high_god_name: "Inpiah" #NT!
+ kemsar_high_god_name_possessive: "Inpiah's" #NT!
+ kemsar_high_god_name_alternate: "the Dead Moon" #NT!
+ kemsar_high_god_name_alternate_possessive: "Its" #NT!
+ kemsar_devil_name: "Aphoph" #NT!
+ kemsar_devil_name_possessive: "Aphoph" #NT!
+ kemsar_death_deity_name: "Anoup" #NT!
+ kemsar_death_deity_name_possessive: "Anoup" #NT!
+ kemsar_house_of_worship: "Temple" #NT!
+ kemsar_house_of_worship_plural: "Temples" #NT!
+ kemsar_religious_symbol: "sign of Inpiah" #NT!
+ kemsar_religious_text: "scriptures" #NT!
+ kemsar_religious_head_title: "Hemnet-Jertepi'mau" #NT!
+ kemsar_religious_head_title_name: "Hemnet-Jertepi'mau" #NT!
+ kemsar_devotee_male: "Wabhet" #NT!
+ kemsar_devotee_male_plural: "Wabhet" #NT!
+ kemsar_devotee_female: "Wabhmet" #NT!
+ kemsar_devotee_female_plural: "Wabhmet" #NT!
+ kemsar_devotee_neuter: "Wab" #NT!
+ kemsar_devotee_neuter_plural: "Wab" #NT!
+ kemsar_priest_male: "Hemnet-jer" #NT!
+ kemsar_priest_male_plural: "Hemnet-jere" #NT!
+ kemsar_priest_female: "Hemetnet-jer" #NT!
+ kemsar_priest_female_plural: "Hemetnet-jere" #NT!
+ kemsar_priest_alternate: "Hemetnet" #NT!
+ kemsar_priest_alternate_plural: "Hemetnet" #NT!
+ kemsar_bishop: "Herme-heb" #NT!
+ kemsar_bishop_plural: "Herm-hebe" #NT!
+ kemsar_positive_afterlife: "Tuanket" #NT!
+ kemsar_negative_afterlife: "Tuanket'mwut" #NT!
+ kemsar_creator_god_name: "$kemsar_high_god_name$" #NT!
+ kemsar_creator_god_name_possessive: "$kemsar_high_god_name_possessive$" #NT!
+ kemsar_health_god_name: "Haethi" #NT!
+ kemsar_health_god_name_possessive: "Haethi's" #NT!
+ kemsar_fertility_god_name: "Asthe" #NT!
+ kemsar_fertility_god_name_possessive: "Asthe's" #NT!
+ kemsar_wealth_god_name: "Hesat-Sekhan" #NT!
+ kemsar_wealth_god_name_possessive: "Hesat-Sekhan's" #NT!
+ kemsar_household_god_name: "Ishan" #NT!
+ kemsar_household_god_name_possessive: "Ishan's" #NT!
+ kemsar_fate_god_name: "$kemsar_high_god_name$" #NT!
+ kemsar_fate_god_name_possessive: "$kemsar_high_god_name_possessive$" #NT!
+ kemsar_knowledge_god_name: "Mysias" #NT!
+ kemsar_knowledge_god_name_possessive: "Mysias'" #NT!
+ kemsar_war_god_name: "Kaukun" #NT!
+ kemsar_war_god_name_possessive: "Kaukun's" #NT!
+ kemsar_trickster_god_name: "Hekama" #NT!
+ kemsar_trickster_god_name_possessive: "Hekama's" #NT!
+ kemsar_night_god_name: "Inpiah" #NT!
+ kemsar_night_god_name_possessive: "Inpiah" #NT!
+ kemsar_water_god_name: "Iteru" #NT!
+ kemsar_water_god_name_possessive: "Iteru's" #NT!
+ kemsar_witch_god_name: "Ioa" #NT!
+ kemsar_witch_god_name_possessive: "Ioa's" #NT!
+ kemsar: "Kemsar" #NT!
+ kemsar_adj: "Kemsari" #NT!
+ kemsar_adherent: "Kemsari" #NT!
+ kemsar_adherent_plural: "Kemsari" #NT!
+ kemsar_desc: "The native faith of the Kemsari people, the Kemsar religion is naturalistic and focused on worship of the light-giving moon Iah and the life-giving river Iteru. However, the drying up of Iteru and the shattering of Iah during the [frodbrokna|E] brought with it both religious and social upheaval, and the lands were plunged into chaos. Attempts to resolve this confusing world led to a new, more cynical faith. Iah is now Inpiah, the Dead Moon. The Kemsari no longer pray for Its protection, but that its decaying corpse does not land on them and destroy what little world they have left." #NT!
+ kemsar_old: "Old Kemsar" #NT!
+ kemsar_old_adj: "Old Kemsari" #NT!
+ kemsar_old_adherent: "Old Kemsari" #NT!
+ kemsar_old_adherent_plural: "Old Kemsari" #NT!

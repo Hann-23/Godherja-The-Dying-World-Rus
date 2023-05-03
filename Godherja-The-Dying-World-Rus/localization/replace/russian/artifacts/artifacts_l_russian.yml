@@ -1,0 +1,10 @@
+﻿l_russian:
+ metal_damascus_steel: "Kafasali steel" #NT!
+ feature_blade_damascus_steel: "Kafasali steel" #NT!
+ ## fund_inspiration.6001-6006 trinkets from your adventurer 
+ morin_khuur_ornament_name: "Morin Khuur Mask Ornament" #NT!
+ morin_khuur_ornament_description: "An ornate masked figure carved from horse bone, usually a decoration at the top of a Morin Khuur fiddle. Sent to [owner.GetTitledFirstNameNoTooltip] by [inspiration_owner.GetTitledFirstNameNoTooltip] during [inspiration_owner.GetHerHis] adventures." #NT!
+ pilgrimage_figurine_name: "Cuttle-bone Waysaint Illioc Figure" #NT!
+ pilgrimage_figurine_description: "A figurine of Illioc va Oejeynican, a Chevalien general who was instrumental in the defeat of the [arch_lich|E] Adwaga Adwakampy. His helmet is filled with bronze detailings. Sent to [owner.GetTitledFirstNameNoTooltip] by [inspiration_owner.GetTitledFirstNameNoTooltip] during [inspiration_owner.GetHerHis] adventures." #NT!
+ saint_margaret_fingernails_name: "Fingernails of Saint Thysia" #NT!
+ saint_margaret_fingernails_description: "Agionist Saint Thysia was famed for healing thousands from plague despite silly theories on the spreading of disease such as the existence of small invisible demons that stick to skin, only defeatable by the washing of hands (and thus the removing of the skin's protective coating surgeons rely on). Supposedly, these old disgusting fingernails' cuts belonged to her. Sent to [owner.GetTitledFirstNameNoTooltip] by [inspiration_owner.GetTitledFirstNameNoTooltip] during [inspiration_owner.GetHerHis] adventures." #NT!

@@ -1,0 +1,44 @@
+﻿l_russian:
+  
+ rayakuux_modifier_1: "Local [rayakuux_capital|E] Weak - 1/4" #NT!
+ rayakuux_modifier_2: "Local [rayakuux_capital|E] Growing - 2/4" #NT!
+ rayakuux_modifier_3: "Local [rayakuux_capital|E] Strong - 3/4" #NT!
+ rayakuux_modifier_4: "Local [rayakuux_capital|E] Empowered - 4/4" #NT!
+ qabuux_modifier_1: "Local [qabuux_capital|E] Weak - 1/4" #NT!
+ qabuux_modifier_2: "Local [qabuux_capital|E] Growing - 2/4" #NT!
+ qabuux_modifier_3: "Local [qabuux_capital|E] Strong - 3/4" #NT!
+ qabuux_modifier_4: "Local [qabuux_capital|E] Empowered - 4/4" #NT!
+ karavuux_modifier_1: "Local [karavuux_capital|E] Weak - 1/4" #NT!
+ karavuux_modifier_2: "Local [karavuux_capital|E] Growing - 2/4" #NT!
+ karavuux_modifier_3: "Local [karavuux_capital|E] Strong - 3/4" #NT!
+ karavuux_modifier_4: "Local [karavuux_capital|E] Empowered - 4/4" #NT!
+ waranuux_modifier_1: "Local [waranuux_capital|E] Weak - 1/4" #NT!
+ waranuux_modifier_2: "Local [waranuux_capital|E] Growing - 2/4" #NT!
+ waranuux_modifier_3: "Local [waranuux_capital|E] Strong - 3/4" #NT!
+ waranuux_modifier_4: "Local [waranuux_capital|E] Empowered - 4/4" #NT!
+ weakened_lodge: "Lodge Weakened" #NT!
+ karavuux_abuses: "[karavuux_capital|E] Abuses" #NT!
+ karavuux_controlled: "[karavuux_capital|E] Controlled" #NT!
+ karavuux_crackdown: "[karavuux_capital|E] crackdown" #NT!
+ karavuux_exploitation: "[karavuux_capital|E] Exploitation" #NT!
+ karavuux_seized: "[karavuux_capital|E] Property Seized" #NT!
+ karavuux_donations: "[karavuux_capital|E] Donations" #NT!
+ karavuux_assisted: "[karavuux_capital|E] Assisted" #NT!
+ waranuux_restrained: "[waranuux_capital|E] Restrained" #NT!
+ waranuux_clamped: "[waranuux_capital|E] Recruitment Blocked" #NT!
+ waranuux_recruitment: "[waranuux_capital|E] Recruitment" #NT!
+ waranuux_feud: "[waranuux_capital|E] Feuding" #NT!
+ waranuux_calmed: "[waranuux_capital|E] Calmed" #NT!
+ waranuux_divided: "[waranuux_capital|E] Divided" #NT!
+ qabuux_mended: "[qabuux_capital|E] Relations Mended" #NT!
+ qabuux_split: "[qabuux_capital|E] Split" #NT!
+ qabuux_collapse: "[qabuux_capital|E] Collapsing" #NT!
+ qabuux_favor: "[qabuux_capital|E] Favor" #NT!
+ qabuux_even: "[qabuux_capital|E] Even" #NT!
+ qabuux_seized: "[qabuux_capital|E] Lands Seized" #NT!
+ rayakuux_expedition: "[rayakuux_capital|E] Expedition Funded" #NT!
+ rayakuux_allowed: "[rayakuux_capital|E] Expedition Allowed" #NT!
+ rayakuux_stopped: "[rayakuux_capital|E] Expedition Stopped" #NT!
+ rayakuux_patrolled: "Roads Patrolled" #NT!
+ rayakuux_guarded: "[rayakuux_capital|E] Guarded" #NT!
+ rayakuux_robbed: "[rayakuux_capital|E] Unprotected" #NT!

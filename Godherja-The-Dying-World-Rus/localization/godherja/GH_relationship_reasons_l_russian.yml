@@ -1,0 +1,3 @@
+﻿l_russian:
+ nemesis_killed_mother: "[TARGET_CHARACTER.GetShortUIName|U] viciously slayed [CHARACTER.GetShortUINamePossessive] mother, [TARGET_CHARACTER_2.GetShortUIName]." #NT!
+ nemesis_killed_mother_corresponding: "[CHARACTER.GetShortUIName|U] viciously slayed [TARGET_CHARACTER.GetShortUINamePossessive] mother, [TARGET_CHARACTER_2.GetShortUIName]." #NT!

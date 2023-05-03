@@ -1,0 +1,21 @@
+﻿l_russian:
+ gh_pirate_coast_decision.0001.t: "A Legion Reborn" #NT!
+ gh_pirate_coast_decision.0001.desc: "Finally, after decades of conflict between me and my compatriots who once bonded beneath a shared banner, we stand under that banner once again.\n\nLegio XCV 'Viesuados' has been made whole, the traitors put to the sword and all those willing to take back up their arms have already begun to return. While our homeland may be in tatters, we shall continue to honor the legacy of our forebears as we grow to greater heights." #NT!
+ gh_pirate_coast_decision.0001.a: "Glory to the Legion! Glory to Viesuados!" #NT!
+ gh_pirate_coast_decision.0002.t: "Scourge of the Pirate Coast" #NT!
+ gh_pirate_coast_decision.0002.desc: "For years, I have drained the waterways of the world, pillaging to my hearts content. I have stolen more gold than any man could hope to see, and my face is scarred into the minds of sailors across the Sea of Empires.\n\nI am the most infamous [founder.GetWomanMan] alive, Scourge of the Pirate Coast, and my name shall live on in Rovarska's memory for all time. All shall know who holds power here, and shall know to fear that power." #NT!
+ gh_pirate_coast_decision.0002.a: "I am the [founder.GetLadyLord|U] of all the Seas!" #NT!
+ gh_pirate_coast_decision.0002.b: "Now I can finally rest a little..." #NT!
+ gh_pirate_coast_decision.0003.t: "Scourge of the Pirate Coast" #NT!
+ gh_pirate_coast_decision.0003.desc: "The monstrous [founder.Getfirstname], reaving pirate and black stain on the high seas, has fulfilled a life long dream of building a [pirate|E] realm unlike any other.\n\nAlready tales spread like wildfire of the power and ferocity of [founder.GetFirstName], and only time can tell what horrors they shall set upon the seas." #NT!
+ gh_pirate_coast_decision.0003.a: "[founder.GetSheHe|U['s not going to raid #EMPus#!, right?" #NT!
+ gh_pirate_coast_decision.0003.b: "Who cares what happens in those far away islands?" #NT!
+ gh_pirate_coast_decision.0004.t: "The Night Coast Rises" #NT!
+ gh_pirate_coast_decision.0004.desc: "With the rising of the tide, a new power emerges on the sea of the [pirate_coast|E], ready to set claim on all the islands from [sarradon|E] to Kashirya and beyond." #NT!
+ gh_pirate_coast_decision.0004.a: "The stars shall guide us." #NT!
+ gh_pirate_coast_decision.0005.t: "Cardamom and Cinnamon" #NT!
+ gh_pirate_coast_decision.0005.desc: "With the construction of our most recent hasira, our domination over spice trade flowing through the [pirate_coast|E] was all but legally established. It will be some time before new competitors attempt to cut their share, giving us complete control over the price of our goods. Soon enough, there will be more gold in our realm than all of the Continent!" #NT!
+ gh_pirate_coast_decision.0005.a: "Let us look over new ventures." #NT!
+ gh_pirate_coast_decision.0006.t: "The Silver Kingdom Reborn" #NT!
+ gh_pirate_coast_decision.0006.desc: "For over 200 years, the banner of [ufaliracci|E] has lay buried under the sea. Now, with the reconstruction of the [silver_palace|E] and our control over the region, we shall raise that banner across the sea so all shal know of its return!" #NT!
+ gh_pirate_coast_decision.0006.a: "Glory to the Silver Kingdom!" #NT!

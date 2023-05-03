@@ -1,0 +1,3 @@
+﻿l_russian:
+ SteleCommemoratesAncestors_Inappetetic: "$SteleCommemoratesAncestors_Intro$. We hope she finds comfort in [second.MakeScope.Var('stele_container').Char.GetFaith.PositiveAfterLife] that [second.MakeScope.Var('stele_container').Char.GetSheHe] lacked on [aeras|E]. $SteleCommemoratesCarver$." #NT!
+ SteleCommemoratesAncestors_Reincarnation: "$SteleCommemoratesAncestors_Intro$. This was not [second.MakeScope.Var('stele_container').Char.GetHerHis] first time on [aeras|E], and will not be [second.MakeScope.Var('stele_container').Char.GetHerHis] last. $SteleCommemoratesCarver$." #NT!

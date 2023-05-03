@@ -1,0 +1,5 @@
+﻿l_russian:
+  #GetExpensiveDrink 
+ expensive_drink_bordeaux_claret: "Salisian clarets" #NT!
+  #GetExpensiveDrink_Singular 
+ expensive_drink_singular_bordeaux_claret: "Salisian claret" #NT!

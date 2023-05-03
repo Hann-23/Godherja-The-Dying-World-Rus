@@ -1,0 +1,53 @@
+﻿l_russian:
+ action_bordering_fog: "The [fog|E] Approaches..." #NT!
+ action_bordering_fog_desc: "One of your [counties|E] borders the [fog|E] and might be consumed in the near future.\n\n#help The [fog|E] will continue to expand across the world until it covers the entirety of its surface. Once fully overtaken, [counties|E] are forever lost to its horrific denizens and can never be reclaimed.\n\nIt might be possible to stall this progression for a time through powerful [magic|E], but time is of the essence.#!" #NT!
+ action_bordering_fog_click: "#I Click to view the County in question#!" #NT!
+ report_aervalr_shard: "An [aervalr|E] Shard Has Fallen" #NT!
+ report_aervalr_shard_desc: "We have received reports that a fragment of the Moon has landed in the [recent_aervalr_shard_county.GetName].\n\n#help Ever since [frodbrokna|E] shattered [aervalr|E], pieces have been making their way towards the surface of the world. Though their impact is potentially incredibly destructive, the shards themselves are a potent source of [magical|E] power.\n\n[dead_magi|E] tend to find them especially useful as they usually derive their abilities directly from [aeras|E]' celestial companion, and hence are able to generate [magic|E] vastly more efficiently from them." #NT!
+ report_aervalr_shard_click: "#I Click to view the County in question#!" #NT!
+ report_gedeora: "A [gedeora|E] Strikes" #NT!
+ report_gedeora_desc: "[recent_gedeora_county.Custom('GetGedeoraScaleCustomLoc')] [recent_gedeora_county.GetName]! [recent_gedeora_county.Custom('GetGedeoraPrimaryEffectCustomLoc')] [recent_gedeora_county.Custom('GetGedeoraSecondaryEffectTargetCustomLoc')] were affected particularly hard[recent_gedeora_county.Custom('GetGedeoraSecondaryEffectCustomLoc')]\n\n#help A powerful [magical|E] phenomenon of unknown cause and variable intensity, a [gedeora|E] strikes without warning and has profound effects on the emotions and personality of any within the affected region.\n\nThough not always the same in their consequences, most often they dramatically intensify any negative personal traits that an individual has already had." #NT!
+ report_gedeora_click: "#I Click to view the County in question#!" #NT!
+ report_potent_magi: "A Powerful [magi|E] Wanders [aeras|E]" #NT!
+ report_potent_magi_desc: "We are receiving reports that a [magi|E] by the name of [potent_magi.GetFirstName] has been exhibiting talent heard of only perhaps a few times in a generation.\n\n#help Beyond a certain level of power, the amount of active [magi|E] in the entire world with that level of skill shrinks to perhaps a handful of individuals in an entire century. To say that their abilities are invaluable would be an understatement - such individuals have singlehandedly built empires from nothing." #NT!
+ report_potent_magi_click: "#I Click to view the Character's Location#!" #NT!
+ action_chevalie_will_shatter: "[chevalie|E] Will Shatter" #NT!
+ action_chevalie_will_shatter_desc: "You do not have a [heir|E] strong enough to keep the throne intact upon their ascension!\n\n#help The lords of the Marches will only follow those that have shown the strength and will to rule. The [succession|E] will be unclear in the following circumstances:\n\n1. Your [heir|E] is not of your own blood.\n2. Your [heir|E] has less than 30 Merit.\n3. Your [heir|E] has less than 30% of the total Merit of all your children.\n\nIn that case, [chevalie|E] is very likely to break up into a protracted, multi-sided civil war.#!" #NT!
+ action_chevalie_will_shatter_click: "#I Click to view the County in question#!" #NT!
+  
+ gedeora_small: "A small [gedeora|E] has struck the" #NT!
+ gedeora_medium: "A [gedeora|E] has struck the" #NT!
+ gedeora_big: "A large [gedeora|E] has befallen a vast slice of land, centered around the" #NT!
+ gedeora_huge: "A colossal [gedeora|E] has shook parts of the world, centered around the" #NT!
+ gedeora_global: "May whatever divine we believe in help us, for a [gedeora|E] of legendary proportions has rocked the entire world! It originated in the" #NT!
+ gedeora_generic_evil: "The hearts of all affected have turned black and full of malice." #NT!
+ gedeora_bloodlust: "Tempers have exploded, old grudges brought to a boiling point, and a wave of bloodshed has swept the region." #NT!
+ gedeora_depravity: "Unspeakable depravities are being committed, from peasant to lord, and the sickening, short sighted opulence has likely indebted everyone for years to come." #NT!
+ gedeora_ambition: "The entire area has seemingly become a pit of vipers, with brother turning against brother, vassal against liege, child against parent." #NT!
+ gedeora_zeal: "A spiritual enlightenment has swept the entire region, and large portions of the populace claim to have witnessed works of the divine itself." #NT!
+ gedeora_target_nobility: "#E Nobles#!" #NT!
+ gedeora_target_commoners: "#E Commoners#!" #NT!
+ gedeora_target_women: "#E Women#!" #NT!
+ gedeora_target_men: "#E Men#!" #NT!
+ gedeora_target_children: "#E Children#!" #NT!
+ gedeora_target_girls: "#E Girls#!" #NT!
+ gedeora_target_boys: "#E Boys#!" #NT!
+ gedeora_target_magical_ability: "Any with any magical ability whatsoever" #NT!
+ gedeora_target_magi_any: "[magi|E]" #NT!
+ gedeora_target_living_magi: "[living_magi|E]" #NT!
+ gedeora_target_dead_magi: "[dead_magi|E]" #NT!
+ gedeora_target_mixed_magi: "[mixed_magi|E]" #NT!
+ gedeora_target_diplomats: "#E Diplomats#! and the socially adept in general" #NT!
+ gedeora_target_schemers: "#E Schemers#! and the cutthroat in general" #NT!
+ gedeora_target_warriors: "#E Warriors#!" #NT!
+ gedeora_target_stewards: "#E Stewards#!" #NT!
+ gedeora_target_scholars: "#E Scholars#!" #NT!
+ gedeora_target_none: "No group in particular" #NT!
+ gedeora_no_primary_effect: 
+ gedeora_magic_surge: ", all apparently having seen an improvement in their inherent magical abilities." #NT!
+ gedeora_magic_drop: ", all apparently having seen a notable dulling of their inherent magical abilities." #NT!
+ gedeora_lunatic: ", all apparently being plagued by hallucinations and suffering complete mental breakdowns." #NT!
+ gedeora_melancholy: ", all apparently entering a profoundly morose mood and losing their lust for life." #NT!
+ gedeora_impregnate: ", all women in the affected group apparently having become pregnant if not already so." #NT!
+ gedeora_barren: ", all in the affected group having been struck with infertility." #NT!
+ gedeora_death: ", all in the group meeting an agonizing, rapid demise." #NT!

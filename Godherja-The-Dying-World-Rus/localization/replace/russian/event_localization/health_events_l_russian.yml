@@ -1,0 +1,6 @@
+﻿l_russian:
+ health.2101.bubonic_plague_outbreak.desc: "[ROOT.Char.GetFaith.DeathDeityName|U] has raised [ROOT.Char.GetFaith.DeathDeityHerHis] scythe over my realm — a case of the dreaded [bloodblight|E] has been discovered!" #NT!
+ health.2101.bubonic_plague_spreads.desc: "Yet another soul stands at Death's door, the dreaded red veins marring [sick_character.GetHerHis] skin." #NT!
+ disease_bubonic_plague: "[bloodblight|E]." #NT!
+ health.2102.bubonic_plague.desc: "[bloodblight|E]" #NT!
+ health_bubonic_plague_spreads_message: "[bloodblight|E] Outbreak" #NT!

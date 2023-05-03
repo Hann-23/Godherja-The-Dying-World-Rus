@@ -1,0 +1,171 @@
+﻿l_russian:
+  
+  #MaA types 
+ monsters: "[monsters|E]" #NT!
+ magi: "[magi|E]" #NT!
+ magical: "[magical|E]" #NT!
+ undead: "[gh_general_undead|E]" #NT!
+ flying: "[flying|E]" #NT!
+  #Cultural MaA 
+ arcane_auxiliaries: "Arcane Auxiliaries" #NT!
+ adventurers_maa: "Adventurers" #NT!
+ marcher_anti_mage: "Anti-Magi" #NT!
+ sjalvolki_berserkers: "Berserkers" #NT!
+ vhanavid_chariots: "War Chariots" #NT!
+ magi_regular: "Magi" #NT!
+ spirit_regular: "Spirits" #NT!
+ wodes: "Wodes" #NT!
+ flying_lances: "Flying Lances" #NT!
+ grave_wardens: "Grave Wardens" #NT!
+ golden_spears: "The Golden Spears" #NT!
+ veiled: "Veiled" #NT!
+ the_bloodied: "The Bloodied" #NT!
+ prophets_sons: "Prophet's Sons" #NT!
+ marcher_knights: "Knights of the Way" #NT!
+ brother_riders: "Brother Riders" #NT!
+ moonkin: "Moonkin" #NT!
+ konijkmener_pikes: "Konijkmener Pikes" #NT!
+ partic_seers: "Partic Seers" #NT!
+ aversarian_legionaires: "Aversarian Legionaires" #NT!
+ jaanvarkis: "Jaanvarkis" #NT!
+ oltenic_horse_archers: "Öltenic Horse Archers" #NT!
+ oltenic_spearmen: "Öltenic Spears" #NT!
+ oltenic_light_horsemen: "Öltenic Riders" #NT!
+ # u_skirmisher: "Undead Footmen" #NT!
+ u_archer: "Undead Archers" #NT!
+ u_heavy_infantry: "Undead Infantry" #NT!
+ u_heavy_cavalry: "Undead Cavalry" #NT!
+ fogbeasts: "Fogbeasts" #NT!
+ whisperers: "Whisperers" #NT!
+ golems: "Lifeless clay and stone made animate by the energies of [aervalr|E], golems are capable of following simple and direct instructions from anyone who knows the correct passphrase. Guided by trusted human captains, they stride into battle without fear or hesitation.#!" #NT!
+ skeletons_normal: "Skeletons" #NT!
+ spirits_of_the_horn: "Spirits of the Horn" #NT!
+ zombies: "Bloodthralls" #NT!
+ fog_spirits: "Fog Spirits" #NT!
+ golem_infantry: "Adabyssian Golems" #NT!
+ airships: "Airships" #NT!
+ autocrossbowmen: "Automatic Crossbowmen" #NT!
+ griffon_riders: "Griffon Riders" #NT!
+ griffon_silencers: "Griffon Anti-Magi" #NT!
+ bloodbound: "Bloodbound" #NT!
+ legion_raiders: "Legion Raiders" #NT!
+ home_legions: "Home Legions" #NT!
+ pure_pikes: "Pikes of the Purest" #NT!
+ legion_outriders: "Legion Outriders" #NT!
+ north_shields: "Shields of the North" #NT!
+ legion_marines: "Marine Legions" #NT!
+ duneriders: "Duneriders" #NT!
+ stepwalkers: "Stepwalkers" #NT!
+ kikarsag_heavy_cav: "Kikarsag Proven Riders" #NT!
+ mountainstrikers: "Mountainstrikers" #NT!
+ huntsmen: "Huntsmen" #NT!
+ stoneforged: "Stoneforged" #NT!
+ observant: "Observant" #NT!
+ cloud_riders: "Cloudriders" #NT!
+ sunstriders: "Sunstriders" #NT!
+ huegodoc_legion: "Huegodoc Legions" #NT!
+ war_mammoth: "Warisnik Mammoth Riders" #NT!
+ mubaaizun: "Mubaaizun" #NT!
+ krialetil: "Krialetil" #NT!
+ tsanruti: "Tsanruti" #NT!
+ jokhosani: "Jokhosani" #NT!
+ tskherosan: "Tskherosan" #NT!
+ sahkmavali: "Sahkmavali" #NT!
+ mezilachitnen: "Mezilachitnen" #NT!
+ talabhau: "Talabhāu" #NT!
+ kanpahuri: "Kan'pahuri" #NT!
+ visvasavrak: "Viśvāsavrak" #NT!
+ kaphral: "Kāphral" #NT!
+  #MaA Descriptions 
+ arcane_auxiliaries_flavor: "Experts in their chosen school of magic, the deployment of [magi|E] on the battlefield can turn a simple skirmish into an ocean of fire and death.#!" #NT!
+ marcher_anti_mage_flavor: "The best the Marcher Kingdoms have to offer, these troops are expertly trained in resisting the arcane and slaying [magi|E].#!" #NT!
+ sjalvolki_berserkers_flavor: "The pride of every Clan, these terrifying shock troops become all consumed by a Berserker fury like none other on the battlefield, cutting a bloody path through their enemies.#!" #NT!
+ vhanavid_chariots_flavor: "Drawn by between one to three horses depending on size, war chariots are capable of both smashing through enemy lines and picking them off from range.#!" #NT!
+ magi_regular_flavor: "Though not as powerful, knowledgeable, or well-trained as their Imperial counterparts, hedge [magi|E] flock in larger numbers at the sight of coin.#!" #NT!
+ wodes_flavor: "These warriors believe not in armor, but in tattoos they claim give them mystical protection. Frenzied and likely mad, their bravery and ferocity can never be doubted.#!" #NT!
+ flying_lances_flavor: "Legendary Ojyczaynz knights, tales tell of a time when the wings atop their back would ignite in flame and give them flight. While this art has been forgotten, their mastery with lance and horse has not.#!" #NT!
+ grave_wardens_flavor: "Heavily armed wardens of the Ojyczaynz dead, these warriors are known for their great armor and greater charge.#!" #NT!
+ golden_spears_flavor: "Elite soldiers trained and drilled in the massive cities of Adabyss, the Golden Spears form the front line of every Adabyssian military. Trained and drilled for years before seeing battle, each soldier desires nothing more than to bring glory to their Empire.#!" #NT!
+ veiled_flavor: "The mysterious witches of the Gastanwoder swamps are rarely seen by any, but when they choose to gather they are sure to let the outsiders know why they are to be feared.#!" #NT!
+ the_bloodied_flavor: "The Bloodied are soldiers of the Iyrossi who have killed at least three Aversarians. Their armor and bows are covered in various ancient Iyrossi symbols the Aversarians long thought forgotten, all drawn in the Iyrossi's former master's blood.#!" #NT!
+ prophets_sons_flavor: "Elite warriors of noble blood, the Prophet's Sons all hail from minor and major Amsari households claiming descendence from the Prophet. Each fights for the honor of not only their house, but their entire people.#!" #NT!
+ marcher_knights_flavor: "Knights of the Way are Marcher knights who have dedicated themselves to perfection in the Way of Swords, Nullification and Justice. Normally hailing from noble households, their adherence to the protection of their people and their lords is legendary.#!" #NT!
+ brother_riders_flavor: "Brother Riders are Sjalvolki inspired by the more structured warrior orders they found and fought in the west. Clan brothers who have taken horse and spear, they now ride across the Clanlands and further to find glory and keep the countrysides as safe as can be managed.#!" #NT!
+ moonkin_flavor: "The Moonkin are followers of the Mondecny ways who have been blessed before the many faces of [aervalr|E]. Masters of all eight of the fighting styles, they are both a beautifully graceful and terrifyingly destructive sight on the battlefield.#!" #NT!
+ konijkmener_pikes_flavor: "The various militia's of the Konijkemener have long held the river-borders against the Marchers to ensure the independence of their homelands. Disciplined and well drilled, the pikes of the Republic will not falter.#!" #NT!
+ partic_seers_flavor: "Trained druids and their acolytes, the Seers of the Partic faith intensely follow the secret orders and commands of their Council to the letter. While their motives are unknown, their power is not.#!" #NT!
+ aversarian_legionaires_flavor: "Aversaria has survived the reckoning of the Sjalvolki, in some form, and likewise have their legions. Reformed and restructured, the Legionaires of Aversaria will never again falter.#!" #NT!
+ # u_skirmisher_flavor: "Without the need to eat or breathe, these troops make for an excellent backbone. They relentlessly pursue their targets even after the battle is won." #NT!
+ u_archer_flavor: "Skeleton archers only stop shooting when there are no arrows left, and will loose even as the melee begins, their deathly discipline unwavering.#!" #NT!
+ u_heavy_infantry_flavor: "The risen dead of knights, legionaires, and mercenaries all. Heavily armed and armored [gh_general_undead|E] are a sight feared by most.#!" #NT!
+ u_heavy_cavalry_flavor: "While a living steed may waiver at the sight of spear or flame, those risen from death will not, and neither will their riders.#!" #NT!
+ fogbeasts_flavor: "[fogbeasts|E] are abominations that have followed the Garformdaer out of the [fog|E]. They come in a variety of forms, from small scuttling things to massive leviathans, all borne only from the deepest fears of the living and dead, past, present, and future....#!" #NT!
+ whisperers_flavor: "The Whisperers are [fogeaters|E] blessed (or cursed) with the 'gift' of magic. Seemingly jabbering insane ruins of what were once men and women, they summon forth the [fog|E] and unleash devastating magic upon the battlefield.#!" #NT!
+ fog_spirits_flavor: "Whispering shadows and screeching faces in the [fog|E], [fog|E] Spirits are an exception of the [fog|E]. Not men or the creations of their mind, they are something from a time long past. Ethereal and vengeful in equal amounts.#!" #NT!
+ golem_infantry_flavor: "The Golden Statues of Wolmbaz-nza, or the City of Golden Towers, march at the height of nearly two men. Crafted from golden metals and powered by a mix of clockwork and unknown magic, they are a devastating sight on the battlefield. Some superstitious soldiers claim that when one puts an ear to their chest, you can hear panicked whispers in ancient tongues...#!" #NT!
+ airships_flavor: "An entirely Adabyssian design, based on concepts and technologies recovered from the City of Golden Towers. Airships are considered insanity by people of the north, but have increasingly become the norm in the jungles of the south, ferrying soldiers and striking cities from above.#!" #NT!
+ autocrossbowmen_flavor: "The Mundimbi are considered the elite of the vast Adabyssian military. Wielding strange golden crossbows, the devices they wield are startlingly accurate and can loose multiple bolts without reloading, thanks to a curious mechanism that feeds in new bolts from an attached box.#!" #NT!
+ griffon_riders_flavor: "The flower of Marcher chivalry. The death of many a foe to Chevalie has been heralded by a bright flash from a clear sky followed shortly thereafter by the war cries of a death diving squadron of Griffon Riders, armor blazing with the reflected sun.#!" #NT!
+ griffon_silencers_flavor: "The honor of riding a griffon into battle is afforded to only the best of the fighting men the Anti Magic Orders can muster. They circle the battlefield, swooping downwards to pick off vulnerable [magi|E].#!" #NT!
+ bloodbound_flavor: "Squadrons of soldiers sworn in brotherhood with each other in the name of Deiphartoros, the Bloodbound have sworn an oath of vengeance against all who have done injustice to the Iyrossi. They fight with a terrifying tenacity, using tactics inspired by their Aversarian oppressors.#!" #NT!
+ legion_raiders_flavor: "Legion Raiders are lightly armored and equipped for fast maneuvers and raiding rather than more traditional close formation fighting, a tactic developed from experience over centuries of putting down poorly equipped slave revolts.#!" #NT!
+ home_legions_flavor: "The ancient heart of Aversaria still beats with martial fervor. While the Legions of old marched away to die at the Battle of Elysian Pass, their counterparts in the Home Legions carry on many of their traditions and fighting styles.#!" #NT!
+ pure_pikes_flavor: "With five meter long pikes and a reputation for suicidal bravery, these pikemen are a mainstay in Opakhasian armies. Opakhasian strategy manuals state as fact that these are the only soldiers in [aeras|E] who can reliably hold against charging Marcher knights.#!" #NT!
+ legion_outriders_flavor: "The endless plains of Eastern Aversaria present a military challenge like nothing else on the continent. In this land the Outriders have developed a fearsome reputation for their husbandry. They travel like nomads, relying on nothing but their mares for weeks at a time.#!" #NT!
+ north_shields_flavor: "These elite infantry are almost unrecognizable as Aversarian Legionnaires. Banners sporting barbarian sigils and topped with strange idols fly as equals alongside traditional Aversarian symbols. These oddities do little to blunt their prowess in combat.#!" #NT!
+ legion_marines_flavor: "Deadly proficient at boarding actions and renowned for daring coastal raids, Aversaria's Marines have a fearsome reputation as pirate hunters.#!" #NT!
+ duneriders_flavor: "Having adopted wholesale the locals' methods of fighting, Duneriders appear as if from nowhere and melt back into the desert as soon as their bloody work is complete. Some spit on them as having 'gone barbarian' but none can doubt their brutal effectiveness.#!" #NT!
+ stepwalkers_flavor: "[magi|E] cults renowned for their secrecy - or brazen lack thereof depending on the sect to which they owe allegiance. Regardless of their diversity, these groups maintain some of the oldest and most esoteric magical traditions in Sarradon.#!" #NT!
+ kikarsag_heavy_cav_flavor: "Clad in fearsome masked armor and riding heavily barded horses, common soldiers sometimes mistake Proven Riders for a bizarre form of golem when seen from afar. Their deadly charges and peerless heavy cavalry tactics usually mean there are few survivors able to dispute this conclusion.#!" #NT!
+ huntsmen_flavor: "To a Kardwen huntsman there is no man or beast, only prey. Adorned with the heads of those unable to escape them, few have seen a Kardwen hunting party, and even fewer live to tell the tale." #NT!
+ mountainstrikers_flavor: "Though their homeland has been left behind, Goan skill at alpine combat remains, and they continue organize into elite teams of Mountainstrikers. As they march in search of a new home, they will assist their people in overcoming the strongest barriers.#!" #NT!
+ stoneforged_flavor: "The Stoneforged are a modern adaptation of the ancient Goan Mountainstrikers, now armed with more advanced equipment and expanded to greater numbers. Though they sacrifice some of the mobility of their predecessors, they have more than made up for it in hitting power, and none can claim that there are any more deadly opponents on the heights.#!" #NT!
+ observant_flavor: "The Observant are a group of warrior-monks that have long been associated with the Huegodocs. They view battle as merely another experience the Dreamer, and have become skilled archers so that they can both participate and observe said conflicts.#!" #NT!
+ cloud_riders_flavor: "Sarminian warriors were feared across the Kathunian steppe, and now they bring their prowess to Aversaria. These warrior women are some of the Continent's most peerless archers, able to put out a man's eyes at two hundred paces at full gallop." #NT!
+ sunstriders_flavor: "The new way of Saminian war is of heavy shock cavalry overruning any armies foolish enough to stand in their way. Their discipline and skill at arms rivals even that of the legendary Marcher Knights." #NT!
+ huegodoc_legion_flavor: "Were one to see the legions marching through Huegodoc cities, one would be forgiven for believing the Aversarians had returned. Instead, they have formed their own legions, hoping to mirror the Aversarians' success militarily.#!" #NT!
+ adventurers_maa_flavor: "Hailing from far and wide, adventurers are thirsty for loot and a new land to call home." #NT!
+ war_mammoth_flavor: "Adorned with ritualized tattoos and markings, these mammoths mounted by our bravest warriors bring the fury of the old north to the battlefield!#!" #NT!
+ mubaaizun_flavor: "A mubaaizun is a champion of a [sarradonian|E] army; often the best warriors of a lord will participate in a ritual duel before the battle commences, fighting to the death. These duels are often accompanied with each army chanting or insulting one another, and there have been instances - such as the [battle_of_the_mubaaizun|E] - where multiple duels happen before battle commences, often to avenge a dead mubaaizun." #NT!
+ krialetil_flavor: "The Krialetil are the guardians of the Armazli Mountains, and have been the greatest defenders of Amaghea since the days of Parnaz 'the Great'. Krialetil regiments are trained to die before surrendering an inch of ground to their enemies.#!" #NT!
+ tsanruti_flavor: "Tsanruti bands form the primary defence of Charchac strongholds, scouting out foes with excellent precision. Whilst many have turned to banditry since their formation, Tsanruti are still employed by Charchac communities in need of protectors.#!" #NT!
+ jokhosani_flavor: "The Jokhosani wield long pikes, nearing eight meters in length, and are never forgotten when Amaghea raises its armies. Whilst not renowned for their bravery, the Jokhosani are known to leave few enemies alive when they take to the field.#!" #NT!
+ tskherosan_flavor: "The favored warriors of Mahratians, Tskherosan riders are known for their speed and ruthlessness across Amaghea.#!" #NT!
+ sahkmavali_flavor: "The guards of the hidden temples of Aygaea, Sahkmavali often serve in groups no larger than fifty men. However, despite their small size, Sahkmavali are masters of mountain warfare whose skill is hard to equal in their home territory.#!" #NT!
+ mezilachitnen_flavor: "Trained to use a longbow as part of court ritual, the most skilled warriors of the Draneti have always been chosen to serve as the Mezilachitnen. Whilst few, they are the pinnacle of Amaghean archers.#!" #NT!
+ talabhau_flavor: "Talabhāu once served as the elite guards of the Vanēlāmāk Haytrakhati; in its absence, any worthy prince may call upon them.#!" #NT!
+ jaanvarkis_flavor: "Moulded by years of hunting, these veterans of the forest are known for their skillful yet swift style of fighting- earning the name Vyuharaksha or 'Gliding reavers' by their enemies. With sufficient training in contemporary warfare, they become expert skirmishers." #NT!
+ kanpahuri_flavor: "Trained extensively to fight with axes, the Kan'pahuri are masters of Sevra Par in both battle and feast.#!" #NT!
+ visvasavrak_flavor: "Initially founded to defeat hordes of the undead, the Viśvāsavrak fight to the death in complete loyalty to their liege lord." #NT!
+ kaphral_flavor: "Kāphral are skilled with all manner of blades, but their speciality is the spear; short and swift, the Duibindir they utilise has sharp stakes at either end.#!" #NT!
+ spirits_of_the_horn_flavor: "The Spirits of the Horn are long dead and mighty warriors that had pledged their battle-hardened souls to [velos|E]. They are said to be in service of the Black Horn for all time, coming to aid those who are in need of their power." #NT!
+ oltenic_light_horsemen_flavor: "Öltenic Riders descend from warrior traditions learned since the [aironoian_migration|E]. These riders were considered some of the finest in [aversaria|E]." #NT!
+ oltenic_spearmen_flavor: "Öltenic Spears have long specialized in unique fighting styles to combat the ferocious horse lords of Aironoi." #NT!
+ oltenic_horse_archers_flavor: "Öltenic Archers descend from warrior traditions learned since the [aironoian_migration|E]. They are known to be deadly and accurate, and have maintained control over the steppe because of it." #NT!
+  #SARRADON STUFF: 
+ rayakuux_archers: "Rayakuux Archers" #NT!
+ rayakuux_archers1: "Rayakuux Archers" #NT!
+ advanced_rayakuux: "Rayakuux Corps" #NT!
+ waranuux_spearmen: "Waranuux Spearmen" #NT!
+ waranuux_spearmen1: "Waranuux Spearmen" #NT!
+ advanced_waranuux: "Standardized Waranuux" #NT!
+ enlevett: "Enlevetts" #NT!
+ rayakuux_archers_flavor: "With their experience traveling through varied climates, rayakuux archers are known for their ability to adapt to any terrain. Their arrows will appear from the gaps between trees, and the unseen archers will watch as their targets fall.#!" #NT!
+ rayakuux_archers1_flavor: "With their experience traveling through varied climates, rayakuux archers are known for their ability to adapt to any terrain. Their arrows will appear from the gaps between trees, and the unseen archers will watch as their targets fall.#!" #NT!
+ waranuux_spearmen_flavor: "The battle-hardened spearmen of the waranuux, who train from their youth in battle, are near-fearless in battle. They fight with finely-crafted spears, wielding them in a beautiful, deadly dance, carving great swathes into enemy lines.#!" #NT!
+ advanced_rayakuux_flavor: "Finely-disciplined and hardened by varied adventures, the Rayakuux Corps take the skills of their predecessors to another level. Terrain is no barrier to them, and their arrows will hit home, even through the densest forest.#!" #NT!
+ advanced_waranuux_flavor: "Equipped with high-quality equipment and maintaining a strict discipline, the modern advancements of the waranuux have raised them even further above the common soldier. The trail of carnage they carve through any who stand in their way at times have been compared to the effects of a storm.#!" #NT!
+ enlevett_flavor: "Clad in black armor and dark masks, the Enlevetts are the elite of every Canian army. Trained from a young age in the art of close combat and masters of the war scythe, these disciplined warriors carry scythes designed for one-handed use.#!" #NT!
+ #Ahridar 
+ mezzarb_riders: "Mezzarb Riders" #NT!
+ mezzarb_riders_flavor: "Mounted upon sturdy Mezzarb goats, these riders can easily handle terrain that would hobble most horses" #NT!
+ napaq: "Napaq" #NT!
+ napaq_flavor: "Trained to minimize the damage of raids as much as possible, the Napaq maintain a loose, versatile formation" #NT!
+ rearka: "Re'arka" #NT!
+ rearka_flavor: "Skilled with spears, the Re'arka are experts at protecting the caravans they guard" #NT!
+ shemota_warriors: "Shemota Warriors" #NT!
+ shemota_warriors_flavor: "Donned in flexible and durable fiber armor, Shemota warriors are able to be heavily armored and yet sill highly mobile" #NT!
+ ahbshaani_devouts: "Ahbshaani Devouts" #NT!
+ ahbshaani_devouts_flavor: "Astride there monsterous lizards mounts, these holy warriors follow only the call of Ohrasik" #NT!
+ sarradon_imitation_legion: "Sarradonian Imitation Legion" #NT!
+ sarardon_imitation_legion_desc: "Heavy infantry initially fashioned after the infamous Aversarian Legion, since their inception the Sarradonian Legions have seen significant alterations both to their kit and their fighting tactics.#!" #NT!

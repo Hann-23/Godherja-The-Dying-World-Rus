@@ -1,0 +1,17 @@
+﻿l_russian:
+ HUNTING_WINDOW_TITLE: "Bestiary" #NT!
+ HUNTING_WINDOW_MONSTERS: "[monsters]" #NT!
+ HUNTING_WINDOW_BIOZONES: "Zones" #NT!
+ OPEN_BESTIARY: "#T Open Bestiary#!\nLook up [monsters|E] and #E Zones#! in the Bestiary." #NT!
+  
+ mundane_tier_color_prefix: "#color_white" #NT!
+ low_tier_color_prefix: "#difficulty_easy" #NT!
+ medium_tier_color_prefix: "#difficulty_medium" #NT!
+ high_tier_color_prefix: "#difficulty_hard" #NT!
+ Legendary_tier_color_prefix: "#difficulty_hard" #NT!
+ unlanded_danger_tier_color_prefix: "#difficulty_easy" #NT!
+ none_danger_tier_color_prefix: "#color_white" #NT!
+ low_danger_tier_color_prefix: "#difficulty_easy" #NT!
+ medium_danger_tier_color_prefix: "#difficulty_medium" #NT!
+ high_danger_tier_color_prefix: "#difficulty_hard" #NT!
+ extreme_danger_tier_color_prefix: "#difficulty_hard" #NT!

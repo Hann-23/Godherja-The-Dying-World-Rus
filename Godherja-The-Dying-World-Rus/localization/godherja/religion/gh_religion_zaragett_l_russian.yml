@@ -1,0 +1,70 @@
+﻿l_russian:
+  
+ zaragett_religion: "Zaragett" #NT!
+ zaragett_religion_adj: "Zaragettian" #NT!
+ zaragett_religion_adherent: "Zaragett" #NT!
+ zaragett_religion_adherent_plural: "Zaragetti" #NT!
+ zaragett_religion_desc: "The faith of the Zaragett is one that largely centers around the sea, Dakalene, and its sacred connection with the moon, [aervalr|E]. Their eternal dance and tragic separation from one another due to the birth of their beloved children, humanity, is the subject of much contrition among their people, and because of this they attempt to ease the suffering of their divine parents through countless and innumerable rituals held year after year. Many of these aforementioned rituals involve the use of water-based magics known only to the Zaragett, whose talent for such arcane arts far surpasses that of most [magi|E] on [aeras|E] that they view as a fragment of the power of the mother Dakalene herself. Such gifted ones form the majority of the Zaragett priesthood, due to their intimate connection to the Seamother. Those of the sea and moon, the Zaragett remain the dutiful repentant children of the Seamother and Moonfather, and they will continue to atone for their birth until the breaking of the world." #NT!
+ zaragett_high_god_name: "Dakalene" #NT!
+ zaragett_high_god_name_possessive: "Dakelene's" #NT!
+ zaragett_high_god_name_alternate: "The Seamother" #NT!
+ zaragett_high_god_name_alternate_possessive: "The Seamother's" #NT!
+ zaragett_devil_name: "Arggosu" #NT!
+ zaragett_devil_name_possessive: "Argossu's" #NT!
+ zaragett_house_of_worship: "edaen" #NT!
+ zaragett_house_of_worship_plural: "edaens" #NT!
+ zaragett_pantheon_term: "the Sea and Moon" #NT!
+ zaragett_religious_symbol: "the rolling tides" #NT!
+ zaragett_religious_text: "Dhawlora" #NT!
+ zaragett_religious_head_title: "Ghan'al" #NT!
+ zaragett_religious_head_title_name: "Bherenad Ghan'al" #NT!
+ zaragett_devotee_male: "Domeran" #NT!
+ zaragett_devotee_male_plural: "Domerai" #NT!
+ zaragett_devotee_female: "Dometar" #NT!
+ zaragett_devotee_female_plural: "Dometai" #NT!
+ zaragett_devotee_neuter: "Domekas" #NT!
+ zaragett_devotee_neuter_plural: "Domekai" #NT!
+ zaragett_priest: "Zeme'al" #NT!
+ zaragett_priest_plural: "Zeme'ali" #NT!
+ zaragett_priest_alternate: "Zeme'al" #NT!
+ zaragett_priest_alternate_plural: "Zeme'ali" #NT!
+ zaragett_priest_male: "Zemer'al" #NT!
+ zaragett_priest_male_plural: "Zemer'ali" #NT!
+ zaragett_priest_female: "Zemet'al" #NT!
+ zaragett_priest_female_plural: "Zemet'ali" #NT!
+ zaragett_priest_alt_priest_term: "Zemek'al" #NT!
+ zaragett_bishop: "Deian'al" #NT!
+ zaragett_bishop_plural: "Deian'al" #NT!
+ zaragett_positive_afterlife: "Seidteron" #NT!
+ zaragett_negative_afterlife: "Zaranyel" #NT!
+ zaragett_creator_god_name: "Aervalr" #NT!
+ zaragett_creator_god_name_possessive: "Aervalr's" #NT!
+ zaragett_health_god_name: "$zaragett_high_god_name$" #NT!
+ zaragett_health_god_name_possessive: "$zaragett_high_god_name_possessive$" #NT!
+ zaragett_fertility_god_name: "$zaragett_high_god_name$" #NT!
+ zaragett_fertility_god_name_possessive: "$zaragett_high_god_name_possessive$" #NT!
+ zaragett_wealth_god_name: "$zaragett_creator_god_name$" #NT!
+ zaragett_wealth_god_name_possessive: "$zaragett_creator_god_name_possessive$" #NT!
+ zaragett_household_god_name: "$zaragett_high_god_name$" #NT!
+ zaragett_household_god_name_possessive: "$zaragett_high_god_name_possessive$" #NT!
+ zaragett_fate_god_name: "$zaragett_creator_god_name$" #NT!
+ zaragett_fate_god_name_possessive: "$zaragett_creator_god_name_possessive$" #NT!
+ zaragett_knowledge_god_name: "$zaragett_high_god_name$" #NT!
+ zaragett_knowledge_god_name_possessive: "$zaragett_high_god_name_possessive$" #NT!
+ zaragett_war_god_name: "$zaragett_creator_god_name$" #NT!
+ zaragett_war_god_name_possessive: "$zaragett_creator_god_name_possessive$" #NT!
+ zaragett_trickster_god_name: "$zaragett_high_god_name$" #NT!
+ zaragett_trickster_god_name_possessive: "$zaragett_high_god_name_possessive$" #NT!
+ zaragett_night_god_name: "$zaragett_creator_god_name$" #NT!
+ zaragett_night_god_name_possessive: "$zaragett_creator_god_name_possessive$" #NT!
+ zaragett_death_deity_name: "$zaragett_high_god_name$" #NT!
+ zaragett_death_deity_name_possessive: "$zaragett_high_god_name_possessive$" #NT!
+ zaragett_water_god_name: "$zaragett_high_god_name$" #NT!
+ zaragett_water_god_name_possessive: "$zaragett_high_god_name_possessive$" #NT!
+ zaragett_witch_god_name: "$zaragett_devil_name$" #NT!
+ zaragett_witch_god_name_possessive: "$zaragett_devil_name_possessive$" #NT!
+ zaragett: "Zaragett" #NT!
+ zaragett_adj: "Zaragettian" #NT!
+ zaragett_adherent: "Zaragett" #NT!
+ zaragett_adherent_plural: "Zaragetti" #NT!
+ zaragett_desc: "The faith of the Zaragett is one that largely centers around the sea, Dakalene, and its sacred connection with the moon, [aervalr|E]. Their eternal dance and tragic separation from one another due to the birth of their beloved children, humanity, is the subject of much contrition among their people, and because of this they attempt to ease the suffering of their divine parents through countless and innumerable rituals held year after year. Many of these aforementioned rituals involve the use of water-based magics known only to the Zaragett, whose talent for such arcane arts far surpasses that of most [magi|E] on [aeras|E] that they view as a fragment of the power of the mother Dakalene herself. Such gifted ones form the majority of the Zaragett priesthood, due to their intimate connection to the Seamother. Those of the sea and moon, the Zaragett remain the dutiful repentant children of the Seamother and Moonfather, and they will continue to atone for their birth until the breaking of the world." #NT!

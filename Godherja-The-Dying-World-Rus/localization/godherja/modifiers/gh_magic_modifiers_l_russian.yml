@@ -1,0 +1,309 @@
+﻿l_russian:
+ magic_no_prowess_loss_from_age: "Only Magical Prowess" #NT!
+ magic_no_prowess_loss_from_age_desc: "This character has no pure physical prowess, and thus does not lose prowess with age." #NT!
+ vampiric_drain_mod: "Vampiric Drain" #NT!
+ vampirism_mod: "Vampiric Dependence" #NT!
+ vampirism_mod_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]'s body has been twisted by the consumption of other's lifeforce, rendering [ROOT.GetCharacter.GetFirstNameNoTooltip] dependent on parasitic magic to survive." #NT!
+ vampirism_death_near: "Dying Vampire" #NT!
+ vampirism_death_near_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] has been unable to secure their vampiric existence by draining others, ensuring their demiuse." #NT!
+ ritual_cannibalism_mod: "Cannibalistic Vigour" #NT!
+ sacrificed_population_mod: "Sacrificed Population" #NT!
+ sacrificed_population_stack_mod: "Sacrificed Population" #NT!
+ creation_mod_minor: "Creation" #NT!
+ creation_mod_mid: "Creation" #NT!
+ creation_mod_major: "Creation" #NT!
+ creation_mod_huge: "Creation" #NT!
+ blight_mod_minor: "Blight" #NT!
+ blight_mod_mid: "Blight" #NT!
+ blight_mod_major: "Blight" #NT!
+ blight_mod_huge: "Blight" #NT!
+ kemsar_water_spell_desert_mod_minor: "Improved Irrigation (Desert)" #NT!
+ kemsar_water_spell_desert_mid: "Wellspring (Desert)" #NT!
+ kemsar_water_spell_desert_major: "Major Wellspring (Desert)" #NT!
+ kemsar_water_spell_desert_mod_huge: "Arcane Oasis (Desert)" #NT!
+ kemsar_water_spell_normal_mod_minor: "Improved Irrigation" #NT!
+ kemsar_water_spell_normal_mid: "Wellspring" #NT!
+ kemsar_water_spell_normal_major: "Major Wellspring" #NT!
+ kemsar_water_spell_normal_huge: "Grand Wellspring" #NT!
+ kemsar_water_spell_malus_mod_minor: "Increased Aridity (minor)" #NT!
+ kemsar_water_spell_malus_mid: "Increased Aridity (medium)" #NT!
+ kemsar_water_spell_malus_major: "Major Dry-Spell" #NT!
+ kemsar_water_spell_malus_huge: "Drought" #NT!
+ plant_growth_mod_minor: "Lesser Verdant Vegetation" #NT!
+ plant_growth_mod_mid: "Verdant Vegetation" #NT!
+ plant_growth_mod_major: "Greater Verdant Vegetation" #NT!
+ plant_growth_mod_huge: "Wellspring of Vegetation" #NT!
+ plant_growth_malus_mod_minor: "Withered Harvest (Minor)" #NT!
+ plant_growth_malus_mod_mid: "Withered Harvest (Medium)" #NT!
+ plant_growth_malus_mod_major: "Withered Harvest (Major)" #NT!
+ plant_growth_malus_mod_huge: "Devastatingly Withered Harvest" #NT!
+ sacrifice_plants_mod_minor: "Sacrificed Plants (Minor)" #NT!
+ sacrifice_plants_mod_mid: "Sacrified Plants (Mid)" #NT!
+ sacrifice_plants_mod_major: "Scoured of Plantlife" #NT!
+ sacrifice_plants_mod_huge: "Barren Wasteland" #NT!
+ domination_mod_malus_minor: "Possession Sickness" #NT!
+ domination_mod_malus_mid: "Identity Crisis" #NT!
+ domination_mod_malus_major: "Fractured Mind" #NT!
+ purification_mod: "Purification" #NT!
+ natural_power_intrigue_modifier: "Natural Power of Intrigue" #NT!
+ natural_power_prowess_modifier: "Natural Power of Strength" #NT!
+ quicken_mod: "Quicken" #NT!
+ quicken_mod_minor: "Celerity " #NT!
+ quicken_mod_mid: "Swiftness" #NT!
+ quicken_mod_major: "Wings of Fire" #NT!
+ quicken_mod_huge: "Lightning Speed" #NT!
+ annihilation_mod_minor: "Minor Devastation" #NT!
+ annihilation_mod_mid: "Devastation" #NT!
+ annihilation_mod_major: "Major Devastation" #NT!
+ annihilation_mod_huge: "Total Devastation" #NT!
+ dementation_mod: "Dementation" #NT!
+ has_nightmares: "Nightmares" #NT!
+ has_nightmares_desc: "This character has terrible and vivid nightmares" #NT!
+ battle_rage_mod: "Battle Rage" #NT!
+ battle_rage_mod_desc: "This character is in a insatiable magically induced rage" #NT!
+ genocide_region_mod: "Depopulated" #NT!
+ genocide_region_mod_desc: "This region is depopulated." #NT!
+ crushed_armor_mod: "Crushed Armor" #NT!
+ crush_armor_mod_minor: "Dented Armor" #NT!
+ crush_armor_mod_mid: "Minor Crushed Armor" #NT!
+ crush_armor_mod_major: "Crushed Armor" #NT!
+ crush_armor_mod_huge: "Destroyed Armor" #NT!
+ meteor_mod_minor: "Minor Meteoric Damage" #NT!
+ meteor_mod_mid: "Meteoric Damage" #NT!
+ meteor_mod_major: "Meteoric Destruction" #NT!
+ meteor_mod_huge: "Meteoric Devastation" #NT!
+ healing_water_mod_minor: "Minor Healing Water" #NT!
+ healing_water_mod_mid: "Healing Water" #NT!
+ healing_water_mod_major: "Healing Burst" #NT!
+ healing_water_mod_huge: "Fountain of Life" #NT!
+ lunar_power_good: "Master of Aervalr (Gibbous Moon)" #NT!
+ lunar_power_full: "Master of Aervalr (Full Moon)" #NT!
+ enchant_armory_mod_minor: "Lesser Enchanted Armory" #NT!
+ enchant_armory_mod_mid: "Enchanted Armory" #NT!
+ enchant_armory_mod_major: "Greater Enchanted Armory" #NT!
+ enchant_armory_mod_huge: "Divinely Enchanted Armory" #NT!
+ enhanced_arms_mod_minor: "Lesser Enchanted Equipment" #NT!
+ enhanced_arms_mod_mid: "Enchanted Equipment" #NT!
+ enhanced_arms_mod_major: "Greater Enchanted Equipment" #NT!
+ enhanced_arms_mod_huge: "Divinely Enchanted Equipment" #NT!
+ stone_serpent_3_mod: "Greater Stone Serpent" #NT!
+ stone_serpent_2_mod: "Stone Serpent" #NT!
+ stone_serpent_mod_minor: "Tiny Stone Serpent" #NT!
+ stone_serpent_mod_minor_desc: "This character is accompanied by a tiny stone serpent, protecting its master from threats." #NT!
+ stone_serpent_mod_mid: "Small Stone Serpent" #NT!
+ stone_serpent_mod_mid_desc: "This character is accompanied by a small stone serpent, protecting its master from threats." #NT!
+ stone_serpent_mod_major: "Stone Serpent" #NT!
+ stone_serpent_mod_major_desc: "This character is accompanied by a stone serpent, protecting its master from threats." #NT!
+ stone_serpent_mod_huge: "Powerful Stone Serpent" #NT!
+ stone_serpent_mod_huge_desc: "This character is accompanied by a powerful stone serpent, protecting its master from threats." #NT!
+ haunting_power_mod: "Haunting Power" #NT!
+ monsters_damage_add: "[monster|E] [damage|E]" #NT!
+ monsters_toughness_add: "[monster|E] [toughness|E]" #NT!
+ monsters_damage_mult: "[monster|E] [damage|E]" #NT!
+ monsters_toughness_mult: "[monster|E] [toughness|E]" #NT!
+ undead_damage_mult: "[gh_general_undead|E] [damage|E]" #NT!
+ undead_toughness_mult: "[gh_general_undead|E] [toughness|E]" #NT!
+ magi_damage_add: "[magi|E] [damage|E]" #NT!
+ magi_toughness_add: "[magi|E] [damage|E]" #NT!
+ flying_damage_add: "[flying|E] [damage|E]" #NT!
+ flying_toughness_add: "[flying|E] [toughness|E]" #NT!
+ flying_damage_mult: "[flying|E] [damage|E]" #NT!
+ flying_toughness_mult: "[flying|E] [toughness|E]" #NT!
+ charmed_mod_malus_minor: "Minor Charm" #NT!
+ charmed_mod_malus_minor_desc: "This character has been influenced by the charming magics of another, somewhat clouding their judgement." #NT!
+ charmed_mod_malus_mid: "Moderate Charm" #NT!
+ charmed_mod_malus_mid_desc: "This character has fallen under the sway of a relatively powerful charm spell, significantly interfering their ability to function normally." #NT!
+ charmed_mod_malus_major: "Powerful Charm" #NT!
+ charmed_mod_malus_major_desc: "This character only knows one name, one thing in their life — their current master, whose charming magics have completely broken almost all free will they once had." #NT!
+ strengthening_mod_minor: "Slightly Magically Strengthened" #NT!
+ strengthening_mod_mid: "Magically Strengthened" #NT!
+ strengthening_mod_major: "Impressively Magically Strengthened" #NT!
+ strengthening_mod_huge: "Massively Magically Strengthened" #NT!
+ fire_magick_mod_minor: "Minor Fire Magick" #NT!
+ fire_magick_mod_mid: "Fire Magick" #NT!
+ fire_magick_mod_major: "Major Fire Magick" #NT!
+ fire_magick_mod_huge: "Vortex of Destruction" #NT!
+ raise_earth_mod_minor: "Raise Earth" #NT!
+ raise_earth_mod_mid: "Rockslide" #NT!
+ raise_earth_mod_major: "Grand Rockslide" #NT!
+ raise_earth_mod_huge: "Earthen Avalanche" #NT!
+ earthquake_mod_minor: "Minor Tremors" #NT!
+ earthquake_mod_mid: "Significant Tremors" #NT!
+ earthquake_mod_major: "Destructive Quake" #NT!
+ earthquake_mod_huge: "Devastarting Earthquake" #NT!
+ stoneskin_mod_minor: "Stoneskin" #NT!
+ stoneskin_mod_mid: "Ironskin" #NT!
+ stoneskin_mod_major: "Steel Body" #NT!
+ stoneskin_mod_huge: "Diamond Body" #NT!
+ earth_fort_mod_minor: "Defensive Tunnels" #NT!
+ earth_fort_mod_mid: "Defensive Tunnel Complex" #NT!
+ earth_fort_mod_major: "Underground Fortifications" #NT!
+ earth_fort_mod_huge: "Grand Underground Fortress" #NT!
+ petrify_mod_minor: "Minor Petrification" #NT!
+ petrify_mod_mid: "Minor Petrification" #NT!
+ petrify_mod_major: "Partial Petrification" #NT!
+ petrify_mod_huge: "Almost Petrified" #NT!
+ necrotic_vitality_negative_stack: "Necrotic Decay" #NT!
+ necrotic_vitality_mod_minor: "Lesser Necromantic Vigor" #NT!
+ necrotic_vitality_mod_mid: "Necromantic Vigor" #NT!
+ necrotic_vitality_mod_major: "Greater Necromantic Vigor" #NT!
+ necrotic_vitality_mod_huge: "Undying Necromantic Vigor" #NT!
+ find_minerals_mod_minor: "Small Mineral Deposits" #NT!
+ find_minerals_mod_mid: "Mineral Deposits" #NT!
+ find_minerals_mod_major: "Greater Mineral Deposits" #NT!
+ find_minerals_mod_huge: "Mineral Rush" #NT!
+ lead_to_gold_inflation_min: "Devalued Coinage" #NT!
+ lead_to_gold_inflation: "Devalued Coinage" #NT!
+ improve_soil_mod_minor: "Lesser Strengthened Soil" #NT!
+ improve_soil_mod_mid: "Strengthened Soil" #NT!
+ improve_soil_mod_major: "Fertile Earth" #NT!
+ improve_soil_mod_huge: "Greater Fertile Earth" #NT!
+ pulling_moon_mod: "Drawing More Power from Moon" #NT!
+ pulling_moon_mod_desc: "This character is drawing additional power from the moon, resulting in a -10%/20% Dead Magic cost during Gibbous/Full Moons, but also an additional 20%/40% mutation and exposure gain." #NT!
+ unveiling_mod_minor: "Calmed" #NT!
+ unveiling_mod_mid: "Serene" #NT!
+ unveiling_mod_major: "Tranquil" #NT!
+ unveiling_mod_huge: "Arcane Euphoria" #NT!
+ unveiling_mod_backfire_minor: "Unravelled Mind" #NT!
+ unveiling_mod_backfire_mid: "Unravelled Mind" #NT!
+ unveiling_mod_backfire_major: "Unravelled Mind" #NT!
+ unveiling_mod_backfire_huge: "Unravelled Mind" #NT!
+ moon_read_battle_mod_minor: "Minor Lunar War Relevation" #NT!
+ moon_read_battle_mod_mid: "Lunar War Relevation" #NT!
+ moon_read_battle_mod_major: "Major Lunar War Relevation" #NT!
+ moon_read_battle_mod_huge: "Grand Lunar War Relevation" #NT!
+ moon_read_wealth_mod_minor: "Minor Lunar Wealth Relevation" #NT!
+ moon_read_wealth_mod_mid: "Lunar Wealth Relevation" #NT!
+ moon_read_wealth_mod_major: "Major Lunar Wealth Relevation" #NT!
+ moon_read_wealth_mod_huge: "Grand Lunar Wealth Relevation" #NT!
+ moon_read_friendship_mod_minor: "Minor Lunar Friendship Relevation" #NT!
+ moon_read_friendship_mod_mid: "Lunar Friendship Relevation" #NT!
+ moon_read_friendship_mod_major: "Major Lunar Friendship Relevation" #NT!
+ moon_read_friendship_mod_huge: "Grand Lunar Friendship Relevation" #NT!
+ moon_read_love_mod_minor: "Minor Lunar Love Relevation" #NT!
+ moon_read_love_mod_mid: "Lunar Love Relevation" #NT!
+ moon_read_love_mod_major: "Major Lunar Love Relevation" #NT!
+ moon_read_love_mod_huge: "Grand Lunar Love Relevation" #NT!
+ moon_read_safety_mod_minor: "Minor Lunar Safety Relevation" #NT!
+ moon_read_safety_mod_mid: "Lunar Safety Relevation" #NT!
+ moon_read_safety_mod_major: "Major Lunar Safety Relevation" #NT!
+ moon_read_safety_mod_huge: "Grand Lunar Safety Relevation" #NT!
+ moon_read_kill_mod_minor: "Minor Lunar Killing Relevation" #NT!
+ moon_read_kill_mod_mid: "Lunar Killing Relevation" #NT!
+ moon_read_kill_mod_major: "Major Lunar Killing Relevation" #NT!
+ moon_read_kill_mod_huge: "Grand Lunar Killing Relevation" #NT!
+ moon_read_learn_mod_minor: "Minor Lunar Learning Relevation" #NT!
+ moon_read_learn_mod_mid: "Lunar Learning Relevation" #NT!
+ moon_read_learn_mod_major: "Major Lunar Learning Relevation" #NT!
+ moon_read_learn_mod_huge: "Grand Lunar Learning Relevation" #NT!
+ moon_read_rulership_mod_minor: "Minor Lunar Rulership Relevation" #NT!
+ moon_read_rulership_mod_mid: "Lunar Rulership Relevation" #NT!
+ moon_read_rulership_mod_major: "Major Lunar Rulership Relevation" #NT!
+ moon_read_rulership_mod_huge: "Grand Lunar Rulership Relevation" #NT!
+ moon_read_battle_false_mod_minor: "Minor False Lunar War Relevation" #NT!
+ moon_read_battle_false_mod_mid: "False Lunar War Relevation" #NT!
+ moon_read_battle_false_mod_major: "Major False Lunar War Relevation" #NT!
+ moon_read_battle_false_mod_huge: "Grand False Lunar War Relevation" #NT!
+ moon_read_wealth_false_mod_minor: "Minor False Lunar Wealth Relevation" #NT!
+ moon_read_wealth_false_mod_mid: "False Lunar Wealth Relevation" #NT!
+ moon_read_wealth_false_mod_major: "Major False Lunar Wealth Relevation" #NT!
+ moon_read_wealth_false_mod_huge: "Grand False Lunar Wealth Relevation" #NT!
+ moon_read_friendship_false_mod_minor: "Minor False Lunar Friendship Relevation" #NT!
+ moon_read_friendship_false_mod_mid: "False Lunar Friendship Relevation" #NT!
+ moon_read_friendship_false_mod_major: "Major False Lunar Friendship Relevation" #NT!
+ moon_read_friendship_false_mod_huge: "Grand False Lunar Friendship Relevation" #NT!
+ moon_read_love_false_mod_minor: "Minor False Lunar Love Relevation" #NT!
+ moon_read_love_false_mod_mid: "False Lunar Love Relevation" #NT!
+ moon_read_love_false_mod_major: "Major False Lunar Love Relevation" #NT!
+ moon_read_love_false_mod_huge: "Grand False Lunar Love Relevation" #NT!
+ moon_read_safety_false_mod_minor: "Minor False Lunar Safety Relevation" #NT!
+ moon_read_safety_false_mod_mid: "False Lunar Safety Relevation" #NT!
+ moon_read_safety_false_mod_major: "Major False Lunar Safety Relevation" #NT!
+ moon_read_safety_false_mod_huge: "Grand False Lunar Safety Relevation" #NT!
+ moon_read_kill_false_mod_minor: "Minor False Lunar Killing Relevation" #NT!
+ moon_read_kill_false_mod_mid: "False Lunar Killing Relevation" #NT!
+ moon_read_kill_false_mod_major: "Major False Lunar Killing Relevation" #NT!
+ moon_read_kill_false_mod_huge: "Grand False Lunar Killing Relevation" #NT!
+ moon_read_learn_false_mod_minor: "Minor False Lunar Learning Relevation" #NT!
+ moon_read_learn_false_mod_mid: "False Lunar Learning Relevation" #NT!
+ moon_read_learn_false_mod_major: "Major False Lunar Learning Relevation" #NT!
+ moon_read_learn_false_mod_huge: "Grand False Lunar Learning Relevation" #NT!
+ moon_read_rulership_false_mod_minor: "Minor False Lunar Rulership Relevation" #NT!
+ moon_read_rulership_false_mod_mid: "False Lunar Rulership Relevation" #NT!
+ moon_read_rulership_false_mod_major: "Major False Lunar Rulership Relevation" #NT!
+ moon_read_rulership_false_mod_huge: "Grand False Lunar Rulership Relevation" #NT!
+ moon_guidance_war_mod_minor: "Minor Aervalr's Guidance (War)" #NT!
+ moon_guidance_war_mod_mid: "Aervalr's Guidance (War)" #NT!
+ moon_guidance_war_mod_major: "Major Aervalr's Guidance (War)" #NT!
+ moon_guidance_war_mod_huge: "Perfect Aervalr's Guidance (War)" #NT!
+ moon_guidance_wealth_mod_minor: "Minor Aervalr's Guidance (Wealth)" #NT!
+ moon_guidance_wealth_mod_mid: "Aervalr's Guidance (Wealth)" #NT!
+ moon_guidance_wealth_mod_major: "Major Aervalr's Guidance (Wealth)" #NT!
+ moon_guidance_wealth_mod_huge: "Perfect Aervalr's Guidance (Wealth)" #NT!
+ moon_guidance_scheme_mod_minor: "Minor Aervalr's Guidance (Scheme)" #NT!
+ moon_guidance_scheme_mod_mid: "Aervalr's Guidance (Scheme)" #NT!
+ moon_guidance_scheme_mod_major: "Major Aervalr's Guidance (Scheme)" #NT!
+ moon_guidance_scheme_mod_huge: "Perfect Aervalr's Guidance (Scheme)" #NT!
+ moon_guidance_scheme_discovery_mod_minor: "Minor Aervalr's Guidance (Watchfulness)" #NT!
+ moon_guidance_scheme_discovery_mod_mid: "Aervalr's Guidance (Watchfulness)" #NT!
+ moon_guidance_scheme_discovery_mod_major: "Major Aervalr's Guidance (Watchfulness)" #NT!
+ moon_guidance_scheme_discovery_mod_huge: "Perfect Aervalr's Guidance (Watchfulness)" #NT!
+ moon_guidance_learn_mod_minor: "Minor Aervalr's Guidance (Learning)" #NT!
+ moon_guidance_learn_mod_mid: "Aervalr's Guidance (Learning)" #NT!
+ moon_guidance_learn_mod_major: "Major Aervalr's Guidance (Learning)" #NT!
+ moon_guidance_learn_mod_huge: "Perfect Aervalr's Guidance (Learning)" #NT!
+ moon_guidance_war_false_mod_minor: "Minor False Aervalr's Guidance (War)" #NT!
+ moon_guidance_war_false_mod_mid: "False Aervalr's Guidance (War)" #NT!
+ moon_guidance_war_false_mod_major: "Major False Aervalr's Guidance (War)" #NT!
+ moon_guidance_war_false_mod_huge: "Disastrous False Aervalr's Guidance (War)" #NT!
+ moon_guidance_wealth_false_mod_minor: "Minor False Aervalr's Guidance (Wealth)" #NT!
+ moon_guidance_wealth_false_mod_mid: "False Aervalr's Guidance (Wealth)" #NT!
+ moon_guidance_wealth_false_mod_major: "Major False Aervalr's Guidance (Wealth)" #NT!
+ moon_guidance_wealth_false_mod_huge: "Disastrous False Aervalr's Guidance (Wealth)" #NT!
+ moon_guidance_scheme_false_mod_minor: "Minor False Aervalr's Guidance (Scheme)" #NT!
+ moon_guidance_scheme_false_mod_mid: "False Aervalr's Guidance (Scheme)" #NT!
+ moon_guidance_scheme_false_mod_major: "Major False Aervalr's Guidance (Scheme)" #NT!
+ moon_guidance_scheme_false_mod_huge: "Disastrous False Aervalr's Guidance (Scheme)" #NT!
+ moon_guidance_scheme_discovery_false_mod_minor: "Minor False Aervalr's Guidance (Watchfulness)" #NT!
+ moon_guidance_scheme_discovery_false_mod_mid: "False Aervalr's Guidance (Watchfulness)" #NT!
+ moon_guidance_scheme_discovery_false_mod_major: "Major False Aervalr's Guidance (Watchfulness)" #NT!
+ moon_guidance_scheme_discovery_false_mod_huge: "Disastrous False Aervalr's Guidance (Watchfulness)" #NT!
+ moon_learn_false_mod_minor: "Minor False Aervalr's Guidance (Learning)" #NT!
+ moon_learn_false_mod_mid: "False Aervalr's Guidance (Learning)" #NT!
+ moon_learn_false_mod_major: "Major False Aervalr's Guidance (Learning)" #NT!
+ moon_learn_false_mod_huge: "Disastrous False Aervalr's Guidance (Learning)" #NT!
+ divination_diplomacy_mod_minor: "Minor Revelation (Diplomacy)" #NT!
+ divination_diplomacy_mod_mid: "Revelation (Diplomacy)" #NT!
+ divination_diplomacy_mod_major: "Major Revelation (Diplomacy)" #NT!
+ divination_diplomacy_mod_huge: "Cosmic Secret (Diplomacy)" #NT!
+ divination_intrigue_mod_minor: "Minor Revelation (Intrigue)" #NT!
+ divination_intrigue_mod_mid: "Revelation (Intrigue)" #NT!
+ divination_intrigue_mod_major: "Major Revelation (Intrigue)" #NT!
+ divination_intrigue_mod_huge: "Cosmic Secret (Intrigue)" #NT!
+ divination_martial_mod_minor: "Minor Revelation (Martial)" #NT!
+ divination_martial_mod_mid: "Revelation (Martial)" #NT!
+ divination_martial_mod_major: "Major Revelation (Martial)" #NT!
+ divination_martial_mod_huge: "Cosmic Secret (Martial)" #NT!
+ divination_stewardship_mod_minor: "Minor Revelation (Stewardship)" #NT!
+ divination_stewardship_mod_mid: "Revelation (Stewardship)" #NT!
+ divination_stewardship_mod_major: "Major Revelation (Stewardship)" #NT!
+ divination_stewardship_mod_huge: "Cosmic Secret (Stewardship)" #NT!
+ divination_learning_mod_minor: "Minor Revelation (Learning)" #NT!
+ divination_learning_mod_mid: "Revelation (Learning)" #NT!
+ divination_learning_mod_major: "Major Revelation (Learning)" #NT!
+ divination_learning_mod_huge: "Cosmic Secret (Learning)" #NT!
+ boneshaping_mod: "Boneshaping" #NT!
+ boneshaping_mod_minor: "Lesser Boneshaping" #NT!
+ boneshaping_mod_mid: "Boneshaping" #NT!
+ boneshaping_mod_major: "Greater Boneshaping" #NT!
+ boneshaping_mod_huge: "Master Boneshaping" #NT!
+ channel_the_rift_overtaxed_mod: "Channeling Exhaustion" #NT!
+ channel_the_rift_frayed_mod: "Frayed Mind" #NT!
+ wayline_modifier: "[wayline|E]" #NT!
+ wayline_modifier_desc: "This area lies on a [wayline|E], a natural conduit of magical force that can serve as a potent source of arcane power for those with the skill to utilize it.\n\n#E Magic#!:@magic_icon!#positive_value; +0.5#!#W /month#!" #NT!
+ wayline_intersection_modifier: "[wayline|E] Intersection" #NT!
+ wayline_intersection_modifier_desc: "Two [waylines|E] (the [tower_wayline|E] and the [northern_wayline|E]) cross each other's paths here, creating an exceptionally powerful magical resonance.\n\n#E Magic#!:@magic_icon!#positive_value; +2#!#W /month#!" #NT!
+ antimagic_field: "Antimagic Field" #NT!
+ antimagic_field_desc: "This area is so utterly devoid of magical potential that even the mightiest sorcerer struggles so much as to cast a cantrip here.\n\n#E Monthly Magic#!:@magic_icon!#negative_value; -200%#!" #NT!
+ arcane_fallout: "Arcane Fallout" #NT!
+ arcane_fallout_desc: "Placeholder.\n\n#E Magic#!:@magic_icon!#positive_value; +1#! per month\n\n#E Magic#!:@magic_icon!#positive_value; +10%#!" #NT!

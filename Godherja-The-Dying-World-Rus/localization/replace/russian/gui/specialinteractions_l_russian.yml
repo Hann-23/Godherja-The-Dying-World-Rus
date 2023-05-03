@@ -1,0 +1,6 @@
+﻿l_russian:
+ CONTRACT_LOW_TAXES_REASON: "Low Noble Obligations: $VALUE|=+0$" #NT!
+ CONTRACT_HIGH_TAXES_REASON: "High Noble Obligations: $VALUE|=+0$" #NT!
+ high_obligations: "High Noble [obligations|E]" #NT!
+ normal_obligations: "Normal Noble [obligations|E]" #NT!
+ low_obligations: "Low Noble [obligations|E]" #NT!

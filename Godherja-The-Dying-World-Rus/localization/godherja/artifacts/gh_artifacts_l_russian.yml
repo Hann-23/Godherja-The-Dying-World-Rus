@@ -1,0 +1,786 @@
+﻿l_russian:
+ gh_helmet_black_sun_name: "Helm of the Black Sun" #NT!
+ gh_helmet_black_sun_description: "The mask of Nicanoneus 'the Black Sun'. While relatively unknown, his campaigns in the rush west and his dogged faith in his men led to his soldiers deifying him. Nicanoneus, knowing opportunity when he saw it, decided to use their love for his own ends. This beautiful helm was crafted for that end, hiding Nicanoneus' battle scars while setting him out as an otherworldly figure." #NT!
+  
+ gh_armor_black_sun_name: "Armor of the Black Sun" #NT!
+ gh_armor_black_sun_description: "The armor of Nicanoneus 'the Black Sun'. While relatively unknown, his campaigns in the rush west and his dogged faith in his men led to his soldiers deifying him." #NT!
+ gh_helmet_skull_helmet_name: "Skull Helmet" #NT!
+ gh_helmet_skull_helmet_description: "This grim piece of headwear was made by Gorassos 'Skull-Taker' from the skulls of the numerous foes he felled in battle." #NT!
+ talavara_name: "Talavāra Vanēlāmākīr" #NT!
+ talavara_description: "The Talavāra Vanēlāmākīr, also known as 'the Sword of the Painted', is the most ancient marker of Rahikaya kingship. With it, the worthy can claim the throne of all Kafasali." #NT!
+ broken_crown_name: "Piece of the Broken Crown" #NT!
+ broken_crown_description: "#size:15 The Marcher Crown was broken into four pieces by High King Gardfrei den va Seignon at the Council of Clois, who, when presented with his children's demands to choose a successor, proclaimed that whoever put it back together could have the throne 'for all he cared'. Since then the pieces have become a symbol for [chevalie|E]'s lost glory, and many await the day that a suitable ruler could piece together crown and realm both." #NT!
+ crown_of_chevalie: "The Crown of [chevalie|E]" #NT!
+ crown_of_chevalie_description: "Restored by the one true ruler of [chevalie|E], the crown of the Marchers of [chevalie|E] is once again a symbol of unity. One can only hope that this new line of kings can maintain the sanctity of the crown, and guard the northern border against the necromantic darkness beyond." #NT!
+ artifact_sacrifical_dagger_name: "[owner.GetTitledFirstNamePossessiveNoTooltip] Aversarian Sacrifical Dagger" #NT!
+ artifact_sacrifical_dagger_description: "A [newly_created_artifact.GetFeatureText( 'blade_metal' )] dagger of [SCOPE.Custom('ArtifactQuality')] craftsmanship. [newly_created_artifact.Custom('ArtifactDaggerDecoration')] The blade itself is [newly_created_artifact.GetFeatureText( 'sacrifical_decoration' )].\n\n$artifact_sacrifical_dagger_explanation$ $artifact_sacrifical_dagger_age$" #NT!
+ artifact_sacrifical_dagger_explanation: "Sacrifical daggers were long used in [aversaria|E] for both religious and magical purposes. Countless rituals involve a sacrifice to be offered, and in Aversaria, nothing was considered stronger than blood." #NT!
+ artifact_sacrifical_dagger_age: "This piece was likely made around the year [owner.MakeScope.Var('dagger_age').GetValue|0]." #NT!
+ feature_sacrifical_decoration_magical_runes: "decorated with magical runes on all sides" #NT!
+ feature_sacrifical_decoration_magical_geometric_shapes: "decorated with magically-attuned geometric shapes" #NT!
+ feature_sacrifical_decoration_the_purest: "decorated with an elaborate rendition of the Purest and First Men" #NT!
+ feature_sacrifical_decoration_the_sea_tower: "decorated with an elaborate rendition of the Sea Tower" #NT!
+ feature_sacrifical_decoration_mountain_sun_iconography: "decorated with iconography of the old Mountain-Sun Temple" #NT!
+ feature_sacrifical_decoration_cups: "decorated with images of cups" #NT!
+ feature_sacrifical_decoration_moons: "decorated with images of [aervalr|E]" #NT!
+ feature_sacrifical_decoration_dragons: "decorated with red dragon motifs" #NT!
+ feature_sacrifical_decoration_battle: "decorated with scenes of battle" #NT!
+ feature_sacrifical_decoration_blood_drops: "decorated with blood drops" #NT!
+ feature_sacrifical_decoration_flowers: "decorated with floral motifs" #NT!
+ feature_sacrifical_decoration_rivers: "decorated with intertwining rivers" #NT!
+ feature_sacrifical_decoration_lions: "decorated with lion motifs" #NT!
+ feature_sacrifical_decoration_chimerae: "decorated with chimera motifs" #NT!
+ feature_sacrifical_decoration_mayikprolollan: "decorated with symbols marking the property of the [mayikrata|E]" #NT!
+ feature_sacrifical_decoration_heraldry: "decorated with the heraldry of a likely long-dead noble house" #NT!
+  # Staffs 
+ magic_staff_power_name: "#E Magic#!:@magic_icon!" #NT!
+ magic_staff_power_desc: "[magic|E] gained from powerful artifacts" #NT!
+ weapon_staff_inspiration_description: "a staff" #NT!
+ weapon_staff_inspiration_name: "staff" #NT!
+ artifact_staff: "Staff" #NT!
+ artifact_staff_name: "$artifact_name_prefix$ [newly_created_artifact.GetFeatureText( 'staff_characteristic' )|U] [newly_created_artifact.GetFeatureText( 'staff_material' )] Staff" #NT!
+ artifact_staff_description: "A staff of [SCOPE.Custom('ArtifactQuality')] craftsmanship. It is [newly_created_artifact.GetFeatureText( 'staff_decoration' )] and [newly_created_artifact.Custom('ArtifactStaffFocusCharacteristic')].\n\n$artifact_staff_explanation$" #NT!
+ artifact_bone: "Bone" #NT!
+ artifact_bone_artifact_name: "$artifact_name_prefix$ [newly_created_artifact.GetFeatureText( 'bone_type' )|U] Bone" #NT!
+ artifact_bone_artifact_description: "A [SCOPE.Custom('ArtifactQuality')] bone, it is smooth to the touch." #NT!
+ artifact_bone_staff: "Bone Staff" #NT!
+ artifact_bone_staff_name: "$artifact_name_prefix$ [newly_created_artifact.GetFeatureText( 'staff_characteristic' )|U] [newly_created_artifact.GetFeatureText( 'bone_constitution' )] Bone Staff" #NT!
+ artifact_bone_staff_description: "A bone staff of [SCOPE.Custom('ArtifactQuality')] craftsmanship, it is [newly_created_artifact.GetFeatureText( 'bone_staff_type' )]. The staff is [newly_created_artifact.GetFeatureText( 'staff_decoration' )] and [newly_created_artifact.Custom('ArtifactBoneStaffFocusCharacteristic')].\n\n$artifact_bone_staff_explanation$" #NT!
+ artifact_bone_staff_explanation: "Some [dead_magi|E] are known to be able to form powerful staves from the skeletal remains of living things. These staves can range from a length no larger than a hand to powerful scepters taller than their user." #NT!
+ artifact_staff_explanation: "Many [magi|E] benefit from the use of a focus for their magic, such as the staff, which is either imbued with magical power by their user or made from materials that the user can draw from." #NT!
+ feature_staff_material_ash: "Ashwood" #NT!
+ feature_staff_material_pine: "Pine" #NT!
+ feature_staff_material_fir: "Fir" #NT!
+ feature_staff_material_elm: "Elm" #NT!
+ feature_staff_material_walnut: "Walnut" #NT!
+ feature_staff_material_maple: "Maple" #NT!
+ feature_staff_material_fleroya: "Fleroya" #NT!
+ feature_staff_material_sycomore: "Sycomore" #NT!
+ feature_staff_material_padauk: "padauk" #NT!
+ feature_staff_material_sal: "sal" #NT!
+ feature_staff_material_rosewood: "Rosewood" #NT!
+ feature_staff_material_satinwood: "Satinwood" #NT!
+ feature_staff_material_teak: "Teak" #NT!
+ feature_staff_material_yew: "Yew" #NT!
+ feature_staff_material_olivewood: "Olivewood" #NT!
+ feature_staff_material_coromandel: "Coromandel" #NT!
+ feature_staff_material_ebony: "Ebony" #NT!
+ feature_staff_material_oak: "Oak" #NT!
+ feature_staff_material_bone: "Bone" #NT!
+ feature_staff_material_wrought_iron: "Wrought Iron" #NT!
+ feature_staff_material_bronze: "Bronze" #NT!
+ feature_staff_material_steel: "Steel" #NT!
+ feature_staff_material_living_wood: "Living Wood" #NT!
+ feature_staff_material_silver: "Silver" #NT!
+ feature_staff_material_ebon_steel: "Ebon Steel" #NT!
+ feature_staff_material_blue_steel: "Blue Steel" #NT!
+ feature_staff_material_gold: "Gold" #NT!
+ feature_staff_material_hell_steel: "Hell Steel" #NT!
+ feature_staff_material_dragonbone: "Dragonbone" #NT!
+ feature_staff_focus_characteristic_none: "is without any focus at its tip" #NT!
+ feature_staff_focus_characteristic_skull: "is topped with a grimacing skull, engraved with ritual symbols" #NT!
+ feature_staff_focus_characteristic_twisted_hand: "is topped by a blackened hand, twisting inward and clutching a shining gem" #NT!
+ feature_staff_focus_characteristic_shrunken_head: "is capped by a shrunken head, hardly recognizable as once human" #NT!
+ feature_staff_focus_characteristic_glass_prism: "is topped by a glass prism which seems to reflect all known colors, and some not" #NT!
+ feature_staff_focus_characteristic_twitching_eye: "ends with a great eye that twitches as it glances to and fro" #NT!
+ feature_staff_focus_characteristic_incenseburner: "is capped by an incense burner that burns off pleasing and certainly magical smoke" #NT!
+ feature_staff_focus_characteristic_ruby: "encircles a glittering blood-red ruby at its end" #NT!
+ feature_staff_focus_characteristic_blood_sphere: "is finished by a large glass globe that sloshes gently with crimson blood" #NT!
+ feature_staff_focus_characteristic_magical_ice: "encages a chunk of magical ice at its end, mist lightly wafting off but the focus never melting" #NT!
+ feature_staff_focus_characteristic_diamond: "encircles a massive and doubtlessly valuable diamond at its end" #NT!
+ feature_staff_focus_characteristic_lich_fist: "is capped by the skeletal fist of a long-dead Lich. Sometimes it even seems to twitch, though only when one is not watching" #NT!
+ feature_staff_focus_characteristic_spiritgem: "is topped by a disturbing grey gem, within which if one looks closely, they may just see pleading eyes staring back.." #NT!
+ feature_staff_focus_characteristic_bloodcrystal: "holds a shimmering chunk of blood crystal, whispering to ears that shall never listen of an age in which none shall ever remember" #NT!
+ feature_staff_characteristic_twisted: "twisted" #NT!
+ feature_staff_characteristic_flawless: "flawless" #NT!
+ feature_staff_characteristic_disturbing: "disturbing" #NT!
+ feature_staff_characteristic_simple: "simple" #NT!
+ feature_staff_characteristic_whispering: "whispering" #NT!
+ feature_staff_characteristic_radiating: "radiating" #NT!
+ feature_staff_decoration_inlaid: "inlaid with images of various beasts" #NT!
+ feature_staff_decoration_bare: "bare of any true decoration" #NT!
+ feature_staff_decoration_bejeweled: "bejewled with dozens of glittering gemstones" #NT!
+ feature_staff_decoration_seals: "covered in wax seals and scrolls of prayer" #NT!
+ feature_staff_decoration_inlaid_incantations: "inlaid with glowing, runic incantations" #NT!
+  # BONES 
+ magic_bone_power_name: "#E Magic#!:@magic_icon!" #NT!
+ feature_bone_staff_type_small_animal: "made from a small animal" #NT!
+ feature_bone_staff_type_medium_animal: "made from a medium sized animal" #NT!
+ feature_bone_staff_type_large_animal: "made from a large animal" #NT!
+ feature_bone_staff_type_human_bone: "made from another human being" #NT!
+ feature_bone_staff_type_monster_bone: "made from some monstrosity" #NT!
+ feature_bone_staff_type_grafted_bone: "made from various pieces and shards grafted together" #NT!
+ feature_bone_staff_focus_characteristic_skull: "is topped with a grimacing skull, engraved with ritual symbols" #NT!
+ feature_bone_staff_focus_characteristic_hand: "is topped with a skeletal hand, twisting inward and clutching a fuligin stone" #NT!
+ feature_bone_staff_focus_characteristic_lichfist: "is capped by the skeletal fist of a long-dead Lich. Sometimes it even seems to twitch, though only when one is not watching" #NT!
+ feature_bone_staff_focus_characteristic_animalskull: "is topped with an animal skull, whose maw is engraved with ritual symbols" #NT!
+ feature_bone_staff_focus_characteristic_none: "is without any focus at its tip" #NT!
+ feature_bone_staff_focus_characteristic_magical_ice: "encages a chunk of magical ice at its end, mist lightly wafting off but the focus never melting" #NT!
+ feature_bone_staff_focus_characteristic_diamond: "encircles a massive and doubtlessly valuable diamond at its end" #NT!
+ feature_bone_staff_focus_characteristic_ruby: "encircles a glittering blood-red ruby at its end" #NT!
+ feature_bone_constitution_weak: "Weak" #NT!
+ feature_bone_constitution_healthy: "Healthy" #NT!
+ feature_bone_constitution_strong: "Strong" #NT!
+ feature_bone_constitution_cracked: "Cracked" #NT!
+ feature_bone_constitution_spiked: "Spiked" #NT!
+ feature_bone_type_small_animal: "Small Animal" #NT!
+ feature_bone_type_medium_animal: "Medium-sized Animal" #NT!
+ feature_bone_type_large_animal: "Large Animal" #NT!
+ feature_bone_type_human_bone: "Human" #NT!
+ feature_bone_type_monster_bone: "Monster" #NT!
+ feature_bone_type_grafted_bone: "Grafted" #NT!
+ artifact_bone_dagger_name: "$artifact_name_prefix$ [newly_created_artifact.GetFeatureText( 'bone_constitution' )] Bone Dagger" #NT!
+ artifact_bone_dagger_description: "A bone dagger of [SCOPE.Custom('ArtifactQuality')] craftsmanship, it is [newly_created_artifact.GetFeatureText( 'bone_dagger_type')]." #NT!
+ feature_bone_dagger_type_small_animal: "made from a small animal" #NT!
+ feature_bone_dagger_type_medium_animal: "made from a medium sized animal" #NT!
+ feature_bone_dagger_type_large_animal: "made from a large animal" #NT!
+ feature_bone_dagger_type_human_bone: "made from another human being" #NT!
+ feature_bone_dagger_type_monster_bone: "made from some monstrosity" #NT!
+ feature_bone_dagger_type_grafted_bone: "made from various pieces and shards grafted together" #NT!
+ artifact_bone_regalia_name: "$artifact_name_prefix$ [newly_created_artifact.GetFeatureText( 'bone_constitution' )] Bone Regalia" #NT!
+ artifact_bone_regalia_description: "A bone regalia of [SCOPE.Custom('ArtifactQuality')] craftsmanship, it is [newly_created_artifact.GetFeatureText( 'bone_regalia_type')]." #NT!
+ feature_bone_regalia_type_small_animal: "made from a small animal" #NT!
+ feature_bone_regalia_type_medium_animal: "made from a medium sized animal" #NT!
+ feature_bone_regalia_type_large_animal: "made from a large animal" #NT!
+ feature_bone_regalia_type_human_bone: "made from another human being" #NT!
+ feature_bone_regalia_type_monster_bone: "made from some monstrosity" #NT!
+ feature_bone_regalia_type_grafted_bone: "made from various pieces and shards grafted together" #NT!
+ artifact_bone_spear_name: "$artifact_name_prefix$ [newly_created_artifact.GetFeatureText( 'bone_constitution' )] Bone Spear" #NT!
+ artifact_bone_spear_description: "A bone Spear of [SCOPE.Custom('ArtifactQuality')] craftsmanship, it is [newly_created_artifact.GetFeatureText( 'bone_spear_type')]." #NT!
+ feature_bone_spear_type_small_animal: "made from a small animal" #NT!
+ feature_bone_spear_type_medium_animal: "made from a medium sized animal" #NT!
+ feature_bone_spear_type_large_animal: "made from a large animal" #NT!
+ feature_bone_spear_type_human_bone: "made from another human being" #NT!
+ feature_bone_spear_type_monster_bone: "made from some monstrosity" #NT!
+ feature_bone_spear_type_grafted_bone: "made from various pieces and shards grafted together" #NT!
+ artifact_bone_crown_name: "$artifact_name_prefix$ [newly_created_artifact.GetFeatureText( 'bone_constitution' )] Bone Crown" #NT!
+ artifact_bone_crown_description: "A bone crown of [SCOPE.Custom('ArtifactQuality')] craftsmanship, it is [newly_created_artifact.GetFeatureText( 'bone_crown_type')]." #NT!
+ feature_bone_crown_type_small_animal: "made from a small animal" #NT!
+ feature_bone_crown_type_medium_animal: "made from a medium sized animal" #NT!
+ feature_bone_crown_type_large_animal: "made from a large animal" #NT!
+ feature_bone_crown_type_human_bone: "made from another human being" #NT!
+ feature_bone_crown_type_monster_bone: "made from some monstrosity" #NT!
+ feature_bone_crown_type_grafted_bone: "made from various pieces and shards grafted together" #NT!
+ artifact_fire_arbalest: "Fire Arbalest" #NT!
+ artifact_bone_spear: "Bone Spear" #NT!
+ artifact_bone_dagger: "Bone Dagger" #NT!
+ artifact_bone_crown: "Bone Crown" #NT!
+ artifact_bone_regalia: "Bone Regalia" #NT!
+ artifact_skull: "Skull" #NT!
+ artifact_skull_title: "[killed.GetTitledFirstNamePossessive] [newly_created_artifact.GetFeatureText( 'bone_constitution' )] Skull" #NT!
+  # Fogged 
+ fogged_artifact_name: "Fogged [newly_created_artifact.GetNameNoTooltip]" #NT!
+ fogged_artifact_desc: "[newly_created_artifact.GetDesc]\n\nThose with weak wills cower and sweat in the presence of this unnatural item." #NT!
+ fogged_artifact_inspiration_name: "Fogged [this_artifact.GetNameNoTooltip]" #NT!
+ fogged_artifact_inspiration_desc: "[this_artifact.GetDesc]\n\nThose with weak wills cower and sweat in the presence of this unnatural item." #NT!
+  # Magical Infusion 
+ artifact_magically_infusion_name: "Magically Infused [newly_created_artifact.GetNameNoTooltip]" #NT!
+ artifact_magically_infusion_description: "[newly_created_artifact.GetDesc]\n\n[SCOPE.Custom('ArtifactMagicalInfusion')]" #NT!
+ artifact_magical_infusion_bitter_1: "All who come into contact with this item seem to notice a bitter aftertaste in their saliva afterwards." #NT!
+ artifact_magical_infusion_bitter_2: "All who come into contact with this item notice a bitter aftertaste hangs on their tongue." #NT!
+ artifact_magical_infusion_bitter_3: "All who come into contact with this item note a bitter taste that gags." #NT!
+ artifact_magical_infusion_nutty_1: "All who come into contact with this item seem to notice a nutty after taste in their saliva." #NT!
+ artifact_magical_infusion_nutty_2: "All who come into contact with this item notice a nutty taste hanging in their mouth." #NT!
+ artifact_magical_infusion_nutty_3: "All who come into contact with this item taste a nutty flavor across their teeth." #NT!
+ artifact_magical_infusion_sour_1: "All who come into contact with this item seem to notice a sour aftertaste in their saliva." #NT!
+ artifact_magical_infusion_sour_2: "All who come into contact with this item notice a sour flavor that perspirates the cheeks." #NT!
+ artifact_magical_infusion_sour_3: "All who come into contact with this item taste a sour flavor that contorts the mouth." #NT!
+ artifact_magical_infusion_sweet_1: "All who come into contact with this item seem to notice a sweet aftertaste in their saliva." #NT!
+ artifact_magical_infusion_sweet_2: "All who come into contact with this item notice a sweet flavor that coats the teeth." #NT!
+ artifact_magical_infusion_sweet_3: "All who come into contact with this item taste a sweet flavor that disgusts after too long." #NT!
+ artifact_magical_infusion_smokey_1: "All who come into contact with this item seem to notice a smokey flavor that hangs in the nostrils." #NT!
+ artifact_magical_infusion_smokey_2: "All who come into contact with this item notice a smokey flavor that coats the back of the throat." #NT!
+ artifact_magical_infusion_smokey_3: "All who come into contact with this item taste a smokey flavor that remembers its fire." #NT!
+ artifact_magical_infusion_flickers_1: "Most who come into contact with this item seem to notice flickers in the corner of their eyes." #NT!
+ artifact_magical_infusion_flickers_2: "All who come into contact with this item notice flickers in the corner of their eyes." #NT!
+ artifact_magical_infusion_flickers_3: "All who come into contact with this item  notice flickers crossing their vision." #NT!
+ artifact_magical_infusion_crosseye_1: "Most who come into contact with this item seem to go cross-eyed." #NT!
+ artifact_magical_infusion_crosseye_2: "All who come into contact with this item have trouble focusing their vision." #NT!
+ artifact_magical_infusion_crosseye_3: "All who come into contact with this item have trouble seeing the color in their surroundings." #NT!
+ artifact_magical_infusion_hawkeye_1: "Most who come into contact with this item seem to notice more in their surroundings." #NT!
+ artifact_magical_infusion_hawkeye_2: "All who come into contact with this item notice minute details more easily." #NT!
+ artifact_magical_infusion_hawkeye_3: "All who come into contact with this item can see small bugs and distant objects clearly." #NT!
+ artifact_magical_infusion_shadows_1: "Most who come into contact with this item seem to see shadows." #NT!
+ artifact_magical_infusion_badhear_1: "Most who come into contact with this item seem to have trouble hearing quiet noises." #NT!
+ artifact_magical_infusion_badhear_2: "All who come into contact with this item seem to struggle hearing low conversations." #NT!
+ artifact_magical_infusion_badhear_3: "All who come into contact with this item seem to have difficulties hearing loud noises." #NT!
+ artifact_magical_infusion_goodhear_1: "Most who come into contact with this item seem to be able to hear quiet whispers from afar." #NT!
+ artifact_magical_infusion_goodhear_2: "All who come into contact with this item seem to be able to catch whispers through the walls." #NT!
+ artifact_magical_infusion_goodhear_3: "All who come into contact with this item seem to hear everything around them." #NT!
+ artifact_magical_infusion_whispers_1: "Most who come into contact with this item seem to hear whispers where there aren't any." #NT!
+ artifact_magical_infusion_whispers_2: "All who come into contact with this item seem to hear distant howls." #NT!
+ artifact_magical_infusion_whispers_3: "All who come into contact with this item seem to hear conversations from the item." #NT!
+ artifact_magical_infusion_drums_1: "Most who come into contact with this item can hear a drum within their chest." #NT!
+ artifact_magical_infusion_drums_2: "All who come into contact with this item can hear their blood flow." #NT!
+ artifact_magical_infusion__sweetly_1: "Most who come into contact with this item notice a faintly sweet aroma." #NT!
+ artifact_magical_infusion_sweetly_2: "All who come into contact with this item smell a sweet aroma on the air." #NT!
+ artifact_magical_infusion_sweetly_3: "All who come into contact with this item smeel a sweet aroma that overpowers the senses." #NT!
+ artifact_magical_infusion_foul_1: "Most who come into contact with this item notice a faintly foul smell." #NT!
+ artifact_magical_infusion_foul_2: "All who come into contact with this item smell a foul odor on the air." #NT!
+ artifact_magical_infusion_foul_3: "All who come into contact with this item smell a foul odor that gags." #NT!
+ artifact_magical_infusion_smoke_1: "Most who come into contact with this item notice a faintly smokey aroma." #NT!
+ artifact_magical_infusion_smoke_2: "All who come into contact with this item smell a smokey aroma on the air." #NT!
+ artifact_magical_infusion_smoke_3: "All who come into contact with this item smell a fresh fire." #NT!
+ artifact_magical_infusion_rain: "Most who come into contact with this item notice the faint smell of fresh rain." #NT!
+ artifact_magical_infusion_mud: "All who come into contact with this item notice the faint smell of fresh mud." #NT!
+ artifact_magical_infusion_sand: "All who come into contact with this item notice the faint smell of dry sand." #NT!
+ artifact_magical_infusion_mildew: "Most who come into contact with this item notice the faint smell of mildew." #NT!
+ artifact_magical_infusion_decay: "All who come into contact with this item notice the faint smell of decay." #NT!
+ artifact_magical_infusion_fecal: "All who come into contact with this item notice an overwhelming smell of faeces." #NT!
+ artifact_magical_infusion_tinge_1: "All who come into contact with this item feel a tingle in their hand." #NT!
+ artifact_magical_infusion_tinge_2: "All who come into contact with this item feel a tickle in their elbow." #NT!
+ artifact_magical_infusion_tinge_3: "All who come into contact with this item feel a kink in their arm." #NT!
+ artifact_magical_infusion_numb_1: "All who come into contact with this item lose feeling in the tips of their fingers." #NT!
+ artifact_magical_infusion_numb_2: "All who come into contact with this item lose feeling in the tips of their toes." #NT!
+ artifact_magical_infusion_hue_1: "Most who come into contact with this item seem to notice a green hue in their surroundings." #NT!
+ artifact_magical_infusion_hue_2: "All who come into contact with this item seem to notice a blue hue in their surroundings." #NT!
+ artifact_magical_infusion_hue_3: "All who come into contact with this item seem to notice a red hue in their surroundings." #NT!
+ artifact_magical_infusion_veins_1: "Most who come into contact with this item seem to see veins in others." #NT!
+ artifact_magical_infusion_veins_2: "All who come into contact with this item seem to see the bones in others." #NT!
+ artifact_magical_infusion_veins_3: "All who come into contact with this item seem to see the meat of their own insides." #NT!
+ fund_inspiration.5011.f: "A magnificent staff that can further my magic." #NT!
+ # Books 
+ feature_book_title_five_fathers: "$artifact_name_prefix_artifact_scope$ Compendum of the Five Fathers" #NT!
+ feature_book_topic_five_fathers: "A truly massive compendum of the five foundational texts of [GetReligionByKey('sarradonian_religion').GetName] - the Pillars of Virtue, the Records of the First Warden's Court, the Book of Days, the Visions and the Marginalia." #NT!
+ feature_book_title_seventy_seven_cities: "Seventy-Seven Cities of the Greater World" #NT!
+ feature_book_topic_seventy_seven_cities: "Demetrios of Chumau was a renowned half [chevalien|E], half [aversarian|E] writer whose two hundred books, treatises, pamphlets, poems, plays, and more cemented him as possibly the most important writer of the 10th century. His 'Seventy-Seven Cities' story both described in intricate detail and provided a short tale of what Demetrios considered the 77 greatest cities of the world, and even contains intricate descriptions of cities as far as the center of Adabyss or the mysterious lands of Shaxi-Shahai in the far east, all of which Demetrios claims to have seen for himself." #NT!
+ feature_book_title_kam_gutaran: "The Kam-Gutaran" #NT!
+ feature_book_topic_kam_gutaran: "An ancient book transcribed from an even older scroll allegedly written from stories from the Ayyar tribes some 2000 years ago, the Kam-Guataran describes a hundred different trades in intricate detail in an effort to encourage people to master their profession. While many of the tips on individual careers are outdated, the general life advice is surprisingly powerful and exceedingly insightful." #NT!
+ feature_book_title_dragon_tale: "The Dragon Tale" #NT!
+ feature_book_topic_dragon_tale: "'The Dragon Tale' is the famous history of the War of the Thousand Dragons by [aversarian|E] scholar Dexon Divantax. Describing in accuracy the civil war between the evil Dhaxiken and the good Letigano, along with the thieving dragons stealing the power of [magic|E] from good [aversarians|E] and joining Dhaxiken in attempting to destroy the memory of the Purest. While generally hailed as an extremely accurate and well researched, if slightly dramaticized, story of the war, several critics have noted that the author (despite claiming to have written it during the war) is actually a pen name for Davon Davaonter, who lived some 500 years after the events of the story." #NT!
+ feature_book_title_pocket_guide_to_aversaria: "A Pocket Guide to Aversaria" #NT!
+ feature_book_topic_pocket_guide_to_aversaria: "A series of pamphlets describing the various cultures and traditions of each of the main governances of Aversaria: Etepezea, Opakhasia, Malcois, Aironoi, Kalathipsomi (both Megos and Mikros), the Apokiakas, and Sarradon. While at least a century out of date (describing Aversaria as "A booming and prospering Empire with no end of its growth in sight"), it's still a somewhat enjoyable read." #NT!
+ feature_book_title_skullofthepurest: "Skull of the Purest" #NT!
+ feature_book_topic_skull_of_the_purest: "A 9th century compendum and commentary of a series of now-lost scrolls by the 4th century Thebastrine cleric Vias Valon. The scrolls in question documented visions witnessed with the aid of the "Skull of the Purest", an enigmatic artifact of unknown origin, fate or even confirmed existence.\n\nThe visions themselves are often barely coherent, their subject most often (where there is a discernable subject at all) acts of extreme cruelty and boundless depravity committed by a race identified by Vias as the 'First Men' of Aagiokratan myth. Interspersed throughout the book are also commentaries and analyses of the unknown 9th century author of the compendum, most often from a theological standpoint.\n\nRegardless of the visions' veracity, there is a profoundly unsettling quality to the text, and some of the more sinister chapters are considered difficult to even read entirely. At multiple points, the 9th century compiler alludes to the existence of more scrolls by Vias Valon, but these were not included in the tome for reasons unknown." #NT!
+ feature_book_title_amazingslaves: "Amazing Slaves and Where to Find Them" #NT!
+ feature_book_topic_amazingslaves: "Half fiction, half travel guide, this [aversarian|E] story is what happens when a [magi|E] attempts to make a pamphlet for slaving tips an enjoyable fantastical epic. Generally failing in both regards, the long multi-page description of the thighs of [sarradonian|E] women or the bizarre fourteen page hate filled rant about the author's rival Demetrios in the section about Iyrossi stewardship are generally strong indicators of what to expect from the story. The opening page, somehow, makes note that this specific copy is number 877 of over 2000." #NT!
+ feature_book_title_thedragontale: "The Dragon Tale" #NT!
+ feature_book_topic_thedragontale: "'The Dragon Tale' is the famous history of the War of the Thousand Dragons by [aversarian|E] scholar Dexon Divantax. Describing in accuracy the civil war between the evil Dhaxiken and the good Letigano, along with the thieving dragons stealing the power of [magic|E] from good [aversarians|E] and joining Dhaxiken in attempting to destroy the memory of the Purest. While generally hailed as an extremely accurate and well researched, if slightly dramaticized, story of the war, several critics have noted that the author (despite claiming to have written it during the war) is actually a pen name for Davon Davaonter, who lived some 500 years after the events of the story." #NT!
+ feature_book_title_afynehestoree: "A Fyne Hestoree od de Lunde av Cheavalee" #NT!
+ feature_book_topic_afynehestoree: "An old tome in an older version of what may be the modern [chevalien|E] language, or possibly a new tome written by the average farmer. Whether the result of age or illiteracy, the book gives a rather fantastical description of [chevalien|E] history from [Concept('chevalie_migratory_era','the era of the Gallicader tribes')|E] all the way to the [red_river_war|E], where it suddenly ends as if never having been finished." #NT!
+ feature_book_title_grimoireofmethinoire: "Grimoire of Methinoire Methiclyz" #NT!
+ feature_book_topic_grimoireofmethinoire: "The Grimoire of Methinoire Methiclyz was captured by the Marcher knight Gaoff den va Spencer during the legendary raid on the Bloodmourn Stronghold. On a quest to free captives from a recent raid and avenge his brother Teryn, Gaoff and his band of Anti-Magi slew Methinoire and destroyed his undead army during a battle in the liches throneroom. The Grimoire was brought back south, and legends say was sold to the reigning Aautokratir for such a sum that the economy of Chevalie soon collapsed, overwhelmed by the glut of gold and silver." #NT!
+ feature_book_title_burntgrimoire: "Burnt Grimoire" #NT!
+ feature_book_topic_burntgrimoire: "This book has had quite a beating, its edges burnt and dozens of pages missing (either torn out or burned). Still, the full power it once held is still noticeable, and it radiates a surprising amount of magical energy for so ugly a vessel." #NT!
+ feature_book_title_bookofmaps: "Book of Maps" #NT!
+ feature_book_topic_bookofmaps: "This tome proudly bears the mark of the Aversarinas Enosi Cartegraftekon, or the Aversarian Cartographer's Union. Aversarian scholars are the only ones in the world (besides possibly the Adabyssians) who are known to have shown an interest in crafting truly accurate maps of the world, using a mix of science and magic to find the exact shape and size of every land mass. Traditionally, however, the territory of the Aautokrata is shown as far larger than it is in reality." #NT!
+ feature_book_title_fraternityofmagi: "A Response to 'The Fraternity of Magi'" #NT!
+ feature_book_topic_fraternityofmagi: "This book is a sentence by sentence response to a series of treatises written by the Aversarian Magi Nothox Oemanaid named 'The Fraternity of Magi', a series of increasingly frantic essays suggesting the formation of a true Magocracy in Aversaria wherein all Magi live equally regardless of religion and culture.\n\nThe book, written by one of Oemanaid's many critics, offers a rather scathing commentary like most of the responses to the publication. Primarily, the book details the ridiculousness of the idea that Aversaria is not already a Magi Fraternity. The author points out how only Aversarians are human, and only Magi truly human, and that all humans of the Aautokrata have the highest standard of life and greatest amount of rights in the known world. The author ends the book by suggesting that Oemanaid has sympathies for his slaves, and suggests they be executed for their beliefs." #NT!
+ feature_book_title_aversariancookinginformational: "Aversarian Cooking Informational" #NT!
+ feature_book_topic_aversariancookinginformational: "This is a rather... impractical cookbook discussing how to craft the finest and greatest eats in Aversaria. Seemingly written for the nobility, the costs of each ingredient is so exuberant that even the Aautokratir was most likely put out by them. Not only that, but each dish requires such obscene magical powers to craft that'd they'd each require hundreds of sacrifices. The book best serves as a conversation piece, primarily about how the Aversarians didn't end the world sooner. And vinegar in lead jars! Vinegar in lead jars!?" #NT!
+ feature_book_title_compiledworksofvenodau: "Compiled Works of Abaël Venodau" #NT!
+ feature_book_topic_compiledworksofvenodau: "This book is a compilation of the most popular plays, tales, poems and treatises written by the eccentric 9th century writer Abaël Venodau. The most prominent being the eleven satirical and romantic poems that established the concept of a unified Chevalien identity and of the Fraternity of Chevalie." #NT!
+ feature_book_title_marcherswhatdoweknow: "Marchers: What do WE Know?" #NT!
+ feature_book_topic_marcherswhatdoweknow: "This book is a creation of the Aversarian Legon Parthanos who famously argued for over thirty years about the need for an invasion of Chevalie. Marchers: What do WE Know goes over the supposed reasons for his arguments, from the Chevalien use of Anti-Magic martial arts as proof that they are beings from hell and to why the masculinity of their woman would make them poor pleasure slaves." #NT!
+ feature_book_title_mightmagibuxommaiden: "The Mighty Magi and the Buxom Maiden: XXI" #NT!
+ feature_book_topic_mightmagibuxommaiden: "This popular Aversarian novel is one of many in a long running series of Aversarian romance novels. Generally considered ridiculous in other corners of the world, the story goes into tantalizing and sometimes obscene detail about the simmering lust between an exceptionally muscular and masculine bare chested magi and an exceptionally large-breasted naive and virginal princess who falls into his arms. It is considered disgusting and written at a child level by almost all who read and condemn it, and owned by most." #NT!
+ feature_book_title_fiftyshades: "Fifty Shades of Blood" #NT!
+ feature_book_topic_fiftyshades: "This Aversarian romance novel is both popular and widely banned in polite society. Detailing a tantalizing romance between a dominating Aversarian magi and his demure slave, the book goes into excruciating detail about the methods of his romance and the obscene leather contraptions he uses in it. Widely considered poorly written and disgusting, it nonetheless seems to sell in obscene amounts." #NT!
+ feature_book_title_adabyssianreport: "Adabyssian Report on Northern Civilization" #NT!
+ feature_book_topic_adabyssianreport: "This booklet contains a long-form report from what appears to have been Adabyssian spies sent north to study the north and its people's in preparation for eventual invasion. With references to reports going back some 300 years before Frodbrokna, the report generally concludes with agreement that the denizens of Sarradon and Aversaria are most likely a distant cousin to humanity, and have more in common with humanlike animals than they do civilized species." #NT!
+ feature_book_title_taleofsirkoeveux: "The Tale of Sir Koeveux" #NT!
+ feature_book_topic_taleofsirkoeveux: "The Tale of Sir Koeveux is a novelization of an old Marcher legend about the old Sir Koeveux, who became so lost in his old age that he somehow ended up north of the Lichdoms. The tales tell of Sir Koeveux fighting an immortal Ice Queen, her sinister Magi chancellors and knights, and an evil group of aliens with pitch-black skin. It is a cute tale, normally told to children for being so amusingly ridiculous." #NT!
+ feature_book_title_imperialcivilwar: "The Imperial Civil War: Beginning to End" #NT!
+ feature_book_topic_imperialcivilwar: "This book covers the Aversarian Civil War that took place between Aautokratir Aeschraes and Aautokratia Axiaothea for the last two decades of the 1100s. The book, instead of yet another fantastical retelling, is actually an extremely dry list of biographies, maps and witness accounts made to serve as a studyguide for future generations." #NT!
+ feature_book_title_nameofthewindknockoff: "The Sound of the Air" #NT!
+ feature_book_topic_nameofthewindknockoff: "The Sound of the Air is an Aversarian romance and adventure story that was somewhat popular before Frodbrokna. Detailing the rise of Aautokratir Aaeschraes and painting him as the most talented youth in Aversaria's history, the book puts much focus on his time rising through the [mayikrata|E] and the rivalry and romance with his great counterpart Axiaothea. While very popular, and quickly followed by a sequel, the series never received a third book after Frodbrokna and the end of the world." #NT!
+ feature_book_title_tragedyinoejeynica: "A Tragedy in Oejeynica" #NT!
+ feature_book_topic_tragedyinoejeynica: "This series of essays by a mixed Aversarian-Chevalien group of scholars is an extensive look into what exact decisions and events came together to lead to the Sorrowing of Oejeynica and the rise of the Lichdoms. While possibly overly detailed and dry, the book does include some insights in magic and how to prevent some of its worst excesses." #NT!
+ feature_book_title_sarradoniansteps: "1001 Sarradonian Steps" #NT!
+ feature_book_topic_sarradoniansteps: "1001 Sarradonian Steps is a series of tales each taking place from the perspective of a member of a different Ritualist sect. While a deep cultural icon for Ritualists and generally considered one of the high marks of Sarradonian literature, the book was nevertheless woefully dated within decades of its publication, many of the sects mentioned in the book having either died out, collapsed into obscurity, split over some doctrinal dispute, merged with another sect, or been replaced by entirely new branches of the religion" #NT!
+ feature_book_title_chivalriccode: "The Chivalric Code" #NT!
+ feature_book_topic_chivalriccode: "The Chivalric Code is a treatise on how a true Chevalien knight should act in their day to day life. The book gives an entire quarter of its pages to how to fight and treat others honorably, the role of the peasantry in society, sage knowledge on protecting the weak and defeating the undead before spending the remaining 300 pages detailing profitable foreign markets, suggestions for negotiating mercenary payments, and known foreign fighting styles and how to kill their practitioners." #NT!
+ feature_book_title_griffonbestiary: "Griffon Bestiary" #NT!
+ feature_book_topic_griffonbestiary: "This bestiary is a description of various breeds of Chevalien Griffons and suggestions on how best to breed and train them. Once considered a necessity for many would-be Griffon Riders, today it is considered more worthy as a historical piece, several now-extinct breeds detailed with very well drawn pictures and diagrams." #NT!
+ feature_book_title_lasthippogriff: "The Last Hippogriff" #NT!
+ feature_book_topic_lasthippogriff: "The Last Hippogriff is a tragic series of writings by Marcher scholar Abaël Venodau, detailing his study and befriending of the Hippogriff Ketti, believed to have been the last of his species. The book reviews Ketti's bloodline and briefly describes the history of the Hippogriffs from their first discovery by the Chevaliens to their extinction from overuse in the Marcher-Aversarian Wars." #NT!
+ feature_book_title_howtomaimadragon: "How to Maim a Dragon" #NT!
+ feature_book_topic_howtomaimadragon: "An Aversarian guidebook on how to best kill a dragon, it is a hotly debated topic whether the book was written before or after the invasion by the dragon Arthenax. The distinction, they argue, would decide whether the manual is an accurate guide inspired by the killing, or a fantastical look at a boy killing his pet dragon." #NT!
+ feature_book_title_loveanddeathinasiupoli: "Love and Death in Asiupoli" #NT!
+ feature_book_topic_loveanddeathinasiupoli: "Love and Death in [GetTitleByKey('c_asiupoli').GetNameNoTier] is an Aversarian series of short stories about a doubt ridden ex-legionnaire in the city of [GetTitleByKey('c_asiupoli').GetNameNoTier] working as hired muscle. Hired by a beautiful Magi to find the killer of her husband, the hard-boiled Legionnaire navigates a dangerous web of the city's crime families as well as his own inner demons." #NT!
+ feature_book_title_silastavroaliveordead: "Silas Stavro - Alive or Dead!?" #NT!
+ feature_book_topic_silastavroaliveordead: "Silas Stavro - Alive or Dead!? is a series of Chevalien books and political pamphlets written by Abaël Venodau, an increasingly erratic Chevalien scholar, towards the end of his life. The series remains highly controversial to this day due to its seeming support of Stavroist beliefs; it claims that the Arch-Lich Silas Stavro was not, in fact, killed in his invasion of the Marches and defeat at the hands of the [champion_of_chevalie|E], but is actually alive and regularly visits the author to enjoy tea and debates about romance literature. Its detractors claim it is a good example of Venodau having gone insane, its supporters claim it as a fantastic metaphorical piece." #NT!
+ feature_book_title_howtoreadabook: "How to Read a Book" #NT!
+ feature_book_topic_howtoreadabook: "A short story meant to teach Marcher peasants how to read and write, this copy is one of hundreds created at the behest of Lord Kavin Shevaun, who desired to perform great reforms to improve the lives of the peasantry but is also regarded as having no understanding of rulership. It appears that Shevaun realized his error soon after the final book was created, because he abruptly ended the program and demanded all copies of the book be burned." #NT!
+ feature_book_title_purelifefifth: "On Living a Pure Life - Fifth Edition" #NT!
+ feature_book_topic_purelifefifth: "'On Living a Pure Life' is one of dozens of books written by the Agionist Saint Katharitos. Focusing on how to live one's life to the fullest and how to act and treat others in order to most enjoy it, many of the suggestions in the book seem to outright contradict most of Agionist canon.\n\nThe edits created over the various editions have recontextualized and outright rewritten several verses as an attempt to translate it to the modern vernacular, explaining that the doctrinal conflicts were simply poor translations or misunderstandings of the text, and also explaining how as the most prolific of the Agionist Saints, Katharitos would inevitably have some minor contradictions." #NT!
+ feature_book_title_purebodyfifth: "On Earning a Pure Body - Fifth Edition" #NT!
+ feature_book_topic_purebodyfifth: "'On Earning a Pure Body' is one of dozens of books written by the Agionist Saint Katharitos. Focusing on how to perfect one's body and what it truly means to possess pure blood and a pure body, many of the suggestions in the book seem to outright contradict most of Agionist canon.\n\nThe edits created over the various editions have recontextualized and outright rewritten several verses as an attempt to translate it to the modern vernacular, explaining that the doctrinal conflicts were simply poor translations or misunderstandings of the text, and also explaining how as the most prolific of the Agionist Saints, Katharitos would inevitably have some minor contradictions." #NT!
+ feature_book_title_puremindfifth: "On Creating a Pure Mind - Fifth Edition" #NT!
+ feature_book_topic_puremindfifth: "'On Creating a Pure Mind' is one of dozens of books written by the Agionist Saint Katharitos. Focusing on how to train ones mind to be free of impurity such as hatred and doubt and to maintain a positive outlook on life, many of the suggestions in the book seem to outright contradict most of Agionist canon.\n\nThe edits created over the various editions have recontextualized and outright rewritten several verses as an attempt to translate it to the modern vernacular, explaining that the doctrinal conflicts were simply poor translations or misunderstandings of the text, and also explaining how as the most prolific of the Agionist Saints, Katharitos would inevitably have some minor contradictions." #NT!
+ feature_book_title_purelifefirst: "On Living a Pure Life - First Edition" #NT!
+ feature_book_topic_purelifefirst: "'On Living a Pure Life' is one of dozens of books written by the Agionist Saint Katharitos. Focusing on how to live one's life to the fullest and how to act and treat others in order to most enjoy it, many of the suggestions in the book seem to outright contradict most of Agionist canon.\n\nThis first edition is an extremely rare and often destroyed copy written in the Saint's own hand, making it explicitly clear how much his own views differ from the modern interpretation. One of the most notable verses says, "And let it be known that the heart of a Puremost life is held thusly: In Kindness, in Compassion, and in Love. Love your friends and family, and your neighbor, and all you meet, for only love will save your soul."" #NT!
+ feature_book_title_purebodyfirst: "On Earning a Pure Body - First Edition" #NT!
+ feature_book_topic_purebodyfirst: "'On Earning a Pure Body' is one of dozens of books written by the Agionist Saint Katharitos. Focusing on how to perfect one's body and what it truly means to possess pure blood and a pure body, many of the suggestions in the book seem to outright contradict most of Agionist canon.\n\nThis first edition is an extremely rare and often destroyed copy written in the Saint's own hand, making it explicitly clear how much his own views differ from the modern interpretation. One of the most notable verses says, "It is not the place of us to judge those whose bodies are born weaker, or smaller, or twisted or perfect. The purity of the body is not judged by its structure or its form, it is judged by the care and love it is presented and crafted with. The most beautiful of courtesans may contain within them the cruelest and more impure of hearts, and the deformed slave may yet remain more pure than even the mightiest of Magi lords."" #NT!
+ feature_book_title_puremindfirst: "On Creating a Pure Mind - First Edition" #NT!
+ feature_book_topic_puremindfirst: "'On Creating a Pure Mind' is one of dozens of books written by the Agionist Saint Katharitos. Focusing on how to train ones mind to be free of impurity such as hatred and doubt and to maintain a positive outlook on life, many of the suggestions in the book seem to outright contradict most of Agionist canon.\n\nThis first edition is an extremely rare and often destroyed copy written in the Saint's own hand, making it explicitly clear how much his own views differ from the modern interpretation. One of the most notable verses says, "To focus your mind is not to fall into the clutches of magic or to remove all thoughts of compassion and kindness. It is to remain open to new ideas, to be eager in your experience of foreign ways, and to maintain the purety of thought to take in strange and disagreeable views and discover the fellow human who speaks them."" #NT!
+ feature_book_title_travelsofsaintkatharitos: "The Travels of Saint Katharitos" #NT!
+ feature_book_topic_travelsofsaintkatharitos: "This book is an alleged autobiography by Saint Katharitos on various tales of his travels throughout Aversaria, [chevalie|E], and [sarradon|E]. The book is at various parts nail-biting, profound and heart-wrenching, and is generally considered Katharitos' seminal work. Widely reprinted, it is considered one of the greatest tales in the modern circulation, and plays based on it are widely popular around the known world." #NT!
+ feature_book_title_hundredtrials: "The Hundred Trials of Saint Sansia" #NT!
+ feature_book_topic_hundredtrials: "The Hundred Trials of Saint Sansia is a semi-biographical fiction novel following the life of the Agionist Saint Sansia, from her birth to her sacrifice at the Stand of the Martyrs. Each chapter revolves around a different period of her life and one of the many legendary trials she faced at each step of her troubled path from orphan to Saint. While many of the ending messages seem outright contradictory to modern Agionist beliefs, each ending also has a section written by the author reconciling it with Agionist doctrine by explaining that the writing is strictly metaphorical." #NT!
+ feature_book_title_bookofremedies: "Thysian Book of Remedies" #NT!
+ feature_book_topic_bookofremedies: "This book is a listing of medicines and remedies for various diseases and ailments both common and obscure, with treatment using both the best ingredients available and local ingredients in order to ensure even the peasantry would benefit from its knowledge. While generally respected and still widely circulated by healers, the book spends a controversial amount of time demanding the reader 'washeth the hands which heal in the purest of waters and alcohol', a step to most treatments most contemporary readers see as little more than time wasting ceremony. Another chapter often removed for not being worth the cost of printing speaks of diseases actually being spread by small evil beings unseen by human eyes, which is regularly regarded as a fit of fantasy when compared to the scientifically proven existence of humours." #NT!
+ feature_book_title_saintslawbook: "Saint Dikaynos' Lawbook" #NT!
+ feature_book_topic_saintslawbook: "This book is a collection of court hearings attended by or laws created by the Agionist Saint Dikaynos in his time as a jurist. Unlike most [aversarian|E] jurists, Dikaynos always insisted that the law must be held independently of ones station, race, or beliefs, and would commonly go through great pains to ensure that he was not privy to the names, gender or bloodline of whoever he was trying. While many of the cases have been stricken from the record or censored, it nonetheless serves as a strong guide to following the Dikaynsite method of fair law and jury." #NT!
+ feature_book_title_rendingthechains: "Rending the Chains by Saint Calysto" #NT!
+ feature_book_topic_rendingthechains: "Rending the Chains is a series of essays supposedly written by Saint Calysto, patron saint of the Agionist Order of Saint Calysto's Key. The book primarily discusses how best to free the needy, most notably by forcefully enslaving them and then having them work to the death in service to true believers so that they may be reincarnated in the next life as a true believer, who may then go to a positive afterlife upon death. While often held as gospel by Calysto's Order, many academics believe the book was actually written several decades after his death by non-Agionist writers." #NT!
+ feature_book_title_calystojournal: "Personal Journal of Calysto 'Wave-Rider'" #NT!
+ feature_book_topic_calystojournal: "This weather-beaten booklet is little more than a few dozen dirtied pages sealed within a cracked leather binding. Proclaiming the words 'Calysto Cayne' in harsh lettering on the first page, it appears to be the personal journal of Agionist Saint and (forgotten by most) infamous pirate Calysto.\n\nThe journal gives little time for personal writings or philosophy, and the sentence structure and spelling of much of it suggests Saint Calysto either possessed some form of impediment or had only became literate late in his life. What the journal does contain is numerous charts, graphs, musings and ideas. All show the signs of a master and inventive sailor capable of designing improvements to his own ships, but they also show several lists of various slave pens and marketplaces around Aversaria, with lists of best times to attack and shipping routes to transport slaves to safe havens. The end of the book even lists various [aversarian|E] nobles and magistrates, listing them as notable proponents of slavery to be 'eliminated'." #NT!
+ feature_book_title_eosianswordcharter: "The Eosian Sword Charter" #NT!
+ feature_book_topic_eosianswordcharter: "The Eosian Sword Charter is allegedly a book on swordsmanship and how to act during battle by Saint Eos himself. The book covers many techniques ranging from strange and foreign with inspirations claimed from the far corners of the world to which Eos himself traveled as a mercenary, but also on the fair and respectful treatment of enemies and allies. In contrast to many contemporary guides to warfare from Aversaria, the Eosian Sword Charter strongly focuses on respect, mercy, and the protection of the weak as 'righteous' ways to follow one's life and reach perfection as a warrior and as the personification of bravery." #NT!
+ feature_book_title_dangerofathousandstars: "The Danger of a Thousand Stars" #NT!
+ feature_book_topic_dangerofathousandstars: "This book, by an unknown author, seems at first glance to be nothing besides a book of mad ramblings and esoteric conspiracy theories about ancient gods and cruel alien masters. Despite this, many followers of the Forgotten Saint claim that the book was actually penned by Their hand, and many followers carry a copy at all times, believing the Forgotten Saint was an all-seeing being." #NT!
+ feature_book_title_bannediyrossipoetry: "Book of Banned Iyrossi Poetry" #NT!
+ feature_book_topic_bannediyrossipoetry: "This book is a compilation of a hundred or so poems written by various Iyrossi literati over the breadth of the millenia since their enslavement. The vast majority of the poetry is either incredibly risqué or waxes at great length about the reflection of [aversarian|E] blood in moonlight. While strictly banned by the Aversarians, it is Iyrossi who have historically destroyed such books, fearing Aversarian retribution against their entire culture." #NT!
+ feature_book_title_aeladaxostoaeliadias: "From Aeladaxos to Aeliadias" #NT!
+ feature_book_topic_aeladaxostoaeliadias: "This book is a widely printed publication detailing the life of Aautokratia Aeliadias who ruled during the late 6th century. While the book covers most of her long reign, her victory over the dragon Arthenax, her massive magical powers and her shining reputation as the last competent Aautokratia before the [chaos_of_the_seventh_century|E], over half of it is focused upon her famous origins. Primarily, it discusses the rather controversial point of her life, wherein she was born as Aeladaxos, but disliking her station as a male used powerful magics to embrace womanhood.\n\nThe author, one Magi Kalathros, spends much of his time criticizing the detractors of the concept. Kalathros points out that Aeliadias was an Aversarian Magi and performed her transformation completely of her own power and volition, and argues that it should be celebrated as a true feat of magic and self-expression." #NT!
+ feature_book_title_pillarsofaversaria: "The Pillars of Aversaria" #NT!
+ feature_book_topic_pillarsofaversaria: "Widely regarded as one of the most comprehensive overviews of proto-[aversarian|E] history, this thick tome is a compendum of the chronicles of what were, at the time of its writing in the early 4th century, considered the eleven greatest city-states of Aversarian antiquity - Orasbael ([GetTitleByKey('c_oraispol').GetNameNoTier]), Tylion (Tylossos), Valthronax (Vathassus), Andron (Andryn), Phaelax (Phanurias), Kadmeibael (modern location uncertain), Gortillon (Gortillai), Naucipax (Naupyrna), Phanara (Phanara), Aspomnox (Aspomnos) and Vysbael (Byzaropol)." #NT!
+ feature_book_title_ontheoriginofmankind: "On the Origin of Mankind" #NT!
+ feature_book_topic_ontheoriginofmankind: "This book covers the ever-ongoing, fiery controversy over whether the Aversarians had originated in Palitake or Tower Isle, or at least the status of the debate when the work was issued by the Archailogikos Sokonias in 1125. Though it attempts to take a moderate approach and provides arguments for both stances, a discerning scholar can clearly sense the pro-Palitakian bias." #NT!
+ feature_book_title_ataleoftwocities: "A Tale of Two Cities" #NT!
+ feature_book_topic_ataleoftwocities: "Part epic, part chronicle, this work follows the thousand odd years of legendary rivalry between the proto-[aversarian|E] city states of Valthronax and Andron. Starting from their mythical foundation in around 900 BI by two estranged siblings, it goes on to cover the fabled (and likely wildly exaggerated) three hundred years of war between the two thereafter, their opposing roles in the wars of the Crimson-Teal Leagues, their perpetual side switching in the Arakkariac invasion, their simultaneous betrayals of Parthe'naxa at Kallane due to the mistaken belief that she was conspiring with one against the other, and finally their downfall to Dhace'nox's armies in 7 BI, who had beforehand tricked both into fighting the other." #NT!
+ feature_book_title_parthenaxiada: "Parthenaxiada" #NT!
+ feature_book_topic_parthenaxiada: "A biography of the early first century BI warlord-sorceress Parthe'naxa, and a chronicle of the four wars that would come to bear her name. After a brief introduction of her relatively obscure origins, it starts the action in earnest with her 91 BI coup in Phanara, her subsequent conquest of most of Tower Isle in the ensuing first and second Parthenaxic wars, her invasion of Palitake in 79 BI in the third, her defeat at Kallane four years afterward and exile, her miraculous and brilliant return to power in 73 BI and finally, ultimate defeat and suicide at the Amis River in 68 BI.\n\nThough her attempt to unite the warring proto-[aversarian|E] would come to naught, the two decades of unabated warfare and chaos would be the effective nail in the coffin to the already declining city-state system, and would lay the groundwork for Dhace'nox's own unification. " #NT!
+ feature_book_title_edgeoftheworld: "The World's Edge" #NT!
+ feature_book_topic_edgeoftheworld: "Tylo'nax, perhaps the most legendary corsair in all [aversarian|E] history, supposedly painted the coasts of the world red two thousand years ago, before swindling the Ranthus archipelago from its natives and founding his namesake city there. Though the myths surrounding his countless adventures are almost certainly an amalgam of various tales accrued in the vast timeframe between his supposed reign and their compilation, and his very existence rests upon dubious evidence at best, the fantastic stories have remained popular throughout history." #NT!
+ feature_book_title_ninetysixtasks: "Ninety-Six Tasks of Nauci'axa" #NT!
+ feature_book_topic_ninetysixtasks: "A beautiful, flowery poem retelling the legendary ninety-six tasks undertaken by the unnamed hero who sought the demi-goddess Nauci'axa's hand in marriage in the distant dawn of time, before supposedly founding a family - and the city of Naucipax (modern Naupyrna), with her. At various points joyful, heart-wrenching, grim, and in places outright bizarre and seemingly disjointed, the work is widely lauded as one of the crowning jewels of [aversarian|E] literature. Notably, many of the tasks recorded within are, in fact, rituals of power used by Magi to this very day." #NT!
+ feature_book_title_natureofmatter: "Treatise on the Nature of Matter" #NT!
+ feature_book_topic_natureofmatter: "A rare collection of the surviving works of Khaci'aex, an enigmatic fourth century BI Aspomnox philosopher, mathematician and Magi. Originally from Vysbael, his unorthodox school of thought preached a controversial dogma that eventually saw his flight to nearby Aspomnox, whose liberal rulers were more content with allowing him to teach his doctrine in peace. Today, he is mostly remembered for his role in founding the earliest known [aversarian|E] Dead Magic academy, and Aspomnox would continue to hold the distinction of being the only major proto-Aversarian city state to primarily utilize it rather than Living Magic for the rest of its independent history." #NT!
+ feature_book_title_ruleofmany: "Rule of Many" #NT!
+ feature_book_topic_ruleofmany: "An analysis and praise of the curious political system of the proto-[aversarian|E] polis Naupyrna, written by a local aristocrat known as Kleistha'nax, likely in the late first century BI. Centuries of rule by the Aestraex dynasty were brought to an end in 421 BI when the city's last monarch, the vicious, insane and likely cannibalistic Dioxa'nex the Younger was toppled in a bloody coup that saw his entire line perish. After being unable to decide upon a successor, the citizenry instead decided to pick a ruler from their ranks by gathering up all magi and having each cast their vote upon who should take the throne. Thus was elected Eliaxa'cea, a great reformer and the first to bear the title of Arkonir.\n\nAfter a successful 17 year reign, rather than passing the throne to her eldest child as would be the norm, she decided to instead recall the magi of the city to yet again pick a successor - and thus a 400 year long tradition was born." #NT!
+ feature_book_title_thedragonandthescorpion: "The Dragon and the Scorpion" #NT!
+ feature_book_topic_thedragonandthescorpion: "An epic retelling of the attempted conquest of the proto-[aversarian|E] world by the Sarradonian Arakkaraic Empire in the late 4th century BI. The tale, while certainly awe-inspiring, doesn't make even a modicum of an attempt at objectivity. The primary enemy general, Naramaššin ad Hadur, breaker of Naucipax, burner of Orasbael, and butcher of Artexis, is especially smeared into near absurdity. Meanwhile, the deeds of the Aversarian defenders are exaggerated to rival those of the First Men themselves." #NT!
+ feature_book_title_arakkariacwar: "A History of the Arakkariac War" #NT!
+ feature_book_topic_arakkariacwar: "Unlike most other works on the topic, this dry and technical tome attempts to objectively analyze the Arakkariac War, which engulfed most of the proto-[aversarian|E] world from 338 BI to 332 BI.\n\nIt refutes numerous flawed views of the war that grip the popular imagination—for a start, that the Aversarians of Tower Isle were enslaved and ritually cannibalized after their conquest by the Arakkariacs in 393 BI. Second, that Naramaššin's invasion was completely unjustified, as disproven by the countless records of Orasbaeli, Valthronax, and Tylonic provocations in the years leading up to the conflict. Finally, the assertion that the Arakkariac realm was left shattered and in retreat after the Battle of Paelon Hill, instead painting it as an important, but ultimately relatively small clash that merely proved the unprofitability of continued conflict.\n\nFurthermore, the work posits that the conquest would likely have been successful regardless, had the empire not disintegrated in a bloody civil war after its monarch died in the same year as the battle." #NT!
+ feature_book_title_lostpolis: "The Lost Polis" #NT!
+ feature_book_topic_lostpolis: "An analysis of one of the greatest mysteries of early [aversarian|E] history—the complete disappearance of the hegemonic city-state of Kadmeibael sometime during the mid 2nd century BI. The last known record mentioning the city dates to 179 BI and notes no signs of decline or distress, but thereafter the previously major polis simply disappears from all record, forever.\n\nThe name of the settlement is not mentioned again until well into the 3rd century IS when Dioclea of Kacuse is the first to take note of the bizarre historical anomaly. Since then, numerous explanations have been put forward - a magical disaster, the effects of a particularly powerful Gedeora, but also more mundane causes - for example, intentional erasure from living memory after the loss of a war against one of its many rivals.\n\nEither way, its whereabouts remain unknown to this day, fuelling myths that the lost city is home to riches and power beyond human imagining." #NT!
+ feature_book_title_masenmalik: "The Fields of Pearls and Pits Full of Gold" #NT!
+ feature_book_topic_masenmalik: "The Fields of Pearls and Pits Full of Gold" #NT!
+ feature_book_title_mawtalmunininguide: "The Eternal Lord" #NT!
+ feature_book_topic_mawtalmunininguide: "Often considered the foundational text for the Mawtalmuninin sect of Ritualists, this morbid tome argues that Death itself is the only true power on Aeras. No other god has ever made themself so well known to the world's people as death has, and whilst anyone can doubt the existence of a diety, only the insane would doubt the existence of death. While suicide is not explicitly mandated—the Mawtalmuninin having not yet figured out how to spread their salvatory message from beyond the grave - the book does encourage living without care for one's continued wellbeing." #NT!
+ feature_book_title_expeditiontothenorth: "Expedition to the Northern Source: A Report" #NT!
+ feature_book_topic_expeditiontothenorth: "A comprehensive report on the 983 Aversarinas Enosi Cartegraftekon expedition to the source of the Northern Waylines. One of the only three known major attempts to undertake this feat, it is noteworthy due to also being the only one of which records still survive - the 1101 one vanishing without a trace, and records of the 531 expedition by the Kartharaddi going up in cinders with the destruction of the Imperium.\n\nThough it had begun with great optimism, the team of magi and explorers would rapidly encounter escalating difficulties, a hostile and bleak landscape, rising background magic levels and exposure sickness. Ultimately, the team was forced to turn back several hundred leagues short of their goal, noting that no tower was visible from their location, and concluding that the source might be buried, or of a fundamentally different nature than the Sea Tower, but certainly inaccessible.\n\nDisturbingly, several members of the expedition went delirious by the time the party turned back, and instead pressed on to their almost certain demise." #NT!
+ feature_book_title_howtheendbegan: "How The End Began" #NT!
+ feature_book_topic_howtheendbegan: "What begins as a mundane military log of Legio XXVI quickly turns into a chaotic assembly of notes, maps, and reports beginning in 1202. Though the frantic handwriting and annotiations are barely legible, it is one of the clearest glimpses into the origin and earliest sightings of the [fog|E].\n\nFirst speaking of the sudden appearance of large numbers of hitherto unknown tribal peoples from the continental interior, it then analyzes the bizarre and confused reports given by captives, and finally the first sightings of the phenomenon itself in 1203. The author, presumably the Legon, shines lights on his attempts to warn the government in [GetTitleByKey('c_oraispol').GetNameNoTier] of the oncoming threat, only to receive silence at best, or outright mockery and accusations of treason at worst.\n\nThe final report is dated to 1221, the writer apparently having been mortally wounded during a battle against hirtherto-uncontacted tribals marching northwards for some unknown purpose. The very last passage records the vow given by all present to no longer serve the whims of any petty Aautokratir, but the interests of all humanity, and that the only enemy they shall know henceforth will be no man, but the corrupting embrace of the Fog itself." #NT!
+ feature_book_title_refutation: "A Refutation of the Phantasmal Mist" #NT!
+ feature_book_topic_refutation: "An official inquiry by the [mayikrata|E] into the then newly emergent [fog|E], written in 1211 by a certain Master Procopion. To say that the matter is treated lightly would be an understatement, with the tone being more akin to a jape than an academic text.\n\nThe bulk of the work consists of a point by point refutation of the increasingly frantic pleas for support by Legon Iolianos of Legio XXVI 'Exodian', sent to both the [GetTitleByKey('e_mayikprolollan').GetNameNoTier] itself and the Aeschraeist administration of [GetTitleByKey('c_oraispol').GetNameNoTier]. Procopion's main arguments against the existence of the Fog are the unreliability of tribal witnesses, the intristic absurdity of a magical phenomenon not apparently associated with either the Living or Dead schools, the ability to ascribe many of the strange events sighted to more mundane reasons, and Iolianos' alleged Axiaotheaist sympathies. The idea of allowing barbarian tribes to migrate into Aversaria proper is treated with special mockery.\n\nNeedless to say, the work did not age well, and the [GetTitleByKey('e_mayikprolollan').GetNameNoTier] has quietly disowned it and Master Procopion a few decades after its publication." #NT!
+ feature_book_title_inquiryintothefog: "An Official Inquiry into the Matters of the Fog" #NT!
+ feature_book_topic_inquiryintothefog: "After Master Procopion's work was quietly blacklisted in 1235, the [mayikrata|E] launched yet another inquiry into the nature of the [fog|E], this time far more serious. In stark contrast to the previous edition, it never attempts to deny or even downplay its existence, and though the tone does its best to stay cold and academical, there are undeniable hints of urgency between the lines.\n\nThe booklet reports that all attempts by Magi sent out into Greater Aversaria to stall the Fog had been met with total failure, and that studies of its nature and origin yielded little information. Furthermore, it confirms previously unverified reports of tribal humans dwelling within, but remarks that all attempts at communication were met with hostility, and that the single living captive—who was virtually constantly attempting to commit suicide until they succeeded—spoke no language known to scholars or barbarian interpreters. \n\nFinally, it touches upon the rumours of a newly emergent, third school of magic associated with the Fog and used by tribal Magi, but makes no definitive judgement here, claiming that the current evidence is inconclusive at best." #NT!
+ feature_book_title_clockworkcity: "A Clockwork City" #NT!
+ feature_book_topic_clockworkcity: "The travelogues of the Chevalien waypriest Climent of Vascount, who received rare permission from the Kartharadd Imperator to visit their throne city in 427. The descriptions are almost utopian, speaking of a happy, loyal populace working in unison for the glory of their sovereign. Of course, this picture is in stark contrast with anything even unbiased scholars would say about the living conditions of the Imperium, leading many to dismiss the book as nothing but a propaganda piece written by Climent to ingratiate himself with his patron.\n\nOf much greater interest to the common reader, however, are the rather fascinating pages that talk about the city itself - an impressive metropole of marble and brass, with clockwork automata seemingly integrated into every facet of life. The credibility of these parts of the book have never been in question, for the Kartharaddi were widely known for their mastery of clockwork machinery.\n\nCuriously, though it would seem that the work originally referenced the name of the city several times, it is actually impossible to read these specific words. Depending on the reader, they are either simply blank gaps in the text, or garbled beyond recognition." #NT!
+ feature_book_title_annalsofblank: "The Annals and Lineages of ---------" #NT!
+ feature_book_topic_annalsofblank: "Widely postulated to have been the official history of the rulers of the Kartharaddi, the book is now practically worthless, as magical influences have rendered it completely devoid of useful information. Its contents vary based on the reader - some report that it is simply filled with nothing but blank pages, others that it is written in a language or script completely unknown to them, while another group claim that while the words are in their own tongue, the text seems to just be garbled nonsense with no discernible rhyme or reason, and that attempting to make sense of them leads to a splitting headache and feelings of nausea." #NT!
+ feature_book_title_whenaervalbleed: "When Aervalr Bled" #NT!
+ feature_book_topic_whenaervalbleed: "Written in 773 by retired Magi and veteran of the Kartharaddi wars Periaxis Leisistratos, the book is an analysis of the infamous events of the night of [night_of_the_bleeding_moon_date|E], of which the author was a firsthand witness of himself. Part of a legion sent deep into Kartharaddi territory at the time of the catastrophe, he describes the rapid death, and writhing agony that preceded it, of almost the entire Imperium in harrowing detail matched by virtually no other work.\n\nHe also goes on to cast doubts on the claims that the aautokrata had caused the attack itself. In the two decades following the night, despite seeking information from countless magi and higher-ups in the army, he has never actually located anyone that was aware of what would happen on that fateful day in advance - in fact, all of Aversaria's forces were seemingly caught completely flat-footed. Instead, Periaxis posits that what transpired was actually an attempt at a massive magical attack upon the Empire itself, and that the cataclysm was in fact intended for Etepezea, but failed for reasons unkown." #NT!
+ feature_book_title_jacotwaldisse: "The Life of Jacot den va Waldisse" #NT!
+ feature_book_topic_jacotwaldisse: "A melancholy tale of a fallen [antimagi|E], written by his best friend" #NT!
+ feature_book_title_bookofthefallen: "Book of the Fallen" #NT!
+ feature_book_topic_bookofthefallen: "The book is a listing of every name carved into the walls of the Crucible, the principle fortress on the border of [chevalie|E] and the [lichdoms|E]. It is customary for the comrades of fallen [antimagi|E] and soldiers who give their lives at the location to etch their names into the wall, sometimes with a short few words about them, and many pieces of Marcher poetry or literature discuss the wall in detail or use it as a metaphorical device. This booklet however, nearly 200 pages in length, eschews this to simply detail every name and any other sentences connected to it. While of little value to the casual reader, simply remarking upon its pages is quite the sobering experience." #NT!
+ feature_book_title_sjalvolkipoetry: "Book of Sjalvolki Poetry" #NT!
+ feature_book_title_skull_of_the_purest: "Skull of the Purest" #NT!
+ feature_book_topic_sjalvolkipoetry: "A book of Sjalvolki poetry written by the Chevalien scholar Mitheux Chridae as part of his series of books detailing his journies with the Sjalvolki peoples during their invasions of Aversaria, each chapter provides a collection of a different tribe's poetry. Unlike the poetry of most western cultures, Sjalvolki poetry tends to take the form of battlefield poetry (or, as the Sjalvolki have taken a liking to ships, sailing poetry), and tends to be rather anarchic in structure and prose. Still, many of the verses remain inciteful or bely an oft ignored thoughtfulness to many of the Sjalvolki warlords, with several poems by Cenware Witch-Breaker himself especially standing out, especially a surprisingly melancholy one composed on the field of the Elysian Pass." #NT!
+ feature_book_title_witchbreakerhero: "The Witch-Breaker, Hero of Heroes!" #NT!
+ feature_book_topic_witchbreakerhero: "This book, written by Chevalien scholar Mitheux Chridae during his long journeys with the Sjalvolki in an attempt to learn more about their culture, serves as a biography of Cenware Witch-Breaker for contemporary Marcher readers. The foreword claims that all information was provided by the Witch-Breaker himself, along with his contemporaries, and follows him from the legendary Dovahking in which he singlehandedly defeated all opposition (including his own brother) without killing a single man to claim his tribe to the Battle of the Elysian Pass where Chridade ended his journeys with the Sjalvolki.\n\nExtolling praise at nearly every possible moment, and containing several tales that are seemingly complete fantasy, Mitheux goes so far as to even add a chapter about how great a ruler he imagines Cenware would be and to fantasize about what it would be like to have him as a personal friend. Normally derided for such things, it nonetheless has received scholarly notice as the most notable contemporary attempt to document the legendary figure's life." #NT!
+ feature_book_title_chevalienknightinoraispol: "A Chevalien Knight in Oraispol, 1262" #NT!
+ feature_book_topic_chevalienknightinoraispol: "A Chevalien Knight in Oraispol, 1262, is a fantasy story by Chevalien scholar Mitheux Chridae imagining a Marcher knight named Maduex den va Chrisay in [GetTitleByKey('c_oraispol').GetNameNoTier] as the Sjalvolki conquer Aversaria around it. Maduex is exceptionally skilled with a blade, sharp with his tongue and wit, and stalwart of heart and in devotion to his Path, and battles evil [aversarian|E] Magi and warlords before joining the Sjalvolki to aid them in their fights. Maduex soon rises up the ranks, becomes the greatest of comrades with the Witch-Breaker himself, and then converts him to the Lifepath and becomes his Wayfather.\n\nThe most popular of Mitheux's works, the idea of imagining a history that isn't proved novel enough for the obvious... oddities in the narrative to be ignored, and it has since become popular for troubadors to reenact. Its popularity proved so great that it caused several Wayfathers to even attempt to travel with and convert the Sjalvolki themselves, to mixed results." #NT!
+ feature_book_title_treatiseofgoodpractice: "The Treatise of Good Practice" #NT!
+ feature_book_topic_treatiseofgoodpractice: "This treatise is the guiding book which establishes the generally accepted good standard for the education of Magi in Aversaria under the [mayikrata|E] teaching system. Initially written alongside the Concordial Pact after the Chaos of the Seventh Century, it has since seen nearly 400 official revisions by the [mayikrata|E] over the years, and serves as an incredibly detailed guideline for the science of magic and the best practices in the teachings of it." #NT!
+ feature_book_title_redlandsadventure: "Adventure in the Redlands" #NT!
+ feature_book_topic_redlandsadventure: "This book was published in the early 1100s IS by a possibly-fictional adventurer known as Lexenir, and claims to detail his journey through the Redlands of southern Aironoi. It paints a vivid picture of mysterious cults roaming the wastes, abducting the innocent for use in mysterious and sinister rituals to serve dark purposes. It tells of Lexenir's encounters with no less than 11 different cults, each of which possessed their own strange and violent traditions. These traditions, which range from ritual cannibalism to human sacrifice to drinking the blood of Redrunner settlers, are described in excruciating detail, as is his heroism in saving people from such terrible fates. The people of the Redlands are described in ways that make them sound less than human, claiming that they hide themselves during the day due to the sun's deadly light.\n\nThe book is accompanied by a series of drawings, which Lexanir claims are traditional Redlander art, consisting of complicated patterns of shapes, arranged in complicated patterns that seem to suggest great monsters in their curving, spiraling lines. The book was received with mixed acclaim, and many have claimed that Lexenir, and his story, are both faked. Nonetheless, it provides those who live across the far-flung Empire a taste of the mysterious Redlands." #NT!
+ feature_book_title_fourlodges: "The Four [lodges|E]" #NT!
+ feature_book_topic_fourlodges: "Written in the late 1100s IS by a Damotan scholar known solely as Mekha, The Four [lodges|E] is a history of the major social organizations that define Damotan life. The bulk of the book is focused on a detailed exploration of the events that gradually shifted the [rayakuux_orders|E] into the specialized social groupings they are today. From their foundation in 572 IS under Boqqar Datesh of the [olani_dynasty|E], to their subsequent role in the Second [tetenik|E], Mekha explores their initial functions and procedures, and how exactly they first became embroiled in politics on both the local and regional scale. Then, the writing focuses on the local scale, with the gradual divergence of individual chapters from the original mission, their official split in 682 IS being described as a mere confirmation. It then traces their roles as the [boqqarut|E] declined, with their powers growing at the expense of the state, and explains how by the time of the Third [tetenik|E], several large [lodges|E] had effectively ceased following all but the most direct orders. According to Mekha, the [zalreb_dynasty|E] was practically irrelevant, and the [etami_tetenik|E] was largely the result of their erosion of centralized power, an interpretation which is seen as controversial at best, though the work is well-respected in general." #NT!
+ feature_book_title_godslaverdictations: "Personal Dictations of Chernivmala Cheskovara" #NT!
+ feature_book_topic_godslaverdictations: "This tome is a Chevalien copy of the recovered 'personal dictations' of Kartharaddi [lich|E] Chernivmala 'God-Slaver' Cheskovara. Achieving Lichdom in the 7th century after journeying north and escaping her people, Cheskovara would proceed to become one of the Lichdoms many 'minor Liches', who spent most of her time struggling to carve out a necropolis and fight petty territorial wars with neighboring Liches without ever amassing enough power to mount a proper invasion south.\n\nThis memoir was likely written by several undead servants who, judging by several pages filled with curses and angered rebuttals of their 'brainless idiocy', were resurrected just to constantly follow Chernivmala and write down her words. On page twelve of over two thousand (though half of them have long been lost and forgotten due to most scholars considering the writing to be 'subpar'), the Lich states that this is because "My glorious words will one day be beautiful holy texts! The people will worship me as divinity once I cast down their pathetic Gods! They must have their scripture! My words shall not be lost to history!"\n\nThe text was recovered by Anti-Magi Sir Krenaud den Vy, who ventured north with the knightly [peti_gisreddean|E] band of 'the Companions of the Winking Rose', and assaulted Cheskovara in her fortress of 'Everblight'. While they of course ensured the tale sounded suitably epic, a technical reading of their reports and a cross-referencing of the various accounts make it clear that Cheskovara was already seemingly on the verge of death when they found her, and her army had largely been destroyed earlier, as mentioned in several passages." #NT!
+ feature_book_title_thekardwenwhatweknow: "The Kardwen: What We Know" #NT!
+ feature_book_topic_thekardwenwhatweknow: "This report was written by Legan Cromus Rex on his encounters with the strange Kardwen. Previously thought just fabrications of the superstitous Sjalvolki, this report was the first official acknowledgement of the people by any form of Imperial authority. It starts by describing the arrival of a strange man to the [aversarian|E] camp, wearing a cloak made from the sewn together wings of crows and using the antler of an elk as a walking stick. He then from his hilt lifted the severed head of a soldier who had dissapeared only a week beforehand. Seeing it as somekind of threat Cromus strucked the man dead where he stood. This was infact a mere gesture of reconciliation, Kardwen often exchange the heads of the fallen so that their spirits may enter the afterlife. This act, would unleash the wrath of the previously unknown Kardwen and result in the disastrous defeat of Legio XXIII.\n\nSent to the Aautokratir during the height of this conflict, Cromus depicts harrowing scenes on the frontier. Bodies gnawed to the bone hanging from every tree and men simply vanishing as they slept being common themes. Perhaps most unsettling of all, however, is the very tongue of the Kardwen themselves, which resembles the wind blowing through the trees and never rises above the volume of a whisper even when pleading for mercy." #NT!
+ feature_book_title_manswelbestiarium: "Ragambald Manswel's Bestiarium" #NT!
+ feature_book_topic_manswelbestiarium: "Ragambald Manswel was a remarkably well traveled Marcher adventurer who purportedly sailed as far east as the borders of Kathun Kai. Upon his return to [chevalie|E] Ragambald began the laborious process of scribing his numerous journals and sketches into written form. The accounts contained within are an unparalelled and surprisingly accurate guide to the various fauna, magical and otherwise, which stalk the remote regions of [aeras|E]. Ragambald's own biography - supposedly recorded in a separate volume - has sadly been almost completely lost to history, but from his surviving work he must have been a remarkable and well educated man. Some have even suggested that Manswel may have been a pen name but this, as with everything else about Manswel's life is heavily disputed among Chevalien literati." #NT!
+ feature_book_title_womanknights: "On Womanly Knights" #NT!
+ feature_book_topic_womanknights: "This book was written by Chevalien scholar Michon Andreaux sometime in the 11th century to compile numerous smaller works by various authors of his time which argued for or against the concept of a woman being bestowed the title of knight, most likely due to the dubbing of the female Anti-Magi Rose den va Kreysauns at the beginning of the century by the warlord King Anton Descradau.\n\nWhile there are many examples in Marcher history of women warriors, the specific title of knighthood is one that has nearly never been given to a woman. While the works are generally in support of women fighting and none dare try and blemish the name of the many Marcher heroes of the fairer sex, Andreaux ends the work by claiming that female knight's are themselves an attack against the 'strong and noble traditions' that the title holds, despite a begrudging admittance that Lady Rose's slaying of nearly a hundred undead and an [aversarian|E] Magi before her 19th winter were somewhat impressive." #NT!
+ feature_book_title_dethediaxiancodex: "Dethediaxian Codex" #NT!
+ feature_book_topic_dethediaxiancodex: "This codex contains the majority of Dethediaxian Law, the governing set of laws and mandates that largely regulated the treatment of the Iyrossi after their conquest in 200 IS by Aautokratir Phanagorax and Legan Dethediax. While obviously quite outdated now, it is nonetheless a masterwork in law and rulership, and is considered one of the world's crowning achievements in rulership." #NT!
+ feature_book_title_dethediaxnotes: "Personal Notes of Legan Dethediax" #NT!
+ feature_book_topic_dethediaxnotes: "This set of scrolls served as the personal notes of Legan Dethediax during her conquest and rule of the Iyrossi valley. While much of it involves the creation and theorizing of her 'Dethediaxian Law' that would govern the valley thereafter, numerous other sections deal with daily life, managing her legions, and dealing with then Aautokratir Phanagorax.\n\nWhile nothing in these texts show Dethediax as having any doubts in the [aversarian|E] cause, it nonetheless shows no small amount of sympathy for the Iyrossi, and an especially large amount of hatred for Phanagorax himself. Several passages go so far as to call the Aautokratir a 'blithering idiot' who was 'in more danger of ending our rule in the valley as the Iyrossi'. An especially interesting passage details several small rebellions Dethediax was forced to negotiate or put down in secret to avoid an idiotic response from [GetTitleByKey('c_oraispol').GetNameNoTier], putting the common concept of the Iyrossi's 1000 years of servitude into question. Even more interesting is a quick mention of the 'children of Pothacleas', whom Dethediax apparently had smuggled away into the mountains in order to quell a rather large scale uprising around them." #NT!
+ feature_book_title_delenelbook: "A Lilac Grove by Karthyn Delenel" #NT!
+ feature_book_topic_delenelbook: "This work is a first draft for a series of romance poetry written by legendarily brutal [aversarian|E] warlord Legon [karthyn_delenel|E] of the Legio XIV 'Chain-Forgers'. Known for his horrible brutality, mentorship of Aversarian warlord Gorassos, and loyalty to Aautokratir Aeschraes (commonly known as the 'Lord of the Ashes'), this work seems to have been in progress sometime around when he was mortally wounded by Legan Isacea of Legio XXI 'Axiaothea' and his final execution by his pupil Gorassos.\n\nWhile A Lilac Grove is often crudely written and filled with multiple spelling and grammar mistakes, if one were to read it not knowing its author, they would most likely find it an exceptionally tender and heart felt series of tales with a masterful ability to control emotions through prose. Many readers would no doubt struggle not to cry as the young maiden who serves as the protagonist for many of the works struggles with her feelings of self doubt and discovery, especially as she falls in love with her best friend, the female Magi Anatheama. Readers would also be infuriated by the final poem, marked as the second to last, where Jadiaxa (the protagonist) resolves to beg Anatheama to run away with her as their village is consumed by the [fog|E]... only for the works to end there, [karthyn_delenel|E] likely killed before he could finish the work." #NT!
+ feature_book_title_journalofseekers: "The Journal of Seekers" #NT!
+ feature_book_topic_journalofseekers: "The Journal of Seekers is not a single journal, but rather a compilation of various notable excerpts gathered by the Mogowai on their journeys to far-flung corners of the world. A new edition is released every 50 years, with the primary source of the journals being the library within the Irōchi Damotada, where the collected writings of all those who have journeyed north are stored. This particular version was first compiled in 1239, and features tales of widespread devastation in the wake of [frodbrokna|E]. A large portion is dedicated to the ongoing bloody struggle between the Agionists and Wardenites, with several eyewitness accounts of major battles, and even an interview with the Wardenite Mamur about the situation, in which he outlines a methodical approach. This interview is contrasted with the woe of another traveler, telling of their several near-death experiences while hiding from the Order of the Blind Watcher. In addition, it tells of the courts of various [aversarian|E] warlords, such as the writings of a traveler who was present with Legio XXI 'Axiaotheia' during their campaign against Aeschraes, the man who brought down their empire. The Chevaliens concern almost all of the volume's remaining contents, with the story of a single man's adventure with a mercenary company in Beid Faluh." #NT!
+ # Aversarian Crown Pieces 
+ artifact_aversarian_crown_base_name: "Aversarian Crown Base" #NT!
+ artifact_aversarian_crown_base_desc: "This dull gold headpiece was once the frame of the [aversarian|E] Crown. It is now a lusterless shell of its former self, stripped of its components and made bare." #NT!
+ artifact_aversarian_crown_jewels_name: "Aversarian Crown Jewels" #NT!
+ artifact_aversarian_crown_jewels_desc: "These glittering gems once adorned the [aversarian|E] Crown, but have been long since stripped from their sockets." #NT!
+ artifact_aversarian_crown_dragonveil_name: "Aversarian Crown Dragon Scale Veil" #NT!
+ artifact_aversarian_crown_dragonveil_desc: "This fine, silvery veil once hung from the [aversarian|E] Crown, symbolizing the ancient connection of [aversaria|E] to [dragons|E]." #NT!
+ artifact_aversarian_crown_chain_name: "Aversarian Crown Chain" #NT!
+ artifact_aversarian_crown_chain_desc: "This ornate chain once bound the [aversarian|E] Crown together. Now, its intricately carved incantations do little but shine in the light." #NT!
+ artifact_aversarian_crown_diamond_name: "Aversarian Crown Diamond" #NT!
+ artifact_aversarian_crown_diamond_desc: "This massive diamond was once the centerpiece of the [aversarian|E] Crown. Its dazzling colors and size made all gaze upon its brilliance; now seperated from the crown, the diamond has lost its shine." #NT!
+ # Aversarian Uniques 
+ artifact_spear_thaxaon_name: "Thaxaon Spear" #NT!
+ artifact_spear_thaxaon_desc: "An impressive ebony spear with a large inlaid [bloodcrystal|E], this weapon was a heirloom of the [newly_created_artifact.MakeScope.Var('prominent_wielder').Char.GetHouse.GetName], a major Western Aversarian noble house." #NT!
+ artifact_spear_thaxaon_jaxor_desc: "An impressive ebony spear with a large inlaid [bloodcrystal|E], this weapon was a heirloom of the [newly_created_artifact.MakeScope.Var('prominent_wielder').Char.GetHouse.GetName], a major Western Aversarian noble house. Among its most prominent wielders is the pretender-Aautokratir [newly_created_artifact.MakeScope.Var('prominent_wielder').Char.GetFirstNameNicknamed], who led the large-scale [thaxaonic_blood_pact_revolt|E] against Aeschraes in the immediate aftermath of [frodbrokna|E]." #NT!
+ # General Sarradonian Uniques 
+ artifact_rehdyia_uddayir_spear_name: "Spear of Rehdyia Uddayir" #NT!
+ artifact_rehdyia_uddayir_spear_description: "Though now rusted, missing its handle and long bereft of its magic, this is the speartip which the legendary spellsword — and later, Queen of [sarradon|E] — Rehdyia Uddayir plunged into the [worldeater|E]'s colossal black eye, finally delivering the killing blow to the monstrous beast that had very nearly brought about the end of all civilization on the continent and beyond." #NT!
+ artifact_sculpture_mask_of_ankepy_ix_name: "Burial Mask of Ankepy IX" #NT!
+ artifact_sculpture_mask_of_ankepy_ix_description: "The famously decadent and ostentatious Kemsarian king Ankepy IX certainly left behind a burial mask befitting of his title and personality. Not content with mere gold, Ankepy had his mask painstakingly casted from several magically-potent meteorites — a process that required the combined efforts of some of the greatest Sarradonian [magi|E] and metalsmiths of the time. This base was then encrusted with precious gems beyond count, with seemingly every variety that exists on [aeras|E] being present, while the mask's two mortal eyes are made of particularly large and impressive bloodcrystals.\n\nMost noteworthy, however, is the mask's "third eye". Like most Kemsarian sovereigns, Ankepy went to the afterlife accompanied by servants, however their sheer amount and rank — his high officials, consort, concubines, household staff, personal guard, [magi|E] cabal and tens of thousands of slaves - surpasses the excesses of even the vast majority of his predecessors and successors. All of these were ritually slain and their souls interred into a black gemstone of unknown origin that makes up the mask's third eye, so that they may continue to serve their master into eternity." #NT!
+ # Wardenite Relics 
+ artifact_banner_wardenism_name: "The Banner of the Burning Key" #NT!
+ artifact_banner_wardenism_description: "Though there is no evidence to suggest that the [first_warden|E] only used one battle standard throughout the entirety of his life as often claimed, this banner is certainly the most famous — it was present at the landmark Battle of the Burning Key, which saw the decisive defeat of the Sarradonian Regent Ulathir by [wardenite|E] forces and the beginning of a thousand-year long dominance in the Sinhamiyah valley.\n\nDespite catching fire mid-battle and being the target of numerous enemy attempts of destruction, it would largely survive intact (likely due to the specific type of fabric used in its make, rather than a miracle as sometimes claimed) and serve as the rallying point for the outnumbered [wardenite|E] forces, and would subsequently give the battle its name." #NT!
+ artifact_seal_wardenism_name: "Seal of the First Warden" #NT!
+ artifact_seal_wardenism_description: "A plain clay seal bearing the image of a key surrounded by text too heavily weathered to make out. Though at a glance nothing more than the worn-out accessory of a minor [wardenite|E] judge, reliable sources trace this specific object to the [first_warden|E] himself — this was the very seal with which the stamp of legitimacy was given to practically all of [wardenism|E]'s earliest, most foundational texts and the rulings that inspired them." #NT!
+ artifact_crown_wardenism_name: "Crown of Arachas" #NT!
+ artifact_crown_wardenism_description: "Subject of one of the more famous episodes of the [first_warden|E]'s rise, this crown belonged to the infamous tyrant [arachas|E] before his demise at the conclusion of the very first [wardenite|E] uprising in Al-Ghazir. According to legend, after being recovered from the ashen remains of the late king's stronghold, it was immediately offered to the [wardenite|E] messiah — who rebuked the suggestion and instead ordered it sold for the purposes of charity.\n\nAlmost nothing remains of the headpiece's former glory but a corroded, broken skeleton. If one looks closely, they can still make out the twisted and damaged images of [ritualist|E] iconography, warped by the fire that took Arachas' own life." #NT!
+ artifact_wall_sword_wardenism_name: "Sword of the First Warden" #NT!
+ artifact_wall_sword_wardenism_description: "An elegant reliquary containing a holy relic: the sword of the [first_warden|E]." #NT!
+ # Amsari Relics 
+ artifact_staff_amsari_name: "Staff of the Prophet" #NT!
+ artifact_staff_amsari_description: "A simple, gnarled wooden staff that once belonged to the Prophet of the Amsari. Understandably, the object carries an immense historic and religious value — rare is art that features the Prophet that does not have him wielding his iconic staff, and successive generations of his flock have made sure to keep it lacquered and preserved in pristine condition." #NT!
+ artifact_sandals_amsari_name: "Sandals of the Prophet" #NT!
+ artifact_sandals_amsari_description: "An elegant reliquary containing a holy relic: the humble sandals upon which the Prophet spoke the Words." #NT!
+ artifact_cloak_amsari_name: "Cloak of the Prophet" #NT!
+ artifact_cloak_amsari_description: "An elegant reliquary containing a holy relic: the simple woolen cloak of the Prophet." #NT!
+ artifact_ante_apocalyptic_prophecy_amsari_name: "Ante-Apocalyptic Prophecy" #NT!
+ artifact_ante_apocalyptic_prophecy_amsari_description: "Before the revelations of the Prophet, the Amsari people had been receiving guidance, reassurances and glimpses of the glory to come from a number of minor prophetic figures for centuries, their writings known collectively as the Ante-Apocalyptic Prophecies. Though their survival was highly fragmentary due to Kemsarian persecution and the ad-hoc nature in which most were recorded, and they have largely been superseded in importance by the Prophet's revelations, genuine surviving texts of this type are still held in high regard." #NT!
+ #Damotan Relics 
+ artifact_necklace_of_the_baarilka_name: "Necklace of the Baarilka" #NT!
+ artifact_necklace_of_the_baarilka_description: "This necklace was captured by forces of the [boqqarut_damotada|E] in around 500 IS from a tribe which they called the 'Baarilka', or 'Western People'. With the destruction of is source culture by Adabyss soon after its aquisition, the necklace is now perhaps the only material testament to the now-lost tribe." #NT!
+ artifact_spear_of_eshwo_name: "Spear of Eshwo" #NT!
+ artifact_spear_of_eshwo_description: "This spearhead, with a great emerald inlaid in its head, was wielded by Eshwo during the [war_of_songs|E]. Though most likely never directly used in battle, the weapon is a powerful symbol, depicted in countless works of Damotan art honoring their legendary founder." #NT!
+ artifact_skull_of_kayoba_name: "Skull of Kayoba" #NT!
+ artifact_skull_of_kayoba_description: "This unadorned skull supposedly belonged to Boqqar Kayoba, the final ruler of the [zalreb_dynasty|E], and of the [boqqarut|E] itself. As with every other Boqqar, his skull was magically preserved after his death, eventually to be displayed in the [GetBuilding('tabik_betemisit_01').GetName]. Before this could happen however, the skull disappeared, with the Battle of Zahali and the beginning of the [etami_tetenik|E] rendering all attempts to search for it futile." #NT!
+ artifact_olani_seal_name: "Seal of the Olanis" #NT!
+ artifact_olani_seal_description: "This golden seal bears the emblem of the [boqqarut_damotada|E], along with the inscription "As Boqqar and Kihinet". It was used during the [olani_dynasty|E], and its mark was placed upon such momentous orders as the creation of the [rayakuux_orders|E] and the formalization of the Golkawīs." #NT!
+ artifact_belar_seal_name: "Seal of the Belars" #NT!
+ artifact_belar_seal_description: "This gemstone-encrusted silver seal bears the emblem of the [boqqarut_damotada|E], surrounded by an artistic depiction of a wall. It was used during the [belar_dynasty|E], its mark placed upon orders such as the construction of the Irōchi Damotada, and was kept by the dynasty's descendants even after their fall from power." #NT!
+ artifact_zalreb_seal_name: "Seal of the Zalrebs" #NT!
+ artifact_zalreb_seal_description: "This fairly plain silver seal bears the emblem of the [boqqarut_damotada|E], with spears surrounding the banner. It was used during the [zalreb_dynasty|E], its mark placed upon orders such as the purges of Raleri and [ayule_expedition|E]." #NT!
+ artifact_mesir_seal_name: "Seal of the Mesirs" #NT!
+ artifact_mesir_seal_description: "This bronze seal bears a skull, along with the inscription "One Ruler and One Mission". It was used by the [mesir_dynasty|E], potentially adorning such orders as the [karururi_chorus|E] and the formation of the [boqqarut|E] itself." #NT!
+ # Unique Historical Artifacts 
+ artifact_blackhorn_name: "The Black Horn" #NT!
+ artifact_blackhorn_desc: "#size:15 The Black Horn is the legendary horn of the Sjalvolki God [velos|E], or at least it is claimed to be. The horn regularly appears in various culture's mythologies from all corners of the [aeras|E], always being used to, in some form, call forth spirits for war but killing the blower in the process. The horn makes distinction, the one who orders its use is to be killed, not the one who blows it." #NT!
+ artifact_blackhorn_modifier: "The Black Horn" #NT!
+ artifact_blackhorn_modifier_desc: "The legendary Black Horn, said to summon the spirits of the fallen to fight for the living" #NT!
+ artifact_aversariacrown_name: "Aversarian Crown" #NT!
+ artifact_aversariacrown_desc: "#size:15 The Crown of [aversaria|E] has been worn by every reigning aautokratir besides two for over a thousand years. Imposing and ornately designed, the crown gives off mixed feelings of fear and awe, and tales say that the heads of so many powerful [magi|E] have left the crown with its own magical aura." #NT!
+ artifact_aversariacrown_modifier: "The Aversarian Crown" #NT!
+ artifact_aversariacrown_modifier_desc:0 "artifact_ringofthelich_modifier_desc: "artifact_ringofthelich_modifier_desc:0 "#E Magic#!:@magic_icon!#positive_value +1#!/month\n" #NT!
+ artifact_aersanonstaff1_name: "Upper Half of an Ancient Staff" #NT!
+ artifact_aersanonstaff1_desc: "#size:15 This strange staff is made of a material utterly alien to all. The rigid black construction seems almost ethereal, perfect in its construction. Perhaps the oddest thing about its construction is that, despite clearly being an object of magical power, the sharp head of the staff seems to be actively sucking out magical power from everything around it at an astonishing rate. Who knows what Ancient Being once held it?" #NT!
+ artifact_aersanonstaff1_modifier: "#E Magic#!:@magic_icon!#positive_value -1#!/month\n#E Magic#!:@magic_icon!#positive_value +50%#!/month" #NT!
+ artifact_aersanonstaff2_name: "Lower Half of an Ancient Staff" #NT!
+ artifact_aersanonstaff2_desc: "#size:15 This strange staff is made of a material utterly alien to all. The rigid black construction seems almost ethereal, perfect in its construction. While the top of the staff is broken off, the bottom still emanates extreme amounts of magical power, though nobody has any idea of how they'd extract that power, just holding it seems to push the limits of what a [magi|E] can contain. Who knows what Ancient Being once held it?" #NT!
+ artifact_aersanonstaff2_modifier: "#E Magic#!:@magic_icon!#positive_value +2#!/month\n#E Magic#!:@magic_icon!#positive_value +25%#!/month" #NT!
+ artifact_standardofanoterion_name: "Standard of Legio LXI" #NT!
+ artifact_standardofanoterion_desc: "#size:15 The white-red standard of Legio LXI has been raised everywhere from the highest mountains of Kalathipsomi to the edge of the great river in the far east. While the legion it represents has been destroyed twice in its history, the standard has always survived to inspire its next generation." #NT!
+ artifact_standardofanoterion_modifier: "Standard of Legio LXI" #NT!
+ artifact_crownofprawladsyl_name: "Crown of Prawladsyl" #NT!
+ artifact_crownofprawladsyl_desc: "#size:15 The ancient Crown of Prawladsyl is the only surviving piece of regal attire remaining from any of the ancient Oejeynica kings, or at least the only surviving one not in the hands of the [liches|E] or long stolen away by others. The crown itself is simple, dented, and scuffed, but the weight of so much tragedy gives it a solemn and powerful aura." #NT!
+ artifact_crownofprawladsyl_modifier: "Crown of Prawladsyl" #NT!
+ artifact_skullofaxiaothea_name: "Skull of [axiaothea.GetName]" #NT!
+ artifact_skullofaxiaothea_desc: "#size:15 The skull of [axiaothea.GetName], widowed wife of Anesimasios, last Aautokratir of [aversaria|E] and arch-rival of Aeschraes. Aeschraes and Axiaothea famously fought [Concept('imperial_civil_war','a great civil war')|E] across Aversaria for control of the empire, which ended when Aeschraes unleashed [frodbrokna|E] and ended the world. This skull was discovered in the ruins of Asiupoli by Gorassos Skull-Taker, sent by Aeschraes years after to ensure that none were left alive in hiding." #NT!
+ artifact_skullofaxiaothea_modifier: "Skull of Axiaothea" #NT!
+ artifact_skullofpridni_name: "Skull of Pridni 'the Younger'" #NT!
+ artifact_skullofpridni_desc: "#size:15 The skull of Pridni 'the Younger', an [aversarian|E] warlord and child of the steward to Anesimasios, last Aautokratir of Aversaria. Pridni carved out a large realm across much of Etepezea, Malcois and Opakhasia before being killed in battle by Gorassos 'Skull-Taker'. The death of Pridni brought upon a great civil war in his realm, one which was ended by the Sjalvolki taking advantage and sweeping into his lands." #NT!
+ artifact_skullofpridni_modifier: "Skull of Pridni 'the Younger'" #NT!
+ artifact_skullofduvaken_name: "Skull of Duvaken 'Silver Speaker'" #NT!
+ artifact_skullofduvaken_desc: "#size:15 The skull of Duvaken 'Silver Speaker', a Karzarad chief who led a force of his tribesmen and Sjalvolki volunteers to carve out a realm in northern Opakhasia. While initially successful, partially on account of Duvaken's powerful [magical|E] ability, he was eventually slain by Gorassos 'Skull-Taker' in a duel." #NT!
+ artifact_skullofduvaken_modifier: "Skull of Duvaken 'Silver Speaker'" #NT!
+ artifact_staffofthewizardking_name: "Staff of the Wizard-King" #NT!
+ artifact_staffofthewizardking_desc: "#size:15 This jagged black staff is set in with several red gems that seem to pulse and glow with the heartbeat of whoever holds it. While several are missing, the staff still radiates an aura of hatred and power. What a 'wizard' is or who was king of them are questions you doubt you'll ever know." #NT!
+ artifact_staffofthewizardking_modifier: "Staff of the Wizard-King" #NT!
+ artifact_grandportraitofmegistos_name: "Grand Portrait of Megistos" #NT!
+ artifact_grandportraitofmegistos_desc: "#size:15 Look upon Megistos. Is Megistos not beautiful? Does the glory of Megistos' splendid figure and Megistos' wide loving hips or Megistos' deep beautiful brown eyes not inspire the soul and set the humors aflame? How lucky are you, to have a portrait of THE Megistos. Hang it upon your sitting room, or perhaps on the ceiling above the bed? That is where Megistos would put it, if Megistos were you." #NT!
+ artifact_grandportraitofmegistos_modifier: "Grand Portrait of Megistos" #NT!
+ artifact_grandportraitofmegistos2_name: "Great Portrait of Megistos" #NT!
+ artifact_grandportraitofmegistos2_desc: "#size:15 The beautiful grace of Megistos may now grace your throneroom as if Megistos were truly there with you. With every brush stroke of fair and beautiful Megistos no doubt inspiring mixed feelings of lust and amazement within yourself, how could you not appreciate such a fine piece of art? Through this beautiful painting of Megistos, Megistos will always be there to grace and bless you and yours, as Megistos himself no doubt wishes he could do right now." #NT!
+ artifact_grandportraitofmegistos2_modifier: "Great Portrait of Megistos" #NT!
+ artifact_grandportraitofmegistos3_name: "Beautiful Portrait of Megistos" #NT!
+ artifact_grandportraitofmegistos3_desc: "#size:15 Megistos, when Megistos was born, was proclaimed the reincarnation of the Purest by all of the people of [aversaria|E] who then also declared Megistos the most beautiful child in all the world and history, thereafter they chose the most beautiful name, Megistos, to name Megistos, who was thereafter called Megistos. Megistos would later become the most powerful, kindhearted, and beautiful ruler in all of the world, and everyone loved Megistos forever." #NT!
+ artifact_grandportraitofmegistos3_modifier: "Beautiful Portrait of Megistos" #NT!
+ artifact_grandportraitofmegistos4_name: "Megistos and Loving Wife" #NT!
+ artifact_grandportraitofmegistos4_desc: "#size:15 Megistos took many wives but all know every wife loved Megistos almost as much as Megistos loved the world and his many subjects who all said that Megistos was the greatest and most beautiful ruler they ever had and also the only one named Megistos. Megistos ensured that Megistos' wives were always happy because Megistos was not only a beautiful ruler but a glorious lover." #NT!
+ artifact_grandportraitofmegistos4_modifier: "Megistos and Loving Wife" #NT!
+ artifact_grandportraitofmegistos5_name: "Fair Megistos and Adoring Family" #NT!
+ artifact_grandportraitofmegistos5_desc: "#size:15 Megistos, 'Glorious and Beautiful Ruler and Aautokratir of [aversaria|E] and the World and all of Space and the [Concept('aervalr','Moon')|E] and the Galaxy and also His Lands and the Skies and all Living and Dead Things Ever in History' as Megistos sometimes called himself was not only all of those things and more but also Megistos was a wonderful parent, husband, ruler, and presumably once a child. Adored and loved by all, Megistos loved his family almost as much as everyone loved Megistos." #NT!
+ artifact_grandportraitofmegistos5_modifier: "Fair Megistos and Adoring Family" #NT!
+ artifact_skullofanancient_name: "Skull of an Ancient" #NT!
+ artifact_skullofanancient_desc: "#size:15 This strange skull seems similar to a human's but contains several differences that clearly mark it as... something else. Whether a creative piece of art or the remains of some forgotten being, you have no idea, but the magical power radiating from the bone is undeniable." #NT!
+ artifact_skullofanancient_modifier: "Skull of an Ancient" #NT!
+ artifact_theiyrossicrown_name: "Crown of the Last Iyrossi" #NT!
+ artifact_theiyrossicrown_desc: "#size:15 The crown of King Pothacleas, last king of the Iyrossi peoples. While only one of many kings, his last stand and legendary guerilla war against the [aversarians|E] cemented him in history as 'the Last Iyrossi'." #NT!
+ artifact_theiyrossicrown_modifier: "The Iyrossi Crown" #NT!
+ artifact_mountcamel_name: "Camel" #NT!
+ artifact_mountcamel_desc: "#size:15 A [sarradonian|E] camel, trained for traveling long distances across the desert with little complaint. While slower than a horse, a hardier mount can not be found in all of the south." #NT!
+ artifact_mountcamel_modifier: "Camel" #NT!
+ artifact_mounthorse_name: "Horse" #NT!
+ artifact_mounthorse_desc: "#size:15 A horse. Fast and hardy, but not trained for war. While a pleasure to ride, it's doubtful that it will be charging into a frontline anytime soon." #NT!
+ artifact_mounthorse_modifier: "Horse" #NT!
+ artifact_mountwarhorse_name: "War Horse" #NT!
+ artifact_mountwarhorse_desc: "#size:15 This proud horse has been bred and trained for war. A fine and noble steed, truly worthy of a proper noble to ride gloriously into war with." #NT!
+ artifact_mountwarhorse_modifier: "War Horse" #NT!
+ artifact_mountgriffon_name: "Griffon" #NT!
+ artifact_mountgriffon_desc: "#size:15 A griffon from the highest peaks of [chevalie|E]'s mountains. The griffons normally migrate from their homes in the west to the southeast come the winter, a migration during which enterprising Marchers born both high and low go out to attempt to capture and train the whelps." #NT!
+ artifact_mountgriffon_modifier: "Griffon" #NT!
+ artifact_mountwargriffon_name: "War Griffon" #NT!
+ artifact_mountwargriffon_desc: "#size:15 A griffon trained and bred for war by one of the Anti-Magic Orders of [chevalie|E]. The Anti-Magi are the only humans who truly know how to train such a beast, and normally train them to avoid fireballs and giant rocks and whatever else the magically inclined throw their way. Loyal, brave, and nearly as intelligent as a man, could you do any better than this beauty?." #NT!
+ artifact_mountwargriffon_modifier: "War Griffon" #NT!
+ artifact_mountdragon_name: "Dragon" #NT!
+ artifact_mountdragon_desc: "#size:15 This massive beast looks at you with intelligent eyes, a strange sense of age and familiarity passing through you as you observe its majesty. It also crosses you that the great beast could easily snap you in half with a single bite or burn you to a crisp within a second. Good thing it's on your side..." #NT!
+ artifact_mountdragon_modifier: "Dragon" #NT!
+ artifact_mountskeletaldragon_name: "Skeletal Dragon" #NT!
+ artifact_mountskeletaldragon_desc: "#size:15 This massive beast looks at you through empty sockets. Whatever majesty, whatever might this beast once had, has now been reduced to the horrifying mass of bone that now sits staring at you. While nobody would ever complain to have such a fearsome being protecting their person, that doesn't make it harder to shiver when you see the teeth." #NT!
+ artifact_mountskeletaldragon_modifier: "Skeletal Dragon" #NT!
+ artifact_mountdreadwolf_name: "Dread Wolf" #NT!
+ artifact_mountdreadwolf_desc: "#size:15 The ancient Crown of Prawladsyl is the only surviving piece of regal attire remaining from any of the ancient Oejeynica kings, or at least the only surviving one not in the hands of the Liches or long stolen away by others. The crown itself is simple, dented, and scuffed, but the weight of so much tragedy gives it a solemn and powerful aura." #NT!
+ artifact_mountdreadwolf_modifier: "Dread Wolf" #NT!
+ artifact_mountgreatbear_name: "Great Bear" #NT!
+ artifact_mountgreatbear_desc: "#size:15 This great beast is ridiculously large, even for a bear. A variety found only in the far north and east, Great Bear's have been observed tearing down entire trees to mark territory or slashing through chainmail with a single swipe." #NT!
+ artifact_mountgreatbear_modifier: "Great Bear" #NT!
+ artifact_mountamiablefogbeast_name: "Amiable Fogbeast" #NT!
+ artifact_mountamiablefogbeast_desc: "#size:15 This... [Concept('fogbeast','creature')|E]... has taken quite a liking to you...\nThe most surprising thing about you riding it is that you figured out what part is supposed to be the back." #NT!
+ artifact_mountamiablefogbeast_modifier: "Amiable Fogbeast" #NT!
+ artifact_mountmammoth_name: "Mammoth" #NT!
+ artifact_mountmammoth_desc: "#size:15 A great and mighty mammoth from the furthest reaches of the north, this beast stands at almost twice the size of even a [sarradonian|E] elephant, and unlike those gentle beasts, this mammoth seems perfectly happy to massacre upon the battlefield." #NT!
+ artifact_mountmammoth_modifier: "Mammoth" #NT!
+ artifact_dragonskull_name: "Dragon's Skull" #NT!
+ artifact_dragonskull_desc: "#size:15 The gruesome skull of a once great beast, the darkened bone of this ancient monster still radiates a small amount of heat, and the skull alone is twice your size. How could anyone have ever killed such a thing?" #NT!
+ artifact_dragonskull_modifier: "Dragon's Skull" #NT!
+ artifact_boneoftheworldeater_name: "Bone of the Worldeater" #NT!
+ artifact_boneoftheworldeater_desc: "#size:15 An ancient yellowed bone from the beast once called the '[worldeater|E]'. At one time in history, the [worldeater|E] devoured entire [sarradonian|E] cities, depopulating entire regions due to its insatiable hunger. After consuming the ruler of [sarradon|E] herself, the beast was slain by Rehdyia Uddayir, who was then declared the rightful Queen." #NT!
+ artifact_boneoftheworldeater_modifier: "Bone of the Worldeater" #NT!
+ artifact_adabyssianfirearbalest_name: "Adabyssian Fire Arbalest" #NT!
+ artifact_adabyssianfirearbalest_desc: "#size:15 This strange device was forged in one of the massive manufactories in the Lavapits of the Mount Viryren'ägo or perhaps by one of the Emperor's own personal smiths from within the City of Golden Statues. The Fire Arbalest is a strange prototype that the Adabyssians have slowly been working to perfect for decades. While still experimental, the devastating crack of this weapon sends fear through enemy soldiers, and the strange pellet it fires pierces straight through armor. A marking on the handle proclaims it as [owner.MakeScope.Var('model_number').GetValue|0] of 50." #NT!
+ artifact_adabyssianfirearbalest_modifier: "Adabyssian Fire Arbalest" #NT!
+ artifact_adabyssianfirearbalest_modifier_desc: "Can be used in [monster_hunts|E]" #NT!
+ artifact_goldenstatueofadabyss_name: "Golden Statue of Adabyss" #NT!
+ artifact_goldenstatueofadabyss_desc: "#size:15 A living statue from the far south, its golden armor shifting and clanking as it marches. Without a control rod, this amazingly impressive piece of technology and magicraft is inert, doing little besides standing, making strange crying noises, and walking if pushed enough." #NT!
+ artifact_goldenstatueofadabyss_modifier: "Golden Statue of Adabyss" #NT!
+ artifact_adabyssiancontrolrod_name: "Adabyssian Control Rod" #NT!
+ artifact_adabyssiancontrolrod_desc: "#size:15 This golden rod has a strange series of esoteric buttons, dials and switches along the side. While the workings of it are a mystery to anyone not from the far reaches of the south, rumors say that if you wield one, you can control one of their legendary living statues..." #NT!
+ artifact_adabyssiancontrolrod_modifier: "Adabyssian Control Rod" #NT!
+ artifact_maskofforgottensaint_name: "Mask of the Forgotten Saint" #NT!
+ artifact_maskofforgottensaint_desc: "#size:15 The legendary mask of the Forgotten Saint, an Agioninst saint who rose up along with seven others to preach for a better Aversaria. The Forgotten Saint's simple metal mask seems much heavier than you would expect, and the inside of it seems to have several glowing wards carefully inscribed upon the surface." #NT!
+ artifact_maskofforgottensaint_modifier: "Mask of the Forgotten Saint" #NT!
+ artifact_swordofeos_name: "Sword of Eos" #NT!
+ artifact_swordofeos_desc: "#size:15 The legendary sword of Saint Eos, an Agionist saint who rose up along with seven others to preach for a better Aversaria. Eos' sword was thought lost upon his death at the Siege of Geca, but here it now sits. With every swing, flames arc out, and you can see the righteous fury within each ember." #NT!
+ artifact_swordofeos_modifier: "Sword of Eos" #NT!
+ artifact_staffofkatharitos_name: "Staff of Katharitos" #NT!
+ artifact_staffofkatharitos_desc: "#size:15 The staff of Saint Katharitos, an Agionist saint who rose up along with seven others to preach for a better Aversaria. While Katharitos sadly died in the effort, his message and his seemingly endless platitudes lived on, and his followers still worship his wise words." #NT!
+ artifact_staffofkatharitos_modifier: "Staff of Katharitos" #NT!
+ artifact_strangetalkingskull_name: "Strange Talking Skull" #NT!
+ artifact_strangetalkingskull_desc: "#size:15 This skull seems quite angry about their station. Calling itself [vilas_venslau|E], it curses at you in a litany of languages and claims that as soon as it has hands to do it with, it will destroy you.\n\nWhat a fun toy to show at parties!" #NT!
+ artifact_strangetalkingskull_modifier: "Strange Talking Skull" #NT!
+ artifact_whisperingskull_name: "Whispering Skull" #NT!
+ artifact_whisperingskull_desc: "#size:15 Nobody knows the source of this strange skull, but you can swear then when you're alone with it and sit in the darkness, it whispers to you. Some of these whispers are quite interesting, the skull remarking upon many a secret some wish hidden." #NT!
+ artifact_whisperingskull_modifier: "Whispering Skull" #NT!
+ artifact_panickedeye_name: "Panicked Eye Amulet" #NT!
+ artifact_panickedeye_desc: "#size:15 Upon this amulet sits a single eye whose pupil constantly darts around a room as if afeared of what it might see. If you press the amulet to your own eye, you can swear that you almost see Them too... watching from shadows best left empty." #NT!
+ artifact_panickedeye_modifier: "Panicked Eye Amulet" #NT!
+ artifact_vialofblood_name: "Vial of Blood" #NT!
+ artifact_vialofblood_desc: "#size:15 This vial contains a small amount of very dark blood which seems to glow faintly in the dark. Whether this is the result of some magic done upon it, or if it was the source that gave it such strange properties, is impossible to tell." #NT!
+ artifact_vialofblood_modifier: "Vial of Blood" #NT!
+ artifact_bloodofthearchmagi_name: "Blood of the Arch-Magi" #NT!
+ artifact_bloodofthearchmagi_desc: "#size:15 When Arch-Magi Kathalitos of the [mayikrata|E] was found skewered on the chandelier of his study one cold morning in 1098, his assistant's first reaction was, against all reason and logic, to bottle up his blood. Kathalitos bled to death while he did so, and while dark magic was suspected nothing was ever proven. After his assistant disappeared soon after during the investigation, several of the vials would appear around the world decades later, the blood in the bottles still holding much power." #NT!
+ artifact_bloodofthearchmagi_modifier: "Blood of the Arch-Magi" #NT!
+ artifact_bloodofthearchmagi_modifier_desc: "#E Magic#!:@magic_icon!#positive_value +25%#!/month" #NT!
+ artifact_ancienttablet_name: "Ancient Tablet" #NT!
+ artifact_ancienttablet_desc: "#size:15 An ancient tablet from a proto-Aversarian culture. It seems to depict the Purest and the First Men creating the world, but contains many oddities that don't match Aversarian scripture like an un-shattered coast, men with pointed ears and other mysteries." #NT!
+ artifact_ancienttablet_modifier: "Ancient Tablet" #NT!
+ artifact_alienwhip_name: "Alien Whip" #NT!
+ artifact_alienwhip_desc: "#size:15 This whip seems to be of a construction that no human can claim ownership of. Every time it snaps, sparks seem to fly as if striking lightning. You can't help but shiver every time you see it, as if almost remembering something you've long forgotten..." #NT!
+ artifact_alienwhip_modifier: "Alien Whip" #NT!
+ artifact_ringofthelich_name: "Ring of the Lich Kings" #NT!
+ artifact_ringofthelich_desc: "#size:15 Oozing with dark magic, this ring has been worn on the bony finger of many Arch Liches throughout history. [vilas_venslau|E], [stavro|E], Wwenslawyv Wisleyx. How it ever ended up in your lands is a mystery you doubt you'll ever solve." #NT!
+ artifact_ringofthelich_modifier: "Ring of the Lich Kings" #NT!
+ artifact_ringofthelich_modifier_desc: "#E Magic#!:@magic_icon!#positive_value +15#!/month" #NT!
+ artifact_brokenavianautomata_name: "Broken Avian Automata" #NT!
+ artifact_brokenavianautomata_desc: "#size:15 Still much sought after, Avian Automata were purportedly common sights in the houses of the fabulously wealthy, at least until the Aversarians conquered the Kartharadds and suppressed the art of automata crafting long enough to doom it entirely. Records indicate that some of these breathtakingly intricate machines were even enchanted during construction to mimic the behaviors of real birds, and the finest could even respond to simple instructions.\n\nThis particular example of the lost art can only sing and uselessly flail its one remaining wing, but it's nonetheless an impressive display item." #NT!
+ artifact_brokenavianautomata_modifier: "Broken Avian Automata" #NT!
+ artifact_brokenavianautomata_modifier_desc: "A stunning, if barely functional avian automata." #NT!
+ artifact_automaticgemlion_name: "Decorative Lion Automata" #NT!
+ artifact_automaticgemlion_desc: "#size:15 A stunning example of the lost Kartharaddi craft, this elegant but heavy contraption stands at shoulder height. It seems to have been designed as some kind of secure storage case for jewelry, which its brass claws delicately sort into various cleverly hidden cavities sequestered around its body. The entire contraption is controlled by twisting and pulling upon a series of levers jutting from its base. A godsend for anyone with a collection of jewelry too large to keep track of, but of limited use for anyone else. Fragmentary records suggest these were made for use by Kartharaddi [magi|E], though for what purpose exactly is still unclear." #NT!
+ artifact_automaticgemlion_modifier: "Decorative Lion Automata" #NT!
+ artifact_automaticgemlion_modifier_desc: "A stunning automata jewelry box." #NT!
+ artifact_kartharaddimanautomata_name: "The Kartharaddi Man" #NT!
+ artifact_kartharaddimanautomata_desc: "#size:15 A masterpiece of the lost clockwork art of the [kartharaddi|E], this humanoid automata stands two heads taller than an average man and is breathtakingly articulated, with delicate steel springs for tendons and disturbingly lifelike glass eyes which stare sightlessly. Before their downfall the Kartharadds went to great lengths to keep any information regarding these masterworks secret, and even today their intended purpose is a complete mystery hotly debated in Aversarian scholarly circles. Some claim that the Kartharadds were fabricating an army of fearless iron soldiers, others speculate that these were meant to house the human soul in an insane attempt at immortality. Whatever the true intentions behind this project, the deaths of their creators during the Night of the Bleeding Moon left it unfinished and inanimate. Despite this confusion, they are still objects of deep fascination and study. Six are known to have survived relatively intact into the modern day, and the [mayikrata|E] boasts possession of two of these priceless artifacts." #NT!
+ artifact_kartharaddimanautomata_modifier: "The kartharaddi Man" #NT!
+ artifact_kartharaddimanautomata_modifier_desc: "An enigmatic example of the lost art." #NT!
+ artifact_kartharaddimusicautomata_name: "Kartharaddi Clockwork Musician" #NT!
+ artifact_kartharaddimusicautomata_desc: "#size:15 A human shaped automata outfitted with what can be assumed to be high [kartharaddi|E] fashion from the era of the Imperium's downfall, this automata is designed to adequately play a unique Kartharaddi string instrument known as the Zharra. More impressively, a series of pipes and bellows in its torso allows it to affect a crude facsimile of singing as well. The cheery tune it produces is all that remains of the musical culture of a dead civilization." #NT!
+ artifact_kartharaddimusicautomata_modifier: "Kartharaddi Clockwork Musician" #NT!
+ artifact_kartharaddimusicautomata_modifier_desc: "A beautiful example of the lost art." #NT!
+ artifact_kartharaddidancingautomata_name: "Kartharaddi Clockwork Dancer" #NT!
+ artifact_kartharaddidancingautomata_desc: "#size:15 A human shaped automata painted with garish colors and wearing bizarre clothing, this construct stands at waist height. When properly wound and oiled it will jump into motion, performing a series of manic dances and playing an obnoxious tune from a whistle seemingly built into its posterior. As its performance winds down it almost begins to sound as if it's laughing at you. It's unclear whether the Kartharadds considered this marvel of engineering to be in good taste or not.\n\nFlecks of poorly applied paint indicate that the automata's current color scheme and dress were likely crudely applied by later Aversarians. Closer inspection at what little remains of its original design strongly implies this impish little machine may have once been intended as an unflattering portrayal of the Purest." #NT!
+ artifact_kartharaddidancingautomata_modifier: "Kartharaddi Clockwork Dancer" #NT!
+ artifact_kartharaddidancingautomata_modifier_desc: "A little automata for those of dubious taste." #NT!
+ artifact_deadlykartharaddimusicautomata_name: "Deadly Kartharaddi Clockwork Musician" #NT!
+ artifact_deadlykartharaddimusicautomata_desc: "#size:15 A human shaped automata outfitted with what can be assumed to be high [kartharaddi|E] fashion from the era of the Imperium's downfall, this automata is designed to adequately play a Kartharaddi variant of the flute. As its performance winds down the devilish contraption lowers the instrument and launches a dart from a crossbow-like mechanism cleverly hidden behind one of its 'eyes', hitting whatever or whomever is unfortunate enough to be  directly in front of it. A clever, if likely difficult to pull off method of assassination." #NT!
+ artifact_deadlykartharaddimusicautomata_modifier: "Deadly Kartharaddi Clockwork Musician" #NT!
+ artifact_deadlykartharaddimusicautomata_modifier_desc: "A devilish way to kill someone." #NT!
+ artifact_seignonsword_name: "Den va Seignon Family Sword" #NT!
+ artifact_seignonsword_desc: "#size:15 The family blade of the Den va Seignon family has seen use in hundreds of battles over four centuries. Initially discovered by the (self-styled) King Credon den va Seignon shortly before the [red_river_war|E], in an ancient crypt of unknown make, its glimmering black blade seemingly fades in and out of vision as it cuts through the air with a sickening hiss. The metal and style of the blade are a mystery to all who have seen it, as is its ability to cut through sight itself." #NT!
+ artifact_seignonsword_modifier: "Den va Seignon Family Sword" #NT!
+ artifact_seignonsword_modifier_desc: "The family sword of the Den va Seignon family, of [aelfir_alien|E] creation" #NT!
+ artifact_sirtheyvnsbreastplate_name: "Sir Theyvn's Breastplate" #NT!
+ artifact_sirtheyvnsbreastplate_desc: "#size:15 Sir Theyvn 'The Martyr' is said to have been the first Marcher killed by a [lich|E]. Stories say that when [vilas_venslau|E] invaded south, he first approached the gates of the border fort of Methens and demanded the garrison open its gates for their new lord. Sir Theyvn, master of the garrison, stepped out alone and proclaimed that no living man could hold the Marchers in chains, much less a dead one. The blackened hole in the heart of the breastplate tells the rest of the tale, and the many songs and ballads dedicated to Theyvn tell of his legacy." #NT!
+ artifact_sirtheyvnsbreastplate_modifier: "Sir Theyvn's Breastplate" #NT!
+ artifact_sirtheyvnsbreastplate_modifier_desc: "A broken breastplate said to belong to the first Marcher slain by a [lich|E]. Possibly a reproduction" #NT!
+ artifact_peytonsbonecracker_name: "Wayfather Peyton's Bone Cracker" #NT!
+ artifact_peytonsbonecracker_desc: "#size:15 Wayfather Peyton of the Way of Harvests declared that no harvest could be safely done while the undead yet still 'lived', and that bonemeal did wonders for the crop, and thus declared that the best way to perfect his path would be in the destruction of the undead. Peyton became legendary for his excursions into the [lichdoms|E], even slaying the [lich|E] Crasmer Crasvir in an assault on his citadel with only 566 losses in his party of 570. His mace still has slight grooves no doubt brought on from four decades of hitting skeletons over the head." #NT!
+ artifact_peytonsbonecracker_modifier: "Wayfather Peyton's Bone Cracker" #NT!
+ artifact_peytonsbonecracker_modifier_desc: "A simple mace used to slay many undead" #NT!
+ artifact_sackofsmokebombs_name: "Sack of Smoke Bombs" #NT!
+ artifact_sackofsmokebombs_desc: "#size:15 'Smokers' are a fairly recent alchemical invention used by the Anti-Magic Orders of [chevalie|E] in their efforts to even the playing field against Liches, Magi, and everyone else. Inspired by Sarradonian inventions observed on the Marcher's adventures in the south, these devices make a rather impressive cloud that obscures anything within it at the lighting of a simple fuse. You imagine breathing too much of it in would not be particularly healthy." #NT!
+ artifact_sackofsmokebombs_modifier: "Sack of Smoke Bombs" #NT!
+ artifact_sackofsmokebombs_modifier_desc: "A sack of alchemical smoke bombs designed to obscure the user and possibly give cancers" #NT!
+ artifact_mariasblade_name: "Maria den va Theydia's Blade" #NT!
+ artifact_mariasblade_desc: "#size:15 This blade, gilded in silver and with a beautiful inscription running down its edge, was wielded by Maria den va Theydia during the invasion of the [lich|E] Dexas 'Deathrender'. Maria was the daughter of the well off Theydia noble dynasty, and was expected to accept the Way of Family at her Pathchoice in anticipation for her marriage to the Calmensnon family. When hearing of the terror being brought to her homeland, however, she instead chose the Way of Nullification in a great scandal. Her father, distraught but desiring for his daughter's safety, comissioned this great blade to see to her survival, which legends say would later be plunged into the Lich's 'eye' at the end of her invasion." #NT!
+ artifact_mariasblade_modifier: "Maria den va Theydia's Blade" #NT!
+ artifact_mariasblade_modifier_desc: "A silver sword said to have slain a [lich|E]" #NT!
+ artifact_ringofwaysaints_name: "Ring of the Waysaint" #NT!
+ artifact_ringofwaysaints_desc: "#size:15 A beautiful gilded ring said to have been comissioned for Waysaint Cathd den va Krecce by the Conclave of Raocourt shortly before his martyrdom. It was gifted to the young High King Remi Hadcourte-Vedron upon his coronation in 974 IS, and served as a powerful symbol of his faith and fealty to the Way." #NT!
+ artifact_ringofwaysaints_modifier: "Ring of the Waysaint" #NT!
+ artifact_ringofwaysaints_modifier_desc: "A beautiful ring, said to have been forged for a Waysaint's hand" #NT!
+ artifact_fellcharm_name: "Fell Charm" #NT!
+ artifact_fellcharm_desc: "#size:15 This necklace oozes dark and unknown magics. Cast from strange and alien metal, it appears as if it has been reforged numerous times in the past, perhaps in an attempt to destroy it.\n\nThe wearer of the pendant would no doubt be bestowed with great power against their enemies... but one must wonder if it has an equal or greater cost..." #NT!
+ artifact_fellcharm_modifier: "Fell Charm" #NT!
+ artifact_fellcharm_modifier_desc: "A necklace oozing with dark unforeseen magic" #NT!
+ artifact_karthynskull_name: "Skull of [delenel.GetName]" #NT!
+ artifact_karthynskull_desc: "This skull belonged to the Aversarian warlord [Concept('karthyn_delenel','Delenel')|E]. Known for his terror campaigns in Opakhasia and Malcois with which he kept the east controlled for his liege Aautokratir Aeschraes during and after the [imperial_civil_war|E] (alongside his equally infamous counterpart [Concept('demetros_detheniax','Demetros Iron-Spike')|E]); this skull shows little of the horrifying visage recounted by the few survivors of his massacres.\n\nDelenel was mortally wounded by Legan Isacea of Legio XXI 'Axiaothea' during the Vilnian Assault, though he survived long enough to retreat east to his personal estates. While there, abandoned by his men and his allies, his pupil Gorassos entered under the signs of friendship. The events that transpired are unknown, but what is known is Gorassos would butcher his tutor, taking his head and raping and killing what remained of his family and servants before having the estate torched. The event is commonly believed to have been the moment Gorassos deserted the service of Aeschraes and ruled as an independent warlord." #NT!
+ artifact_karthynskull_modifier: "Skull of Karthyn Delenel" #NT!
+ artifact_karthynskull_modifier_desc: "Skull of the late Karthyn Delenel" #NT!
+ artifact_greednecklace_name: "Pendant of Greed" #NT!
+ artifact_greednecklace_desc: "This iron necklace was purportedly worn by Aversarian warlord [Concept('demetros_detheniax','Demetros Iron-Spike')|E] for the duration of his rule in Kalathipsomi and is often claimed to have been the biggest tool used to secure rule of the north.\n\nA simple black iron chain and pendant, the front of the jewelry contains a twisted visage trapped mid-scream, seemingly a natural formation solidified out of the melting iron. Staring into it, one can not help but imagine the depths within its grimacing mouth, and the great costs to feed it...\n\nSome have said that the necklace simply compels those who listen to its wearer to heed their commands, while others claim it exacts a terrible price for this service..." #NT!
+ artifact_greednecklace_modifier: "Pendant of Greed" #NT!
+ artifact_greednecklace_modifier_desc: "An iron necklance with a screaming visage" #NT!
+  #All the magic-boosting-only artifacts could either just be a natural honing of the bones' magical potency, or the result of binding the soul of a Magi to them. 
+ artifact_bone_staff_1_name: "Bone Wand" #NT!
+ artifact_bone_staff_1_desc: "#size:15 This bone wand can be used as a focus to slightly improve its wielder's Dead Magic." #NT!
+ artifact_bone_staff_1_modifier: "Bone Wand" #NT!
+ artifact_bone_staff_1_modifier_desc: "This bone wand can be used as a focus to slightly improve its wielder's Dead Magic.\n\n#E Magic#!:@magic_icon!#positive_value; +0.2#!/month\n#E Magic#!:@dead_magic_icon!#positive_value; +0.05#! per level of [dead_magic|E]/month" #NT!
+ artifact_bone_staff_2_name: "Bone Staff" #NT!
+ artifact_bone_staff_2_desc: "#size:15 This bone staff can be used as a focus to improve its wielder's Dead Magic." #NT!
+ artifact_bone_staff_2_modifier: "Bone Staff" #NT!
+ artifact_bone_staff_2_modifier_desc: "#This bone staff can be used as a focus to improve its wielder's Dead Magic.\n\nE Magic#!:@magic_icon!#positive_value; +0.4#!/month\n#E Magic#!:@dead_magic_icon!#positive_value; +0.1#! per level of [dead_magic|E]/month" #NT!
+ artifact_bone_staff_3_name: "Greater Bone Staff" #NT!
+ artifact_bone_staff_3_desc: "#size:15 This bone staff can be used as a focus to significantly improve its wielder's Dead Magic." #NT!
+ artifact_bone_staff_3_modifier: "Greater Bone Staff" #NT!
+ artifact_bone_staff_3_modifier_desc: "This bone staff can be used as a focus to significantly improve its wielder's Dead Magic.\n\n#E Magic#!:@magic_icon!#positive_value; +0.6#!/month\n#E Magic#!:@dead_magic_icon!#positive_value; +0.15#! per level of [dead_magic|E]/month" #NT!
+ artifact_bone_staff_4_name: "Grand Bone Staff" #NT!
+ artifact_bone_staff_4_desc: "#size:15 This powerful bone staff can be used as a focus to greatly improve its wielder's Dead Magic." #NT!
+ artifact_bone_staff_4_modifier: "Grand Bone Staff" #NT!
+ artifact_bone_staff_4_modifier_desc: "This powerful bone staff can be used as a focus to greatly improve its wielder's Dead Magic.\n\n#E Magic#!:@magic_icon!#positive_value; +0.8#!/month\n#E Magic#!:@dead_magic_icon!#positive_value; +0.2#! per level of [dead_magic|E]/month" #NT!
+  #Imagine the effect of the amulet is a result of binding the soul of an assassin/murderer to the amulet. 
+ artifact_bone_dagger_1_name: "Bone Dagger" #NT!
+ artifact_bone_dagger_1_desc: "#size:15 This bone dagger helps you focus when plotting to hurt people." #NT!
+ artifact_bone_dagger_1_modifier: "Bone Dagger" #NT!
+ artifact_bone_dagger_1_modifier_desc: "This bone dagger helps you focus when plotting to hurt people.\n\n#E Magic#!:@magic_icon!#positive_value; +0.05#!/month" #NT!
+ artifact_bone_dagger_2_name: "Vicious Bone Dagger" #NT!
+ artifact_bone_dagger_2_desc: "#size:15 This bone dagger strengthens your ability to plot against your enemies." #NT!
+ artifact_bone_dagger_2_modifier: "Vicious Bone Dagger" #NT!
+ artifact_bone_dagger_2_modifier_desc: "This bone dagger strengthens your ability to plot against your enemies.\n\n#E Magic#!:@magic_icon!#positive_value; +0.1#!/month" #NT!
+ artifact_bone_dagger_3_name: "Greater Vicious Bone Dagger" #NT!
+ artifact_bone_dagger_3_desc: "#size:15 This bone dagger strengthens your ability to plot against your enemies." #NT!
+ artifact_bone_dagger_3_modifier: "Greater Vicious Bone Dagger" #NT!
+ artifact_bone_dagger_3_modifier_desc: "This bone dagger strengthens your ability to plot against your enemies.\n\n#E Magic#!:@magic_icon!#positive_value; +0.15#!/month" #NT!
+ artifact_bone_dagger_4_name: "Murderous Bone Dagger" #NT!
+ artifact_bone_dagger_4_desc: "#size:15 This bone dagger greatly strengthens your ability to plot against your enemies, bolstering your murderous intent." #NT!
+ artifact_bone_dagger_4_modifier: "Murderous Bone Dagger" #NT!
+ artifact_bone_dagger_4_modifier_desc: "This bone dagger greatly strengthens your ability to plot against your enemies, bolstering your murderous intent.\n\n#E Magic#!:@magic_icon!#positive_value; +0.2#!/month" #NT!
+  #Probably just the result of using the magic in the bone to create a great spear. Nothing strange going on here.. 
+ artifact_bone_spear_1_name: "Bone Spear" #NT!
+ artifact_bone_spear_1_desc: "#size:15 This bone spear is crafted of bones with noticeable magical potency, increasing its power." #NT!
+ artifact_bone_spear_1_modifier: "Bone Spear" #NT!
+ artifact_bone_spear_1_modifier_desc: "This bone spear is crafted of bones with noticeable magical potency, increasing its power.\n\n#E Magic#!:@magic_icon!#positive_value; +0.1#!/month" #NT!
+ artifact_bone_spear_2_name: "Potent Bone Spear" #NT!
+ artifact_bone_spear_2_desc: "#size:15 This bone spear is crafted of bones with significant magical potency, increasing its power." #NT!
+ artifact_bone_spear_2_modifier: "Potent Bone Spear" #NT!
+ artifact_bone_spear_2_modifier_desc: "This bone spear is crafted of bones significant magical potency, increasing its power.\n\n#E Magic#!:@magic_icon!#positive_value; +0.2#!/month\n#E Magic#!:@dead_magic_icon!#positive_value; +0.05#! per level of [dead_magic|E]/month" #NT!
+ artifact_bone_spear_3_name: "Greater Bone Spear" #NT!
+ artifact_bone_spear_3_desc: "#size:15 This bone spear is crafted of bones with great magical potency, greatly increasing its power." #NT!
+ artifact_bone_spear_3_modifier: "Greater Bone Spear" #NT!
+ artifact_bone_spear_3_modifier_desc: "This bone spear is crafted of bones with great magical potency, greatly increasing its power.\n\n#E Magic#!:@magic_icon!#positive_value; +0.3#!/month\n#E Magic#!:@dead_magic_icon!#positive_value; +0.05#! per level of [dead_magic|E]/month" #NT!
+ artifact_bone_spear_4_name: "Grand Bone Spear" #NT!
+ artifact_bone_spear_4_desc: "#size:15 This bone spear is crafted of bones with immense magical potency, vastly increasing its power." #NT!
+ artifact_bone_spear_4_modifier: "Grand Bone Spear" #NT!
+ artifact_bone_spear_4_modifier_desc: "This bone spear is crafted of bones with immense magical potency, vastly increasing its power.\n\n#E Magic#!:@magic_icon!#positive_value; +0.4#!/month\n#E Magic#!:@dead_magic_icon!#positive_value; +0.1#! per level of [dead_magic|E]/month" #NT!
+  #Could be the result of binding the soul of a ruler to the scepter made of magic bones. 
+ artifact_bone_scepter_1_name: "Simple Bone Scepter" #NT!
+ artifact_bone_scepter_1_desc: "#size:15 This simple bone scepter is crafted with bones of noticeable magical potency, creating a slight feeling of unease and respect towards its wearer." #NT!
+ artifact_bone_scepter_1_modifier: "Simple Bone Scepter" #NT!
+ artifact_bone_scepter_1_modifier_desc: "This simple bone scepter is crafted with bones of noticeable magical potency, creating a slight feeling of unease and respect towards its wearer.\n\n#E Magic#!:@magic_icon!#positive_value; +0.1#!/month" #NT!
+ artifact_bone_scepter_2_name: "Bone Scepter" #NT!
+ artifact_bone_scepter_2_desc: "#size:15 This bone scepter is crafted with bones of significant magical potency, creating a feeling of unease and respect towards its wearer." #NT!
+ artifact_bone_scepter_2_modifier: "Bone Scepter" #NT!
+ artifact_bone_scepter_2_modifier_desc: "This bone scepter is crafted with bones of significant magical potency, creating a feeling of unease and respect towards its wearer.\n\n#E Magic#!:@magic_icon!#positive_value; +0.2#!/month\n#E Magic#!:@dead_magic_icon!#positive_value; +0.05#! per level of [dead_magic|E]/month" #NT!
+ artifact_bone_scepter_3_name: "Ornate Bone Scepter" #NT!
+ artifact_bone_scepter_3_desc: "#size:15 This ornate bone scepter is crafted with bones of great magical potency, creating a feeling of fear and respect towards its wearer." #NT!
+ artifact_bone_scepter_3_modifier: "Ornate Bone Scepter" #NT!
+ artifact_bone_scepter_3_modifier_desc: "This ornate bone scepter is crafted with bones of great magical potency, creating a feeling of fear and respect towards its wearer.\n\n#E Magic#!:@magic_icon!#positive_value; +0.3#!/month\n#E Magic#!:@dead_magic_icon!#positive_value; +0.05#! per level of [dead_magic|E]/month" #NT!
+ artifact_bone_scepter_4_name: "Grand Bone Scepter" #NT!
+ artifact_bone_scepter_4_desc: "#size:15 This exquisitely crafted bone scepter is crafted with bones of immense magical potency, creating a feeling of fear and respect towards its wearer." #NT!
+ artifact_bone_scepter_4_modifier: "Grand Bone Scepter" #NT!
+ artifact_bone_scepter_4_modifier_desc: "This exquisitely crafted bone scepter is crafted with bones of immense magical potency, creating a feeling of fear and respect towards its wearer.\n\n#E Magic#!:@magic_icon!#positive_value; +0.4#!/month\n#E Magic#!:@dead_magic_icon!#positive_value; +0.1#! per level of [dead_magic|E]/month" #NT!
+  #Could be the result of binding the soul of a ruler to the crown made of magic bones. 
+ artifact_bone_crown_1_name: "Simple Bone Crown" #NT!
+ artifact_bone_crown_1_desc: "#size:15 This simple bone crown is crafted with bones of noticeable magical potency, creating a slight feeling of unease and respect towards its wearer." #NT!
+ artifact_bone_crown_1_modifier: "Simple Bone Crown" #NT!
+ artifact_bone_crown_1_modifier_desc: "This simple bone crown is crafted with bones of noticeable magical potency, creating a slight feeling of unease and respect towards its wearer.\n\n#E Magic#!:@magic_icon!#positive_value; +0.1#!/month" #NT!
+ artifact_bone_crown_2_name: "Bone Crown" #NT!
+ artifact_bone_crown_2_desc: "#size:15 This bone crown is crafted with bones of significant magical potency, creating a feeling of unease and respect towards its wearer." #NT!
+ artifact_bone_crown_2_modifier: "Bone Crown" #NT!
+ artifact_bone_crown_2_modifier_desc: "This bone crown is crafted with bones of significant magical potency, creating a feeling of unease and respect towards its wearer.\n\n#E Magic#!:@magic_icon!#positive_value; +0.2#!/month\n#E Magic#!:@dead_magic_icon!#positive_value; +0.05#! per level of [dead_magic|E]/month" #NT!
+ artifact_bone_crown_3_name: "Imposing Bone Crown" #NT!
+ artifact_bone_crown_3_desc: "#size:15 This imposing crown is crafted with bones of great magical potency, creating a feeling of unease and fear towards its wearer." #NT!
+ artifact_bone_crown_3_modifier: "Imposing Bone Crown" #NT!
+ artifact_bone_crown_3_modifier_desc: "This imposing crown is crafted with bones of great magical potency, creating a feeling of unease and fear towards its wearer.\n\n#E Magic#!:@magic_icon!#positive_value; +0.3#!/month\n#E Magic#!:@dead_magic_icon!#positive_value; +0.05#! per level of [dead_magic|E]/month" #NT!
+ artifact_bone_crown_4_name: "Terrible Bone Crown" #NT!
+ artifact_bone_crown_4_desc: "#size:15 This grand and terrible crown is crafted with bones of immense magical potency, creating a feeling of unease and fear towards its wearer." #NT!
+ artifact_bone_crown_4_modifier: "Terrible Bone Crown" #NT!
+ artifact_bone_crown_4_modifier_desc: "This grand and terrible crown is crafted with bones of immense magical potency, creating a feeling of unease and fear towards its wearer.\n\n#E Magic#!:@magic_icon!#positive_value; +0.4#!/month\n#E Magic#!:@dead_magic_icon!#positive_value; +0.1#! per level of [dead_magic|E]/month" #NT!
+  #Probably bound the soul of a warrior/general to the helmet. 
+ artifact_bone_helmet_1_name: "Bone Helmet" #NT!
+ artifact_bone_helmet_1_desc: "#size:15 This bone helmet is crafted of bones of noticeable magical potency, magical wards strengthening its durability." #NT!
+ artifact_bone_helmet_1_modifier: "Bone Helmet" #NT!
+ artifact_bone_helmet_1_modifier_desc: "This bone helmet is crafted of bones of noticeable magical potency, magical wards strengthening its durability.\n\n#E Magic#!:@magic_icon!#positive_value; +0.1#!/month" #NT!
+ artifact_bone_helmet_2_name: "Potent Bone Helmet" #NT!
+ artifact_bone_helmet_2_desc: "#size:15 This bone helmet is crafted of bones of significant magical potency, magical wards strengthening its durability." #NT!
+ artifact_bone_helmet_2_modifier: "Potent Bone Helmet" #NT!
+ artifact_bone_helmet_2_modifier_desc: "This bone helmet is crafted of bones of significant magical potency, magical wards strengthening its durability.\n\n#E Magic#!:@magic_icon!#positive_value; +0.2#!/month\n#E Magic#!:@dead_magic_icon!#positive_value; +0.05#! per level of [dead_magic|E]/month" #NT!
+ artifact_bone_helmet_3_name: "Great Bone Helmet" #NT!
+ artifact_bone_helmet_3_desc: "#size:15 This bone helmet is crafted of bones of great magical potency, powerful magical wards greatly strengthening its durability." #NT!
+ artifact_bone_helmet_3_modifier: "Great Bone Helmet" #NT!
+ artifact_bone_helmet_3_modifier_desc: "This bone helmet is crafted of bones of great magical potency, powerful magical wards greatly strengthening its durability.\n\n#E Magic#!:@magic_icon!#positive_value; +0.3#!/month\n#E Magic#!:@dead_magic_icon!#positive_value; +0.05#! per level of [dead_magic|E]/month" #NT!
+ artifact_bone_helmet_4_name: "Grand Bone Helmet" #NT!
+ artifact_bone_helmet_4_desc: "#size:15 This bone helmet is crafted of bones of immense magical potency, powerful magical wards making it near-indestructible." #NT!
+ artifact_bone_helmet_4_modifier: "Terrible Bone Crown" #NT!
+ artifact_bone_helmet_4_modifier_desc: "This bone helmet is crafted of bones of immense magical potency, powerful magical wards making it near-indestructible.\n\n#E Magic#!:@magic_icon!#positive_value; +0.4#!/month\n#E Magic#!:@dead_magic_icon!#positive_value; +0.1#! per level of [dead_magic|E]/month" #NT!
+ artifact_bone_mask_1_name: "Lesser Bone Mask" #NT!
+ artifact_bone_mask_1_desc: "#size:15 This bone mask is made from bones with noticeable magical potency, and has been enchanted to slightly increase its wearers ability to sense and understand Dead Magic." #NT!
+ artifact_bone_mask_1_modifier: "Lesser Bone Mask" #NT!
+ artifact_bone_mask_1_modifier_desc: "This bone mask from made of bones with noticeable magical potency, and has been enchanted to slightly increase its wearers ability to sense and understand Dead Magic.\n\n#E Magic#!:@magic_icon!#positive_value; +0.2#!/month\n#E Magic#!:@dead_magic_icon!#positive_value; +0.05#! per level of [dead_magic|E]/month" #NT!
+ artifact_bone_mask_2_name: "Bone Mask" #NT!
+ artifact_bone_mask_2_desc: "#size:15 This bone mask is made from bones with noticeable magical potency, and has been enchanted to increase its wearers ability to sense and understand Dead Magic." #NT!
+ artifact_bone_mask_2_modifier: "Bone Mask" #NT!
+ artifact_bone_mask_2_modifier_desc: "This bone mask is made from bones with noticeable magical potency, and has been enchanted to increase its wearers ability to sense and understand Dead Magic.\n\n#E Magic#!:@magic_icon!#positive_value; +0.41#!/month\n#E Magic#!:@dead_magic_icon!#positive_value; +0.1#! per level of [dead_magic|E]/month" #NT!
+ artifact_bone_mask_3_name: "Potent Bone Mask" #NT!
+ artifact_bone_mask_3_desc: "#size:15 This bone mask is made from bones with great magical potency, and has been enchanted to greatly increase its wearers ability to sense and understand Dead Magic." #NT!
+ artifact_bone_mask_3_modifier: "Potent Bone Mask" #NT!
+ artifact_bone_mask_3_modifier_desc: "This bone mask is made from bones with great magical potency, and has been enchanted to greatly increase its wearers ability to sense and understand Dead Magic.\n\n#E Magic#!:@magic_icon!#positive_value; +0.6#!/month\n#E Magic#!:@dead_magic_icon!#positive_value; +0.15#! per level of [dead_magic|E]/month" #NT!
+ artifact_bone_mask_4_name: "Powerful Bone Mask" #NT!
+ artifact_bone_mask_4_desc: "#size:15 This simple bone mask is made from bones with immense magical potency, and has been enchanted to greatly increase its wearers ability to sense and understand Dead Magic." #NT!
+ artifact_bone_mask_4_modifier: "Powerful Bone Mask" #NT!
+ artifact_bone_mask_4_modifier_desc: "This simple bone mask is made from bones with immense magical potency, and has been enchanted to greatly increase its wearers ability to sense and understand Dead Magic.\n\n#E Magic#!:@magic_icon!#positive_value; +0.8#!/month\n#E Magic#!:@dead_magic_icon!#positive_value; +0.2#! per level of [dead_magic|E]/month" #NT!
+ artifact_magic_staff_modifier_1: "#E Magic#!:@magic_icon!#positive_value; +1#!/month" #NT!
+ artifact_magic_staff_1_modifier_2: "#E Magic#!:@magic_icon!#positive_value; +2#!/month" #NT!
+ artifact_magic_staff_2_modifier_3: "#E Magic#!:@magic_icon!#positive_value; +3#!/month" #NT!
+ artifact_magic_staff_3_modifier_4: "#E Magic#!:@magic_icon!#positive_value; +4#!/month" #NT!
+ artifact_staffofthewizardking_modifier_desc: "#E Magic#!:@magic_icon!#positive_value; +6#!/month" #NT!
+ artifact_staffofkatharitos_modifier_desc: "#E Magic#!:@magic_icon!#positive_value; +4#!/month" #NT!
+ artifact_aersanonstaff1_modifier_desc: "#E Magic#!:@magic_icon!#positive_value; +8#!/month" #NT!
+ artifact_aersanonstaff2_modifier_desc: "#E Magic#!:@magic_icon!#positive_value; +8#!/month" #NT!

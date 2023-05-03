@@ -1,0 +1,783 @@
+﻿l_russian:
+  #Example 
+ #mercenary_company_baltic_band: "Baltic Band" #NT!
+ #mercenary_company_baltic_band_article: "the " #NT!
+  
+  #Imperials 
+ mercenary_company_legio_xv: "Legio XV" #NT!
+ mercenary_company_legio_xv_article: "the " #NT!
+ mercenary_company_firestar_company: "Firestar Company" #NT!
+ mercenary_company_firestar_company_article: "the " #NT!
+ mercenary_company_emperors_wroth: "Emperor's Wroth" #NT!
+ mercenary_company_emperors_wroth_article: "the " #NT!
+ mercenary_company_legio_ix: "Legio IX" #NT!
+ mercenary_company_legio_ix_article: "the " #NT!
+ mercenary_company_legio_vii: "Legio VII" #NT!
+ mercenary_company_legio_vii_article: "the " #NT!
+ mercenary_company_lost_sons: "Lost Sons" #NT!
+ mercenary_company_lost_sons_article: "the " #NT!
+ mercenary_company_hammer_company: "Hammer Company" #NT!
+ mercenary_company_hammer_company_article: "the " #NT!
+ mercenary_company_bearskin_company: "Bearskin Company" #NT!
+ mercenary_company_bearskin_company_article: "the " #NT!
+ mercenary_company_redstone_bandits: "Redstone Bandits" #NT!
+ mercenary_company_redstone_bandits_article: "the " #NT!
+ mercenary_company_legio_xxiv: "Legio XXIV" #NT!
+ mercenary_company_legio_xxiv_article: "the " #NT!
+ mercenary_company_bloodspiller_company: "Bloodspiller Company" #NT!
+ mercenary_company_bloodspiller_company_article: "the " #NT!
+ mercenary_company_sons_of_destiny: "Sons of Destiny" #NT!
+ mercenary_company_sons_of_destiny_article: "the " #NT!
+ mercenary_company_broken_arrows: "Broken Arrows" #NT!
+ mercenary_company_broken_arrows_article: "the " #NT!
+ mercenary_company_kingslayers: "Kingslayers" #NT!
+ mercenary_company_kingslayers_article: "the " #NT!
+ mercenary_company_old_reliables: "Old Reliables" #NT!
+ mercenary_company_old_reliables_article: "the " #NT!
+ mercenary_company_greyskull_company: "Greyskull Company" #NT!
+ mercenary_company_greyskull_company_article: "the " #NT!
+ mercenary_company_snakesorrow_bandits: "Snakesorrow Bandits" #NT!
+ mercenary_company_snakesorrow_bandits_article: "the " #NT!
+ mercenary_company_gravedigers: "Gravediggers" #NT!
+ mercenary_company_gravedigers_article: "the " #NT!
+ mercenary_company_axiaotheas_revenge: "Axiaotheas' Revenge" #NT!
+ mercenary_company_axiaotheas_revenge_article: "the " #NT!
+ mercenary_company_crowntakers: "Crowntakers" #NT!
+ mercenary_company_crowntakers_article: "the " #NT!
+ mercenary_company_golden_nose_band: "Golden Nose Band" #NT!
+ mercenary_company_golden_nose_band_article: "the " #NT!
+ mercenary_company_champions_of_the_rock: "Champions of the Rock" #NT!
+ mercenary_company_champions_of_the_rock_article: "the " #NT!
+ mercenary_company_rainfall_company: "Rainfall Company" #NT!
+ mercenary_company_rainfall_company_article: "the " #NT!
+ mercenary_company_endless_survivors: "Endless Survivors" #NT!
+ mercenary_company_endless_survivors_article: "the " #NT!
+  #sjalvolki 
+ mercenary_company_blood_axes: "Blood Axes" #NT!
+ mercenary_company_blood_axes_article: "the " #NT!
+ mercenary_company_night_raiders: "Night Raiders" #NT!
+ mercenary_company_night_raiders_article: "the " #NT!
+ mercenary_company_children_of_the_grove: "Children of the Grove" #NT!
+ mercenary_company_children_of_the_grove_article: "the " #NT!
+ mercenary_company_ironbiters: "Ironbiters" #NT!
+ mercenary_company_ironbiters_article: "the " #NT!
+ mercenary_company_burnt_bridge_bandits: "Burnt Bridge Bandits" #NT!
+ mercenary_company_burnt_bridge_bandits_article: "the " #NT!
+ mercenary_company_wolves: "Wolves" #NT!
+ mercenary_company_wolves_article: "the " #NT!
+ mercenary_company_scaleback_raiders: "Scaleback Raiders" #NT!
+ mercenary_company_scaleback_raiders_article: "the " #NT!
+ mercenary_company_treesplitters: "Treesplitters" #NT!
+ mercenary_company_treesplitters_article: "the " #NT!
+ mercenary_company_fifteen_blades: "Fifteen Blades" #NT!
+ mercenary_company_fifteen_blades_article: "the " #NT!
+ mercenary_company_sons_of_erik: "Sons of Erik" #NT!
+ mercenary_company_sons_of_erik_article: "the " #NT!
+ mercenary_company_dragon_hunters: "Dragon Hunters" #NT!
+ mercenary_company_dragon_hunters_article: "the " #NT!
+ mercenary_company_skysorrow_bandits: "Skysorrow Bandits" #NT!
+ mercenary_company_skysorrow_bandits_article: "the " #NT!
+ mercenary_company_elk_chargers: "Elk Chargers" #NT!
+ mercenary_company_elk_chargers_article: "the " #NT!
+ mercenary_company_burned_men: "Burned Men" #NT!
+ mercenary_company_burned_men_article: "the " #NT!
+ mercenary_company_twiceborn: "Twiceborn" #NT!
+ mercenary_company_twiceborn_article: "the" #NT!
+ mercenary_company_six_eyes: "Six Eyes" #NT!
+ mercenary_company_six_eyes_article: "the " #NT!
+ mercenary_company_roundhill_bandits: "Roundhill Bandits" #NT!
+ mercenary_company_roundhill_bandits_article: "the " #NT!
+ mercenary_company_thulkguard_raiders: "Thulkguard Raiders" #NT!
+ mercenary_company_thulkguard_raiders_article: "the " #NT!
+ mercenary_company_throatslitters: "Throatslitters" #NT!
+ mercenary_company_throatslitters_article: "the " #NT!
+ mercenary_company_bitterwood_champions: "Bitterwood Champions" #NT!
+ mercenary_company_bitterwood_champions_article: "the " #NT!
+ mercenary_company_imperial_slayers: "Imperial Slayers" #NT!
+ mercenary_company_imperial_slayers_article: "the " #NT!
+ mercenary_company_blood_wings: "Blood Wins" #NT!
+ mercenary_company_blood_wings_article: "the " #NT!
+ mercenary_company_moonshard_followers: "Moonshard Followers" #NT!
+ mercenary_company_moonshard_followers_article: "the " #NT!
+ mercenary_company_riverfall_raiders: "Riverfall Raiders" #NT!
+ mercenary_company_riverfall_raiders_article: "the " #NT!
+  #Fog Eaters 
+ mercenary_company_children_of_the_fog: "Children of the [fog|E]" #NT!
+ mercenary_company_children_of_the_fog_article: "the " #NT!
+ mercenary_company_shadows: "Shadows" #NT!
+ mercenary_company_shadows_article: "the " #NT!
+ mercenary_company_mind_breakers: "Mind Breakers" #NT!
+ mercenary_company_mind_breakers_article: "the " #NT!
+  #Marcher 
+ mercenary_company_company_of_the_way: "Company of the Way" #NT!
+ mercenary_company_company_of_the_way_article: "the " #NT!
+ mercenary_company_knights_of_lifes_radiance: "Knights of Life's Radiance" #NT!
+ mercenary_company_knights_of_lifes_radiance_article: "the " #NT!
+ mercenary_company_company_of_the_sword: "Company of the Sword" #NT!
+ mercenary_company_company_of_the_sword_article: "the " #NT!
+ mercenary_company_knights_of_the_star: "Knights of the Star" #NT!
+ mercenary_company_knights_of_the_star_article: "the " #NT!
+ mercenary_company_gallant_adventurers: "Gallant Adventurers" #NT!
+ mercenary_company_gallant_adventurers_article: "the " #NT!
+ mercenary_company_crownbreakers: "Crownbreakers" #NT!
+ mercenary_company_crownbreakers_article: "the " #NT!
+ mercenary_company_three_feather_gentlemen: "Three Feather Gentlemen" #NT!
+ mercenary_company_three_feather_gentlemen_article: "the " #NT!
+ mercenary_company_adventurer_guild: "Adventurer Guild" #NT!
+ mercenary_company_adventurer_guild_article: "the " #NT!
+ mercenary_company_bards_of_bacenor: "Bards of Bacenor" #NT!
+ mercenary_company_bards_of_bacenor_article: "the " #NT!
+ mercenary_company_knights_of_the_full_moon: "Knights of the Full Moon" #NT!
+ mercenary_company_knights_of_the_full_moon_article: "the " #NT!
+ mercenary_company_ironchargers: "Ironchargers" #NT!
+ mercenary_company_ironchargers_article: "the " #NT!
+ mercenary_company_blind_knights: "Blind Knights" #NT!
+ mercenary_company_blind_knights_article: "the " #NT!
+ mercenary_company_redeemers: "Redeemers" #NT!
+ mercenary_company_redeemers_article: "the " #NT!
+ mercenary_company_company_of_the_lost_sword: "Company of the Lost Sword" #NT!
+ mercenary_company_company_of_the_lost_sword_article: "the " #NT!
+ mercenary_company_knights_of_the_eternal_promise: "Knights of the Eternal Promise" #NT!
+ mercenary_company_knights_of_the_eternal_promise_article: "the " #NT!
+ mercenary_company_company_of_the_saved: "Company of the Saved" #NT!
+ mercenary_company_company_of_the_saved_article: "the " #NT!
+ mercenary_company_crownsgutter_bandits: "Crownsgutter Bandits" #NT!
+ mercenary_company_crownsgutter_bandits_article: "the " #NT!
+ mercenary_company_lichebane_company: "Lichebane Company" #NT!
+ mercenary_company_lichebane_company_article: "the " #NT!
+ mercenary_company_guardians_of_virtue: "Guardians of Virtue" #NT!
+ mercenary_company_guardians_of_virtue_article: "the " #NT!
+ mercenary_company_company_of_the_wayward_dawn: "Company of the Wayward Dawn" #NT!
+ mercenary_company_company_of_the_wayward_dawn_article: "the " #NT!
+ mercenary_company_five_sword_company: "Five Sword Company" #NT!
+ mercenary_company_five_sword_company_article: "the " #NT!
+ mercenary_company_guardians_of_the_light: "Guardians of the Light" #NT!
+ mercenary_company_guardians_of_the_light_article: "the " #NT!
+ mercenary_company_order_of_the_endless_path: "Order of the Endless Path" #NT!
+ mercenary_company_order_of_the_endless_path_article: "the " #NT!
+ mercenary_company_broken_bastards: "Broken Bastards" #NT!
+ mercenary_company_broken_bastards_article: "the " #NT!
+  #Partic 
+ mercenary_company_red_runners: "Red Runners" #NT!
+ mercenary_company_red_runners_article: "the " #NT!
+ mercenary_company_five_knee_bandits: "Five Knee Bandits" #NT!
+ mercenary_company_five_knee_bandits_article: "the " #NT!
+ mercenary_company_sons_of_the_wood: "Sons of the Wood" #NT!
+ mercenary_company_sons_of_the_wood_article: "the " #NT!
+ mercenary_company_bear_skins: "Bear Skins" #NT!
+ mercenary_company_bear_skins_article: "the " #NT!
+ mercenary_company_eye_gougers: "Eye Gougers" #NT!
+ mercenary_company_eye_gougers_article: "the " #NT!
+ mercenary_company_bronze_guard: "Bronze Guard" #NT!
+ mercenary_company_bronze_guard_article: "the " #NT!
+ mercenary_company_mud_stalkers: "Mud Stalkers" #NT!
+ mercenary_company_mud_stalkers_article: "the " #NT!
+ mercenary_company_exiled_brotherhood: "Exiled Brotherhood" #NT!
+ mercenary_company_exiled_brotherhood_article: "the " #NT!
+ mercenary_company_river_snakes: "River Snakes" #NT!
+ mercenary_company_river_snakes_article: "the " #NT!
+ mercenary_company_fog_slayers: "[fog|E] Slayers" #NT!
+ mercenary_company_fog_slayers_article: "the " #NT!
+ mercenary_company_wetwood_bandits: "Wetwood Bandits" #NT!
+ mercenary_company_wetwood_bandits_article: "the " #NT!
+ mercenary_company_bonedawn_raiders: "Bonedawn Raiders" #NT!
+ mercenary_company_bonedawn_raiders_article: "the " #NT!
+ mercenary_company_redhood_company: "Redhood Company" #NT!
+ mercenary_company_redhood_company_article: "the " #NT!
+ mercenary_company_hollowguards: "Hollowguards" #NT!
+ mercenary_company_hollowguards_article: "the " #NT!
+ mercenary_company_longbeards: "Longbeards" #NT!
+ mercenary_company_longbeards_article: "the " #NT!
+ mercenary_company_way_smashers: "Way Smashers" #NT!
+ mercenary_company_way_smashers_article: "the " #NT!
+ mercenary_company_barkskin_vanguard: "Barkskin Vanguard" #NT!
+ mercenary_company_barkskin_vanguard_article: "the " #NT!
+ mercenary_company_stormsingers: "Stormsingers" #NT!
+ mercenary_company_stormsingers_article: "the " #NT!
+ mercenary_company_shimmerfist_brawlers: "Shimmerfist Brawlers" #NT!
+ mercenary_company_shimmerfist_brawlers_article: "the " #NT!
+ mercenary_company_ravens: "Ravens" #NT!
+ mercenary_company_ravens_article: "the " #NT!
+ mercenary_company_bullgot_brood: "Bullgot Brood" #NT!
+ mercenary_company_bullgot_brood_article: "the " #NT!
+ mercenary_company_guardians_of_the_spirit: "Guardians of the Spirit" #NT!
+ mercenary_company_guardians_of_the_spirit_article: "the " #NT!
+ mercenary_company_skull_takers: "Skull Takers" #NT!
+ mercenary_company_skull_takers_article: "the " #NT!
+ mercenary_company_blackthorn_bandits: "Blackthorn Bandits" #NT!
+ mercenary_company_blackthorn_bandits_article: "the " #NT!
+  #Mondecny 
+ mercenary_company_exiles: "Exiles" #NT!
+ mercenary_company_exiles_article: "the" #NT!
+ mercenary_company_forestwards: "Wards of the Forest" #NT!
+ mercenary_company_forestwards_article: "the" #NT!
+ mercenary_company_treewardens: "TreeWardens" #NT!
+ mercenary_company_treewardens_article: "the" #NT!
+ mercenary_company_gardeners: "Gardeners" #NT!
+ mercenary_company_gardeners_article: "the" #NT!
+ mercenary_company_rangers: "Black Oak Rangers" #NT!
+ mercenary_company_rangers_article: "the" #NT!
+ mercenary_company_bloody_handed: "Bloody Handed" #NT!
+ mercenary_company_bloody_handed_article: "the" #NT!
+ mercenary_company_unforgiven: "Unforgiven" #NT!
+ mercenary_company_unforgiven_article: "the" #NT!
+ mercenary_company_banished: "Banished" #NT!
+ mercenary_company_banished_article: "the" #NT!
+ mercenary_company_expatriats: "Expatriats" #NT!
+ mercenary_company_expatriats_article: "the" #NT!
+ mercenary_company_ejected: "Ejected" #NT!
+ mercenary_company_ejected_article: "the" #NT!
+ mercenary_company_cast_out: "Armed Outcasts" #NT!
+ mercenary_company_cast_out_article: "the" #NT!
+ #kardwen 
+ mercenary_company_whispers_in_the_woods: "Whispers in the Woods" #NT!
+ mercenary_company_whispers_in_the_woods_article: "the" #NT!
+ mercenary_company_headtakers: "Head Takers" #NT!
+ mercenary_company_the_shades: "Shades" #NT!
+ mercenary_company_the_shades_article: "the" #NT!
+ mercenary_company_fleet_foxes: "Fleet Foxes" #NT!
+ mercenary_company_the_won't_stop_until_we've_got_you_gang: "the" #NT!
+ mercenary_company_the_wind_in_the_willows: "Wind in the Willows" #NT!
+ mercenary_company_the_wind_in_the_willows_article: "the" #NT!
+ mercenary_company_ghouls: "Ghouls" #NT!
+ #Etrandanexi 
+ mercenary_company_company_of_knightly_magi: "Company of Knightly Magi" #NT!
+ mercenary_company_company_of_knightly_magi_article: "the" #NT!
+ mercenary_company_the_forest_lodge: "Chivalric Forest Lodge" #NT!
+ mercenary_company_the_forest_lodge_article: "the" #NT!
+ mercenary_company_the_barons_finest: "Baron's Finest" #NT!
+ mercenary_company_the_barons_finest_article: "the" #NT!
+ mercenary_company_the_kings_imperials: "King's Imperials" #NT!
+ mercenary_company_the_kings_imperials_article: "the" #NT!
+ #aafarzay 
+ mercenary_company_firewardens: "Firewardens" #NT!
+ mercenary_company_firewardens_article: "the" #NT!
+ mercenary_company_order_of_the_glorious_gaur: "Order of the Glorious Gaur" #NT!
+ mercenary_company_order_of_the_glorious_gaur_article: "the" #NT!
+ mercenary_company_tahrhide_raiders: "Tahrhide Raiders" #NT!
+ mercenary_company_tahrhide_raiders_article: "the" #NT!
+ mercenary_company_blades_of_kharadan: "Blades of Kharadan" #NT!
+ mercenary_company_blades_of_kharadan_article: "the" #NT!
+ mercenary_company_snake_eaters: "Snake Eaters" #NT!
+ mercenary_company_snake_eaters_article: "the" #NT!
+ #abadelos 
+ mercenary_company_bridgebreakers: "Bridgebreakers" #NT!
+ mercenary_company_bridgebreakers_article: "the" #NT!
+ mercenary_company_sons_of_the_kasiryat: "Sons of the Kasiryat" #NT!
+ mercenary_company_sons_of_the_kasiryat_article: "the" #NT!
+ mercenary_company_riverguard: "Riverguard" #NT!
+ mercenary_company_riverguard_article: "the" #NT!
+ mercenary_company_flood_stalkers: "Flood Stalkers" #NT!
+ mercenary_company_flood_stalkers_article: "the" #NT!
+ mercenary_company_silent_swimmers: "Silent Swimmers" #NT!
+ mercenary_company_silent_swimmers_article: "the" #NT!
+ #adhata 
+ mercenary_company_shadow_stalkers: "Shadow Stalkers" #NT!
+ mercenary_company_shadow_stalkers_article: "the" #NT!
+ mercenary_company_cold_tusks: "Cold Tusks" #NT!
+ mercenary_company_cold_tusks_article: "the" #NT!
+ mercenary_company_guild_of_daggers: "Guild of Daggers" #NT!
+ mercenary_company_guild_of_daggers_article: "the" #NT!
+ mercenary_company_swift_spears: "Swift Spears" #NT!
+ mercenary_company_swift_spears_article: "the" #NT!
+ mercenary_company_nighthides: "Nighthides" #NT!
+ mercenary_company_nighthides_article: "the" #NT!
+ #aekershaani 
+ mercenary_company_reedguard: "Reedguard" #NT!
+ mercenary_company_reedguard_article: "the" #NT!
+ mercenary_company_mezzarb_marauders: "Mezzarb Marauders" #NT!
+ mercenary_company_mezzarb_marauders_article: "the" #NT!
+ mercenary_company_sons_of_the_crater: "Sons of the Crater" #NT!
+ mercenary_company_sons_of_the_crater_article: "the" #NT!
+ mercenary_company_urmahlullus_claws: "Urmahlullu's Claws" #NT!
+ mercenary_company_urmahlullus_claws_article: "the" #NT!
+ mercenary_company_ohrasiks_favored: "Ohrasik's Favored" #NT!
+ mercenary_company_ohrasiks_favored_article: "the" #NT!
+ #aembarisa 
+ mercenary_company_rovarskan_dragonriders: "Rovarskan Dragonriders" #NT!
+ mercenary_company_rovarskan_dragonriders_article: "the" #NT!
+ mercenary_company_spears_of_wellatola: "Spears of Wellatola" #NT!
+ mercenary_company_spears_of_wellatola_article: "the" #NT!
+ mercenary_company_delvers_of_paccai: "Delvers of Paccai" #NT!
+ mercenary_company_delvers_of_paccai_article: "the" #NT!
+ mercenary_company_rovarskan_raiders: "Rovarskan Raiders" #NT!
+ mercenary_company_rovarskan_raiders_article: "the" #NT!
+ mercenary_company_brotherhood_phulikama: "Brotherhood of the Lost Phulikama" #NT!
+ mercenary_company_brotherhood_phulikama_article: "the" #NT!
+ #aevakori 
+ mercenary_company_golden_blades: "Golden Blades" #NT!
+ mercenary_company_golden_blades_article: "the" #NT!
+ mercenary_company_hyratan_raiders: "Hyratan Raiders" #NT!
+ mercenary_company_hyratan_raiders_article: "the" #NT!
+ mercenary_company_order_of_certuku: "Order of the Holy Certuku" #NT!
+ mercenary_company_order_of_certuku_article: "the" #NT!
+ mercenary_company_mountain_men: "Mountain Men" #NT!
+ mercenary_company_mountain_men_article: "the" #NT!
+ mercenary_company_kharstrangs_heirs: "Heirs of Kharstrang" #NT!
+ mercenary_company_kharstrangs_heirs_article: "the" #NT!
+ #afoseniai 
+ mercenary_company_firebirds: "Firebirds" #NT!
+ mercenary_company_firebirds_article: "the" #NT!
+ mercenary_company_mountainsun_mystics: "Mountain-Sun Mystics" #NT!
+ mercenary_company_mountainsun_mystics_article: "the" #NT!
+ mercenary_company_red_waste_sojourners: "Red Waste Sojourners" #NT!
+ mercenary_company_red_waste_sojourners_article: "the" #NT!
+ mercenary_company_crocotta_pack: "Crocotta Pack" #NT!
+ mercenary_company_crocotta_pack_article: "the" #NT!
+ mercenary_company_brave_bears: "Brave Bears" #NT!
+ mercenary_company_brave_bears_article: "the" #NT!
+ #agadari 
+ mercenary_company_daughters_of_krehejad: "Daughters of Krehejad" #NT!
+ mercenary_company_daughters_of_krehejad_article: "the" #NT!
+ mercenary_company_purple_pillagers: "Purple Pillagers" #NT!
+ mercenary_company_purple_pillagers_article: "the" #NT!
+ mercenary_company_coatl_raiders: "Coatl Raiders" #NT!
+ mercenary_company_coatl_raiders_article: "the" #NT!
+ mercenary_company_haramar_singers: "Hara'mar Singers" #NT!
+ mercenary_company_haramar_singers_article: "the" #NT!
+ mercenary_company_sisterhood_xapantha: "Sisterhood of the Xapantha" #NT!
+ mercenary_company_sisterhood_xapantha_article: "the" #NT!
+ #agnala 
+ mercenary_company_brave_bhramars: "Brave Bhramars" #NT!
+ mercenary_company_brave_bhramars_article: "the" #NT!
+ mercenary_company_vichacil_vanquishers: "Vichachil Vanquishers" #NT!
+ mercenary_company_vichacil_vanquishers_article: "the" #NT!
+ mercenary_company_forestwardens: "Forestwardens" #NT!
+ mercenary_company_forestwardens_article: "the" #NT!
+ mercenary_company_blackbuck_band: "Blackbuck Band" #NT!
+ mercenary_company_blackbuck_band_article: "the" #NT!
+ mercenary_company_wandering_puppeteers: "Wandering Puppeteers" #NT!
+ mercenary_company_wandering_puppeteers_article: "the" #NT!
+ #anandrasi 
+ mercenary_company_blacksails: "Blacksails" #NT!
+ mercenary_company_blacksails_article: "the" #NT!
+ mercenary_company_waveriders: "Waveriders" #NT!
+ mercenary_company_waveriders_article: "the" #NT!
+ mercenary_company_star_slayers: "Star Slayers" #NT!
+ mercenary_company_star_slayers_article: "the" #NT!
+ mercenary_company_torkyll_raiders: "Torkyll Raiders" #NT!
+ mercenary_company_torkyll_raiders_article: "the" #NT!
+ mercenary_company_tagognths_crew: "Crew of Tagognth" #NT!
+ mercenary_company_tagognths_crew_article: "the" #NT!
+ #arapa 
+ mercenary_company_warsingers: "Warsingers" #NT!
+ mercenary_company_warsingers_article: "the" #NT!
+ mercenary_company_zikanyas_requiem: "Zikanya's Requiem" #NT!
+ mercenary_company_zikanyas_requiem_article: "the" #NT!
+ mercenary_company_crater_corsairs: "Crater Corsairs" #NT!
+ mercenary_company_crater_corsairs_article: "the" #NT!
+ mercenary_company_bellringer_band: "Bellringer Band" #NT!
+ mercenary_company_bellringer_band_article: "the" #NT!
+ #tiemanam 
+ mercenary_company_sons_saratan: "Sons of the Saratan" #NT!
+ mercenary_company_sons_saratan_article: "the" #NT!
+ #dergi 
+ mercenary_company_garden_guardians: "Garden Guardians" #NT!
+ mercenary_company_garden_guardians_article: "the" #NT!
+ #asariyna 
+ mercenary_company_ascendants: "Ascendants" #NT!
+ mercenary_company_ascendants_article: "the" #NT!
+ mercenary_company_akapura_buccaneers: "Akapura Buccaneers" #NT!
+ mercenary_company_akapura_buccaneers_article: "the" #NT!
+ mercenary_company_seekers_victory: "Seekers of Victory" #NT!
+ mercenary_company_seekers_victory_article: "the" #NT!
+ mercenary_company_rahksasa_raiders: "Rahksasa Raiders" #NT!
+ mercenary_company_rahksasa_raiders_article: "the" #NT!
+ mercenary_company_brotherhood_wandering_isle: "Brotherhood of the Wandering Isle" #NT!
+ mercenary_company_brotherhood_wandering_isle_article: "the" #NT!
+ #athacaya 
+ mercenary_company_book_burners: "Book Burners" #NT!
+ mercenary_company_book_burners_article: "the" #NT!
+ mercenary_company_talons_garuda: "Talons of the Garuda" #NT!
+ mercenary_company_talons_garuda_article: "the" #NT!
+ mercenary_company_scholar_beaters: "Scholar Beaters" #NT!
+ mercenary_company_scholar_beaters_article: "the" #NT!
+ mercenary_company_guardians_asmour: "Guardians of Asmour" #NT!
+ mercenary_company_guardians_asmour_article: "the" #NT!
+ mercenary_company_shrewd_sailors: "Shrewd Sailors" #NT!
+ mercenary_company_shrewd_sailors_article: "the" #NT!
+ #canian 
+ mercenary_company_order_golden_mask: "Order of the Golden Mask" #NT!
+ mercenary_company_order_golden_mask_article: "the" #NT!
+ mercenary_company_swords_shenidad: "Swords of Shenidad" #NT!
+ mercenary_company_swords_shenidad_article: "the" #NT!
+ mercenary_company_sickles_kabyar: "Sickles of Kabyar" #NT!
+ mercenary_company_sickles_kabyar_article: "the" #NT!
+ mercenary_company_four_river_league: "Four-River League" #NT!
+ mercenary_company_four_river_league_article: "the" #NT!
+ mercenary_company_elois_chosen: "Eloi's Chosen" #NT!
+ mercenary_company_elois_chosen_article: "the" #NT!
+ mercenary_company_boat_burners: "Boat Burners" #NT!
+ mercenary_company_boat_burners_article: "the" #NT!
+ #cave tribes 
+ mercenary_company_liberators: "Liberators" #NT!
+ mercenary_company_liberators_article: "the" #NT!
+ mercenary_company_tunnelers: "Tunnelers" #NT!
+ mercenary_company_tunnelers_article: "the" #NT!
+ mercenary_company_spirit_seers: "Spirit Seers" #NT!
+ mercenary_company_spirit_seers_article: "the" #NT!
+ mercenary_company_kineaters: "Kin-Eaters" #NT!
+ mercenary_company_kineaters_article: "the" #NT!
+ mercenary_company_axolotl_axes: "Axolotl Axes" #NT!
+ mercenary_company_axolotl_axes_article: "the" #NT!
+ #chordhan 
+ mercenary_company_glassracers: "Glassracers" #NT!
+ mercenary_company_glassracers_article: "the" #NT!
+ mercenary_company_rivermouth_raiders: "Rivermouth Raiders" #NT!
+ mercenary_company_rivermouth_raiders_article: "the" #NT!
+ mercenary_company_wandering_dhows: "Wandering Dhows" #NT!
+ mercenary_company_wandering_dhows_article: "the" #NT!
+ mercenary_company_brotherhood_sitar: "Brotherhood of the Sitar" #NT!
+ mercenary_company_brotherhood_sitar_article: "the" #NT!
+ mercenary_company_brotherhood_tabla: "Brotherhood of the Tabla" #NT!
+ mercenary_company_brotherhood_tabla_article: "the" #NT!
+ #daidenos 
+ mercenary_company_seadrakes: "Seadrakes" #NT!
+ mercenary_company_seadrakes_article: "the" #NT!
+ mercenary_company_heralds_deep: "Heralds of the Deep" #NT!
+ mercenary_company_heralds_deep_article: "the" #NT!
+ mercenary_company_scaled_sailors: "Scaled Sailors" #NT!
+ mercenary_company_scaled_sailors_article: "the" #NT!
+ mercenary_company_sons_sea: "Sons of the Sea" #NT!
+ mercenary_company_sons_sea_article: "the" #NT!
+ #damotan 
+ mercenary_company_sons_eshwo: "Sons of Eshwo" #NT!
+ mercenary_company_sons_of_eshwo_article: "the" #NT!
+ mercenary_company_ayules_avengers: "Ayule's Avengers" #NT!
+ mercenary_company_ayules_avengers_article: "the" #NT!
+ mercenary_company_wandering_rayakuux: "Wandering Rayakuux" #NT!
+ mercenary_company_wandering_rayakuux_article: "the" #NT!
+ mercenary_company_shetani_stalkers: "Shetani Stalkers" #NT!
+ mercenary_company_shetani_stalkers_article: "the" #NT!
+ mercenary_company_hymn_hunters: "Hymn Hunters" #NT!
+ mercenary_company_hymn_hunters_article: "the" #NT!
+ #dayatemi 
+ mercenary_company_silver_scars: "Silver Scars" #NT!
+ mercenary_company_silver_scars_article: "the" #NT!
+ mercenary_company_iron_thorns: "Iron Thorns" #NT!
+ mercenary_company_iron_thorns_article: "the" #NT!
+ mercenary_company_brotherhood_scars: "Brotherhood of Scars" #NT!
+ mercenary_company_brotherhood_scars_article: "the" #NT!
+ mercenary_company_painted_hunters: "Painted Hunters" #NT!
+ mercenary_company_painted_hunters_article: "the" #NT!
+ mercenary_company_order_black_bubalus: "Order of the Black Bubalus" #NT!
+ mercenary_company_order_black_bubalus_article: "the" #NT!
+ #dezhunic 
+ mercenary_company_sunspeakers: "Sunspeakers" #NT!
+ mercenary_company_sunspeakers_article: "the" #NT!
+ mercenary_company_labarqans_lawkeepers: "Labarqan's Lawkeepers" #NT!
+ mercenary_company_labarqans_lawkeepers_article: "the" #NT!
+ mercenary_company_hattassilas_hunters: "Hattaššila's Hunters" #NT!
+ mercenary_company_hattassilas_hunters_article: "the" #NT!
+ #dubadin 
+ mercenary_company_seekers_namej: "Seekers of Namëj" #NT!
+ mercenary_company_seekers_namej_article: "the" #NT!
+ mercenary_company_emancipators: "Emancipators" #NT!
+ mercenary_company_emancipators_article: "the" #NT!
+ mercenary_company_free_brotherhood: "Free Brotherhood" #NT!
+ mercenary_company_free_brotherhood_article: "the" #NT!
+ #easterner 
+ mercenary_company_heavenly_halberds: "Heavenly Halberds" #NT!
+ mercenary_company_heavenly_halberds_article: "the" #NT!
+ mercenary_company_monks_miaosi: "Monks of Miaosi" #NT!
+ mercenary_company_monks_miaosi_article: "the" #NT!
+ mercenary_company_sword_stewards: "Sword Stewards" #NT!
+ mercenary_company_sword_stewards_article: "the" #NT!
+ #emanhi 
+ mercenary_company_magiyati_marauders: "Magiyati Marauders" #NT!
+ mercenary_company_magiyati_marauders_article: "the" #NT!
+ mercenary_company_spire_sojourners: "Spire Sojourners" #NT!
+ mercenary_company_spire_sojourners_article: "the" #NT!
+ mercenary_company_doomdrums: "Doomdrums" #NT!
+ mercenary_company_doomdrums_article: "the" #NT!
+ #goan 
+ mercenary_company_skyseekers: "Skyseekers" #NT!
+ mercenary_company_skyseekers_article: "the" #NT!
+ mercenary_company_mountsearchers: "Mount-Searchers" #NT!
+ mercenary_company_mountsearchers_article: "the" #NT!
+ mercenary_company_angbos_avengers: "Angbo's Avengers" #NT!
+ mercenary_company_angbos_avengers_article: "the" #NT!
+ #hadiyan 
+ mercenary_company_72nd_expeditionary_platoon: "72nd Expeditionary Platoon" #NT!
+ mercenary_company_72nd_expeditionary_platoon_article: "the" #NT!
+ mercenary_company_golden_exiles: "Golden Exiles" #NT!
+ mercenary_company_golden_exiles_article: "the" #NT!
+ mercenary_company_sky_sailors: "Sky Sailors" #NT!
+ mercenary_company_sky_sailors_article: "the" #NT!
+ #haraja 
+ mercenary_company_smiling_blades: "Smiling Blades" #NT!
+ mercenary_company_smiling_blades_article: "the" #NT!
+ mercenary_company_katuppilan_corsairs: "Katuppilan Corsairs" #NT!
+ mercenary_company_katuppilan_corsairs_article: "the" #NT!
+ mercenary_company_bansuri_troupe: "Bansuri Troupe" #NT!
+ mercenary_company_bansuri_troupe_article: "the" #NT!
+ mercenary_company_gajara_raiders: "Gajara Raiders" #NT!
+ mercenary_company_gajara_raiders_article: "the" #NT!
+ mercenary_company_bloodied_skeins: "Bloodied Skeins" #NT!
+ mercenary_company_bloodied_skeins_article: "the" #NT!
+ #huegodoc 
+ mercenary_company_dathothicas_devoted: "Dathothica's Devoted" #NT!
+ mercenary_company_dathothicas_devoted_article: "the" #NT!
+ mercenary_company_children_caradoun: "Children of Caradoun" #NT!
+ mercenary_company_children_caradoun_article: "the" #NT!
+ mercenary_company_heurgordas_heirs: "Heurgorda's Heirs" #NT!
+ mercenary_company_heurgordas_heirs_article: "the" #NT!
+ mercenary_company_rithogeds_raiders: "Rithoged's Raiders" #NT!
+ mercenary_company_rithogeds_raiders_article: "the" #NT!
+ #iyrossi 
+ mercenary_company_claws_tinessia: "Claws of Tinessia" #NT!
+ mercenary_company_claws_tinessia_article: "the" #NT!
+ mercenary_company_deiphartoros_chosen: "Chosen of Deiphartoros" #NT!
+ mercenary_company_deiphartoros_chosen_article: "the" #NT!
+ mercenary_company_doyarchu_daggers: "Doyarchu Daggers" #NT!
+ mercenary_company_doyarchu_daggers_article: "the" #NT!
+ #karzarad 
+ mercenary_company_sunshields: "Sunshields" #NT!
+ mercenary_company_sunshields_article: "the" #NT!
+ mercenary_company_sons_zhavy: "Sons of Zhavy" #NT!
+ mercenary_company_sons_zhavy_article: "the" #NT!
+ mercenary_company_bloody_gears: "Bloody Gears" #NT!
+ mercenary_company_bloody_gears_article: "the" #NT!
+ #kelthiunai 
+ mercenary_company_stormchasers: "Stormchasers" #NT!
+ mercenary_company_stormchasers_article: "the" #NT!
+ mercenary_company_redsails: "Redsails" #NT!
+ mercenary_company_redsails_article: "the" #NT!
+ mercenary_company_nine_shields: "Nine Shields" #NT!
+ mercenary_company_nine_shields_article: "the" #NT!
+ #kemsar 
+ mercenary_company_bronze_talons: "Bronze Talons" #NT!
+ mercenary_company_bronze_talons_article: "the" #NT!
+ mercenary_company_blades_apoph: "Blades of Apoph" #NT!
+ mercenary_company_blades_apoph_article: "the" #NT!
+ mercenary_company_ibizan_hides: "Ibizan Hides" #NT!
+ mercenary_company_ibizan_hides_article: "the" #NT!
+ #kevaali 
+ mercenary_company_spicetakers: "Spicetakers" #NT!
+ mercenary_company_spicetakers_article: "the" #NT!
+ mercenary_company_paccai_seekers: "Paccai Seekers" #NT!
+ mercenary_company_paccai_seekers_article: "the" #NT!
+ mercenary_company_three_blades: "Three Blades" #NT!
+ mercenary_company_three_blades_article: "the" #NT!
+ mercenary_company_bound_men: "Bound Men" #NT!
+ mercenary_company_bound_men_article: "the" #NT!
+ mercenary_company_naga_hunters: "Naga Hunters" #NT!
+ mercenary_company_naga_hunters_article: "the" #NT!
+ #khalai 
+ mercenary_company_sea_tigers: "Sea Tigers" #NT!
+ mercenary_company_sea_tigers_article: "the" #NT!
+ mercenary_company_akapuras_bane: "Akapura's Bane" #NT!
+ mercenary_company_akapuras_bane_article: "the" #NT!
+ mercenary_company_gloryseekers: "Gloryseekers" #NT!
+ mercenary_company_gloryseekers_article: "the" #NT!
+ #kherkeloi 
+ mercenary_company_dancing_axes: "Dancing Axes" #NT!
+ mercenary_company_dancing_axes_article: "the" #NT!
+ mercenary_company_glasscutters: "Glasscutters" #NT!
+ mercenary_company_glasscutters_article: "the" #NT!
+ mercenary_company_order_golden_saint: "Order of the Golden Saint" #NT!
+ mercenary_company_order_golden_saint_article: "the" #NT!
+ #khokhuud 
+ mercenary_company_silversteeds: "Silversteeds" #NT!
+ mercenary_company_silversteeds_article: "the" #NT!
+ mercenary_company_masked_marauders: "Masked Marauders" #NT!
+ mercenary_company_masked_marauders_article: "the" #NT!
+ mercenary_company_riders_olgon: "Riders of Ölgon" #NT!
+ mercenary_company_riders_olgon_article: "the" #NT!
+ #kikarsag 
+ mercenary_company_bloodhounds: "Bloodhounds" #NT!
+ mercenary_company_bloodhounds_article: "the" #NT!
+ mercenary_company_wandering_botai: "Wandering Bötai" #NT!
+ mercenary_company_wandering_botai_article: "the" #NT!
+ mercenary_company_sons_ozkan: "Sons of Ozkan" #NT!
+ mercenary_company_sons_ozkan_article: "the" #NT!
+ #Konijkmener 
+ mercenary_company_vyrjilliaar_public_testers: "Vyrjilliaar Public Testers" #NT!
+ mercenary_company_vyrjilliaar_public_testers_article: "the" #NT!
+ mercenary_company_guild_acquisition: "Guild of Acquisition" #NT!
+ mercenary_company_guild_acquisition_article: "the" #NT!
+ mercenary_company_vordere_loyalists: "Vordere Loyalists" #NT!
+ mercenary_company_vordere_loyalists_article: "the" #NT!
+ #kosharan 
+ mercenary_company_caravan_steel: "Caravan of Steel" #NT!
+ mercenary_company_caravan_steel_article: "the" #NT!
+ mercenary_company_rafhamah_raiders: "Rafhamah Raiders" #NT!
+ mercenary_company_rafhamah_raiders_article: "the" #NT!
+ mercenary_company_buraiwf_looters: "Buraiwf Looters" #NT!
+ mercenary_company_buraiwf_looters_article: "the" #NT!
+ #lerrardin 
+ mercenary_company_vaneli_monks: "Vaneli Monks" #NT!
+ mercenary_company_vaneli_monks_article: "the" #NT!
+ mercenary_company_stone_lions: "Stone Lions" #NT!
+ mercenary_company_stone_lions_article: "the" #NT!
+ mercenary_company_sons_arnaz: "Sons of Arnaz" #NT!
+ mercenary_company_sons_arnaz_article: "the" #NT!
+ mercenary_company_pyrebuilders: "Pyrebuilders" #NT!
+ mercenary_company_pyrebuilders_article: "the" #NT!
+ mercenary_company_windriders: "Windriders" #NT!
+ mercenary_company_windriders_article: "the" #NT!
+ mercenary_company_armazli_adventurers: "Armazli Adventurers" #NT!
+ mercenary_company_armazli_adventurers_article: "the" #NT!
+ #likarkho 
+ mercenary_company_mist_walkers: "Mist Walkers" #NT!
+ mercenary_company_mist_walkers_article: "the" #NT!
+ mercenary_company_monsoon_marauders: "Monsoon Marauders" #NT!
+ mercenary_company_monsoon_marauders_article: "the" #NT!
+ mercenary_company_luckseekers: "Luckseekers" #NT!
+ mercenary_company_luckseekers_article: "the" #NT!
+ #madikirib 
+ mercenary_company_tomeseekers: "Tomeseekers" #NT!
+ mercenary_company_tomeseekers_article: "the" #NT!
+ mercenary_company_warren_wardens: "Warren Wardens" #NT!
+ mercenary_company_warren_wardens_article: "the" #NT!
+ mercenary_company_maze_fillers: "Maze Fillers" #NT!
+ mercenary_company_maze_fillers_article: "the" #NT!
+ #margur 
+ mercenary_company_broadleaf_brotherhood: "Broadleaf Brotherhood" #NT!
+ mercenary_company_broadleaf_brotherhood_article: "the" #NT!
+ mercenary_company_frogriders: "Frogriders" #NT!
+ mercenary_company_frogriders_article: "the" #NT!
+ #marmaladid 
+ mercenary_company_gilded_guild: "Gilded Guild" #NT!
+ mercenary_company_gilded_guild_article: "the" #NT!
+ mercenary_company_kincaptors: "Kincaptors" #NT!
+ mercenary_company_kincaptors_article: "the" #NT!
+ mercenary_company_stonecarvers: "Stonecarvers" #NT!
+ mercenary_company_stonecarvers_article: "the" #NT!
+ #nakahanii 
+ mercenary_company_kaiatus_avengers: "Kaiatu's Avengers" #NT!
+ mercenary_company_kaiatus_avengers_article: "the" #NT!
+ mercenary_company_thrimbysos_bane: "Thrimbyso's Bane" #NT!
+ mercenary_company_thrimbysos_bane_article: "the" #NT!
+ mercenary_company_comet_chasers: "Comet Chasers" #NT!
+ mercenary_company_comet_chasers_article: "the" #NT!
+ #oejeynican 
+ mercenary_company_tombseekers: "Tombseekers" #NT!
+ mercenary_company_tombseekers_article: "the" #NT!
+ mercenary_company_vindicators_vraswyl: "Vindicators of Vraswyl" #NT!
+ mercenary_company_vindicators_vraswyl_article: "the" #NT!
+ mercenary_company_bonebane_brotherhood: "Bonebane Brotherhood" #NT!
+ mercenary_company_bonebane_brotherhood_article: "the" #NT!
+ #oghainos 
+ mercenary_company_tattered_sails: "Tattered Sails" #NT!
+ mercenary_company_tattered_sails_article: "the" #NT!
+ mercenary_company_stareaters: "Stareaters" #NT!
+ mercenary_company_stareaters_article: "the" #NT!
+ mercenary_company_forgotten_fleet: "Forgotten Fleet" #NT!
+ mercenary_company_forgotten_fleet_article: "the" #NT!
+ #rekhala 
+ mercenary_company_bloodwashers: "Bloodwashers" #NT!
+ mercenary_company_bloodwashers_article: "the" #NT!
+ mercenary_company_theraskiyatt_raiders: "Theraskiyatt Raiders" #NT!
+ mercenary_company_theraskiyatt_raiders_article: "the" #NT!
+ mercenary_company_hundred_deaths: "Hundred Deaths" #NT!
+ mercenary_company_hundred_deaths_article: "the" #NT!
+ #saradari 
+ mercenary_company_spears_sheyarla: "Spears of Sheyarla" #NT!
+ mercenary_company_spears_sheyarla_article: "the" #NT!
+ mercenary_company_sadduri_yeomen: "Sadduri Yeomen" #NT!
+ mercenary_company_sadduri_yeomen_article: "the" #NT!
+ mercenary_company_seekers_sereksi: "Seekers of Sereksi" #NT!
+ mercenary_company_seekers_sereksi_article: "the" #NT!
+ #sarminian 
+ mercenary_company_stormclouds: "Stormclouds" #NT!
+ mercenary_company_stormclouds_article: "the" #NT!
+ mercenary_company_samadithys_raiders: "Samadithys Raiders" #NT!
+ mercenary_company_samadithys_raiders_article: "the" #NT!
+ mercenary_company_sisterhood_falcon: "Sisterhood of the Falcon" #NT!
+ mercenary_company_sisterhood_falcon_article: "the" #NT!
+ #sarridian 
+ mercenary_company_skiborne_exalted: "Skiborne Exalted" #NT!
+ mercenary_company_skiborne_exalted_article: "the" #NT!
+ mercenary_company_oulnirs_oathkeepers: "Oulnir's Oathkeepers" #NT!
+ mercenary_company_oulnirs_oathkeepers_article: "the" #NT!
+ mercenary_company_scrollswords: "Scrollswords" #NT!
+ mercenary_company_scrollswords_article: "the" #NT!
+ #sarradonian 
+ mercenary_company_sandwardens: "Sandwardens" #NT!
+ mercenary_company_sandwardens_article: "the" #NT!
+ mercenary_company_red_vipers: "Red Vipers" #NT!
+ mercenary_company_red_vipers_article: "the" #NT!
+ mercenary_company_lawkeepers: "Lawkeepers" #NT!
+ mercenary_company_lawkeepers_article: "the" #NT!
+ mercenary_company_sandblades: "Sandblades" #NT!
+ mercenary_company_sandblades_article: "the" #NT!
+ mercenary_company_elqulatha_acolytes: "El-Qulatha Acolytes" #NT!
+ mercenary_company_elqulatha_acolytes_article: "the" #NT!
+ mercenary_company_afazarianis_bane: "Afazariani's Bane" #NT!
+ mercenary_company_afazarianis_bane_article: "the" #NT!
+ #shamrania 
+ mercenary_company_silversails: "Silversails" #NT!
+ mercenary_company_silversails_article: "the" #NT!
+ mercenary_company_sea_wolves: "Sea Wolves" #NT!
+ mercenary_company_sea_wolves_article: "the" #NT!
+ mercenary_company_silvercove_raiders: "Silvercove Raiders" #NT!
+ mercenary_company_silvercove_raiders_article: "the" #NT!
+ #takopara 
+ mercenary_company_sandriders: "Sandriders" #NT!
+ mercenary_company_sandriders_article: "the" #NT!
+ mercenary_company_skydancers: "Skydancers" #NT!
+ mercenary_company_skydancers_article: "the" #NT!
+ mercenary_company_seekers_ocllohan: "Seekers of Ocllohan" #NT!
+ mercenary_company_seekers_ocllohan_article: "the" #NT!
+ #theugombrian 
+ mercenary_company_gilded_horde: "Gilded Horde" #NT!
+ mercenary_company_gilded_horde_article: "the" #NT!
+ mercenary_company_golden_spears: "Golden Spears" #NT!
+ mercenary_company_golden_spears_article: "the" #NT!
+ #tlakalak 
+ mercenary_company_moonlit_raiders: "Moonlit Raiders" #NT!
+ mercenary_company_moonlit_raiders_article: "the" #NT!
+ mercenary_company_maltecuhtlas_bane: "Maltecuhtla's Bane" #NT!
+ mercenary_company_maltecuhtlas_bane_article: "the" #NT!
+ mercenary_company_teneses_watchers: "Tenese's Watchers" #NT!
+ mercenary_company_teneses_watchers_article: "the" #NT!
+ #vespartsva 
+ mercenary_company_painted_pirates: "Painted Pirates" #NT!
+ mercenary_company_painted_pirates_article: "the" #NT!
+ mercenary_company_marked_marauders: "Marked Marauders" #NT!
+ mercenary_company_marked_marauders_article: "the" #NT!
+ mercenary_company_emptyheart_pillagers: "Emptyheart Pillagers" #NT!
+ mercenary_company_emptyheart_pillagers_article: "the" #NT!
+ #vhanavid 
+ mercenary_company_ironmask_horde: "Ironmask Horde" #NT!
+ mercenary_company_ironmask_horde_article: "the" #NT!
+ mercenary_company_khaagbreakers: "Khaagbreakers" #NT!
+ mercenary_company_khaagbreakers_article: "the" #NT!
+ mercenary_company_gilded_masks: "Gilded Masks" #NT!
+ mercenary_company_gilded_masks_article: "the" #NT!
+ #xajirkel 
+ mercenary_company_palemask_horde: "Palemask Horde" #NT!
+ mercenary_company_palemask_horde_article: "the" #NT!
+ mercenary_company_coldsteeds: "Coldsteeds" #NT!
+ mercenary_company_coldsteeds_article: "the" #NT!
+ mercenary_company_magiyor_marauders: "Magiyor Marauders" #NT!
+ mercenary_company_magiyor_marauders_article: "the" #NT!
+ #zanaumaures 
+ mercenary_company_sandstalkers: "Sandstalkers" #NT!
+ mercenary_company_sandstalkers_article: "the" #NT!
+ mercenary_company_bankatera_brethren: "Bankatera Brethren" #NT!
+ mercenary_company_bankatera_brethren_article: "the" #NT!
+ mercenary_company_djinnseekers: "Djinnseekers" #NT!
+ mercenary_company_djinnseekers_article: "the" #NT!
+ #zarasadari 
+ mercenary_company_sons_amsar: "Sons of Amsar" #NT!
+ mercenary_company_sons_amsar_article: "the" #NT!
+ mercenary_company_hassarids_bane: "Hassarid's Bane" #NT!
+ mercenary_company_hassarids_bane_article: "the" #NT!
+ mercenary_company_khvasht_raiders: "Khvasht Raiders" #NT!
+ mercenary_company_khvasht_raiders_article: "the" #NT!
+ #zonthawa 
+ mercenary_company_jeweled_talons: "Jeweled Talons" #NT!
+ mercenary_company_jeweled_talons_article: "the" #NT!
+ mercenary_company_mourning_marauders: "Mourning Marauders" #NT!
+ mercenary_company_mourning_marauders_article: "the" #NT!
+ mercenary_company_seekers_dihothah: "Seekers of Dihothah" #NT!
+ mercenary_company_seekers_dihothah_article: "the" #NT!
+ #daravani 
+ mercenary_company_blood_miners: "Blood Miners" #NT!
+ mercenary_company_blood_miners_article: "the" #NT!
+ mercenary_company_stoneborn_marauders: "Stoneborn Marauders" #NT!
+ mercenary_company_stoneborn_marauders_article: "the" #NT!
+ mercenary_company_nagual_stalkers: "Nagual Stalkers" #NT!
+ mercenary_company_nagual_stalkers_article: "the" #NT!

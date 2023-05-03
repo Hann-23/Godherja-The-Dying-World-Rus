@@ -1,0 +1,21 @@
+﻿l_russian:
+ gh_religious_decision.0001.t: "A Spirit Guide" #NT!
+ gh_religious_decision.0001.desc: "To enter the Spirit World, I must have a guide. Who will I choose?" #NT!
+ gh_religious_decision.0001.a: "I am my own guide." #NT!
+  
+ gh_religious_decision.0002.t: "What Mushrooms will I take?" #NT!
+ gh_religious_decision.0002.desc: "To enter the Spirit World, I must detach my soul from my body. Which mushrooms I choose will determine how deeply I journey into the Spirit World. If I journey deep I may achieve great enlightenment, but I may also lose myself." #NT!
+ gh_religious_decision.0002.a: "I wish to completely ascend beyond my earthly tether." #NT!
+ gh_religious_decision.0002.b: "I have too much to lose if I journey deep." #NT!
+ gh_religious_decision.0003.t: "I Understand, Now." #NT!
+ gh_religious_decision.0003.desc: "As I inhaled the heavenly vapors, I saw myself leaving my body. The steady drumbeat of the world echoed through my soul, and what I saw is beyond words." #NT!
+ gh_religious_decision.0003.a: "I will never forget this." #NT!
+ gh_religious_decision.0004.t: "The End" #NT!
+ gh_religious_decision.0004.desc: "Hear me, mortals, and heed me well. Whispers of forgotten lore have found my ears, the currents of time flow through my veins with every beat of my heart and bear visions of death and despair... As the wickedness of man takes hold of him, darkness will start to engulf his world. At first he will see nothing, only a few of the most gifted will even sense the change. The world will go on as it has, for a time, but the seeds of its downfall have been sown..." #NT!
+ gh_religious_decision.0004.a: "THEY COME." #NT!
+ gh_religious_decision.0005.t: "Life" #NT!
+ gh_religious_decision.0005.desc: "The wind roared past me, ruffling my feathers. I felt the air rattling my bones in my wings, the strain was almost indescribable. The world below was so small, nothing but a mix of blues, greens, and browns. And then I felt something like a cold rush of water flow over me, and then I was back in my own body. I have this feeling we are all connected somehow." #NT!
+ gh_religious_decision.0005.a: "No man can be truly a slave, for the soul is always free." #NT!
+ gh_religious_decision.0006.t: "Death" #NT!
+ gh_religious_decision.0006.desc: "I feel the whip lash against me once more. This would be the thirteenth lash. I turn to face my tormenter, and I see nothing but a gaping maw where his face should be. He erupts into booming laughter as my ribcage rattles. I feel something like a cold rush of water. And then I am back in my own body, safe in my home. What have I seen?" #NT!
+ gh_religious_decision.0006.a: "Thirteen lashes. It must mean something!" #NT!

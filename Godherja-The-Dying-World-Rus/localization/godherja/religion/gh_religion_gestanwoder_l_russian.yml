@@ -1,0 +1,70 @@
+﻿l_russian:
+  
+ #gestanwoder Loc 
+ gestanwoder_religion: "Gestanwoder" #NT!
+ gestanwoder_religion_adj: "Gestanwoder" #NT!
+ gestanwoder_religion_adjerent: "Gestanwoder" #NT!
+ gestanwoder_religion_adherent_plural: "Gestanwoder" #NT!
+ gestanwoder_religion_desc: "The Gestanwoder religion believes in gods, but these are not kind or caring; they are cruel and capricious beings, celestial despots who see humans as their toys and nothing more. Life is an unending chain of misery, and one's only hope is to eke out a passable existence beneath the gods' thumb. If one is lucky, they might strike a lopsided bargain with a deity, so that their unending torment may at least be briefly preceded by mortal pleasures." #NT!
+ gestanwoder_high_god_name: "Nerzal, the Messenger of the Gods" #NT!
+ gestanwoder_high_god_name_possessive: "Nerzal's" #NT!
+ gestanwoder_high_god_name_alternate: "The Crawling Chaos" #NT!
+ gestanwoder_high_god_name_alternate_possessive: "The Crawling Chaos'" #NT!
+ gestanwoder_devil_name: "Mighty Messenger" #NT!
+ gestanwoder_devil_name_possessive: "Mighty Messenger's" #NT!
+ gestanwoder_death_deity_name: "The Skinless One" #NT!
+ gestanwoder_death_deity_name_possessive: "The Skinless One's" #NT!
+ gestanwoder_house_of_worship: "Coven" #NT!
+ gestanwoder_house_of_worship_plural: "Coven" #NT!
+ gestanwoder_religious_symbol: "Laughing God" #NT!
+ gestanwoder_religious_text: "Whispers of the Crawling Chaos" #NT!
+ gestanwoder_religious_head_title: "Koningtovenaar" #NT!
+ gestanwoder_religious_head_title_name: "Koningtovenaar" #NT!
+ gestanwoder_devotee_male: "Gestanwoder" #NT!
+ gestanwoder_devotee_male_plural: "Gestanwoderi" #NT!
+ gestanwoder_devotee_female: "Gestanwoder" #NT!
+ gestanwoder_devotee_female_plural: "Gestanwoderi" #NT!
+ gestanwoder_devotee_neuter: "Gestanwoder" #NT!
+ gestanwoder_devotee_neuter_plural: "Gestanwoderi" #NT!
+ gestanwoder_priest_male: "Tovenaar" #NT!
+ gestanwoder_priest_male_plural: "Tovenaari" #NT!
+ gestanwoder_priest_female: "Heks" #NT!
+ gestanwoder_priest_female_plural: "Heksi" #NT!
+ gestanwoder_priest_alternate_plural: "Tovenaari" #NT!
+ gestanwoder_bishop: "Meestertovenaar" #NT!
+ gestanwoder_bishop_plural: "Meestertovenaari" #NT!
+ gestanwoder_positive_afterlife: "Grishainik" #NT!
+ gestanwoder_negative_afterlife: "Gerisonbameher" #NT!
+ gestanwoder_creator_god_name: "$gestanwoder_high_god_name_alternate$" #NT!
+ gestanwoder_creator_god_name_possessive: "$gestanwoder_high_god_name_alternate_possessive$" #NT!
+ gestanwoder_health_god_name: "$gestanwoder_fertility_god_name$" #NT!
+ gestanwoder_health_god_name_possessive: "$gestanwoder_fertility_god_name_possessive$" #NT!
+ gestanwoder_fertility_god_name: "The Bloated Woman" #NT!
+ gestanwoder_fertility_god_name_possessive: "The Bloated Woman's" #NT!
+ gestanwoder_wealth_god_name: "Thing in the Yellow Mask" #NT!
+ gestanwoder_wealth_god_name_possessive: "Thing in the Yellow Mask's" #NT!
+ gestanwoder_household_god_name: "The Moon Presence" #NT!
+ gestanwoder_household_god_name_possessive: "The Moon Presence's" #NT!
+ gestanwoder_fate_god_name: "Stalker Among the Stars" #NT!
+ gestanwoder_fate_god_name_possessive: "Stalker Among the Stars'" #NT!
+ gestanwoder_knowledge_god_name: "The Masked Messenger" #NT!
+ gestanwoder_knowledge_god_name_possessive: "The Masked Messenger's" #NT!
+ gestanwoder_war_god_name: "Father of the Million Favored Ones" #NT!
+ gestanwoder_war_god_name_possessive: "Father's" #NT!
+ gestanwoder_trickster_god_name: "The Bloody Tongue" #NT!
+ gestanwoder_trickster_god_name_possessive: "The Bloody Tongue's" #NT!
+ gestanwoder_night_god_name: "$gestanwoder_devil_name$" #NT!
+ gestanwoder_night_god_name_possessive: "$gestanwoder_devil_name_possessive$" #NT!
+ gestanwoder_water_god_name: "$gestanwoder_health_god_name$" #NT!
+ gestanwoder_water_god_name_possessive: "$gestanwoder_health_god_name_possessive$" #NT!
+ gestanwoder_witch_god_name: "Mighty Messenger" #NT!
+ gestanwoder_witch_god_name_possessive: "Mighty Messenger's" #NT!
+ gestanwoder: "Gestanwoder" #NT!
+ gestanwoder_adj: "Gestanwoder" #NT!
+ gestanwoder_adjerent: "Gestanwoder" #NT!
+ gestanwoder_adherent_plural: "Gestanwoder" #NT!
+ gestanwoder_desc: "The Gestanwoder once ruled over the Konijkmener swamps, but then they were pushed out by the Pathtreader invaders. They survive only within the deepest and hardest to reach marshlands, clinging to their ancestral faith and believing this to simply be another punishment from their cruel gods. But some have turned to dark and untold creatures in places where even the fearless dare not tread, seeking brief moments of untold power in their short lives..." #NT!
+ gestanwoder_old: "Old Gestanwoder" #NT!
+ gestanwoder_old_adj: "Old Gestanwoder" #NT!
+ gestanwoder_old_adherent: "Old Gestanwoder" #NT!
+ gestanwoder_old_adherent_plural: "Old Gestanwoder" #NT!

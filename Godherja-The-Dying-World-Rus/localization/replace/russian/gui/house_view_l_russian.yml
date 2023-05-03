@@ -1,0 +1,3 @@
+﻿l_russian:
+ HOUSE_VIEW_FOUNDED: "Founded in [DynastyHouse.GetFoundYear] IS by [DynastyHouse.GetFounder.GetName]" #NT!
+ HOUSE_LIST_FOUNDATION: "Founded in [DynastyHouse.GetFoundYear] IS" #NT!

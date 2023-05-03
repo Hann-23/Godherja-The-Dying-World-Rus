@@ -1,0 +1,65 @@
+﻿l_russian:
+ #masaagnite Loc 
+ masaagnite_religion: "Masaagnism" #NT!
+ masaagnite_religion_adj: "Masaagnite" #NT!
+ masaagnite_religion_adjerent: "Masaagnite" #NT!
+ masaagnite_religion_adherent_plural: "Masaagnite" #NT!
+ masaagnite_religion_desc: "The ancient temples of Rojihlat Mara have long confounded those who have become lost enough to stumble upon them, but to the Masaagnites the crumbling ruins represent the houses of the gods and the remains of a once glorious age they presided over. Masaagnites believe it is their duty to satisfy their pantheon with endless sacrifice, high upon the altars they once called home, for if they do not the gods will instead swallow the universe itself. Believing that the gods were tricked by the evil spirit Korromesh to eat hunger itself, those who do not provide enough tribute are believed to be devoured by the great maws of the deities themselves, but for those who do, an eternity of feasting and celebration awaits." #NT!
+ masaagnite_high_god_name: "Vosharaa" #NT!
+ masaagnite_high_god_name_possessive: "Vosharaa's" #NT!
+ masaagnite_high_god_name_alternate: "The Great Devourer" #NT!
+ masaagnite_high_god_name_alternate_possessive: "The Great Devourers'" #NT!
+ masaagnite_devil_name: "Korromesh" #NT!
+ masaagnite_devil_name_possessive: "Korromesh's" #NT!
+ masaagnite_death_deity_name: "Arganovaa" #NT!
+ masaagnite_death_deity_name_possessive: "Arganovaa's" #NT!
+  
+ masaagnite_house_of_worship: "temple" #NT!
+ masaagnite_house_of_worship_plural: "temples" #NT!
+ masaagnite_religious_symbol: "The Red Altar" #NT!
+ masaagnite_religious_text: "The Malaah" #NT!
+ masaagnite_religious_head_title: "The Kormokorum" #NT!
+ masaagnite_religious_head_title_name: "Kormokan" #NT!
+ masaagnite_devotee_male: "Masaagnite" #NT!
+ masaagnite_devotee_male_plural: "Masaagnites" #NT!
+ masaagnite_devotee_female: "Masaagnite" #NT!
+ masaagnite_devotee_female_plural: "Masaagnites" #NT!
+ masaagnite_devotee_neuter: "Masaagnite" #NT!
+ masaagnite_devotee_neuter_plural: "Masaagnites" #NT!
+ masaagnite_priest_male: "Zamokan" #NT!
+ masaagnite_priest_male_plural: "Zamokans" #NT!
+ masaagnite_priest_female: "Zalokan" #NT!
+ masaagnite_priest_female_plural: "Zalokans" #NT!
+ masaagnite_priest_alternate_plural: "Zayman" #NT!
+ masaagnite_bishop: "Vaalora" #NT!
+ masaagnite_bishop_plural: "Vaaloras" #NT!
+ masaagnite_positive_afterlife: "The Heavenly Feast" #NT!
+ masaagnite_negative_afterlife: "The Mouth of Despair" #NT!
+ masaagnite_creator_god_name: "$masaagnite_high_god_name$" #NT!
+ masaagnite_creator_god_name_possessive: "$masaagnite_high_god_name_possessive$" #NT!
+ masaagnite_health_god_name: "Varlaa" #NT!
+ masaagnite_health_god_name_possessive: "Varlaa's" #NT!
+ masaagnite_fertility_god_name: "$masaagnite_high_god_name$" #NT!
+ masaagnite_fertility_god_name_possessive: "$masaagnite_health_god_name_possessive$" #NT!
+ masaagnite_wealth_god_name: "$masaagnite_health_god_name$" #NT!
+ masaagnite_wealth_god_name_possessive: "$masaagnite_high_god_name_possessive$" #NT!
+ masaagnite_household_god_name: "$masaagnite_health_god_name$" #NT!
+ masaagnite_household_god_name_possessive: "$masaagnite_health_god_name_possessive$" #NT!
+ masaagnite_fate_god_name: "$masaagnite_high_god_name$" #NT!
+ masaagnite_fate_god_name_possessive: "$masaagnite_high_god_name_possessive$" #NT!
+ masaagnite_knowledge_god_name: "$masaagnite_high_god_name$" #NT!
+ masaagnite_knowledge_god_name_possessive: "$masaagnite_high_god_name_possessive$" #NT!
+ masaagnite_war_god_name: "Xamaz" #NT!
+ masaagnite_war_god_name_possessive: "Xamaz's" #NT!
+ masaagnite_trickster_god_name: "Gov'tana" #NT!
+ masaagnite_trickster_god_name_possessive: "Gov'tana's" #NT!
+ masaagnite_night_god_name: "$masaagnite_high_god_name$" #NT!
+ masaagnite_night_god_name_possessive: "$masaagnite_high_god_name_possessive$" #NT!
+ masaagnite_water_god_name: "$masaagnite_health_god_name$" #NT!
+ masaagnite_water_god_name_possessive: "$masaagnite_health_god_name_possessive$" #NT!
+ masaagnite_witch_god_name: "Ikampris" #NT!
+ masaagnite_witch_god_name_possessive: "Ikampris's" #NT!
+ masaagnite: "Masaagnite" #NT!
+ masaagnite_adj: "Masaagnite" #NT!
+ masaagnite_adherent: "Masaagnite" #NT!
+ masaagnite_adherent_plural: "Masaagnites" #NT!

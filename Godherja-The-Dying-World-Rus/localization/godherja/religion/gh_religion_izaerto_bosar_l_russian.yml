@@ -1,0 +1,70 @@
+﻿l_russian:
+  
+  #bozarian Loc 
+ izaerto_bosar_religion: "Izáerto Bošár" #NT!
+ izaerto_bosar_religion_adj: "Izáerto Bošáren" #NT!
+ izaerto_bosar_religion_adherent: "Izáerto Bošárian" #NT!
+ izaerto_bosar_religion_adherent_plural: "Izáerto Bošárians" #NT!
+ izaerto_bosar_religion_desc: "Izáerto Bošárians believe that the world has been doomed since humanity felled its creator, the creature known as the Great Void. However, the deity known as the 'Feathered One' is also believed to give the world its colour and grant mortals a reprieve in an eternal paradise to outlast [aeras|E]. Adherents usually do not believe in the intervention of gods in the mortal sphere, but they do not doubt that the Feathered One watches over them." #NT!
+ izaerto_bosar_high_god_name: "The Feathered One" #NT!
+ izaerto_bosar_high_god_name_possessive: "The Feathered One's" #NT!
+ izaerto_bosar_high_god_name_alternate: "Chitdada" #NT!
+ izaerto_bosar_high_god_name_alternate_possessive: "Chitdada's" #NT!
+ izaerto_bosar_devil_name: "The Great Void" #NT!
+ izaerto_bosar_devil_name_possessive: "The Great Void's" #NT!
+ izaerto_bosar_death_deity_name: "The Feathered One" #NT!
+ izaerto_bosar_death_deity_name_possessive: "The Feathered One's" #NT!
+ izaerto_bosar_house_of_worship: "Livislot" #NT!
+ izaerto_bosar_house_of_worship_plural: "Livisloten" #NT!
+ izaerto_bosar_religious_symbol: "Face of The Feathered One" #NT!
+ izaerto_bosar_religious_text: "Chitdarignen" #NT!
+ izaerto_bosar_religious_head_title: "Menachit" #NT!
+ izaerto_bosar_religious_head_title_name: "Bulivislot Menachitnen" #NT!
+ izaerto_bosar_devotee: "Nemdevar" #NT!
+ izaerto_bosar_devotee_plural: "Nemdevars" #NT!
+ izaerto_bosar_priest: "Munestri" #NT!
+ izaerto_bosar_priest_plural: "Munestries" #NT!
+ izaerto_bosar_priest_alternate_plural: "Munestrenies" #NT!
+ izaerto_bosar_bishop: "Tetrenan" #NT!
+ izaerto_bosar_bishop_plural: "Tetrenans" #NT!
+ izaerto_bosar_positive_afterlife: "Kuch Shved" #NT!
+ izaerto_bosar_negative_afterlife: "Erenper" #NT!
+ izaerto_bosar_creator_god_name: "$izaerto_bosar_devil_name$" #NT!
+ izaerto_bosar_creator_god_name_possessive: "$izaerto_bosar_devil_name_possessive$" #NT!
+ izaerto_bosar_health_god_name: "The Clawed One" #NT!
+ izaerto_bosar_health_god_name_possessive: "The Clawed One's" #NT!
+ izaerto_bosar_fertility_god_name: "The Winged One" #NT!
+ izaerto_bosar_fertility_god_name_possessive: "The Winged Ones'" #NT!
+ izaerto_bosar_wealth_god_name: "The Golden One" #NT!
+ izaerto_bosar_wealth_god_name_possessive: "The Golden One's" #NT!
+ izaerto_bosar_household_god_name: "The Vigilant One" #NT!
+ izaerto_bosar_household_god_name_possessive: "The Vigilant One's" #NT!
+ izaerto_bosar_fate_god_name: "$izaerto_bosar_high_god_name$" #NT!
+ izaerto_bosar_fate_god_name_possessive: "$izaerto_bosar_high_god_name_possessive$" #NT!
+ izaerto_bosar_knowledge_god_name: "The Ancient One" #NT!
+ izaerto_bosar_knowledge_god_name_possessive: "The Ancient One's" #NT!
+ izaerto_bosar_war_god_name: "$izaerto_bosar_devil_name$" #NT!
+ izaerto_bosar_war_god_name_possessive: "$izaerto_bosar_devil_name_possessive$" #NT!
+ izaerto_bosar_trickster_god_name: "The Hidden Master" #NT!
+ izaerto_bosar_trickster_god_name_possessive: "The Hidden Master's" #NT!
+ izaerto_bosar_night_god_name: "$izaerto_bosar_devil_name$" #NT!
+ izaerto_bosar_night_god_name_possessive: "$izaerto_bosar_devil_name$possessive$" #NT!
+ izaerto_bosar_water_god_name: "The Fishing One" #NT!
+ izaerto_bosar_water_god_name_possessive: "The Fishing One's" #NT!
+ izaerto_bosar_witch_god_name: "$izaerto_bosar_devil_name$" #NT!
+ izaerto_bosar_witch_god_name_possessive: "$izaerto_bosar_devil_name_possessive$" #NT!
+ izaerto_bosar: "Izáerto Bošár" #NT!
+ izaerto_bosar_adj: "Izáerto Bošáren" #NT!
+ izaerto_bosar_adherent: "Izáerto Bošárian" #NT!
+ izaerto_bosar_adherent_plural: "Izáerto Bošárians" #NT!
+ izaerto_bosar_desc: "Izáerto Bošár, meaning 'Thousand Masters' is a faith centered around the belief that eons ago a thousand shadow-skinned god-kings were sent down from the uncaring and eldritch chief god named the 'Great Void'. Though their complicated [Concept('izaerto_bosar_creation_myth','creation myth')|E] is often the source of many foreign insults, the holy men and women take little heed. The Great Feathered One will take their souls to paradise upon their death, so no amount of mortal mockery can break the faithful's spirits." #NT!
+ khourtaul: "Khourtaul" #NT!
+ khourtaul_adj: "Khourtaulian" #NT!
+ khourtaul_adherent: "Khourtaulian" #NT!
+ khourtaul_adherent_plural: "Khourtaulians" #NT!
+ khourtaul_desc: "Khourtaulians beleive that the Feathered One will not ferry their souls to Paradise directly. Instead, they believe that the flesh of the dead must be eaten first so that the soul can drift into Paradise and the embrace of Chitdada. They have traditionally been a small and aggresive sect, and often treat their more mainstream kin as apostates that have chosen to forget the truth." #NT!
+ hurimak: "Hurimak" #NT!
+ hurimak_adj: "Hurimaki" #NT!
+ hurimak_adherent: "Hurimaki" #NT!
+ hurimak_adherent_plural: "Hurimakis" #NT!
+ hurimak_desc: "Hurimaki groups are the result of centuries of slavery at the hands of the neighbours of the Izáerto Bošáren lands. These secretive groups praise the Hidden Master instead of hating him, for it was he that taught them to hide their faith and scheme in the shadows. Unrelenting and untrustworthy, the Hurimaki have made few friends over the course of their existence." #NT!

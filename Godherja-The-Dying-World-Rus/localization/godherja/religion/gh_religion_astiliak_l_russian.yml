@@ -1,0 +1,64 @@
+﻿l_russian:
+  
+ astiliak_religion: "Astiliak" #NT!
+ astiliak_religion_adj: "Astiliak" #NT!
+ astiliak_religion_adherent: "Astiliak" #NT!
+ astiliak_religion_adherent_plural: "Astiliaks" #NT!
+ astiliak_religion_desc: "The ancient faith of the Astilik people, the Astiliak faith is a diverse polytheistic belief system that possesses no actual consistent series of gods, each Astiliak community instead carrying on culturally traditional pantheons that only sometimes share gods with others.\n\nThe main consistentcy, however, is that the gods are all represented on [aeras|E] through animals and the weather, which serve as their servants and aspects. Most animals are associated with a different god by most communities, as are natural phenomena like lightning, floods, and [gedeora|E].\n\nOne notable peculiarity is the status of [magi|E] in Astiliak belief. Magi themselves are believed to be an aspect of the gods (most often Irradu) who are required to also take on the aspect of an animal if they wish to maintain their mortal form and not succumb to [overwhelmation|E]. As such, many Astiliak Magi spend several years living among their chosen animal, and often wear dress made from their furs and pelts." #NT!
+ astiliak_high_god_name: "Irradu" #NT!
+ astiliak_high_god_name_possessive: "Irradu's" #NT!
+ astiliak_high_god_name_alternate: "Meskzak" #NT!
+ astiliak_high_god_name_alternate_possessive: "Meskzak's" #NT!
+ astiliak_devil_name: "Inkila" #NT!
+ astiliak_devil_name_possessive: "Inkila's" #NT!
+ astiliak_death_deity_name: "Athtalka" #NT!
+ astiliak_death_deity_name_possessive: "Athtalka's" #NT!
+ astiliak_house_of_worship: "Makham" #NT!
+ astiliak_house_of_worship_plural: "Makhams" #NT!
+ astiliak_religious_symbol: "Aspect" #NT!
+ astiliak_religious_text: "the God-Stones" #NT!
+ astiliak_religious_head_title: "Kurvasht" #NT!
+ astiliak_religious_head_title_name: "Marradia" #NT!
+ astiliak_devotee_male: "Astiliak" #NT!
+ astiliak_devotee_male_plural: "Astiliaks" #NT!
+ astiliak_devotee_female: "Astiliak" #NT!
+ astiliak_devotee_female_plural: "Astiliaks" #NT!
+ astiliak_devotee_neuter: "Astiliak" #NT!
+ astiliak_devotee_neuter_plural: "Astiliaks" #NT!
+ astiliak_priest_male: "Hultum" #NT!
+ astiliak_priest_male_plural: "Hultums" #NT!
+ astiliak_priest_female: "Hultum" #NT!
+ astiliak_priest_female_plural: "Hultums" #NT!
+ astiliak_priest_alternate_plural: "Hultums" #NT!
+ astiliak_bishop: "Baslak" #NT!
+ astiliak_bishop_plural: "Baslaks" #NT!
+ astiliak_positive_afterlife: "Elonida" #NT!
+ astiliak_negative_afterlife: "Errobraki" #NT!
+ astiliak_creator_god_name: "$astiliak_high_god_name$" #NT!
+ astiliak_creator_god_name_possessive: "$astiliak_high_god_name_possessive$" #NT!
+ astiliak_health_god_name: "$astiliak_high_god_name$" #NT!
+ astiliak_health_god_name_possessive: "$astiliak_high_god_name_possessive$" #NT!
+ astiliak_fertility_god_name: "$astiliak_high_god_name$" #NT!
+ astiliak_fertility_god_name_possessive: "$astiliak_high_god_name_possessive$" #NT!
+ astiliak_wealth_god_name: "$astiliak_high_god_name$" #NT!
+ astiliak_wealth_god_name_possessive: "$astiliak_high_god_name_possessive$" #NT!
+ astiliak_household_god_name: "$astiliak_health_god_name$" #NT!
+ astiliak_household_god_name_possessive: "$astiliak_health_god_name_possessive$" #NT!
+ astiliak_fate_god_name: "$astiliak_high_god_name$" #NT!
+ astiliak_fate_god_name_possessive: "$astiliak_high_god_name_possessive$" #NT!
+ astiliak_knowledge_god_name: "$astiliak_high_god_name$" #NT!
+ astiliak_knowledge_god_name_possessive: "$astiliak_high_god_name_possessive$" #NT!
+ astiliak_war_god_name: "$astiliak_high_god_name$" #NT!
+ astiliak_war_god_name_possessive: "$astiliak_high_god_name_possessive$" #NT!
+ astiliak_trickster_god_name: "Kuna Bakanik" #NT!
+ astiliak_trickster_god_name_possessive: "Kuna Bakanik's" #NT!
+ astiliak_night_god_name: "$astiliak_high_god_name$" #NT!
+ astiliak_night_god_name_possessive: "$astiliak_high_god_name_possessive$" #NT!
+ astiliak_water_god_name: "$astiliak_health_god_name$" #NT!
+ astiliak_water_god_name_possessive: "$astiliak_health_god_name_possessive$" #NT!
+ astiliak_witch_god_name: "Makkam" #NT!
+ astiliak_witch_god_name_possessive: "Makkam's" #NT!
+ astiliak: "Astiliak" #NT!
+ astiliak_adj: "Astiliak" #NT!
+ astiliak_adherent: "Astiliak" #NT!
+ astiliak_adherent_plural: "Astiliak" #NT!

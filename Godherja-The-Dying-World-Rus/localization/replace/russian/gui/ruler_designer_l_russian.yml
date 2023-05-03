@@ -1,0 +1,27 @@
+﻿l_russian:
+ RULER_DESIGNER_BIRTH_YEAR: "Born: [RulerDesignerWindow.GetBirthYear] IS" #NT!
+ african: "Northern Adabyssian" #NT!
+ arab: "[sarradonian|E]" #NT!
+ asian: "Easterner" #NT!
+ circumpolar: "Frostling" #NT!
+ east_african: "Eastern Adabyssian" #NT!
+ indian: "Ayyari" #NT!
+ south_indian: "Mut-Ayyari" #NT!
+ slavic: "Southern Sjalvolki" #NT!
+ caucasian: "Continental" #NT!
+ berber: "Southern [sarradonian|E]" #NT!
+ yemeni: "Northern [sarradonian|E]" #NT!
+ egyptian: "Kamsari" #NT!
+ han: "Eastern Regali" #NT!
+ afghan: "Western Amsari" #NT!
+ caucasian_brown_hair: "Continental (brown hair)" #NT!
+ caucasian_northern_brown_hair: "Sjalvolki (brown hair)" #NT!
+ caucasian_dark_hair: "Continental (dark hair)" #NT!
+ caucasian_northern_dark_hair: "Sjalvolki (dark hair)" #NT!
+ caucasian_northern_blond_fogeater: "Fogeater" #NT!
+ persian: "Amsari" #NT!
+ afghan_brown: "Western Amsari (brown hair)" #NT!
+ afghan_blonde: "Western Amsari (blonde hair)" #NT!
+ afghan_red: "Western Amsari (red hair)" #NT!
+ northern_ruler_designer: "Northern Sjalvolki" #NT!
+ mediterranean_ruler_designer: "[aversarian|E]" #NT!

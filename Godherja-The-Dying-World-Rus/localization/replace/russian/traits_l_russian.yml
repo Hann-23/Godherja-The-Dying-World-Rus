@@ -1,0 +1,9 @@
+﻿l_russian:
+ trait_august: "Magestic" #NT!
+ trait_bubonic_plague: "[bloodblight|E]" #NT!
+ trait_bubonic_plague_desc: "This character is beset by pulsing crimson veins and is bleeding profusely from the eyes; they are not long for this world." #NT!
+ trait_bubonic_plague_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is beset by pulsing crimson veins and is bleeding profusely from the eyes; [ROOT.GetCharacter.GetSheHe] is not long for this world." #NT!
+  
+ trait_hashishiyah: "Chortoson" #NT!
+ trait_hashishiyah_desc: "This character is dependent on the consumption of chort to deal with the stress of everyday life." #NT!
+ trait_hashishiyah_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is dependent on the consumption of chort to deal with the stress of everyday life." #NT!

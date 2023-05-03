@@ -1,0 +1,7 @@
+﻿l_russian:
+ amsari_flavor.1000.t: "Running from a Life of Chains" #NT!
+ amsari_flavor.1000.desc: "A courtier of mine tell me of a situation in the courtyard. A group of slaves had escaped from a distant land and sought refugee in my lands. Legally, they are emancipated on [ROOT.GetCharacter.GetPrimaryTitle.GetNameNoTierNoTooltip] soil, but the group informs me that they have nowhere to go. They tell me as well that their master has sent hunters to find and return them. It is my word that sets them free in my realm or I can send them away." #NT!
+ amsari_flavor.1000.a: "Let them go" #NT!
+ amsari_flavor.1000.b: "Away with them" #NT!
+ amsari_flavor.1000.c: "I shall contact their rightful masters" #NT!
+ amsari_flavor.1000.d: "Poor souls, take this donation" #NT!

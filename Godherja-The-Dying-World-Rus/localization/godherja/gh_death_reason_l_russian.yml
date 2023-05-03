@@ -1,0 +1,168 @@
+﻿l_russian:
+ death_living_puppetry: "Puppetry" #NT!
+ death_spirit_murder: "was killed by a Spirit" #NT!
+ death_lich_raid: "was killed during a [lich|E]'s raid" #NT!
+ death_lich_raid_captive: "was taken captive in a [lich|E]'s raid" #NT!
+ death_lich_duel: "was slain in a duel with a [lich|E]" #NT!
+ death_lich_battle: "was slain in battle against a [lich|E]" #NT!
+ death_mysterious_quest: "disappeared on a mysterious quest north" #NT!
+ death_frodbrokna: "died during [frodbrokna|E]" #NT!
+ death_frodbrokna_killer: "died during [frodbrokna|E], brought on by [TARGET_CHARACTER.GetUIName]" #NT!
+ death_fed_to_dragon: "was fed to a [dragon|E]" #NT!
+ death_fed_to_dragon_killer: "was fed to [TARGET_CHARACTER.GetUIName]'s [dragon|E]" #NT!
+ death_ritual: "was sacrificed in a ritual" #NT!
+ death_ritual_torture: "was tortured to death in a sacrificial ritual" #NT!
+ death_ritual_torture_killer: "was tortured to death by [TARGET_CHARACTER.GetUIName] in a sacrificial ritual" #NT!
+ death_ritual_unknown: "was found sacrificed in a mysterious ritual" #NT!
+ death_ritual_killer: "was sacrificed by [TARGET_CHARACTER.GetUIName] in an arcane ritual" #NT!
+ death_ritual_cannibalism: "was ritually consumed in a sacrificial ritual" #NT!
+ death_ritual_cannibalism_killer: "was ritually consumed by [TARGET_CHARACTER.GetUIName] in a sacrificial ritual" #NT!
+ death_ritual_mistake: "was accidentally killed in a ritual gone wrong" #NT!
+ death_ritual_mistake_killer: "was accidentally killed by [TARGET_CHARACTER.GetUIName] in a ritual gone wrong" #NT!
+ death_aervalr: "was killed by a falling shard of [aervalr|E]" #NT!
+ death_mammoth: "was trampled by a Mammoth" #NT!
+ death_fog: "died to [the_fog|E]" #NT!
+ death_elysian_pass: "was slain in battle at the Elysian Pass" #NT!
+ death_elysian_pass_killer: "was slain in battle at the Elysian Pass by [TARGET_CHARACTER.GetUIName]" #NT!
+ death_vampiric_drain: "was drained of life-energy by a spell" #NT!
+ death_vampiric_drain_killer: "was drained of life-energy by [TARGET_CHARACTER.GetUIName]" #NT!
+ death_gedeora: "died from the reality-warping effects of a [gedeora|E]" #NT!
+ death_magic_fire: "was magically burned to death" #NT!
+ death_magic_fire_killer: "was magically burned to death by [TARGET_CHARACTER.GetUIName]" #NT!
+ death_magic_meteor: "was crushed by a an artifical meteor" #NT!
+ death_magic_meteor_killer: "was crushed by a an artifical meteor summoned by [TARGET_CHARACTER.GetUIName]" #NT!
+ death_magic_earthquake: "was killed in a magically induced earthquake" #NT!
+ death_magic_earthquake_killer: "was killed in a magically induced earthquake caused by [TARGET_CHARACTER.GetUIName]" #NT!
+ death_magic_petrify: "was magically petrified and turned to dust" #NT!
+ death_magic_petrify_killer: "was magically petrified and turned to dust by [TARGET_CHARACTER.GetUIName]" #NT!
+ death_magic_crush_armor: "was magically crushed to death by their own armor" #NT!
+ death_magic_crush_armor_killer: "was magically crushed to death by their own armor due to a spell cast by [TARGET_CHARACTER.GetUIName]" #NT!
+ death_hunting_vampire: "was slain while hunting a Vampire" #NT!
+ death_hunting_werewolf: "was slain while hunting a Werewolf" #NT!
+ death_hunting_stag: "was slain while hunting a Stag" #NT!
+ death_hunting_boar: "was slain while hunting a Boar" #NT!
+ death_hunting_porcupine: "was slain while hunting a Porcupine" #NT!
+ death_hunting_seal: "was slain while hunting a Seal" #NT!
+ death_hunting_ibex: "was slain while hunting a Ibex" #NT!
+ death_hunting_wolf: "was slain while hunting a Wolf" #NT!
+ death_hunting_lynx: "was slain while hunting a Lynx" #NT!
+ death_hunting_bear: "was slain while hunting a Bear" #NT!
+ death_hunting_dire_stag: "was slain while hunting a Dire Stag" #NT!
+ death_hunting_dire_boar: "was slain while hunting a Dire Boar" #NT!
+ death_hunting_giant_spider: "was slain while hunting a Giant Spider" #NT!
+ death_hunting_forest_troll: "was slain while hunting a Forest Troll" #NT!
+ death_hunting_mammoth: "was slain while hunting a Mammoth" #NT!
+ death_hunting_giant: "was slain while hunting a Giant" #NT!
+ death_hunting_leshen: "was slain while hunting a Leshen" #NT!
+ death_hunting_gargoyle: "was slain while hunting a Gargoyle" #NT!
+ death_hunting_royal_falcon: "was slain while hunting a Royal Falcon" #NT!
+ death_hunting_fortune_eater: "was slain while hunting a Fortune Eater" #NT!
+ death_hunting_whisperwind: "was slain while hunting a Whisperwind" #NT!
+ death_hunting_cockatrice: "was slain while hunting a Cockatrice" #NT!
+ death_hunting_wyrm: "was slain while hunting a Wyrm" #NT!
+ death_hunting_peacock: "was slain while hunting a Peacock" #NT!
+ death_hunting_emperor_peacock: "was slain while hunting a Emperor Peacock" #NT!
+ death_hunting_banshee: "was slain while hunting a Banshee" #NT!
+ death_hunting_dire_crab: "was slain while hunting a Dire Crab" #NT!
+ death_hunting_sea_scorpion: "was slain while hunting a Sea Scorpion" #NT!
+ death_hunting_merbeast: "was slain while hunting a Merbeast" #NT!
+ death_hunting_spirit: "was slain while hunting a Spirit" #NT!
+ death_hunting_griffon: "was slain while hunting a Griffon" #NT!
+ death_hunting_peluda: "was slain while hunting a Peluda" #NT!
+ death_hunting_dire_griffon: "was slain while hunting a Dire Griffon" #NT!
+ death_hunting_tarasque: "was slain while hunting a Tarasque" #NT!
+ death_hunting_aboleth: "was slain while hunting a Aboleth" #NT!
+ death_hunting_bison: "was slain while hunting a Bison" #NT!
+ death_hunting_daggertusk: "was slain while hunting a Daggertusk" #NT!
+ death_hunting_shade: "was slain while hunting a Shade" #NT!
+ death_hunting_vendarja: "was slain while hunting a vendarja" #NT!
+ death_hunting_false_hydra: "was slain while hunting a False Hydra" #NT!
+ death_hunting_fogbeast: "was slain while hunting a Fogbeast" #NT!
+ death_hunting_giant_sloth: "was slain while hunting a Giant Sloth" #NT!
+ death_hunting_crocotta: "was slain while hunting a Crocotta" #NT!
+ death_hunting_pooka: "was slain while hunting a Pooka" #NT!
+ death_hunting_tinessian_lion: "was slain while hunting a Tinessian Lion" #NT!
+ death_hunting_doyarchu: "was slain while hunting a Doyarchu" #NT!
+ death_hunting_manticore: "was slain while hunting a Manticore" #NT!
+ death_hunting_chimera: "was slain while hunting a Chimera" #NT!
+ death_hunting_karankoncolos: "was slain while hunting a Karankoncolos" #NT!
+ death_hunting_kursha: "was slain while hunting a Kursha" #NT!
+ death_hunting_ubir: "was slain while hunting a Ubir" #NT!
+ death_hunting_cor: "was slain while hunting a Cor" #NT!
+ death_hunting_camel: "was slain while hunting a Camel" #NT!
+ death_hunting_zilant: "was slain while hunting a Zilant" #NT!
+ death_hunting_antelope: "was slain while hunting a Antelope" #NT!
+ death_hunting_manzasiri: "was slain while hunting a Manzasiri" #NT!
+ death_hunting_hyena: "was slain while hunting a Hyena" #NT!
+ death_hunting_ukhinbooum: "was slain while hunting a Ukhinbooum" #NT!
+ death_hunting_pegasus: "was slain while hunting a Pegasus" #NT!
+ death_hunting_ochokochi: "was slain while hunting a Ochokochi" #NT!
+ death_hunting_almas: "was slain while hunting a Almas" #NT!
+ death_hunting_devi: "was slain while hunting a Devi" #NT!
+ death_hunting_ugkilrrrmag: "was slain while hunting a Ugkilrrrmag" #NT!
+ death_hunting_gaunt: "was slain while hunting a Gaunt" #NT!
+ death_hunting_leopard: "was slain while hunting a Leopard" #NT!
+ death_hunting_mongoose: "was slain while hunting a Mongoose" #NT!
+ death_hunting_gorilla: "was slain while hunting a Gorilla" #NT!
+ death_hunting_coatl: "was slain while hunting a Coatl" #NT!
+ death_hunting_warthog: "was slain while hunting a Warthog" #NT!
+ death_hunting_monkey: "was slain while hunting a Monkey" #NT!
+ death_hunting_cheetah: "was slain while hunting a Cheetah" #NT!
+ death_hunting_lion: "was slain while hunting a Lion" #NT!
+ death_hunting_crocodile: "was slain while hunting a Crocodile" #NT!
+ death_hunting_hippopotamus: "was slain while hunting a Hippopotamus" #NT!
+ death_hunting_shetani: "was slain while hunting a Shetani" #NT!
+ death_hunting_damotan_elephant: "was slain while hunting a Damotan Elephant" #NT!
+ death_hunting_panther: "was slain while hunting a Panther" #NT!
+ death_hunting_rhinoceros: "was slain while hunting a Rhinoceros" #NT!
+ death_hunting_dreadleech: "was slain while hunting a Dreadleech" #NT!
+ death_hunting_dire_mosquito: "was slain while hunting a Dire Mosquito" #NT!
+ death_hunting_adze: "was slain while hunting a Adze" #NT!
+ death_hunting_nagual: "was slain while hunting a Nagual" #NT!
+ death_hunting_myrmeke: "was slain while hunting a Myrmeke" #NT!
+ death_hunting_running_raptor: "was slain while hunting a Running Raptor" #NT!
+ death_hunting_twin_serpent: "was slain while hunting a Twin Serpent" #NT!
+ death_hunting_roaring_lizard: "was slain while hunting a Roaring Lizard" #NT!
+ death_hunting_tiger: "was slain while hunting a Tiger" #NT!
+ death_hunting_urmahlullu: "was slain while hunting a Urmahlullu" #NT!
+ death_hunting_roc: "was slain while hunting a Roc" #NT!
+ death_hunting_shahmaran: "was slain while hunting a Shahmaran" #NT!
+ death_hunting_simurgh: "was slain while hunting a Simurgh" #NT!
+ death_hunting_sarradon_elephant: "was slain while hunting a Sarradon Elephant" #NT!
+ death_hunting_ostrich: "was slain while hunting a Ostrich" #NT!
+ death_hunting_devouring_worm: "was slain while hunting a Devouring Worm" #NT!
+ death_hunting_zebra: "was slain while hunting a Zebra" #NT!
+ death_hunting_djinn: "was slain while hunting a Djinn" #NT!
+ death_hunting_karkadann: "was slain while hunting a Karkadann" #NT!
+ death_hunting_apep_ibizan: "was slain while hunting a Apep Ibizan" #NT!
+ death_hunting_hieracosphinx: "was slain while hunting a Hieracosphinx" #NT!
+ death_hunting_rock_giant: "was slain while hunting a Rock Giant" #NT!
+ death_hunting_gaur: "was slain while hunting a Gaur" #NT!
+ death_hunting_tahr: "was slain while hunting a Tahr" #NT!
+ death_hunting_markhor: "was slain while hunting a Markhor" #NT!
+ death_hunting_snow_leopard: "was slain while hunting a Snow Leopard" #NT!
+ death_hunting_living_blizzard: "was slain while hunting a Living Blizzard" #NT!
+ death_hunting_sloth_bear: "was slain while hunting a Sloth Bear" #NT!
+ death_hunting_blackbuck: "was slain while hunting a Blackbuck" #NT!
+ death_hunting_kashiryan_elephant: "was slain while hunting a Kashiryan Elephant" #NT!
+ death_hunting_bhramar: "was slain while hunting a Bhramar" #NT!
+ death_hunting_jackal: "was slain while hunting a Jackal" #NT!
+ death_hunting_bubalus: "was slain while hunting a Bubalus" #NT!
+ death_hunting_king_cobra: "was slain while hunting a King Cobra" #NT!
+ death_hunting_emperorcobra: "was slain while hunting a Emperorcobra" #NT!
+ death_hunting_gajara: "was slain while hunting a Gajara" #NT!
+ death_hunting_sunbird: "was slain while hunting a Sunbird" #NT!
+ death_hunting_crown_bird: "was slain while hunting a Crown Bird" #NT!
+ death_hunting_naga: "was slain while hunting a Naga" #NT!
+ death_hunting_akapura: "was slain while hunting a Akapura" #NT!
+ death_hunting_rovarskan_dragon: "was slain while hunting a Rovarskan Dragon" #NT!
+ death_hunting_great_rahksasa: "was slain while hunting a Great Rahksasa" #NT!
+ death_anaan_ascension: "ascended gloriously to Anaan" #NT!
+ death_fs_disappearance: "vanished mysteriously upon the executioner's platform" #NT!
+ death_chariot_accident: "died in a freak chariot accident" #NT!
+ death_agionists: "was brutally murdered by Agionist Militants" #NT!
+ death_bitter_dikaynos: "died, bitterly cursing Dikaynos upon his last breath" #NT!
+ death_blackhorn: "Was taken by the Host of the Black Horn" #NT!
+ death_fools_curse: "died from the [GetTrait('fools_curse').GetName( CHARACTER.Self )]" #NT!
+ death_axiaothea_blood_senate: "was slain in a massacre of the Blood Senate" #NT!
+ death_axiaothea_blood_senate_killer: "was slain in a massacre of the Blood Senate by [TARGET_CHARACTER.GetUIName]" #NT!

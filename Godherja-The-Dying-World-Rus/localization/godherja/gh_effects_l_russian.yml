@@ -1,0 +1,147 @@
+﻿l_russian:
+  
+ GAIN_MAGICAL_POWER_EFFECT: "Gain [magic_power_i]$VALUE|+0$" #NT!
+ I_GAIN_MAGICAL_POWER_EFFECT: "You gain [magic_power_i]$VALUE|+0$" #NT!
+ THEY_GAIN_MAGICAL_POWER_EFFECT: "[CHARACTER.GetShortUIName|U] gains [magic_power_i]$VALUE|+0$" #NT!
+ GAINED_MAGICAL_POWER_EFFECT: "Gained [magic_power_i]$VALUE|+0$" #NT!
+ I_GAINED_MAGICAL_POWER_EFFECT: "You gained [magic_power_i]$VALUE|+0$" #NT!
+ THEY_GAINED_MAGICAL_POWER_EFFECT: "[CHARACTER.GetShortUIName|U] gained [magic_power_i]$VALUE|+0$" #NT!
+ LOSE_MAGICAL_POWER_EFFECT: "Lose [magic_power_i]$VALUE|+0$" #NT!
+ I_LOSE_MAGICAL_POWER_EFFECT: "You lose [magic_power_i]$VALUE|+0$" #NT!
+ THEY_LOSE_MAGICAL_POWER_EFFECT: "[CHARACTER.GetShortUIName|U] loses [magic_power_i]$VALUE|+0$" #NT!
+ LOST_MAGICAL_POWER_EFFECT: "Lost [magic_power_i]$VALUE|+0$" #NT!
+ I_LOST_MAGICAL_POWER_EFFECT: "You lost [magic_power_i]$VALUE|+0$" #NT!
+ THEY_LOST_MAGICAL_POWER_EFFECT: "[CHARACTER.GetShortUIName|U] lost [magic_power_i]$VALUE|+0$" #NT!
+ I_GAINED_STRESS_HOME_TURF_EFFECT: "You gained @stress_icon!$VALUE|-0$ due to the [GetPerk('home_turf_perk').GetName(GetPlayer)] [perk|E]" #NT!
+ I_LOST_STRESS_HOME_TURF_EFFECT: "You lost @stress_loss_icon!$VALUE|+0$ due to the [GetPerk('home_turf_perk').GetName(GetPlayer)] [perk|E]" #NT!
+ THEY_GAINED_STRESS_HOME_TURF_EFFECT: "[CHARACTER.GetShortUIName|U] gained @stress_icon!$VALUE|-0$ due to the [GetPerk('home_turf_perk').GetName(GetPlayer)] [perk|E]" #NT!
+ THEY_LOST_STRESS_HOME_TURF_EFFECT: "[CHARACTER.GetShortUIName|U] lost @stress_loss_icon!$VALUE|+0$ due to the [GetPerk('home_turf_perk').GetName(GetPlayer)] [perk|E]" #NT!
+ GAINED_STRESS_HOME_TURF_EFFECT: "Gained @stress_icon!$VALUE|-0$ due to the [GetPerk('home_turf_perk').GetName(GetPlayer)] [perk|E]" #NT!
+ LOST_STRESS_HOME_TURF_EFFECT: "Lost @stress_loss_icon!$VALUE|+0$ due to the [GetPerk('home_turf_perk').GetName(GetPlayer)] [perk|E]" #NT!
+ I_GAIN_STRESS_HOME_TURF_EFFECT: "You gain @stress_icon!$VALUE|-0$ due to the [GetPerk('home_turf_perk').GetName(GetPlayer)] [perk|E]" #NT!
+ I_LOSE_STRESS_HOME_TURF_EFFECT: "You lose @stress_loss_icon!$VALUE|+0$ due to the [GetPerk('home_turf_perk').GetName(GetPlayer)] [perk|E]" #NT!
+ THEY_GAIN_STRESS_HOME_TURF_EFFECT: "[CHARACTER.GetShortUIName|U] gains @stress_icon!$VALUE|-0$ due to the [GetPerk('home_turf_perk').GetName(GetPlayer)] [perk|E]" #NT!
+ THEY_LOSE_STRESS_HOME_TURF_EFFECT: "[CHARACTER.GetShortUIName|U] loses @stress_loss_icon!$VALUE|+0$ due to the [GetPerk('home_turf_perk').GetName(GetPlayer)] [perk|E]" #NT!
+ GAIN_STRESS_HOME_TURF_EFFECT: "Gains @stress_icon!$VALUE|-0$ due to the [GetPerk('home_turf_perk').GetName(GetPlayer)] [perk|E]" #NT!
+ LOSE_STRESS_HOME_TURF_EFFECT: "Loses @stress_loss_icon!$VALUE|+0$ due to the [GetPerk('home_turf_perk').GetName(GetPlayer)] [perk|E]" #NT!
+ I_GAINED_GOLD_COMMISSION_EFFECT: "You gained @gold_icon!$VALUE|+0$ for fulfilling a commission" #NT!
+ I_LOST_GOLD_COMMISSION_EFFECT: "You lost @gold_icon!$VALUE|-0$ for fulfilling a commission" #NT!
+ THEY_GAINED_GOLD_COMMISSION_EFFECT: "[CHARACTER.GetShortUIName|U] gained @gold_icon!$VALUE|+0$ for fulfilling a commission" #NT!
+ THEY_LOST_GOLD_COMMISSION_EFFECT: "[CHARACTER.GetShortUIName|U] lost @gold_icon!$VALUE|-0$ for fulfilling a commission" #NT!
+ GAINED_GOLD_COMMISSION_EFFECT: "Gained @gold_icon!$VALUE|+0$ for fulfilling a commission" #NT!
+ LOST_GOLD_COMMISSION_EFFECT: "Lost @gold_icon!$VALUE|-0$ for fulfilling a commission" #NT!
+ I_GAIN_GOLD_COMMISSION_EFFECT: "You gain @gold_icon!$VALUE|+0$ for fulfilling a commission" #NT!
+ I_LOSE_GOLD_COMMISSION_EFFECT: "You lose @gold_icon!$VALUE|-0$ for fulfilling a commission" #NT!
+ THEY_GAIN_GOLD_COMMISSION_EFFECT: "[CHARACTER.GetShortUIName|U] gains @gold_icon!$VALUE|+0$ for fulfilling a commission" #NT!
+ THEY_LOSE_GOLD_COMMISSION_EFFECT: "[CHARACTER.GetShortUIName|U] loses @gold_icon!$VALUE|-0$ for fulfilling a commission" #NT!
+ GAIN_GOLD_COMMISSION_EFFECT: "Gains @gold_icon!$VALUE|+0$ for fulfilling a commission" #NT!
+ LOSE_GOLD_COMMISSION_EFFECT: "Loses @gold_icon!$VALUE|-0$ for fulfilling a commission" #NT!
+ GIVES_ONE_EXTRA_MAGIC: "[magic|E]: @magic_icon! #P +1#!/month" #NT!
+ INCREASES_EXPOSURE_RESISTANCE: "Increased resistance to [exposure_sickness|E]" #NT!
+ INCREASES_SPELL_SUCCESS_CHANCE: "Decreased chance of spells backfiring" #NT!
+ INCREASES_INHERENT_MAGIC: "Increased chance of reinforcing [magical|E] [congenital|E] traits" #NT!
+ CAN_ACCESS_LOW_LEVEL_HUNTS: "Can hunt #E Low#! level #E Monsters#! and gain the Rookie Beasthunter [trait|E]. Can also #E Train Falcons#." #NT!
+ CANNOT_GET_LOST_IN_HOME_BIOZONE: "Cannot get #E Lost#! in your home #E Zone#!, and gain a #E Tracking#! and [prowess|E] advantage there\nLose a scaled amount of [stress|E] at the conclusion of each successful [monster_hunt|E] in your home #E Zone#!" #NT!
+ TRACKING_ADVANTAGE: "Small advantage to #E Tracking#! in all #E Zones#!" #NT!
+ RESISTANT_TO_HOT_AND_COLD: "Twice as resistant to [hot|E] and [cold|E] #E Zones#!" #NT!
+ CAN_FORAGE_EVERYWHERE: "Can #E Forage#! in #E Zones#! that are not [idyllic|E] or [verdant|E] at a lower efficiency, excluding [barren|E] #E Zones#!" #NT!
+ BONUS_AGAINST_ALREADY_HUNTED_CREATURES: "Gain a significant [prowess|E] advantage against game you've already successfully hunted" #NT!
+ EXTRA_PRESTIGE_FROM_HUNTS: "[prestige|E] from [monster_hunts|E]: @prestige_icon!#positive_value +25%#!" #NT!
+ CAN_HUNT_UNCONVENTIONAL_CREATURES: "Can #E Peruse for Local Rumours#! to go on [monster_hunts|E] against #E Unconventional Game#!" #NT!
+ ENABLES_COMISSIONS: "Enables #E Comissions#!" #NT!
+ I_GAINED_JURIST_PROGRESS_EFFECT: "You gained @judicial_power_icon!$VALUE|+0$ #E Jurist Trait Progress#!" #NT!
+ I_LOST_JURIST_PROGRESS_EFFECT: "You lost @judicial_power_icon!$VALUE|-0$ #E Jurist Trait Progress#!" #NT!
+ THEY_GAINED_JURIST_PROGRESS_EFFECT: "[CHARACTER.GetShortUIName|U] gained @judicial_power_icon!$VALUE|+0$ #E Jurist Trait Progress#!" #NT!
+ THEY_LOST_JURIST_PROGRESS_EFFECT: "[CHARACTER.GetShortUIName|U] lost @judicial_power_icon!$VALUE|-0$ #E Jurist Trait Progress#!" #NT!
+ GAINED_JURIST_PROGRESS_EFFECT: "Gained @judicial_power_icon!$VALUE|+0$ #E Jurist Trait Progress#!" #NT!
+ LOST_JURIST_PROGRESS_EFFECT: "Lost @judicial_power_icon!$VALUE|-0$ #E Jurist Trait Progress#!" #NT!
+ I_GAIN_JURIST_PROGRESS_EFFECT: "You gain @judicial_power_icon!$VALUE|+0$ #E Jurist Trait Progress#!" #NT!
+ I_LOSE_JURIST_PROGRESS_EFFECT: "You lose @judicial_power_icon!$VALUE|-0$ #E Jurist Trait Progress#!" #NT!
+ THEY_GAIN_JURIST_PROGRESS_EFFECT: "[CHARACTER.GetShortUIName|U] gains @judicial_power_icon!$VALUE|+0$ #E Jurist Trait Progress#!" #NT!
+ THEY_LOSE_JURIST_PROGRESS_EFFECT: "[CHARACTER.GetShortUIName|U] loses @judicial_power_icon!$VALUE|-0$ #E Jurist Trait Progress#!" #NT!
+ GAIN_JURIST_PROGRESS_EFFECT: "Gains @judicial_power_icon!$VALUE|+0$ #E Jurist Trait Progress#!" #NT!
+ LOSE_JURIST_PROGRESS_EFFECT: "Loses @judicial_power_icon!$VALUE|-0$ #E Jurist Trait Progress#!" #NT!
+ GAINED_LEGAL_TRADITION_PROGRESS_EFFECT: "#underline [Localize(Concatenate(PROVINCE.MakeScope.Var('legal_tradition_name').GetFlagName,'_name'))]#! gained @judicial_power_icon!$VALUE|+0$ #E Legal Tradition Progress#!" #NT!
+ LOST_LEGAL_TRADITION_PROGRESS_EFFECT: "#underline [Localize(Concatenate(PROVINCE.MakeScope.Var('legal_tradition_name').GetFlagName,'_name'))]#! lost @judicial_power_icon!$VALUE|+0$ #E Legal Tradition Progress#!" #NT!
+ GAIN_LEGAL_TRADITION_PROGRESS_EFFECT: "#underline [Localize(Concatenate(PROVINCE.MakeScope.Var('legal_tradition_name').GetFlagName,'_name'))]#! gains @judicial_power_icon!$VALUE|+0$ #E Legal Tradition Progress#!" #NT!
+ LOSE_LEGAL_TRADITION_PROGRESS_EFFECT: "#underline [Localize(Concatenate(PROVINCE.MakeScope.Var('legal_tradition_name').GetFlagName,'_name'))]#! loses @judicial_power_icon!$VALUE|+0$ #E Legal Tradition Progress#!" #NT!
+ I_GAINED_CORRUPTION_EFFECT: "You gained @corruption_icon!$VALUE|-0$ #E Corruption#!" #NT!
+ I_LOST_CORRUPTION_EFFECT: "You lost @corruption_icon!$VALUE|+0$ #E Corruption#!" #NT!
+ THEY_GAINED_CORRUPTION_EFFECT: "[CHARACTER.GetShortUIName|U] gained @corruption_icon!$VALUE|-0$ #E Corruption#!" #NT!
+ THEY_LOST_CORRUPTION_EFFECT: "[CHARACTER.GetShortUIName|U] lost @corruption_icon!$VALUE|+0$ #E Corruption#!" #NT!
+ GAINED_CORRUPTION_EFFECT: "Gained @corruption_icon!$VALUE|-0$ #E Corruption#!" #NT!
+ LOST_CORRUPTION_EFFECT: "Lost @corruption_icon!$VALUE|+0$ #E Corruption#!" #NT!
+ I_GAIN_CORRUPTION_EFFECT: "You gain @corruption_icon!$VALUE|-0$ #E Corruption#!" #NT!
+ I_LOSE_CORRUPTION_EFFECT: "You lose @corruption_icon!$VALUE|+0$ #E Corruption#!" #NT!
+ THEY_GAIN_CORRUPTION_EFFECT: "[CHARACTER.GetShortUIName|U] gains @corruption_icon!$VALUE|-0$ #E Corruption#!" #NT!
+ THEY_LOSE_CORRUPTION_EFFECT: "[CHARACTER.GetShortUIName|U] loses @corruption_icon!$VALUE|+0$ #E Corruption#!" #NT!
+ GAIN_CORRUPTION_EFFECT: "Gains @corruption_icon!$VALUE|-0$ #E Corruption#!" #NT!
+ LOSE_CORRUPTION_EFFECT: "Loses @corruption_icon!$VALUE|+0$ #E Corruption#!" #NT!
+ I_GAINED_RADICALISM_EFFECT: "You gained @radicalism_icon!$VALUE|-0$ #E Radicalism#!" #NT!
+ I_LOST_RADICALISM_EFFECT: "You lost @radicalism_icon!$VALUE|+0$ #E Radicalism#!" #NT!
+ THEY_GAINED_RADICALISM_EFFECT: "[CHARACTER.GetShortUIName|U] gained @radicalism_icon!$VALUE|-0$ #E Radicalism#!" #NT!
+ THEY_LOST_RADICALISM_EFFECT: "[CHARACTER.GetShortUIName|U] lost @radicalism_icon!$VALUE|+0$ #E Radicalism#!" #NT!
+ GAINED_RADICALISM_EFFECT: "Gained @radicalism_icon!$VALUE|-0$ #E Radicalism#!" #NT!
+ LOST_RADICALISM_EFFECT: "Lost @radicalism_icon!$VALUE|+0$ #E Radicalism#!" #NT!
+ I_GAIN_RADICALISM_EFFECT: "You gain @radicalism_icon!$VALUE|-0$ #E Radicalism#!" #NT!
+ I_LOSE_RADICALISM_EFFECT: "You lose @radicalism_icon!$VALUE|+0$ #E Radicalism#!" #NT!
+ THEY_GAIN_RADICALISM_EFFECT: "[CHARACTER.GetShortUIName|U] gains @radicalism_icon!$VALUE|-0$ #E Radicalism#!" #NT!
+ THEY_LOSE_RADICALISM_EFFECT: "[CHARACTER.GetShortUIName|U] loses @radicalism_icon!$VALUE|+0$ #E Radicalism#!" #NT!
+ GAIN_RADICALISM_EFFECT: "Gains @radicalism_icon!$VALUE|-0$ #E Radicalism#!" #NT!
+ LOSE_RADICALISM_EFFECT: "Loses @radicalism_icon!$VALUE|+0$ #E Radicalism#!" #NT!
+ I_LEFT_LEGAL_TRADITION_EFFECT: "I stopped adhering to the #underline [Localize(Concatenate(PROVINCE.MakeScope.Var('legal_tradition_name').GetFlagName,'_name'))]#! #E Legal Tradition#!" #NT!
+ THEY_LEFT_LEGAL_TRADITION_EFFECT: "[CHARACTER.GetShortUIName|U] stopped adhering to the #underline [Localize(Concatenate(PROVINCE.MakeScope.Var('legal_tradition_name').GetFlagName,'_name'))]#! #E Legal Tradition#!" #NT!
+ LEFT_LEGAL_TRADITION_EFFECT: "Stopped adhering to the #underline [Localize(Concatenate(PROVINCE.MakeScope.Var('legal_tradition_name').GetFlagName,'_name'))]#! #E Legal Tradition#!" #NT!
+ I_LEAVE_LEGAL_TRADITION_EFFECT: "I stop adhering to the #underline [Localize(Concatenate(PROVINCE.MakeScope.Var('legal_tradition_name').GetFlagName,'_name'))]#! #E Legal Tradition#!" #NT!
+ THEY_LEAVE_LEGAL_TRADITION_EFFECT: "[CHARACTER.GetShortUIName|U] stops adhering to the #underline [Localize(Concatenate(PROVINCE.MakeScope.Var('legal_tradition_name').GetFlagName,'_name'))]#! #E Legal Tradition#!" #NT!
+ LEAVE_LEGAL_TRADITION_EFFECT: "Stops adhering to the #underline [Localize(Concatenate(PROVINCE.MakeScope.Var('legal_tradition_name').GetFlagName,'_name'))]#! #E Legal Tradition#!" #NT!
+ I_ADOPTED_LEGAL_TRADITION_EFFECT: "I adopted the #underline [Localize(Concatenate(PROVINCE.MakeScope.Var('legal_tradition_name').GetFlagName,'_name'))]#! #E Legal Tradition#!" #NT!
+ THEY_ADOPTED_LEGAL_TRADITION_EFFECT: "[CHARACTER.GetShortUIName|U] adopted the #underline [Localize(Concatenate(PROVINCE.MakeScope.Var('legal_tradition_name').GetFlagName,'_name'))]#! #E Legal Tradition#!" #NT!
+ ADOPTED_LEGAL_TRADITION_EFFECT: "Adopted the #underline [Localize(Concatenate(PROVINCE.MakeScope.Var('legal_tradition_name').GetFlagName,'_name'))]#! #E Legal Tradition#!" #NT!
+ I_ADOPT_LEGAL_TRADITION_EFFECT: "I adopt the #underline [Localize(Concatenate(PROVINCE.MakeScope.Var('legal_tradition_name').GetFlagName,'_name'))]#! #E Legal Tradition#!" #NT!
+ THEY_ADOPT_LEGAL_TRADITION_EFFECT: "[CHARACTER.GetShortUIName|U] adopts the #underline [Localize(Concatenate(PROVINCE.MakeScope.Var('legal_tradition_name').GetFlagName,'_name'))]#! #E Legal Tradition#!" #NT!
+ ADOPT_LEGAL_TRADITION_EFFECT: "Adopts the #underline [Localize(Concatenate(PROVINCE.MakeScope.Var('legal_tradition_name').GetFlagName,'_name'))]#! #E Legal Tradition#!" #NT!
+ THEY_GAINED_HIGH_COURT_LEGITIMACY_EFFECT: "The relevant High Court gained $VALUE|+0$ #E Legitimacy#!" #NT!
+ THEY_LOST_HIGH_COURT_LEGITIMACY_EFFECT: "The relevant High Court lost $VALUE|-0$ #E Legitimacy#!" #NT!
+ GAINED_HIGH_COURT_LEGITIMACY_EFFECT: "The relevant High Court gained $VALUE|+0$ #E Legitimacy#!" #NT!
+ LOST_HIGH_COURT_LEGITIMACY_EFFECT: "The relevant High Court lost $VALUE|-0$ #E Legitimacy#!" #NT!
+ THEY_GAIN_HIGH_COURT_LEGITIMACY_EFFECT: "The relevant High Court gains $VALUE|+0$ #E Legitimacy#!" #NT!
+ THEY_LOSE_HIGH_COURT_LEGITIMACY_EFFECT: "The relevant High Court loses $VALUE|-0$ #E Legitimacy#!" #NT!
+ GAIN_HIGH_COURT_LEGITIMACY_EFFECT: "The relevant High Court gains $VALUE|+0$ #E Legitimacy#!" #NT!
+ LOSE_HIGH_COURT_LEGITIMACY_EFFECT: "The relevant High Court loses $VALUE|-0$ #E Legitimacy#!" #NT!
+ I_GAINED_CONTRIBUTION_EFFECT: "You gained $VALUE|+0$ #E Contribution#!" #NT!
+ I_LOST_CONTRIBUTION_EFFECT: "You lost $VALUE|-0$ #E Contribution#!" #NT!
+ THEY_GAINED_CONTRIBUTION_EFFECT: "[CHARACTER.GetShortUIName|U] gained $VALUE|+0$ #E Contribution#!" #NT!
+ THEY_LOST_CONTRIBUTION_EFFECT: "[CHARACTER.GetShortUIName|U] lost $VALUE|-0$ #E Contribution#!" #NT!
+ GAINED_CONTRIBUTION_EFFECT: "Gained $VALUE|+0$ #E Contribution#!" #NT!
+ LOST_CONTRIBUTION_EFFECT: "Lost $VALUE|-0$ #E Contribution#!" #NT!
+ I_GAIN_CONTRIBUTION_EFFECT: "You gain $VALUE|+0$ #E Contribution#!" #NT!
+ I_LOSE_CONTRIBUTION_EFFECT: "You lose $VALUE|-0$ #E Contribution#!" #NT!
+ THEY_GAIN_CONTRIBUTION_EFFECT: "[CHARACTER.GetShortUIName|U] gains $VALUE|+0$ #E Contribution#!" #NT!
+ THEY_LOSE_CONTRIBUTION_EFFECT: "[CHARACTER.GetShortUIName|U] loses $VALUE|-0$ #E Contribution#!" #NT!
+ GAIN_CONTRIBUTION_EFFECT: "Gains $VALUE|+0$ #E Contribution#!" #NT!
+ LOSE_CONTRIBUTION_EFFECT: "Loses $VALUE|-0$ #E Contribution#!" #NT!
+ GAINS_ADVENTURE_LIFESTYLE_XP: "Gains $VALUE|V0$ [adventure_lifestyle|E] Experience" #NT!
+ GAINED_ADVENTURE_LIFESTYLE_XP: "Gained $VALUE|V0$ [adventure_lifestyle|E] Experience" #NT!
+ I_GAIN_ADVENTURE_LIFESTYLE_XP: "You gain $VALUE|V0$ [adventure_lifestyle|E] Experience" #NT!
+ I_GAINED_ADVENTURE_LIFESTYLE_XP: "You gained $VALUE|V0$ [adventure_lifestyle|E] Experience" #NT!
+ TARGET_GAINS_ADVENTURE_LIFESTYLE_XP: "[CHARACTER.GetShortUIName|U] gains $VALUE|V0$ [adventure_lifestyle|E] Experience" #NT!
+ TARGET_GAINED_ADVENTURE_LIFESTYLE_XP: "[CHARACTER.GetShortUIName|U] gained $VALUE|V0$ [adventure_lifestyle|E] Experience" #NT!
+ GAINS_LIVING_MAGIC_XP_EFFECT: "Gains $VALUE|V0$ Living Magic Lifestyle Experience" #NT!
+ GAINED_LIVING_MAGIC_XP_EFFECT: "Gained $VALUE|V0$ Living Magic Lifestyle Experience" #NT!
+ I_GAIN_LIVING_MAGIC_XP_EFFECT: "You gain $VALUE|V0$ Living Magic Lifestyle Experience" #NT!
+ I_GAINED_LIVING_MAGIC_XP_EFFECT: "You gained $VALUE|V0$ Living Magic Lifestyle Experience" #NT!
+ THEY_GAIN_LIVING_MAGIC_XP_EFFECT: "[CHARACTER.GetShortUIName|U] gains $VALUE|V0$ Living Magic Lifestyle Experience" #NT!
+ THEY_GAINED_LIVING_MAGIC_XP_EFFECT: "[CHARACTER.GetShortUIName|U] gained $VALUE|V0$ Living Magic Lifestyle Experience" #NT!
+ GAINS_DEAD_MAGIC_XP_EFFECT: "Gains $VALUE|V0$ Dead Magic Lifestyle Experience" #NT!
+ GAINED_DEAD_MAGIC_XP_EFFECT: "Gained $VALUE|V0$ Dead Magic Lifestyle Experience" #NT!
+ I_GAIN_DEAD_MAGIC_XP_EFFECT: "You gain $VALUE|V0$ Dead Magic Lifestyle Experience" #NT!
+ I_GAINED_DEAD_MAGIC_XP_EFFECT: "You gained $VALUE|V0$ Dead Magic Lifestyle Experience" #NT!
+ THEY_GAIN_DEAD_MAGIC_XP_EFFECT: "[CHARACTER.GetShortUIName|U] gains $VALUE|V0$ Dead Magic Lifestyle Experience" #NT!
+ THEY_GAINED_DEAD_MAGIC_XP_EFFECT: "[CHARACTER.GetShortUIName|U] gained $VALUE|V0$ Dead Magic Lifestyle Experience" #NT!
+ GAINS_MIXED_MAGIC_XP_EFFECT: "Gains $VALUE|V0$ Mixed Magic Lifestyle Experience" #NT!
+ GAINED_MIXED_MAGIC_XP_EFFECT: "Gained $VALUE|V0$ Mixed Magic Lifestyle Experience" #NT!
+ I_GAIN_MIXED_MAGIC_XP_EFFECT: "You gain $VALUE|V0$ Mixed Magic Lifestyle Experience" #NT!
+ I_GAINED_MIXED_MAGIC_XP_EFFECT: "You gained $VALUE|V0$ Mixed Magic Lifestyle Experience" #NT!
+ THEY_GAIN_MIXED_MAGIC_XP_EFFECT: "[CHARACTER.GetShortUIName|U] gains $VALUE|V0$ Mixed Magic Lifestyle Experience" #NT!
+ THEY_GAINED_MIXED_MAGIC_XP_EFFECT: "[CHARACTER.GetShortUIName|U] gained $VALUE|V0$ Mixed Magic Lifestyle Experience" #NT!

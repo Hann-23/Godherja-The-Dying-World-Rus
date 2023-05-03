@@ -1,0 +1,40 @@
+﻿l_russian:
+  
+ #cnevobarthane Loc 
+ cnevobarthane_religion: "Theugombric" #NT!
+ cnevobarthane_religion_adj: "Theugombric" #NT!
+ cnevobarthane_religion_adjerent: "Speaker" #NT!
+ cnevobarthane_religion_adherent_plural: "Speakers" #NT!
+ cnevobarthane_religion_desc: "The native beliefs of the insular Theugombrian peoples tend towards monotheism, with a solar diety being seen as the central figure. While reincarnation is sometimes a factor, it is usually limited to beings of great or godlike power, with the faithful relegated to eternal rest in either the "Bright Halls" of Cutu Remzna, or to eternally wander [aeras|E] in a cursed invisible and ethereal form known as the Naxaz. These faiths see few converts from outside their culture, with the faith usually passed from mother to son. That being said, conversion from without is not technically impossible." #NT!
+ cnevobarthane_high_god_name: "Cnevobarthane" #NT!
+ cnevobarthane_high_god_name_possessive: "Cnevobarthane's" #NT!
+ cnevobarthane_high_god_name_alternate: "The Sunbringer" #NT!
+ cnevobarthane_high_god_name_alternate_possessive: "The Sunbringer's" #NT!
+ cnevobarthane_devil_name: "Larn Haxu" #NT!
+ cnevobarthane_devil_name_possessive: "Larn Haxu's" #NT!
+ cnevobarthane_house_of_worship: "Eguxkleia" #NT!
+ cnevobarthane_house_of_worship_plural: "Eguxkleias" #NT!
+ cnevobarthane_religious_symbol: "The Sun-eye" #NT!
+ cnevobarthane_religious_text: "The Ten Books" #NT!
+ cnevobarthane_religious_head_title: "Highest Ekai" #NT!
+ cnevobarthane_religious_head_title_name: "The Ekailate" #NT!
+ cnevobarthane_devotee_male: "Hizlaxar" #NT!
+ cnevobarthane_devotee_male_plural: "Hizlaxar" #NT!
+ cnevobarthane_devotee_female: "Hizlaxar" #NT!
+ cnevobarthane_devotee_female_plural: "Hizlaxar" #NT!
+ cnevobarthane_devotee_neuter: "Hizlaxar" #NT!
+ cnevobarthane_devotee_neuter_plural: "Hizlaxar" #NT!
+ cnevobarthane_priest_male: "Ekai" #NT!
+ cnevobarthane_priest_male_plural: "Ekai" #NT!
+ cnevobarthane_priest_female: "Ekai" #NT!
+ cnevobarthane_priest_female_plural: "Ekai" #NT!
+ cnevobarthane_priest_alternate_plural: "Ekai" #NT!
+ cnevobarthane_bishop: "Errasti" #NT!
+ cnevobarthane_bishop_plural: "Errasti" #NT!
+ cnevobarthane_positive_afterlife: "Cutu Remzna" #NT!
+ cnevobarthane_negative_afterlife: "Naxaz" #NT!
+ cnevobarthane: "Speakers of Cnevobarthane" #NT!
+ cnevobarthane_adj: "Speakers of Cnevobarthane" #NT!
+ cnevobarthane_adherent: "Hizlaxar" #NT!
+ cnevobarthane_adherent_plural: "Hizlaxar" #NT!
+ cnevobarthane_desc: "Ardent monotheists, the Speakers of [cnevobarthane|E] are the ancestral religious sect of the Theugombrian people - for although conversion from outsiders is theoretically possible, it has historically been almost unheard of.\n\nThe Speakers believe that humans live in cyclical eons, where races of men are born, thrive for many long ages, then pass into an unknown and possibly apocalyptic fate. They worship Cnevobarthane, the First Man of the Present World, who was born fully formed from the last remaining stone of the last remaining ruined house of the vanished men of the World Before. He then proceeded to create all mankind, peopling [aeras|E] with his progeny. However, many of his children, dissatisfied and jealous, turned their backs upon Him. Only a select few swallowed their pride and, were grateful to their Father, choosing to honor him and his laws.\n\nIn order to shelter mankind from harm and spare them the fate of the World Before, Cnevobarthane martyred Himself in order to ascend and unite with the sun. However, this does not mean He has abandoned Aeras, for the Speakers believe Cnevobarthane returns to them every few centuries, reborn as an infant who grows into a [magi|E] of unspeakable power." #NT!

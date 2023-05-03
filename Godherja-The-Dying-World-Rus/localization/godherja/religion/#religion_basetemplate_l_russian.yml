@@ -1,0 +1,64 @@
+﻿l_russian:
+  
+ #xyz Loc 
+ xyz_religion: 
+ xyz_religion_adj: 
+ xyz_religion_adjerent: 
+ xyz_religion_adherent_plural: 
+ xyz_religion_desc: 
+ xyz_high_god_name: 
+ xyz_high_god_name_possessive: 
+ xyz_high_god_name_alternate: 
+ xyz_high_god_name_alternate_possessive: 
+ xyz_devil_name: 
+ xyz_devil_name_possessive: 
+ xyz_death_deity_name: 
+ xyz_death_deity_name_possessive: 
+ xyz_house_of_worship: 
+ xyz_house_of_worship_plural: 
+ xyz_religious_symbol: 
+ xyz_religious_text: 
+ xyz_religious_head_title: 
+ xyz_religious_head_title_name: 
+ xyz_devotee_male: 
+ xyz_devotee_male_plural: 
+ xyz_devotee_female: 
+ xyz_devotee_female_plural: 
+ xyz_devotee_neuter: 
+ xyz_devotee_neuter_plural: 
+ xyz_priest_male: 
+ xyz_priest_male_plural: 
+ xyz_priest_female: 
+ xyz_priest_female_plural: 
+ xyz_priest_alternate_plural: 
+ xyz_bishop: 
+ xyz_bishop_plural: 
+ xyz_positive_afterlife: 
+ xyz_negative_afterlife: 
+ xyz_creator_god_name: "$xyz_high_god_name$" #NT!
+ xyz_creator_god_name_possessive: "$xyz_high_god_name_possessive$" #NT!
+ xyz_health_god_name: 
+ xyz_health_god_name_possessive: 
+ xyz_fertility_god_name: "$xyz_high_god_name$" #NT!
+ xyz_fertility_god_name_possessive: "$xyz_high_god_name_possessive$" #NT!
+ xyz_wealth_god_name: "$xyz_high_god_name$" #NT!
+ xyz_wealth_god_name_possessive: "$xyz_high_god_name_possessive$" #NT!
+ xyz_household_god_name: "$xyz_health_god_name$" #NT!
+ xyz_household_god_name_possessive: "$xyz_health_god_name_possessive$" #NT!
+ xyz_fate_god_name: "$xyz_high_god_name$" #NT!
+ xyz_fate_god_name_possessive: "$xyz_high_god_name_possessive$" #NT!
+ xyz_knowledge_god_name: "$xyz_high_god_name$" #NT!
+ xyz_knowledge_god_name_possessive: "$xyz_high_god_name_possessive$" #NT!
+ xyz_war_god_name: "$xyz_high_god_name$" #NT!
+ xyz_war_god_name_possessive: "$xyz_high_god_name_possessive$" #NT!
+ xyz_trickster_god_name: "Fortuna" #NT!
+ xyz_trickster_god_name_possessive: "Fortuna's" #NT!
+ xyz_night_god_name: "$xyz_high_god_name$" #NT!
+ xyz_night_god_name_possessive: "$xyz_high_god_name_possessive$" #NT!
+ xyz_water_god_name: "$xyz_health_god_name$" #NT!
+ xyz_water_god_name_possessive: "$xyz_health_god_name_possessive$" #NT!
+ xyz_witchgodname: "Iohan" #NT!
+ wxyz: 
+ wxyz_adj: 
+ wxyz_adherent: 
+ wxyz_adherent_plural: 

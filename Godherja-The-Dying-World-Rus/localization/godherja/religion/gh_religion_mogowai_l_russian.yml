@@ -1,0 +1,90 @@
+﻿l_russian:
+  
+ #mogowai Loc 
+ mogowai_religion: "Mogowai" #NT!
+ mogowai_religion_adj: "Mogowai" #NT!
+ mogowai_religion_adherent: "Mogowai" #NT!
+ mogowai_religion_adherent_plural: "Mogowai" #NT!
+ mogowai_religion_desc: "The Mogowai believe that their god, known only as the Most High, once had a physical avatar who walked upon [aeras|E] and interacted with supplicants. However, He was attacked by an army of nonbelievers, who burnt His temples, destroyed His offerings, and even slew Him. His body was spirited away to places unknown, and it is the duty of the Mogowai ('Searchers' in their language) to track down this body and give it proper last rites, after which the Most High shall be born in a new body and peace shall return to the world." #NT!
+ mogowai_high_god_name: "He Who Was Most High" #NT!
+ mogowai_high_god_name_possessive: "His" #NT!
+ mogowai_high_god_name_alternate: "The Dead God" #NT!
+ mogowai_high_god_name_alternate_possessive: "The Dead God's" #NT!
+ mogowai_death_deity_name: "The Most High" #NT!
+ mogowai_death_deity_name_possessive: "The Most High's" #NT!
+ mogowai_devil_name: "Temple Burner" #NT!
+ mogowai_devil_name_possessive: "Temple Burner's" #NT!
+ mogowai_house_of_worship: "Temple" #NT!
+ mogowai_house_of_worship_plural: "Temples" #NT!
+ mogowai_religious_symbol: "Map of Heaven" #NT!
+ mogowai_religious_text: "Hymns of Heaven" #NT!
+ mogowai_religious_head_title: "Kihinet" #NT!
+ mogowai_religious_head_title_name: "Kihineti Mogotada" #NT!
+ mogowai_devotee_male: "Mogowai" #NT!
+ mogowai_devotee_male_plural: "Mogowai" #NT!
+ mogowai_devotee_female: "Mogowai" #NT!
+ mogowai_devotee_female_plural: "Mogowai" #NT!
+ mogowai_devotee_neuter: "Mogowai" #NT!
+ mogowai_devotee_neuter_plural: "Mogowai" #NT!
+ mogowai_priest: "Ekagīb" #NT!
+ mogowai_priest_plural: "Ekagībs" #NT!
+ mogowai_priest_alternate: "Siiret" #NT!
+ mogowai_priest_alternate_plural: "Siirets" #NT!
+ mogowai_bishop: "Aminet" #NT!
+ mogowai_bishop_plural: "Aminets" #NT!
+ mogowai_positive_afterlife: "Reunion with the Dead God" #NT!
+ mogowai_negative_afterlife: "Empty Heaven" #NT!
+ mogowai_creator_god_name: "$mogowai_high_god_name$" #NT!
+ mogowai_creator_god_name_possessive: "$mogowai_high_god_name_possessive$" #NT!
+ mogowai_health_god_name: "$mogowai_high_god_name_alternate$" #NT!
+ mogowai_health_god_name_possessive: "$mogowai_high_god_name_alternate_possessive$" #NT!
+ mogowai_fertility_god_name: "$mogowai_high_god_name$" #NT!
+ mogowai_fertility_god_name_possessive: "$mogowai_high_god_name_possessive$" #NT!
+ mogowai_wealth_god_name: "$mogowai_high_god_name$" #NT!
+ mogowai_wealth_god_name_possessive: "$mogowai_high_god_name_possessive$" #NT!
+ mogowai_household_god_name: "$mogowai_high_god_name_alternate$" #NT!
+ mogowai_household_god_name_possessive: "$mogowai_high_god_name_alternate_possessive$" #NT!
+ mogowai_fate_god_name: "$mogowai_high_god_name_alternate$" #NT!
+ mogowai_fate_god_name_possessive: "$mogowai_high_god_name_alternate_possessive$" #NT!
+ mogowai_knowledge_god_name: "$mogowai_high_god_name$" #NT!
+ mogowai_knowledge_god_name_possessive: "$mogowai_high_god_name_possessive$" #NT!
+ mogowai_war_god_name: "$mogowai_high_god_name_alternate$" #NT!
+ mogowai_war_god_name_possessive: "$mogowai_high_god_name_alternate_possessive$" #NT!
+ mogowai_trickster_god_name: "Temple Burner" #NT!
+ mogowai_trickster_god_name_possessive: "Temple Burner's" #NT!
+ mogowai_night_god_name: "the Dark" #NT!
+ mogowai_night_god_name_possessive: "the Dark's" #NT!
+ mogowai_water_god_name: "The Most High" #NT!
+ mogowai_water_god_name_possessive: "His" #NT!
+ mogowai_witch_god_name: "$mogowai_death_god_name$" #NT!
+ mogowai_witch_god_name_possessive: "$mogowai_death_god_name_possessive$" #NT!
+ #mogowai loc 
+ mogowai: "Mogowai" #NT!
+ mogowai_adj: "Mogowai" #NT!
+ mogowai_adherent: "Mogowai" #NT!
+ mogowai_adherent_plural: "Mogowai" #NT!
+ mogowai_desc: "The mainstream Mogowai, codified in the [karururi_chorus|E], take their task of finding the body of the Most High incredibly seriously. While a good many just pray that He leads His followers to His final resting place, others are compelled to go out into the world and search themselves. They retread old paths thought to be dead ends, or search in completely undiscovered locales, and pursue any lead about a sacred burial site in hopes of fulfilling their one goal. It is believed that when found, He will rise once more, and transform the world into a paradise." #NT!
+ #bekashai loc 
+ bekashai: "Bekashai" #NT!
+ bekashai_adj: "Bekashai" #NT!
+ bekashai_adherent: "Bekashai" #NT!
+ bekashai_adherent_plural: "Bekashai" #NT!
+ bekashai_desc: "The Bekashai hold that those who slew the Most High must be brought to justice, believing that only through attaining revenge can His body be found. They have refocused their efforts to search the world, ignoring the quest for His body itself and instead seeking out His killers, hoping to one day avenge their ancient sin. A variety of theories as to His death have been proposed, but most tend to simply blame one's current enemies for the long-ago tragedy" #NT!
+  #nitsafai loc 
+ nitsafai: "Nitsafai" #NT!
+ nitsafai_adj: "Nitsafai" #NT!
+ nitsafai_adherent: "Nitsafai" #NT!
+ nitsafai_adherent_plural: "Nitsafai" #NT!
+ nitsafai_desc: "The Nitsafai believe that the mainstream Mogowai have lost their way, due largely to the meddling of secular leaders in religious affairs. They push for a literal interpretation of the Hymns of Heaven, and pursue a refocusing of the faith before the search can resume, fearing that corruption will prevent His body from ever being discovered. This dedication causes them to uphold their orthodoxy above all else, and any deviation from their truth is harshly punished." #NT!
+  #marefai loc 
+ marefai: "Marefai" #NT!
+ marefai_adj: "Marefai" #NT!
+ marefai_adherent: "Marefai" #NT!
+ marefai_adherent_plural: "Marefai" #NT!
+ marefai_desc: "While other denominations believe in centralized efforts to seek out His body, the Marefai decry central religious authority entirely, believing that mere mortals are unworthy to dictate the orders of the Most High. They encourage everyone to live their lives in accordance with their own interpretations of the Hymns, and see those who would attempt to lead the faith as usurpers. Despite their variety of beliefs, the quest for His tomb remains paramount, along with most other core tenets." #NT!
+  #waharai loc 
+ waharai: "Waharai" #NT!
+ waharai_adj: "Waharai" #NT!
+ waharai_adherent: "Waharai" #NT!
+ waharai_adherent_plural: "Waharai" #NT!
+ waharai_desc: "The Waharai hold that the Most High's death was merely His ascension, and that He waits in the heavens for those who accept this truth. Their attitude towards piety is far more lax than their fellows, to the Waharai, your actions on [aeras|E] matter not, as merely the belief in the Most High will earn you a reward. As a result, the rules they follow are less formal and structured, with far more leeway given to individuals that would have been punished by other faiths, so long as they maintain their beliefs." #NT!

@@ -1,0 +1,77 @@
+﻿l_russian:
+  
+ #kardawai Loc 
+ kardawai_religion: "Kardawai" #NT!
+ kardawai_religion_adj: "Kardawai" #NT!
+ kardawai_religion_adjerent: "Kardawai" #NT!
+ kardawai_religion_adherent_plural: "Kardawai" #NT!
+ kardawai_religion_desc: "According to Kardawai legend, the great Titan Mawloc, ruled over the world with an iron fist. His sons starved as he forced them to make great statues of himself. His servants, the Lothbroki, cackled as they whipped Mawloc's sons into submission. Until one day, the eldest son Kardwen rose up against his cruel masters, and devoured the Lothbroki. Kardwen gained the strength of the Lothbroki, and so he led his people to victory against the cruel Titan. Kardwen divided the dead Titan's corpse between his many sons, and those who partook in it became the gods of the world." #NT!
+ kardawai_high_god_name: "Kardwen" #NT!
+ kardawai_high_god_name_possessive: "Kardwen's" #NT!
+ kardawai_high_god_name_alternate: "High King Kardwen" #NT!
+ kardawai_high_god_name_alternate_possessive: "High King Kardwen's" #NT!
+ kardawai_devil_name: "$kardawai_death_deity_name$" #NT!
+ kardawai_devil_name_possessive: "$kardawai_death_deity_name_possessive$" #NT!
+ kardawai_death_deity_name: "Dedgültiod" #NT!
+ kardawai_death_deity_name_possessive: "Dedgültiod's" #NT!
+ kardawai_house_of_worship: "Zalbet" #NT!
+ kardawai_house_of_worship_plural: "Zalbets" #NT!
+ kardawai_religious_symbol: "Blade of Kardwen" #NT!
+ kardawai_religious_text: "Saga of Kardwen" #NT!
+ kardawai_religious_head_title: "Great Lukvar" #NT!
+ kardawai_religious_head_title_name: "Great Lukvarate" #NT!
+ kardawai_devotee_male: "Kardawai" #NT!
+ kardawai_devotee_male_plural: "Kardawai" #NT!
+ kardawai_devotee_female: "Kardawai" #NT!
+ kardawai_devotee_female_plural: "Kardawai" #NT!
+ kardawai_devotee_neuter: "Kardawai" #NT!
+ kardawai_devotee_neuter_plural: "Kardawai" #NT!
+ kardawai_priest_male: "Lukvar" #NT!
+ kardawai_priest_male_plural: "Lukvars" #NT!
+ kardawai_priest_female: "Lukvar" #NT!
+ kardawai_priest_female_plural: "Lukvars" #NT!
+ kardawai_priest_alternate_plural: "Lukvari" #NT!
+ kardawai_bishop: "High Lukvar" #NT!
+ kardawai_bishop_plural: "High Lukvars" #NT!
+ kardawai_positive_afterlife: "Kardwen's Feasting Hall" #NT!
+ kardawai_negative_afterlife: "Mawloc" #NT!
+ kardawai_religion_creator_god_name: "$kardawai_high_god_name$" #NT!
+ kardawai_religion_creator_god_name_possessive: "$kardawai_high_god_name_possessive$" #NT!
+ kardawai_health_god_name: "$kardawai_fertility_god_name$" #NT!
+ kardawai_health_god_name_possessive: "$kardawai_fertility_god_name_possessive$" #NT!
+ kardawai_fertility_god_name: "Frukeit" #NT!
+ kardawai_fertility_god_name_possessive: "Frukeit's" #NT!
+ kardawai_wealth_god_name: "Reitum" #NT!
+ kardawai_wealth_god_name_possessive: "Reitum's" #NT!
+ kardawai_household_god_name: "Hestaon" #NT!
+ kardawai_household_god_name_possessive: "Hestaon's" #NT!
+ kardawai_fate_god_name: "Haualt" #NT!
+ kardawai_fate_god_name_possessive: "Haualt's" #NT!
+ kardawai_knowledge_god_name: "Kenntmels" #NT!
+ kardawai_knowledge_god_name_possessive: "Kenntmels'" #NT!
+ kardawai_war_god_name: "Krigtigen" #NT!
+ kardawai_war_god_name_possessive: "Krigtigen's" #NT!
+ kardawai_trickster_god_name: "Nachster" #NT!
+ kardawai_trickster_god_name_possessive: "Nachster's" #NT!
+ kardawai_night_god_name: "$kardawai_trickster_god_name$" #NT!
+ kardawai_night_god_name_possessive: "$kardawai_trickster_god_name_possessive$" #NT!
+ kardawai_water_god_name: "Wasseelt" #NT!
+ kardawai_water_god_name_possessive: "Wasseelt's" #NT!
+ kardawai_witch_god_name: "$kardawai_fate_god_name$" #NT!
+ kardawai_witch_god_name_possessive: "$kardawai_fate_god_name_possessive$" #NT!
+  #kardawai loc 
+ kardawai: "Kardawai" #NT!
+ kardawai_adj: "Kardawai" #NT!
+ kardawai_adjerent: "Kardawai" #NT!
+ kardawai_adherent_plural: "Kardawai" #NT!
+ kardawai_desc: "The Kardawai arrived in the known world with the Sjalvolki invasion. Though dismissed as barbaric cannibals, the men of the Kardawai cook and eat bites of meat from their fallen enemies to honor the victory of the god Kardwen and his brothers over their cruel father Mawloc. The Kardawai believe that when they die, only those who are able to produce evidence of the foes they killed in life are able to feast alongside the gods at the table of Kardwen." #NT!
+ kardawai_old: "Old Kardawai" #NT!
+ kardawai_old_adj: "Old Kardawai" #NT!
+ kardawai_old_adherent: "Old Kardawai" #NT!
+ kardawai_old_adherent_plural: "Old Kardawai" #NT!
+  #benkassai loc 
+ benkassai: "Benkassai" #NT!
+ benkassai_adj: "Benkassai" #NT!
+ benkassai_adjerent: "Benkassai" #NT!
+ benkassai_adherent_plural: "Benkassai" #NT!
+ benkassai_desc: "The Benkassai believe that whilst Kardwen demands that flesh be eaten, as it is a sacred act, the flesh cannot be obtained through violent means. This outright heretic sect has never grown large, but some Benkassai communities still persist in following their cannibalistic pacifism despite disgust from both the Kardawai and the unfaithful." #NT!

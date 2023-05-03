@@ -1,0 +1,6 @@
+﻿l_russian:
+ innovation_wootz_steel: "Magi Steel" #NT!
+ innovation_wootz_steel_desc: "Also known as Imperial steel, this carbon-rich and lightly-enchanted metal is excellent for making weapons. Magi-steel is widely traded and is deemed one of finest steels in the world that man rememhers how to create. Throughout most of history, it has drawn the attention of traders from across [aeras|E], and fascination from the academicians of the [mayikprolollan|E]." #NT!
+  
+ innovation_development_03_desc: "The great cities of [GetTitleByKey('c_oraispol').GetNameNoTier], [GetTitleByKey('c_asiupoli').GetNameNoTier], and [peti_gisredde|E] have long stood out as great and unmatchable metropolises. As our infrastructure and population grow, we finally have the means to develop new settlements which rival these mighty urban centers." #NT!
+ innovation_cranes_desc: "A modern marvel of engineering, the [aversarians|E] used tread-wheel cranes to great effect when building their empire, and so too shall we." #NT!

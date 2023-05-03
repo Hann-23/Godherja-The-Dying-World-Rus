@@ -1,0 +1,196 @@
+﻿l_russian:
+ found_barrow_decision_name: "Prepare a Barrow" #NT!
+ found_barrow_decision_desc: "My soul will one day leave this mortal coil, and for someone of my station, it is expected that I erect a burial site worthy of being my final resting place." #NT!
+ found_barrow_decision_tooltip: "I will prepare a barrow worthy of a great ruler." #NT!
+ found_barrow_decision_confirm: "Begin charting up plans" #NT!
+ found_barrow_decision_effect_tt: "You will be able to choose the scope and size of the Barrow, with each level giving greater bonuses." #NT!
+  
+ convert_realm_feudalism_rite: "Establish an Aristocracy Through the Rite" #NT!
+ convert_realm_feudalism_rite_desc: "The old ways have served us well, and we will always honor them. However, as the [ROOT.Char.GetTitleAsNameNoTooltip] of [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip], I have concluded that we must rule in the name's of our families and not our tribes if we shall continue to prosper. It is the crucial next step on our road to greatness!" #NT!
+ convert_realm_feudalism_rite_tooltip: "Your realm will convert to [feudal|E]!" #NT!
+ convert_realm_feudalism_rite_confirm: "Long live [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]!" #NT!
+ form_waymakers_of_velos_decision: "Form the Waymakers of Velos" #NT!
+ form_waymakers_of_velos_decision_desc: "Once, our kin led the great host of the High King across the breadth of [aeras|E], guiding all to a new life on the Shattered Coast. We now seek to take up that mantle, and guide the faithful of the Rite along the path of Velos." #NT!
+ form_waymakers_of_velos_decision_tooltip: "You will form a Holy Order dedicated to Velos!" #NT!
+ form_waymakers_of_velos_decision_confirm: "We shall trace the path forward!" #NT!
+ waymakers_of_velos_formed_tooltip: "Will change [government|E] to [landed|E] [holy_order|E]" #NT!
+ waymakers_of_velos_county_trigger: "Your realm must be on the [continent|E]" #NT!
+ form_waymakers_of_velos_decision.tt.is_in_correct_region: "Is in [GetGeographicalRegion('world_ga_aversarian_homelands').GetName] [region|E]" #NT!
+ migrate_to_kingdom_confirm: "Begin the migration" #NT!
+ migrate_to_kingdom_desc: "We have taken a large swath of land from the [aversarians|E], and my vassals are eager to move. While some Aversarians remain in our new lands it seems madness to keep to the borders of their once-mighty empire. As such, it is only natural that we shall shape new borders upon the old." #NT!
+ sjalvolki_migration_give_kingdom: "The kingdom title will go to a vassal." #NT!
+ sjalvolki_migration_keep_kingdom: "The kingdom title will go to you." #NT!
+ sjalvolki_decisions.3003.title: "The Kingdom of Sjas" #NT!
+ sjalvolki_decisions.3003.desc: "The kingdom of Sjas was one of the titles promised to me and my people. While nobody doubts my claim to the new kingdom, I can choose to give it to a loyal vassal instead." #NT!
+ sjalvolki_decisions.3003.a: "The kingdom shall be mine" #NT!
+ sjalvolki_decisions.3003.b: "I shall give it to a vassal" #NT!
+ sjalvolki_decisions.3004.title: "The Kingdom of Plekig" #NT!
+ sjalvolki_decisions.3004.desc: "The kingdom of Plekig was one of the titles promised to me and my people. While nobody doubts my claim to the new kingdom, I can choose to give it to a loyal vassal instead." #NT!
+ sjalvolki_decisions.3004.a: "The kingdom shall be mine" #NT!
+ sjalvolki_decisions.3004.b: "I shall give it to a vassal" #NT!
+ sjalvolki_decisions.3005.title: "The Kingdom of Vraved" #NT!
+ sjalvolki_decisions.3005.desc: "The kingdom of Vraved was one of the titles promised to me and my people. While nobody doubts my claim to the new kingdom, I can choose to give it to a loyal vassal instead." #NT!
+ sjalvolki_decisions.3005.a: "The kingdom shall be mine" #NT!
+ sjalvolki_decisions.3005.b: "I shall give it to a vassal" #NT!
+ sjalvolki_decisions.3009.title: "The Kingdom of Sajrag" #NT!
+ sjalvolki_decisions.3009.desc: "The kingdom of Sajrag was one of the titles promised to me and my people. While nobody doubts my claim to the new kingdom, I can choose to give it to a loyal vassal instead." #NT!
+ sjalvolki_decisions.3009.a: "The kingdom shall be mine" #NT!
+ sjalvolki_decisions.3009.b: "I shall give it to a vassal" #NT!
+ sjalvolki_decisions.3014.title: "The Kingdom of Kollos" #NT!
+ sjalvolki_decisions.3014.desc: "The kingdom of Kollos was one of the titles promised to me and my people. While nobody doubts my claim to the new kingdom, I can choose to give it to a loyal vassal instead." #NT!
+ sjalvolki_decisions.3014.a: "The kingdom shall be mine" #NT!
+ sjalvolki_decisions.3014.b: "I shall give it to a vassal" #NT!
+ migrate_to_kingdom_akiev: "Form the Kingdom of Akiev" #NT!
+ migrate_to_kingdom_akiev_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_alman: "Form the Kingdom of Alman" #NT!
+ migrate_to_kingdom_alman_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_bakav: "Form the Kingdom of Bakav" #NT!
+ migrate_to_kingdom_bakav_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_berlisk: "Form the Kingdom of Berlisk" #NT!
+ migrate_to_kingdom_berlisk_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_bladka: "Form the Kingdom of Bladka" #NT!
+ migrate_to_kingdom_bladka_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_blecked: "Form the Kingdom of Blecked" #NT!
+ migrate_to_kingdom_blecked_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_bledl: "Form the Kingdom of Bledl" #NT!
+ migrate_to_kingdom_bledl_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_bledlik: "Form the Kingdom of Bledlik" #NT!
+ migrate_to_kingdom_bledlik_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_buzi: "Form the Kingdom of Buzi" #NT!
+ migrate_to_kingdom_buzi_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_casked: "Form the Kingdom of Casked" #NT!
+ migrate_to_kingdom_casked_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_cershuv: "Form the Kingdom of Cershuv" #NT!
+ migrate_to_kingdom_cershuv_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_cesk: "Form the Kingdom of Cesk" #NT!
+ migrate_to_kingdom_cesk_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_cevrek: "Form the Kingdom of Cevrek" #NT!
+ migrate_to_kingdom_cevrek_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_cravgrad: "Form the Kingdom of Cravgrad" #NT!
+ migrate_to_kingdom_cravgrad_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_crecew: "Form the Kingdom of Crecew" #NT!
+ migrate_to_kingdom_crecew_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_crelkvania: "Form the Kingdom of Crelkvania" #NT!
+ migrate_to_kingdom_crelkvania_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_cvradk: "Form the Kingdom of Cvradk" #NT!
+ migrate_to_kingdom_cvradk_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_cycladecia: "Form the Kingdom of Cycladecia" #NT!
+ migrate_to_kingdom_cycladecia_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_dahagrad: "Form the Kingdom of Dahagrad" #NT!
+ migrate_to_kingdom_dahagrad_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_descki: "Form the Kingdom of Descki" #NT!
+ migrate_to_kingdom_descki_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_deskivi: "Form the Kingdom of Deskivi" #NT!
+ migrate_to_kingdom_deskivi_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_devk: "Form the Kingdom of Devk" #NT!
+ migrate_to_kingdom_devk_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_dgask: "Form the Kingdom of Dgask" #NT!
+ migrate_to_kingdom_dgask_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_dievd: "Form the Kingdom of Dievd" #NT!
+ migrate_to_kingdom_dievd_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_dievs: "Form the Kingdom of Dievs" #NT!
+ migrate_to_kingdom_dievs_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_djav: "Form the Kingdom of Djav" #NT!
+ migrate_to_kingdom_djav_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_dlak: "Form the Kingdom of Dlak" #NT!
+ migrate_to_kingdom_dlak_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_dlef: "Form the Kingdom of Dlef" #NT!
+ migrate_to_kingdom_dlef_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_gevek: "Form the Kingdom of Gevek" #NT!
+ migrate_to_kingdom_gevek_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_glicin: "Form the Kingdom of Glicin" #NT!
+ migrate_to_kingdom_glicin_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_glicvice: "Form the Kingdom of Glicvice" #NT!
+ migrate_to_kingdom_glicvice_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_helski: "Form the Kingdom of Helski" #NT!
+ migrate_to_kingdom_helski_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_horav: "Form the Kingdom of Horav" #NT!
+ migrate_to_kingdom_horav_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_hvak: "Form the Kingdom of Hvak" #NT!
+ migrate_to_kingdom_hvak_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_kakra: "Form the Kingdom of Kakra" #NT!
+ migrate_to_kingdom_kakra_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_karvice: "Form the Kingdom of Karvice" #NT!
+ migrate_to_kingdom_karvice_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_kerkonia: "Form the Kingdom of Kerkonia" #NT!
+ migrate_to_kingdom_kerkonia_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_kevek: "Form the Kingdom of Kevek" #NT!
+ migrate_to_kingdom_kevek_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_kochod: "Form the Kingdom of Kochod" #NT!
+ migrate_to_kingdom_kochod_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_kollos: "Form the Kingdom of Kollos" #NT!
+ migrate_to_kingdom_kollos_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_kradal: "Form the Kingdom of Kradal" #NT!
+ migrate_to_kingdom_kradal_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_kradaov: "Form the Kingdom of Kradaov" #NT!
+ migrate_to_kingdom_kradaov_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_krakaw: "Form the Kingdom of Krakaw" #NT!
+ migrate_to_kingdom_krakaw_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_krary: "Form the Kingdom of Krary" #NT!
+ migrate_to_kingdom_krary_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_krassovce: "Form the Kingdom of Krassovce" #NT!
+ migrate_to_kingdom_krassovce_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_krava: "Form the Kingdom of Krava" #NT!
+ migrate_to_kingdom_krava_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_lubry: "Form the Kingdom of Lubry" #NT!
+ migrate_to_kingdom_lubry_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_maskav: "Form the Kingdom of Maskav" #NT!
+ migrate_to_kingdom_maskav_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_mowask: "Form the Kingdom of Mowask" #NT!
+ migrate_to_kingdom_mowask_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_nrakeved: "Form the Kingdom of Nrakeved" #NT!
+ migrate_to_kingdom_nrakeved_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_parclav: "Form the Kingdom of Parclav" #NT!
+ migrate_to_kingdom_parclav_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_pdvi: "Form the Kingdom of Pdvi" #NT!
+ migrate_to_kingdom_pdvi_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_plekig: "Form the Kingdom of Plekig" #NT!
+ migrate_to_kingdom_plekig_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_poaclav: "Form the Kingdom of Poaclav" #NT!
+ migrate_to_kingdom_poaclav_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_provdanov: "Form the Kingdom of Provdanov" #NT!
+ migrate_to_kingdom_provdanov_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_sabalv: "Form the Kingdom of Sabalv" #NT!
+ migrate_to_kingdom_sabalv_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_sadak: "Form the Kingdom of Sadak" #NT!
+ migrate_to_kingdom_sadak_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_sajrag: "Form the Kingdom of Sajrag" #NT!
+ migrate_to_kingdom_sajrag_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_sakc: "Form the Kingdom of Sakc" #NT!
+ migrate_to_kingdom_sakc_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_scadav: "Form the Kingdom of Scadav" #NT!
+ migrate_to_kingdom_scadav_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_sgrad: "Form the Kingdom of Sgrad" #NT!
+ migrate_to_kingdom_sgrad_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_siktak: "Form the Kingdom of Siktak" #NT!
+ migrate_to_kingdom_siktak_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_sjaklaki: "Form the Kingdom of Sjaklaki" #NT!
+ migrate_to_kingdom_sjaklaki_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_sjas: "Form the Kingdom of Sjas" #NT!
+ migrate_to_kingdom_sjas_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_sladia: "Form the Kingdom of Sladia" #NT!
+ migrate_to_kingdom_sladia_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_slavka: "Form the Kingdom of Slavka" #NT!
+ migrate_to_kingdom_slavka_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_slavkinzi: "Form the Kingdom of Slavkinzi" #NT!
+ migrate_to_kingdom_slavkinzi_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_snalav: "Form the Kingdom of Snalav" #NT!
+ migrate_to_kingdom_snalav_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_spedk: "Form the Kingdom of Spedk" #NT!
+ migrate_to_kingdom_spedk_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_tolmat: "Form the Kingdom of Tolmat" #NT!
+ migrate_to_kingdom_tolmat_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_uvusk: "Form the Kingdom of Uvusk" #NT!
+ migrate_to_kingdom_uvusk_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_veik: "Form the Kingdom of Veik" #NT!
+ migrate_to_kingdom_veik_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_vka: "Form the Kingdom of Vakarn" #NT!
+ migrate_to_kingdom_vka_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_vlisck: "Form the Kingdom of Vlisck" #NT!
+ migrate_to_kingdom_vlisck_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_vraved: "Form the Kingdom of Vraved" #NT!
+ migrate_to_kingdom_vraved_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_vytva: "Form the Kingdom of Vytva" #NT!
+ migrate_to_kingdom_vytva_tooltip: "Migrate to Kingdom" #NT!
+ migrate_to_kingdom_wakrav: "Form the Kingdom of Wakrav" #NT!
+ migrate_to_kingdom_wakrav_tooltip: "Migrate to Kingdom" #NT!

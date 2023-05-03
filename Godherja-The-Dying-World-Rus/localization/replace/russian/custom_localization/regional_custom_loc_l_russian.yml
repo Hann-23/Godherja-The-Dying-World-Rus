@@ -1,0 +1,8 @@
+﻿l_russian:
+  #LocalAnimal 
+ animal_dragon: "[dragon|E]" #NT!
+  #LocalAnimalMultiple 
+ animal_dragons: "[dragons|E]" #NT!
+  
+  #Regional drink 
+ byzantine_cypriot: "Imperial Mytosic" #NT!

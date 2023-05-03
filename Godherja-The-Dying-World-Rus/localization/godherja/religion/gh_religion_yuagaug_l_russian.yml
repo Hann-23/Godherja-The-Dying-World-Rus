@@ -1,0 +1,67 @@
+﻿l_russian:
+  
+ #yuagaug Loc 
+ yuagaug_religion: "Shub-Yuaguag" #NT!
+ yuagaug_religion_adj: "Shub-Yuaguag" #NT!
+ yuagaug_religion_adherent: "Shub-Yuaguag" #NT!
+ yuagaug_religion_adherent_plural: "Shub-Yuaguag" #NT!
+ yuagaug_religion_desc: "The Shub-Yuaguag say that all living creatures in the world originate from one being, Yuaguag. Mother and Father to all, conceiver and deliverer, bringer of untold bounties of milk and meat, it is depicted in their artwork as a great mound of flesh, covered in multitudinous orifices and organs. Though members of other faiths dismiss it as perverted and sacreligious, the Shub-Yuaguag see their god as a thing of beauty. For what is more beautiful than that whose sole purpose is to give life to all?" #NT!
+ yuagaug_religion_high_god_name: "Yuaguag, Mother of Milk" #NT!
+ yuagaug_religion_high_god_name_possessive: "Yuaguag's" #NT!
+ yuagaug_religion_high_god_name_alternate: "The Flesh that Multiplies" #NT!
+ yuagaug_religion_high_god_name_alternate_possessive: "The Flesh's" #NT!
+ yuagaug_religion_devil_name: "$yuagaug_religion_death_deity_name$" #NT!
+ yuagaug_religion_devil_name_possessive: "$yuagaug_religion_death_deity_name_possessive$" #NT!
+ yuagaug_religion_death_deity_name: "Consumption" #NT!
+ yuagaug_religion_death_deity_name_possessive: "Consumption's" #NT!
+ yuagaug_religion_house_of_worship: "Temple" #NT!
+ yuagaug_religion_house_of_worship_plural: "Temples" #NT!
+ yuagaug_religion_religious_symbol: "The Milk of Yuaguag" #NT!
+ yuagaug_religion_religious_text: "The Laws of our Family" #NT!
+ yuagaug_religion_religious_head_title: "Master Shaman" #NT!
+ yuagaug_religion_religious_head_title_name: "Temple of Flesh" #NT!
+ yuagaug_religion_devotee_male: "Shub" #NT!
+ yuagaug_religion_devotee_male_plural: "Shub" #NT!
+ yuagaug_religion_devotee_female: "Shub" #NT!
+ yuagaug_religion_devotee_female_plural: "Shub" #NT!
+ yuagaug_religion_devotee_neuter: "Shub" #NT!
+ yuagaug_religion_devotee_neuter_plural: "Shub" #NT!
+ yuagaug_religion_priest_male: "Shaman" #NT!
+ yuagaug_religion_priest_male_plural: "Shaman" #NT!
+ yuagaug_religion_priest_female: "Shaman" #NT!
+ yuagaug_religion_priest_female_plural: "Shaman" #NT!
+ yuagaug_religion_priest_alternate_plural: "Shaman" #NT!
+ yuagaug_religion_bishop: "High Shaman" #NT!
+ yuagaug_religion_bishop_plural: "High Shaman" #NT!
+ yuagaug_religion_positive_afterlife: "Eternal Life" #NT!
+ yuagaug_religion_negative_afterlife: "Consumption" #NT!
+ yuagaug_religion_creator_god_name: "$yuagaug_religion_high_god_name$" #NT!
+ yuagaug_religion_creator_god_name_possessive: "$yuagaug_religion_high_god_name_possessive$" #NT!
+ yuagaug_religion_health_god_name: "$yuagaug_religion_high_god_name$" #NT!
+ yuagaug_religion_health_god_name_possessive: "$yuagaug_religion_high_god_name_possessive$" #NT!
+ yuagaug_religion_fertility_god_name: "$yuagaug_religion_high_god_name$" #NT!
+ yuagaug_religion_fertility_god_name_possessive: "$yuagaug_religion_high_god_name_possessive$" #NT!
+ yuagaug_religion_wealth_god_name: "$yuagaug_religion_high_god_name_alternate$" #NT!
+ yuagaug_religion_wealth_god_name_possessive: "$yuagaug_religion_high_god_name_alternate_possessive$" #NT!
+ yuagaug_religion_household_god_name: "$yuagaug_religion_high_god_name_alternate$" #NT!
+ yuagaug_religion_household_god_name_possessive: "$yuagaug_religion_high_god_name_alternate_possessive$" #NT!
+ yuagaug_religion_fate_god_name: "$yuagaug_religion_high_god_name$" #NT!
+ yuagaug_religion_fate_god_name_possessive: "$yuagaug_religion_high_god_name_possessive$" #NT!
+ yuagaug_religion_knowledge_god_name: "$yuagaug_religion_high_god_name$" #NT!
+ yuagaug_religion_knowledge_god_name_possessive: "$yuagaug_religion_high_god_name_possessive$" #NT!
+ yuagaug_religion_war_god_name: "$yuagaug_religion_high_god_name_alternate$" #NT!
+ yuagaug_religion_war_god_name_possessive: "$yuagaug_religion_high_god_name_alternate_possessive$" #NT!
+ yuagaug_religion_trickster_god_name: "The Bastard Child" #NT!
+ yuagaug_religion_trickster_god_name_possessive: "The Bastard Child's" #NT!
+ yuagaug_religion_night_god_name: "$yuagaug_religion_trickster_god_name$" #NT!
+ yuagaug_religion_night_god_name_possessive: "$yuagaug_religion_trickster_god_name_possessive$" #NT!
+ yuagaug_religion_water_god_name: "$yuagaug_religion_high_god_name_alternate$" #NT!
+ yuagaug_religion_water_god_name_possessive: "$yuagaug_religion_high_god_name_alternate_possessive$" #NT!
+ yuagaug_religion_witch_god_name: "$yuagaug_religion_fate_god_name$" #NT!
+ yuagaug_religion_witch_god_name_possessive: "$yuagaug_religion_fate_god_name_possessive$" #NT!
+ #yuagaug loc 
+ yuagaug: "Shub-Yuaguag" #NT!
+ yuagaug_adj: "Shub-Yuaguag" #NT!
+ yuagaug_adherent: "Shub-Yuaguag" #NT!
+ yuagaug_adherent_plural: "Shub-Yuaguag" #NT!
+ yuagaug_desc: "In the faith of the Shub-Yuaguag, conception and motherhood are seen as sacred acts that imitate the nature of the Mother of Milk. However, that means that women are expected to always serve as mothers and homemakers, leaving them confined to domesticity while men manage affairs outside of the home. The end result is a faith with a deep gender imbalance, where fathers have the right to even order the deaths of their wives and children for defying sacred commands." #NT!

@@ -1,0 +1,76 @@
+﻿l_russian:
+  
+ #apti Loc 
+ apti_religion: "Apti" #NT!
+ apti_religion_adj: "Apti" #NT!
+ apti_religion_adjerent: "Apti" #NT!
+ apti_religion_adherent_plural: "Apti" #NT!
+ apti_religion_desc: "According to the Apti, the god Roydammna fell into a deep slumber; the moment he closed his eyes was the first moment of the known universe. All of reality is a dream within the mind of the godhead, from the smallest of insects to the greatest so-called deity worshipped by others in the world. All the pain, strife, warfare, and suffering that occurs is the result of a stressful and uneasy sleep on Roydammna's part. In order to ascend beyond the "false form" and reunite with the Dreamer, the Apti believe that all of the universe must be understood first, so that the knowledge of one's mind equals that of Roydammna's." #NT!
+ apti_high_god_name: "Roydammna" #NT!
+ apti_high_god_name_possessive: "Roydammna" #NT!
+ apti_high_god_name_alternate: "The Dreamer" #NT!
+ apti_high_god_name_alternate_possessive: "The Dreamer's" #NT!
+ apti_devil_name: "$apti_death_deity_name$" #NT!
+ apti_devil_name_possessive: "$apti_death_deity_name_possessive$" #NT!
+ apti_death_deity_name: "Bás" #NT!
+ apti_death_deity_name_possessive: "Bás'" #NT!
+ apti_house_of_worship: "Mind Temple" #NT!
+ apti_house_of_worship_plural: "Mind Temples" #NT!
+ apti_religious_symbol: "Godhead" #NT!
+ apti_religious_text: "Dreams" #NT!
+ apti_religious_head_title: "Most-Knowing" #NT!
+ apti_religious_head_title_name: "Temple of the Mind" #NT!
+ apti_devotee_male: "Apti" #NT!
+ apti_devotee_male_plural: "Apti" #NT!
+ apti_devotee_female: "Apti" #NT!
+ apti_devotee_female_plural: "Apti" #NT!
+ apti_devotee_neuter: "Apti" #NT!
+ apti_devotee_neuter_plural: "Apti" #NT!
+ apti_priest_male: "Diviner" #NT!
+ apti_priest_male_plural: "Diviners" #NT!
+ apti_priest_female: "Diviner" #NT!
+ apti_priest_female_plural: "Diviners" #NT!
+ apti_priest_alternate_plural: "Diviner" #NT!
+ apti_bishop: "High Diviner" #NT!
+ apti_bishop_plural: "High Diviner" #NT!
+ apti_positive_afterlife: "Agbhalla" #NT!
+ apti_negative_afterlife: "Chthonia" #NT!
+ apti_creator_god_name: "$apti_high_god_name$" #NT!
+ apti_creator_god_name_possessive: "$apti_high_god_name_possessive$" #NT!
+ apti_health_god_name: "$apti_fertility_god_name$" #NT!
+ apti_health_god_name_possessive: "$apti_fertility_god_name_possessive$" #NT!
+ apti_fertility_god_name: "Slainte" #NT!
+ apti_fertility_god_name_possessive: "Slainte's" #NT!
+ apti_wealth_god_name: "Airgead" #NT!
+ apti_wealth_god_name_possessive: "Airgead's" #NT!
+ apti_household_god_name: "Teoach" #NT!
+ apti_household_god_name_possessive: "Teoach's" #NT!
+ apti_fate_god_name: "Cinniúint" #NT!
+ apti_fate_god_name_possessive: "Cinniúint's" #NT!
+ apti_knowledge_god_name: "$apti_fate_god_name$" #NT!
+ apti_knowledge_god_name_possessive: "$apti_fate_god_name_possessive$" #NT!
+ apti_war_god_name: "Cogadh" #NT!
+ apti_war_god_name_possessive: "Cogadh's" #NT!
+ apti_trickster_god_name: "Cleas" #NT!
+ apti_trickster_god_name_possessive: "Cleas'" #NT!
+ apti_night_god_name: "$apti_trickster_god_name$" #NT!
+ apti_night_god_name_possessive: "$apti_trickster_god_name$" #NT!
+ apti_water_god_name: "Uisce" #NT!
+ apti_water_god_name_possessive: "Uisce" #NT!
+ apti_witch_god_name: "$apti_fate_god_name$" #NT!
+ apti_witch_god_name_possessive: "$apti_fate_god_name_possessive$" #NT!
+  #apti loc 
+ apti: "Apti" #NT!
+ apti_adj: "Apti" #NT!
+ apti_adjerent: "Apti" #NT!
+ apti_adherent_plural: "Apti" #NT!
+ apti_desc: "The Apti were an obscure people largely overlooked by the  rest of the world until they marched south, as part of Cenware Witch-breaker's Sjalvolki confederation. The followers of the faith have no strong stance on war or [magic|E] or the [frodbrokna|E], simply seeing them as interesting conundrums that must be understood one day in order to reunite with the Dreamer. To try and stop them, let alone prevent them entirely, would be folly, for these things come from the mind of the Dreamer, and any who understand Him will have already rejoined His consciousness." #NT!
+ apti_old: "Old Apti" #NT!
+ apti_old_adj: "Old Apti" #NT!
+ apti_old_adherent: "Old Apti" #NT!
+ apti_old_adherent_plural: "Old Apti" #NT!
+ caradounars: "Caradounars" #NT!
+ caradounars_adj: "Caradounar" #NT!
+ caradounars_adherent: "Caradounar" #NT!
+ caradounars_adherent_plural: "Caradounars" #NT!
+ caradounars_desc: "Founded by the eponymous Huegodoc prophet Caradoun, the Caradounars are a much despised messianic sect which has riven the Apti faith in recent decades. Most infamous among their many and varied controversial beliefs is that the Frodbrokna was actually a holy, sacred event -  the first act in a grand cosmic becoming which will see the Dreamer begin to dream the world anew. The dreaded [fog|E] is simply the oncoming end of the dream, a vast and slowly moving tidal wave of lucidity sweeping over [aeras|E] whose arrival they must prepare the world to receive.\n\nTo call this theological turn 'controversial' would be an understatement. These teachings were considered unctuous enough that the normally heterodoxy-tolerant Apti turned upon Caradoun and his followers, capturing and impaling him and his fifty five disciples in 1211 IS." #NT!

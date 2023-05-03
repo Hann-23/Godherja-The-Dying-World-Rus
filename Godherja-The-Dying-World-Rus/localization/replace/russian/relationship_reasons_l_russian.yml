@@ -1,0 +1,3 @@
+﻿l_russian:
+ friend_let_off_the_hook: "[CHARACTER.GetShortUIName|U] let [TARGET_CHARACTER.GetShortUIName] off the hook regarding a breach of their noble contract." #NT!
+ friend_let_off_the_hook_corresponding: "[TARGET_CHARACTER.GetShortUIName|U] let [CHARACTER.GetShortUIName] off the hook regarding a breach of their noble contract." #NT!

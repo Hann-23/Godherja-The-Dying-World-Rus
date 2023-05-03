@@ -1,0 +1,19 @@
+﻿l_russian:
+ metropolis.0001.t: "Restored Glory" #NT!
+ metropolis.0001.desc: "The vast amounts of wealth, workers and time poured into the restoration of [cleared_ruins_province.GetName] has finally born fruit. The last rubble has been swept away, and the district can start from a fresh slate.\n\nAs the first permanent settlers have begun moving into the rapidly expanding, invigorated residential areas, we are left with the choice on how to specialize this new portion of the city." #NT!
+ metropolis.0001.a: "Beautiful palaces shall be the crowning jewel of the district." #NT!
+ metropolis.0001.b: "A citadel, to keep the entire city safe." #NT!
+ metropolis.0001.c: "Markets and commerce centers, the movers and shakers of civilization." #NT!
+ metropolis.0001.d: "Harbours, grand windows to the world." #NT!
+ metropolis.0001.e: "Temples and other tokens of dedication to the divine." #NT!
+ metropolis.0001.f: "No need to specialize too narrowly." #NT!
+ metropolis.0001.g: "A centre of work for our citizens." #NT!
+ metropolis.0001.a.tt: "A #E Palatial District#! will be constructed in [cleared_ruins_province.GetName]" #NT!
+ metropolis.0001.b.tt: "A #E Military District#! will be constructed in [cleared_ruins_province.GetName]" #NT!
+ metropolis.0001.c.tt: "A #E Trade District#! will be constructed in [cleared_ruins_province.GetName]" #NT!
+ metropolis.0001.d.tt: "A #E Maritime District#! will be constructed in [cleared_ruins_province.GetName]" #NT!
+ metropolis.0001.e.tt: "A #E Temple District#! will be constructed in [cleared_ruins_province.GetName]" #NT!
+ metropolis.0001.f.tt: "An #E Urban District#! will be constructed in [cleared_ruins_province.GetName]" #NT!
+ metropolis.0001.g.tt: "A #E Workshop District#! will be constructed in [cleared_ruins_province.GetName]" #NT!
+  
+ NOT_CAPITAL_COUNTY_METROPOLIS_BUILDING: "This building is only constructable (and will only function) in it's holder's capital county." #NT!

@@ -1,0 +1,73 @@
+﻿l_russian:
+  
+ #uakaklo Loc 
+ uakaklo_religion: "Uakaklo" #NT!
+ uakaklo_religion_adj: "Uakakloh" #NT!
+ uakaklo_religion_adherent: "Uakaklohan" #NT!
+ uakaklo_religion_adherent_plural: "Uakaklohans" #NT!
+ uakaklo_religion_desc: "Uakaklohan faith is a complicated series of thirty gods and thirty one demons (Tekotlaketsuetspallok being a relatively recent addition), that becomes greatly confused due to a belief that the gods can share names, possess multiple forms as different genders or species, and can regularly merge or split. Most of all, however, they worship [aervalr|E], which they claim is the eye of the creator god Tensese ('First One') who gave birth to all others and sent them to [aeras|E] while their one eye watched over humanity." #NT!
+ uakaklo_high_god_name: "Tensese" #NT!
+ uakaklo_high_god_name_possessive: "Tensese's" #NT!
+ uakaklo_high_god_name_alternate: "The First One" #NT!
+ uakaklo_high_god_name_alternate_possessive: "The First One's" #NT!
+ uakaklo_devil_name: "Tekotlaketsuetspallok" #NT!
+ uakaklo_devil_name_possessive: "Tekotlaketsuetspallok's" #NT!
+ uakaklo_death_deity_name: "Maltecuhtla" #NT!
+ uakaklo_death_deity_name_possessive: "Maltecuhtla's" #NT!
+ uakaklo_house_of_worship: "Tekall" #NT!
+ uakaklo_house_of_worship_plural: "Tekalli" #NT!
+ uakaklo_religious_symbol: "Tekall of Tensese" #NT!
+ uakaklo_religious_text: "Tales of the Sixty" #NT!
+ uakaklo_religious_head_title: "Kutak Tepixik" #NT!
+ uakaklo_religious_head_title_name: "Kutakitza Tepixikon" #NT!
+ uakaklo_devotee_male: "Tekatotl" #NT!
+ uakaklo_devotee_male_plural: "Tekatotli" #NT!
+ uakaklo_devotee_female: "Tekatotl" #NT!
+ uakaklo_devotee_female_plural: "Tekatotli" #NT!
+ uakaklo_devotee_neuter: "Tekatotl" #NT!
+ uakaklo_devotee_neuter_plural: "Tekatotli" #NT!
+ uakaklo_priest_male: "Tepixik" #NT!
+ uakaklo_priest_male_plural: "Tepixiki" #NT!
+ uakaklo_priest_female: "Tepixik" #NT!
+ uakaklo_priest_female_plural: "Tepixiki" #NT!
+ uakaklo_priest_neuter: "Tepixik" #NT!
+ uakaklo_priest_neuter_plural: "Tepixiki" #NT!
+ uakaklo_priest_alternate_plural: "Tepixikizani" #NT!
+ uakaklo_bishop: "Iknotl" #NT!
+ uakaklo_bishop_plural: "Iknotli" #NT!
+ uakaklo_positive_afterlife: "Kuatlan" #NT!
+ uakaklo_negative_afterlife: "Totoakuatlan" #NT!
+ uakaklo_creator_god_name: "$uakaklo_high_god_name$" #NT!
+ uakaklo_creator_god_name_possessive: "$uakaklo_high_god_name_possessive$" #NT!
+ uakaklo_health_god_name: "Tliyoesolotl" #NT!
+ uakaklo_health_god_name_possessive: "Tliyoesolotl's" #NT!
+ uakaklo_fertility_god_name: "Tokikua" #NT!
+ uakaklo_fertility_god_name_possessive: "Tokikua's" #NT!
+ uakaklo_wealth_god_name: "Kalikommo" #NT!
+ uakaklo_wealth_god_name_possessive: "Kalikommo's" #NT!
+ uakaklo_household_god_name: "Ktemitza" #NT!
+ uakaklo_household_god_name_possessive: "Ktemitza's" #NT!
+ uakaklo_fate_god_name: "$uakaklo_devil_name$" #NT!
+ uakaklo_fate_god_name_possessive: "$uakaklo_devil_name_possessive$" #NT!
+ uakaklo_knowledge_god_name: "Moxlach" #NT!
+ uakaklo_knowledge_god_name_possessive: "Moxlach's" #NT!
+ uakaklo_war_god_name: "Laxemaltess" #NT!
+ uakaklo_war_god_name_possessive: "Laxemaltess'" #NT!
+ uakaklo_trickster_god_name: "$uakaklo_devil_name$" #NT!
+ uakaklo_trickster_god_name_possessive: "$uakaklo_devil_name_possessive$" #NT!
+ uakaklo_night_god_name: "$uakaklo_high_god_name$" #NT!
+ uakaklo_night_god_name_possessive: "$uakaklo_high_god_name_possessive$" #NT!
+ uakaklo_water_god_name: "Cholokar" #NT!
+ uakaklo_water_god_name_possessive: "Cholokar's" #NT!
+ uakaklo_witch_god_name: "$uakaklo_death_deity_name$" #NT!
+ uakaklo_witch_god_name_possessive: "$uakaklo_death_deity_name_possessive$" #NT!
+ uakaklo: "Uakaklo" #NT!
+ uakaklo_adj: "Uakakloh" #NT!
+ uakaklo_adherent: "Uakaklohan" #NT!
+ uakaklo_adherent_plural: "Uakaklohans" #NT!
+ uakaklo_desc: "Uakaklohan faith is a complicated series of thirty gods and thirty one demons (Tekotlaketsuetspallok being a relatively recent addition), that becomes greatly confused due to a belief that the gods can share names, possess multiple forms as different genders or species, and can regularly merge or split. Most of all, however, they worship [aervalr|E], which they claim is the eye of the creator god Tensese ('First One') who gave birth to all others and sent them to [aeras|E] while their one eye watched over humanity." #NT!
+ mitikaka: "Mitikaka Tokollatitza" #NT!
+ mitikaka_adj: "Mitikaka Tokollatitzan" #NT!
+ mitikaka_adherent: "Mitikaka Tokollatitzan" #NT!
+ mitikaka_adherent_plural: "Mitikaka Tokollatitzans" #NT!
+ mitikaka_desc: "Even though practicing sacrifice has always been a way to ensure that Tensese is never alone despite his children leaving, and the Uakaklohans believing that sacrifices of the willing and prepared will let their souls join their god in the heavens to keep them company for their lonely vigil, the [frodbrokna|E] and the great damage done to [aervalr|E] was seen as apocalyptic by the Mitikaka Tokollatitzans. The death of most of the Uakaklohans' [magi|E]-Kings and their peoples further reinforced this, and Mitikaka Tokollatitzans have begun to accept that the final death of their people is an inevitability, now that even their chief god has been taken from them." #NT!

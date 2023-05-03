@@ -1,0 +1,52 @@
+﻿l_russian:
+ TRAIT_FLAG_DESC_character_monthly_magic_0_dot_1: "#E [magic|E]#!:@magic_icon!#positive_value; +0.1#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_0_dot_2: "#E [magic|E]#!:@magic_icon!#positive_value; +0.2#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_0_dot_3: "#E [magic|E]#!:@magic_icon!#positive_value; +0.3#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_0_dot_4: "#E [magic|E]#!:@magic_icon!#positive_value; +0.4#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_0_dot_5: "#E [magic|E]#!:@magic_icon!#positive_value; +0.5#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_1: "#E [magic|E]#!:@magic_icon!#positive_value; +1#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_1_dot_5: "#E [magic|E]#!:@magic_icon!#positive_value; +1.5#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_2: "#E [magic|E]#!:@magic_icon!#positive_value; +2#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_2_dot_5: "#E [magic|E]#!:@magic_icon!#positive_value; +2.5#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_3: "#E [magic|E]#!:@magic_icon!#positive_value; +3#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_3_dot_5: "#E [magic|E]#!:@magic_icon!#positive_value; +3.5#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_4: "#E [magic|E]#!:@magic_icon!#positive_value; +4#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_4_dot_5: "#E [magic|E]#!:@magic_icon!#positive_value; +4.5#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_5: "#E [magic|E]#!:@magic_icon!#positive_value; +5#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_5_dot_5: "#E [magic|E]#!:@magic_icon!#positive_value; +5.5#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_6: "#E [magic|E]#!:@magic_icon!#positive_value; +6#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_6_dot_5: "#E [magic|E]#!:@magic_icon!#positive_value; +6.5#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_7: "#E [magic|E]#!:@magic_icon!#positive_value; +7#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_7_dot_5: "#E [magic|E]#!:@magic_icon!#positive_value; +7.5#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_8: "#E [magic|E]#!:@magic_icon!#positive_value; +8#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_8_dot_5: "#E [magic|E]#!:@magic_icon!#positive_value; +8.5#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_9: "#E [magic|E]#!:@magic_icon!#positive_value; +9#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_9_dot_5: "#E [magic|E]#!:@magic_icon!#positive_value; +9.5#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_10: "#E [magic|E]#!:@magic_icon!#positive_value; +10#!#W /month#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_moon_0_dot_5: "#E [magic|E]#!:@dead_magic_icon!#positive_value; +0.5#!#W /month (affected by [aervalr|E] strength)#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_moon_1: "#E [magic|E]#!:@dead_magic_icon!#positive_value; +1#!#W /month (affected by [aervalr|E] strength)#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_moon_1_dot_5: "#E [magic|E]#!:@dead_magic_icon!#positive_value; +1.5#!#W /month (affected by [aervalr|E] strength)#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_moon_2: "#E [magic|E]#!:@dead_magic_icon!#positive_value; +2#!#W /month (affected by [aervalr|E] strength)#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_moon_2_dot_5: "#E [magic|E]#!:@dead_magic_icon!#positive_value; +2.5#!#W /month (affected by [aervalr|E] strength)#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_moon_3: "#E [magic|E]#!:@dead_magic_icon!#positive_value; +3#!#W /month (affected by [aervalr|E] strength)#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_moon_3_dot_5: "#E [magic|E]#!:@dead_magic_icon!#positive_value; +3.5#!#W /month (affected by [aervalr|E] strength)#!" #NT!
+ TRAIT_FLAG_DESC_character_monthly_magic_moon_4: "#E [magic|E]#!:@dead_magic_icon!#positive_value; +4#!#W /month (affected by [aervalr|E] strength)#!" #NT!
+ TRAIT_FLAG_DESC_character_sacrifice_magic_bonus_10: "#E [magic|E]#! #W from #!#E Sacrifices#!:@living_magic_icon!#positive_value; +10%#!" #NT!
+ TRAIT_FLAG_DESC_character_sacrifice_magic_bonus_20: "#E [magic|E]#! #W from #!#E Sacrifices#!:@living_magic_icon!#positive_value; +20%#!" #NT!
+ TRAIT_FLAG_DESC_character_sacrifice_magic_bonus_30: "#E [magic|E]#! #W from #!#E Sacrifices#!:@living_magic_icon!#positive_value; +30%#!" #NT!
+  
+ TRAIT_FLAG_DESC_character_judicial_power_5: "#E Judicial Power#!:@judicial_power_icon!#positive_value +5#!" #NT!
+ TRAIT_FLAG_DESC_character_judicial_power_10: "#E Judicial Power#!:@judicial_power_icon!#positive_value +10#!" #NT!
+ TRAIT_FLAG_DESC_character_judicial_power_15: "#E Judicial Power#!:@judicial_power_icon!#positive_value +15#!" #NT!
+ TRAIT_FLAG_DESC_character_judicial_power_20: "#E Judicial Power#!:@judicial_power_icon!#positive_value +20#!" #NT!
+ TRAIT_FLAG_DESC_character_judicial_power_25: "#E Judicial Power#!:@judicial_power_icon!#positive_value +25#!" #NT!
+ TRAIT_FLAG_DESC_character_judicial_power_factor_10: "#E Judicial Power#!:@judicial_power_icon!#positive_value +10%#!" #NT!
+ TRAIT_FLAG_DESC_character_judicial_power_factor_25: "#E Judicial Power#!:@judicial_power_icon!#positive_value +25%#!" #NT!
+ TRAIT_FLAG_DESC_character_judicial_power_factor_50: "#E Judicial Power#!:@judicial_power_icon!#positive_value +50%#!" #NT!
+ TRAIT_FLAG_DESC_character_judicial_power_factor_100: "#E Judicial Power#!:@judicial_power_icon!#positive_value +100%#!" #NT!
+ TRAIT_FLAG_DESC_character_judicial_power_factor_200: "#E Judicial Power#!:@judicial_power_icon!#positive_value +200%#!" #NT!
+ TRAIT_FLAG_DESC_can_preside_over_legal_cases: "Can preside over #E Legal Cases#!" #NT!
+ TRAIT_FLAG_DESC_can_adopt_legal_tradition: "Can adopt a #E Legal Tradition#!" #NT!
+ TRAIT_FLAG_DESC_can_not_access_magic: "Blocked from using [magic|E]" #NT!
+ TRAIT_FLAG_DESC_informs_of_impending_death: "Will know of their impending death some time in advance" #NT!
+ THIS_IS_YOU_MEGISTOS: "This is Megistos, you are Megistos, is the beauty of Megistos not wondrous?" #NT!

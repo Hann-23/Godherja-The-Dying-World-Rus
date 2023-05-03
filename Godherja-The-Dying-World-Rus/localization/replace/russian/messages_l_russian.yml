@@ -1,0 +1,3 @@
+﻿l_russian:
+ msg_vassal_feudalised: "Vassal has an Aristocrat" #NT!
+ msg_vassal_feudalised_desc: "Your vassal, [ROOT.Char.GetShortUIName], has given up [ROOT.Char.GetHerHis] tribal ways and become an aristocrat" #NT!

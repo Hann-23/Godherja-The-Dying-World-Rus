@@ -1,0 +1,1098 @@
+﻿l_russian:
+  #Lonely Note: Sort these down to faith specific subheaders for those with deviations 
+  
+  #Holy Sites: Adabyssian 
+ holy_site_dimnablah_name: "the Awakening" #NT!
+ #holy_site_dimnablah_name: "Origin of Northern Salvation" #NT!
+  #Holy Sites: Aversarianas Aagiokrata 
+ holy_site_asiupoli_name: "Asiupoli" #NT!
+ holy_site_drakavil_name: "Drakavil" #NT!
+ holy_site_kasmeze_name: "the Citadel of Kasmeze" #NT!
+ holy_site_mayikprolollan_name: "the [mayikrata|E]" #NT!
+ holy_site_oraispol_name: "Oraispol" #NT!
+ holy_site_pelinekin_name: "Home of the Warden" #NT!
+ holy_site_thebastro_name: "The Tower Watch" #NT!
+ holy_site_vounill_name: "Vounill" #NT!
+  #Holy Sites: Ethowos 
+ holy_site_tribal_shrine_name: "Tribal Shrine" #NT!
+  #Holy Sites: Kemsari 
+ holy_site_ambracia_name: "the Eastern [tower|E]" #NT!
+ holy_site_ashsimmur_name: "Ashimmur" #NT!
+ holy_site_conersc_name: "the Swamp [tower|E]" #NT!
+ holy_site_emtwys_name: "Emtwys" #NT!
+ holy_site_esmwy_name: "Dederak" #NT!
+ holy_site_haremakhet_name: "Haremakhet" #NT!
+ holy_site_kabekaman_name: "the Western [tower|E]" #NT!
+ holy_site_kanitarn_name: "Wehydka'ha" #NT!
+ holy_site_pardula_name: "Pardula" #NT!
+ holy_site_tabarrayala_name: "Tabarrayala" #NT!
+ holy_site_tarkunj_name: "Tarkunj" #NT!
+ holy_site_the_isle_tower_name: "the Eye" #NT!
+  #Holy Sites: Lifepath 
+ holy_site_arubosc_name: "the Raocourt Conclave" #NT!
+ holy_site_dyffrinloyw_name: "the Black Pass" #NT!
+ holy_site_geedern_name: "Wlanislic's Grave" #NT!
+ holy_site_peti_gisredde_name: "the Champion's Stand" #NT!
+ holy_site_peti_gisredde_salacad_name: "Ends of the World" #NT!
+ holy_site_the_crucible_name: "the Crucible" #NT!
+  #Holy Sites: Ritualism 
+ holy_site_al_hailab_name: "Sophocos" #NT!
+ holy_site_meiranzegloufeh_name: "the Great Library" #NT!
+ holy_site_shaas_mukhtan_name: "Adubin's Glory" #NT!
+ holy_site_silver_palace_name: "the Silver Palace's Remains" #NT!
+ holy_site_magaala_qaaday_name: "City of Colors" #NT!
+ holy_site_crab_fields_name: "Kaasoolo" #NT!
+  #Holy Sites: Sjalvolki 
+ holy_site_elysia_name: "the Elysian Pass" #NT!
+ holy_site_haimingerberg_name: "the Mountainwatch" #NT!
+ holy_site_oraispol_sjalvolki_name: "the Enemy's City" #NT!
+ holy_site_stymphanais_name: "Stymphanais" #NT!
+ holy_site_velostadd_name: "Velostadd" #NT!
+ holy_site_saintrest_name: "Kevelikmir" #NT!
+ holy_site_mountainport_name: "Dobirvrýh" #NT!
+  #Holy Sites: Wardenism 
+ holy_site_disuwai_name: "Western Mamur" #NT!
+ holy_site_el_qulatha_name: "Mamur of the Center" #NT!
+ holy_site_geminam_name: "Gemînam" #NT!
+ holy_site_kashalfa_name: "Far Eastern Mamur" #NT!
+ holy_site_knossos_name: "Home of Dikaynos" #NT!
+ holy_site_kudahhar_name: "Eastern Mamur" #NT!
+ holy_site_wardens_dungeon_name: "The Isle Dungeon" #NT!
+ holy_site_zabiwkhah_name: "Heathen's Tears" #NT!
+ holy_site_abddexorn_karoxos_name: "Theaserne's Temple" #NT!
+ holy_site_abddexorn_lostisle_name: "Tomb of Serethos" #NT!
+ holy_site_abdili_name: "Abdili" #NT!
+ holy_site_abirut_name: "The Ḥāseti Mekab" #NT!
+ holy_site_adabyssfort_name: "The Nāgóm Kakezihī" #NT!
+ holy_site_ahmadayah_name: "Ahmadayah" #NT!
+ holy_site_ahtatinen_name: "Ahtatinen" #NT!
+ holy_site_aiganos_name: "Aiganos" #NT!
+ holy_site_akandia_name: "Akandia" #NT!
+ holy_site_akbourabad_name: "Ahkbourabad" #NT!
+ holy_site_al_wadilah_name: "Al Wadilah" #NT!
+ holy_site_alitaponezus_name: "The Dancing Nunnery" #NT!
+ holy_site_altenklitsche_name: "Palace of the Wizard King" #NT!
+ holy_site_ambalshira: "Pethyka's Study" #NT!
+ holy_site_ambalshira_name: "Pethyka's Study" #NT!
+ holy_site_amensos_salacad_name: "Desolation Peak" #NT!
+ holy_site_andalau_name: "Andalau" #NT!
+ holy_site_ankhoalnes_salacad_name: "Ankhoalnes Gap" #NT!
+ holy_site_apti_mallilene_name: "Belfry of Crows" #NT!
+ holy_site_arsendos_name: "Arsendos" #NT!
+ holy_site_asadsar_name: "Asadar" #NT!
+ holy_site_ascension_field_name: "The Field of Ascension" #NT!
+ holy_site_asklanos_name: "Arthenax's Rest" #NT!
+ holy_site_askliraki_name: "The Farmer's Monastery" #NT!
+ holy_site_bagoron_salacad_name: "End of the World" #NT!
+ holy_site_balahatyn_name: "Balahatyn" #NT!
+ holy_site_baliyakter: "The Gates of Kashirya" #NT!
+ holy_site_baliyakter_name: "The Gates of Kashirya" #NT!
+ holy_site_baloyeh_name: "Baloyeh" #NT!
+ holy_site_bayisova_name: "Bayisova" #NT!
+ holy_site_berotuwa: "The Umbral Cove" #NT!
+ holy_site_berotuwa_name: "The Umbral Cove" #NT!
+ holy_site_bojkowitz_name: "FathersVale" #NT!
+ holy_site_buraiwf_pass_name: "Buraiwf Pass" #NT!
+ holy_site_chahbania_name: "Chahbania" #NT!
+ holy_site_charea_name: "Charea" #NT!
+ holy_site_chassora_name: "The Lychothic Spring" #NT!
+ holy_site_chomutowitz_name: "Temple to the Earth" #NT!
+ holy_site_chorosina_name: "The Effigy" #NT!
+ holy_site_churghalar_salacad_name: "The Wolfen Peak" #NT!
+ holy_site_city1_karoxos_name: "Tilsia" #NT!
+ holy_site_city1_they_name: "City of Desire" #NT!
+ holy_site_city2_karoxos_name: "Lysatrix" #NT!
+ holy_site_city2_they_name: "River of Tears" #NT!
+ holy_site_city3_karoxos_name: "Mepezairgos" #NT!
+ holy_site_city3_they_name: "Bastion of the Last" #NT!
+ holy_site_city4_they_name: "First Fallen" #NT!
+ holy_site_colowala: "Colowala" #NT!
+ holy_site_colowala_name: "Colowala" #NT!
+ holy_site_connac_name: "Connac" #NT!
+ holy_site_coria_name: "Coria" #NT!
+ holy_site_cures_name: "Cures" #NT!
+ holy_site_cyranos_name: "Cyranos" #NT!
+ holy_site_dadkhar: "Sarvat's Eternal Library" #NT!
+ holy_site_dadkhar_name: "Sarvat's Eternal Library" #NT!
+ holy_site_danaia_name: "Danaia" #NT!
+ holy_site_dattad_name: "Dattad" #NT!
+ holy_site_davoi_name: "Davoi" #NT!
+ holy_site_death_bibloseia_name: "Bibloseia's Grave" #NT!
+ holy_site_death_polas_name: "Polas' Grave" #NT!
+ holy_site_derentiede_name: "Derentiede" #NT!
+ holy_site_deris_salacad_name: "Farpeak" #NT!
+ holy_site_dethiclos_name: "The Bloodmines" #NT!
+ holy_site_duseiparacfos_salacad_name: "Meander of the Father" #NT!
+ holy_site_dutos_salacad_name: "racles of the Tamdirian Spring" #NT!
+ holy_site_emos_name: "Temple of Amithaon " #NT!
+ holy_site_emponnos_name: "Emponnos" #NT!
+ holy_site_emthemae_name: "Emthemae" #NT!
+ holy_site_erderdi_name: "The Throne-Seers" #NT!
+ holy_site_everard_tomb_name: "Tomb of Everard" #NT!
+ holy_site_faidiyah_name: "Dogena Makhim" #NT!
+ holy_site_fakkugat_name: "Fakkugat" #NT!
+ holy_site_fendikyah_name: "Fendkiyah" #NT!
+ holy_site_ferihan_name: "Ferihan" #NT!
+ holy_site_fifth_figure_seat_name: "The Fifth Seat" #NT!
+ holy_site_fifth_freed_seat_name: "Isle of the Freed" #NT!
+ holy_site_first_figure_seat_name: "The First Seat" #NT!
+ holy_site_fourth_figure_seat_name: "The Fourth Seat" #NT!
+ holy_site_gampoaha: "Mogurpa's Grave" #NT!
+ holy_site_gampoaha_name: "Mogurpa's Grave" #NT!
+ holy_site_geliene_name: "The Blooding Rocks" #NT!
+ holy_site_gharstir_name: "Gharstir" #NT!
+ holy_site_ghirrehalwajaf_name: "the University of Ghirereh-al-Wajaf" #NT!
+ holy_site_gilded_palace_name: "The Gilded Palace" #NT!
+ holy_site_gods_cup_name: "The Cup of Kasiryat" #NT!
+ holy_site_goidala: "The Tranquil Isle" #NT!
+ holy_site_goidala_name: "The Tranquil Isle" #NT!
+ holy_site_golgembria_name: "Golgembria" #NT!
+ holy_site_gomolej_name: "Gomolej" #NT!
+ holy_site_gonan_name: "Gonan" #NT!
+ holy_site_gorlowa_name: "Gorlowa" #NT!
+ holy_site_gournion_name: "The Silent Temple" #NT!
+ holy_site_gournion_salacad_name: "HornPeak" #NT!
+ holy_site_guillate_barencuir_name: "Guillate's Unity" #NT!
+ holy_site_guillate_gradiene_name: "Guillate's Glory" #NT!
+ holy_site_guillate_maniotte_name: "Guillate's Cunning" #NT!
+ holy_site_guillate_pytheceas_name: "Guillate's Skill" #NT!
+ holy_site_guillates_tomb_name: "Guillate's Rest" #NT!
+ holy_site_guizforte_name: "Guizforte" #NT!
+ holy_site_gwynavon_uchav_name: "Gwynavon Uchav" #NT!
+ holy_site_haizah_name: "Haizah" #NT!
+ holy_site_Hall_of_Nestani: "Hall of Nestani" #NT!
+ holy_site_Hall_of_Nestani_name: "Nestani's Hall" #NT!
+ holy_site_hellapeze_name: "Hellapeze" #NT!
+ holy_site_herichan_name: "Birthplace of Adar the Wise" #NT!
+ holy_site_hern_name: "Home of Eos" #NT!
+ holy_site_herzoghut_name: "Hesheh's Launch" #NT!
+ holy_site_hoekedic_salacad_name: "Astrologer's Pinnacle" #NT!
+ holy_site_hoide_name: "Hoide" #NT!
+ holy_site_holovi_salacad_name: "Shield of Mugtharna" #NT!
+ holy_site_home_bibloseia_name: "Bibloseia's Birthplace" #NT!
+ holy_site_home_eagle_name: "Isle of Mourning" #NT!
+ holy_site_home_favoured_name: "Circle of Heroes" #NT!
+ holy_site_home_karoxos_name: "Isle of Karoxos" #NT!
+ holy_site_hora_name: "Monk's Pillar" #NT!
+ holy_site_house_of_ohrasik: "House of Ohrasik" #NT!
+ holy_site_house_of_ohrasik_name: "House of Ohrasik" #NT!
+ holy_site_ifralimane_name: "Ifralimane" #NT!
+ holy_site_igadde_name: "Dogena Nubu" #NT!
+ holy_site_inangodra: "The Citadel of Ascension" #NT!
+ holy_site_inangodra_name: "The Citadel of Ascension" #NT!
+ holy_site_inbe_name: "Inbe" #NT!
+ holy_site_ithi_name: "Home of Thysia" #NT!
+ holy_site_jagdhase_name: "Jagdhase" #NT!
+ holy_site_jaroslavice_name: "SilverPeak" #NT!
+ holy_site_jasime_name: "Jasime" #NT!
+ holy_site_jasimeh_name: "Jasimeh" #NT!
+ holy_site_jomnei_name: "Site of the First Vision" #NT!
+ holy_site_jowband_name: "Birthplace of the Prophet" #NT!
+ holy_site_kameirigus_name: "Kameirigus" #NT!
+ holy_site_kanice_name: "Kanice" #NT!
+ holy_site_kesniathopia_name: "The Restored Library" #NT!
+ holy_site_ketruna: "Ketruna" #NT!
+ holy_site_ketruna_name: "Ketruna - The Last Colony" #NT!
+ holy_site_kheiron_name: "The Drilling Monks" #NT!
+ holy_site_khokah_name: "Khokah" #NT!
+ holy_site_khoraneh_name: "Khoraneh" #NT!
+ holy_site_kilahijan_name: "The Irōchi Damotada" #NT!
+ holy_site_kinniyirai: "Kinniyirai" #NT!
+ holy_site_kinniyirai_name: "Kinniyirai - The Eastern Colony" #NT!
+ holy_site_kirvin_name: "Kirvin" #NT!
+ holy_site_kishagret: "Paerasjatan's Spire" #NT!
+ holy_site_kishagret_name: "Paerasjatan's Spire" #NT!
+ holy_site_kolonawaulla: "Kolonawaulla" #NT!
+ holy_site_kolonawaulla_name: "Kolonawaulla" #NT!
+ holy_site_koperkanger_name: "Temple of Songs" #NT!
+ holy_site_kosios_name: "Kosios" #NT!
+ holy_site_kyje_name: "Cavern of Songs" #NT!
+ holy_site_lapithymna_salacad_name: "Dragon Oracles of the Drakesmount" #NT!
+ holy_site_laractus_salacad_name: "Pass of the Saints" #NT!
+ holy_site_lassidos_name: "Pyromancer-Seers at Yrrl Bynt" #NT!
+ holy_site_last_karoxos_name: "The Last Sighting" #NT!
+ holy_site_laviec_name: "Laviec" #NT!
+ holy_site_leios_name: "Grove of Ordammu" #NT!
+ holy_site_lekos_name: "Lekos" #NT!
+ holy_site_liberation_isle_name: "The Isle of Liberation" #NT!
+ holy_site_lobeditz_name: "Lobeditz" #NT!
+ holy_site_looh_name: "Lorbael's Rock" #NT!
+ holy_site_makcji_name: "Masswyf Great Tree" #NT!
+ holy_site_mallilene_name: "Ashen Copse" #NT!
+ holy_site_manteira: "Manteira" #NT!
+ holy_site_manteira_name: "Manteira - The Navigator's Colony" #NT!
+ holy_site_matras: "Matras" #NT!
+ holy_site_matras_name: "Temple of Coryqet" #NT!
+ holy_site_medihat_name: "Medihat" #NT!
+ holy_site_megapeze_name: "Megapeze" #NT!
+ holy_site_mesbadh_name: "the Buried Temple" #NT!
+ holy_site_mesiri_name: "Gortippi" #NT!
+ holy_site_messis_name: "The Aversarian Chapel" #NT!
+ holy_site_messonae_name: "The Strivers Monastery" #NT!
+ holy_site_mezbir_name: "Mezbir" #NT!
+ holy_site_mezous_name: "Mezous Monks of Militancy" #NT!
+ holy_site_midaq_name: "Midaq" #NT!
+ holy_site_milymna_salacad_name: "Mountain of Shrines" #NT!
+ holy_site_mishkush_fortress_name: "Mishkush's Peaks" #NT!
+ holy_site_mororee_salacad_name: "The Forest of Parrots" #NT!
+ holy_site_myrespiae_name: "Myrespiae" #NT!
+ holy_site_neathon_salacad_name: "Foot of the Saintmounts" #NT!
+ holy_site_neuluckow_name: "The MarrowField" #NT!
+ holy_site_nines_name: "The School of Words" #NT!
+ holy_site_nynthus_name: "Nynthus" #NT!
+ holy_site_olbos_name: "Olbos" #NT!
+ holy_site_olismyrna_salacad_name: "Mothers Cup" #NT!
+ holy_site_orios_name: "Orios" #NT!
+ holy_site_otodauti_name: "Otodauti" #NT!
+ holy_site_palinia_salacad_name: "Shrines at Sidalos" #NT!
+ holy_site_pekwarde_name: "Pekwarde" #NT!
+ holy_site_phanarina_salacad_name: "Highland Oracular Mount" #NT!
+ holy_site_philantros_name: "Home of Philantros" #NT!
+ holy_site_posinda_name: "Temple at the Stanax Rocks" #NT!
+ holy_site_potale_salacad_name: "Silent Sisters" #NT!
+ holy_site_prailing_name: "Skymother's Spear" #NT!
+ holy_site_prefallias_name: "Prefallias" #NT!
+ holy_site_progora_name: "Progora" #NT!
+ holy_site_provincedorsec_salacad_name: "The Wolfen Peak" #NT!
+ holy_site_pythria_name: "Pythria" #NT!
+ holy_site_radvanice_name: "Radvanice" #NT!
+ holy_site_rafhamah_pass_name: "Rafhamah Pass" #NT!
+ holy_site_rhamnamnus_name: "Home of Sansia" #NT!
+ holy_site_rhamnythrae_salacad_name: "Saint's Peak" #NT!
+ holy_site_rhedola_name: "Rhedola" #NT!
+ holy_site_rhemae_name: "Rhemae" #NT!
+ holy_site_ridaqbanah_name: "Ridaqbanah" #NT!
+ holy_site_rizonnos_name: "Home of Kathar" #NT!
+ holy_site_roodt_name: "Dreamer's Cave" #NT!
+ holy_site_rozalie_name: "Rozalie" #NT!
+ holy_site_sacreinux_name: "Sacreinux" #NT!
+ holy_site_saidal_name: "Saidal" #NT!
+ holy_site_sainhad_name: "Kashirya Riverboat Monks" #NT!
+ holy_site_sakamim_name: "Sakamim" #NT!
+ holy_site_sautono_home_name: "Sautono's Home" #NT!
+ holy_site_seat_of_abathon_name: "Seat of Abathon" #NT!
+ holy_site_second_figure_seat_name: "The Second Seat" #NT!
+ holy_site_selous_name: "Selous" #NT!
+ holy_site_semaion_name: "Home of Calysto" #NT!
+ holy_site_sexi_name: "Sexi" #NT!
+ holy_site_sheitalun_name: "Sheitalun" #NT!
+ holy_site_sheybeh_name: "Sheybeh" #NT!
+ holy_site_shibidah_name: "Edemera Kinidibi" #NT!
+ holy_site_sidalos_salacad_name: "Twindaughters Peaks" #NT!
+ holy_site_sitissos_name: "The Island of Dogs" #NT!
+ holy_site_smyrnynthus_salacad_name: "Mount Tharamide" #NT!
+ holy_site_soems_salacad_name: "Bastione Rock Temple" #NT!
+ holy_site_sorveue_name: "Sorveue" #NT!
+ holy_site_sorveue_salacad_name: "Holy Peak" #NT!
+ holy_site_southern_mamur_name: "Southern Mamur" #NT!
+ holy_site_statfjord_name: "Statfjord" #NT!
+ holy_site_stone_battle: "Stone Battle" #NT!
+ holy_site_stone_battle_name: "Stone Battle" #NT!
+ holy_site_stymphasae_name: "The Dancing Nunnery" #NT!
+ holy_site_sulamaniyah_name: "The Watchers" #NT!
+ holy_site_sybaris_name: "The Dancing Nunnery" #NT!
+ holy_site_sybaris_salacad_name: "Southern Holy Peak" #NT!
+ holy_site_taknis_name: "Taknis" #NT!
+ holy_site_tallqush_name: "Dul Kematinngir" #NT!
+ holy_site_taougane_name: "Taougane" #NT!
+ holy_site_taragard_name: "The Underdock Monastery" #NT!
+ holy_site_tarhannu_gift_name: "Tarhannu's Gift" #NT!
+ holy_site_tarheis_name: "Bastione Peak" #NT!
+ holy_site_tarsana_peaks_name: "Tarsana Peaks" #NT!
+ holy_site_tchouran_name: "the Holy Capital" #NT!
+ holy_site_tenbeg_name: "Tenbeg" #NT!
+ holy_site_The_Crest_of_Pleimao: "The Crest of Pleimao" #NT!
+ holy_site_The_Crest_of_Pleimao_name: "The Crest of Pleimao" #NT!
+ holy_site_the_emptying_name: "The Emptying" #NT!
+ holy_site_the_far_shore_name: "the Farthest Bank" #NT!
+ holy_site_The_Field_of_the_Golden_Feast: "The Field of the Golden Feast" #NT!
+ holy_site_The_Field_of_the_Golden_Feast_name: "The Field of the Golden Feast" #NT!
+ holy_site_The_Fire_Gate: "The Fire Gate" #NT!
+ holy_site_The_Fire_Gate_name: "The Fire Gate" #NT!
+ holy_site_the_fork_name: "The Branching" #NT!
+ holy_site_The_Hand_of_Aruvas: "The Hand of Aruvas" #NT!
+ holy_site_The_Hand_of_Aruvas_name: "The Hand of Aruvas" #NT!
+ holy_site_The_Hill_of_the_Golden_Saint: "The Hill of the Golden Saint" #NT!
+ holy_site_The_Hill_of_the_Golden_Saint_name: "The Hill of the Golden Saint" #NT!
+ holy_site_the_holy_precinct_name: "The Holy Precincts" #NT!
+ holy_site_The_Hunting_Ground: "The Hunting Ground" #NT!
+ holy_site_The_Hunting_Ground_name: "The Hunting Ground" #NT!
+ holy_site_the_light_wall: "The Light Wall" #NT!
+ holy_site_the_light_wall_name: "The Light Wall" #NT!
+ holy_site_the_neck_name: "The Neck of Kasiryat" #NT!
+ holy_site_The_Nest: "The Nest" #NT!
+ holy_site_The_Nest_name: "The Nest" #NT!
+ holy_site_The_Palace_of_Shy'ata: "The Palace of Shy'ata" #NT!
+ holy_site_The_Palace_of_Shy'ata_name: "The Palace of Shy'ata" #NT!
+ holy_site_The_Perch: "The Perch" #NT!
+ holy_site_The_Perch_name: "The Perch" #NT!
+ holy_site_The_Pit_of_Lilac_Flames: "The Pit of Lilac Flames" #NT!
+ holy_site_The_Pit_of_Lilac_Flames_name: "The Pit of Lilac Flames" #NT!
+ holy_site_The_River_of_Revelations: "The River of Revelations" #NT!
+ holy_site_The_River_of_Revelations_name: "The River of Revelations" #NT!
+ holy_site_The_Source_of_the_Song: "The Source of the Song" #NT!
+ holy_site_The_Source_of_the_Song_name: "The Source of the Song" #NT!
+ holy_site_The_Tomb_of_the_Ten_Prophets: "The Tomb of the Ten Prophets" #NT!
+ holy_site_The_Tomb_of_the_Ten_Prophets_name: "The Tomb of the Ten Prophets" #NT!
+ holy_site_thenamara: "Thenamara" #NT!
+ holy_site_thenamara_name: "Thenamara" #NT!
+ holy_site_thesalax: "Thesalax" #NT!
+ holy_site_thesalax_name: "Mount Thesalax" #NT!
+ holy_site_third_figure_seat_name: "The Third Seat" #NT!
+ holy_site_thuwacca_name: "Thuwacca" #NT!
+ holy_site_tillyes_name: "Tillyes" #NT!
+ holy_site_tinitida_name: "The Monastery of Bells" #NT!
+ holy_site_tomb_of_suns: "Tomb of suns" #NT!
+ holy_site_tomb_of_suns_name: "Tomb of Suns" #NT!
+ holy_site_towersight_cave_name: "The Cave of Towersight" #NT!
+ holy_site_toweux_name: "Toweux" #NT!
+ holy_site_trinion_name: "The Scribe's Temple" #NT!
+ holy_site_tseuka_tower_name: "Tower of Tšuek'a" #NT!
+ holy_site_tulsos_name: "Tulsos" #NT!
+ holy_site_ujaudat: "Ujaudat" #NT!
+ holy_site_ujaudat_name: "Ujaudat" #NT!
+ holy_site_ultos_salacad_name: "Hawkshrines of Ultos" #NT!
+ holy_site_unglinghausen_name: "Unglinghousen" #NT!
+ holy_site_utepode_name: "Utepode" #NT!
+ holy_site_vagnborg_salacad_name: "Northern Holy Peak" #NT!
+ holy_site_valapuiwan: "Valapuiwan" #NT!
+ holy_site_valapuiwan_name: "Valapuiwan" #NT!
+ holy_site_vaselea_name: "Vaselea" #NT!
+ holy_site_vasestias: "Vasestias" #NT!
+ holy_site_vasestias_name: "Vasestias - The Jeweled Colony" #NT!
+ holy_site_verheid_salacad_name: "Starscryer's Rock" #NT!
+ holy_site_vihoj_name: "Vihoj" #NT!
+ holy_site_wahlhousen_name: "Wahlhousen" #NT!
+ holy_site_wintgard_name: "Wintgard" #NT!
+ holy_site_yarincourt_name: "Yarincourt" #NT!
+ holy_site_zacoe_name: "Zacoe" #NT!
+ holy_site_zaex_name: "Zaex" #NT!
+ holy_site_zahali_name: "The Tabik Bētemisīt" #NT!
+ holy_site_zainice_name: "Temple of the Green Knights" #NT!
+ holy_site_zarrishtar_name: "Zarrishtar" #NT!
+ holy_site_zartta: "Zartta" #NT!
+ holy_site_zartta_name: "Old Ialyrian" #NT!
+ holy_site_zdiarna_name: "Swyesh's Feast" #NT!
+ holy_site_bitterwave_rift_name: "Tagognth's Rift" #NT!
+ holy_site_bitterwave_first_name: "Isle of the First Herald" #NT!
+ holy_site_bitterwave_fifth_name: "Grave of the Fifth Herald" #NT!
+ holy_site_bitterwave_lost_name: "Isle of the Lost Herald" #NT!
+ holy_site_bitterwave_gaze_name: "Tagognth's Gaze" #NT!
+ holy_site_bitterwave_eyes_name: "Shrine of Endless Eyes" #NT!
+ holy_site_h_den_teriatrixx_name: "Den Tériatrixx" #NT!
+ holy_site_h_mothaclotte_name: "Mothaclotte" #NT!
+ holy_site_h_de_illiterat_name: "De Illiterat" #NT!
+ holy_site_h_maniotte_name: "Maniotte" #NT!
+ holy_site_h_pytheceas_name: "Pytheceas" #NT!
+ holy_site_blessing_abathon_name: "Abathon's Blessing" #NT!
+ holy_site_triumph_abathon_name: "Abathon's Triumph" #NT!
+ holy_site_temple_of_abathon_name: "Temple of Abathon" #NT!
+ holy_site_isle_of_cleansing_name: "Temple of the Pure" #NT!
+ holy_site_cleanse_fraternity_name: "Academy of the Lost" #NT!
+ holy_site_cleanse_mountain_name: "Falsehood's End" #NT!
+ holy_site_cleanse_imperial_name: "City of Lost Purity" #NT!
+ holy_site_hierdein_name: "Ssyal Rocks" #NT!
+ holy_site_astassus_name: "Stagenmorn Temples" #NT!
+ holy_site_sveti_andraz_name: "Sveity Rog" #NT!
+ holy_site_haiden_name: "Tasowyyl Great Tree" #NT!
+ holy_site_sikkios_name: "Deathsworn Hero's Fall" #NT!
+ holy_site_syreidonia_name: "Kardwen's Bowls" #NT!
+ holy_site_messiopolis_name: "City of Golden Feast" #NT!
+ holy_site_asserma_name: "Titan's Grip" #NT!
+ holy_site_ascos_name: "Kardwen's Cleft" #NT!
+ holy_site_cordes_name: "Cordes" #NT!
+ holy_site_prienoupoli_name: "Cord-Seers at Tassilo" #NT!
+ holy_site_hierena_name: "Necromancer-Seers at Ulgwyll" #NT!
+ holy_site_seolympdi_name: "The Hero Stone" #NT!
+ holy_site_biliae_name: "Grave of the Deathsworn Hero" #NT!
+ holy_site_rhamnythrae_name: "Standing Stones at Rheth" #NT!
+ holy_site_nysion_name: "The Hanging Tree" #NT!
+ holy_site_maeronpoli_name: "The Reborn City" #NT!
+ holy_site_karrosisles_1cc_name: "Blind Seers of the Deep" #NT!
+ holy_site_aversoth_name: "Caverns of the Librarians" #NT!
+ holy_site_aenssox_name: "Pillar-Preachers of Staphox" #NT!
+ holy_site_maxxedion_name: "The Miracle at Ashbaw" #NT!
+ holy_site_thassomenion_name: "The Standing Tree" #NT!
+ holy_site_eternalgrove_name: "The Eternal Grove" #NT!
+  #Holy Sites: Astilik 
+ holy_site_bayatar_name: "the Sanctuary of Elonida" #NT!
+ holy_site_soporna_name: "the Great Makham Of Irradu" #NT!
+ holy_site_hongoay_name: "the Öltenic Tower" #NT!
+  #Holy sites: Redland Cults 
+ holy_site_iznid_name: "the Dreaming City" #NT!
+ holy_site_dirrahhh_name: "Trzzar's Gullet" #NT!
+ holy_site_krn_name: "the Pits of Krn" #NT!
+ holy_site_jett_name: "the Phasymian Abyss" #NT!
+ holy_site_kraggada_name: "The Gateway" #NT!
+ holy_site_karthosx_name: "Karthosx" #NT!
+ holy_site_kharbyl_name: "the Kharbylic River" #NT!
+  #Holy Sites: Zaragett 
+ holy_site_ahatarr_name: "Seamother's Bay" #NT!
+ holy_site_ranthios_name: "Arggosu's Fist" #NT!
+ holy_site_odersae_name: "Odrozean Reef" #NT!
+  #Holy Sites: Sunarwei 
+ holy_site_zamynod_name: "the First Shard" #NT!
+ holy_site_vindamai_name: "Kumhant's Grove" #NT!
+ holy_site_heparthox_name: "Heparthox" #NT!
+ holy_site_tseteretii_name: "the Furthest Shard" #NT!
+  #Holy Sites: Kyaali 
+ holy_site_lizard_nest_name: "the Lizard Nest" #NT!
+ holy_site_living_isle_name: "the Living Isle" #NT!
+ holy_site_adversary_end_name: "Adversary's End" #NT!
+ holy_site_spiritmarsh_name: "the Spiritmarsh" #NT!
+  #Holy Sites: Orgarrd 
+ holy_site_lachish_name: "the Vaults of Lachish" #NT!
+ holy_site_pazost_name: "Pazost Highlands" #NT!
+ holy_site_grybara_name: "the Worldwomb" #NT!
+  #Holy Sites: Mahrator 
+ holy_site_hongovi_name: "Utaked-deni" #NT!
+  #Holy Sites: Xaxbaxakanax 
+ holy_site_oni_name: "Kzz'bakka'ayzz" #NT!
+ holy_site_ochmati_name: "Ybax'balaxa" #NT!
+  #Holy Sites: Anti-imperrech 
+ holy_site_ninostaqaro_name: "the Marble City" #NT!
+ holy_site_mendvo_name: "Peaceful Shores" #NT!
+  #Religion Families 
+ gh_rf_aversarian: "Aversarian" #NT!
+ gh_rf_continental: "Continental" #NT!
+ gh_rf_religious_isolate: "Religious Isolate" #NT!
+ gh_marcher: "Marcher" #NT!
+ gh_aironoian: "Aironoian" #NT!
+  ############# 
+  # Doctrines # 
+  #Doctrines: Slavery 
+ doctrine_slavery_name: "Slavery" #NT!
+ doctrine_slavery_demanded_name: "Mandatory" #NT!
+ doctrine_slavery_demanded_desc: "Slavery is seen as a virtue by scripture, and to be against the ownership of man is sinful." #NT!
+ doctrine_slavery_encouraged_name: "Encouraged" #NT!
+ doctrine_slavery_encouraged_desc: "While not completely demanded, pious rulers are encouraged to own slaves." #NT!
+ doctrine_slavery_neutral_name: "Neutral" #NT!
+ doctrine_slavery_neutral_desc: "The faith does not have any particular view on the ownership of slaves." #NT!
+ doctrine_slavery_discouraged_name: "Discouraged" #NT!
+ doctrine_slavery_discouraged_desc: "While not banned, slavery is seen as sinful." #NT!
+ doctrine_slavery_banned_name: "No Slavery" #NT!
+ doctrine_slavery_banned_desc: "To own another person is truly evil, and is strictly banned by the faithful." #NT!
+  #Doctrines: Magic 
+ doctrine_magic_name: "[magic|E]" #NT!
+ doctrine_magic_crime_name: "[magic|E] Criminalized" #NT!
+ doctrine_magic_crime_desc: "Those with the gift are too dangerous to be allowed to live." #NT!
+ doctrine_magic_shunned_name: "[magic|E] Shunned" #NT!
+ doctrine_magic_shunned_desc: "Those with the gift are useful, but ought to be kept at arm's length." #NT!
+ doctrine_magic_accepted_name: "[magic|E] Accepted" #NT!
+ doctrine_magic_accepted_desc: "The gift is nothing to be ashamed of." #NT!
+ doctrine_magic_honored_name: "[magic|E] Honored" #NT!
+ doctrine_magic_honored_desc: "The gift and its users are to be honored in our society." #NT!
+ doctrine_magic_supremacy_name: "[magic|E] Supremacy" #NT!
+ doctrine_magic_supremacy_desc: "Those with the gift are naturally superior to those without." #NT!
+  ##################### 
+  # Special Doctrines # 
+  #Special Doctrines: Agionism 
+ special_doctrine_agionist_order_cooperation_corrupt_desc: "Our faith stands united with our fellow Agionist Orders as we bring the light of the Saints to the Sarradonian heathens." #NT!
+ special_doctrine_agionist_order_cooperation_corrupt_name: "The Saints' Crusade" #NT!
+ agionist_order_cooperation_corrupt_name: "The Saints' Crusade" #NT!
+ agionist_faith_name: "Has the Agionist faith" #NT!
+ forgotten_faith_doctrine_name: "Forgotten Faith Doctrine" #NT!
+ forgotten_faith_doctrine_desc: "Practices the Forgotten Faith" #NT!
+ eight_faith_doctrine_name: "Octarian Agionism Doctrine" #NT!
+ eight_faith_doctrine_desc: "Practices Octarian Agionism" #NT!
+ saint_faith_doctrine_name: "Saint Faith Doctrine" #NT!
+ saint_faith_doctrine_desc: "Practices Diksansynism" #NT!
+ seven_faith_doctrine_name: "Seven Faith Doctrine" #NT!
+ seven_faith_doctrine_desc: "Practices Septarian Agionism" #NT!
+ special_doctrine_is_agionism_faith_desc: "Whatever our differences, our faith belongs to the Agionist family and they are our kin." #NT!
+ special_doctrine_is_agionism_faith_name: "Followers of the Saints" #NT!
+ is_agionism_faith_name: "Has the Agionist faith" #NT!
+  #Special Doctrines: Alau Koev 
+ alau_koev_hostility_name: "Alau Koev" #NT!
+ special_doctrine_alau_koev_hostility_desc: "We were all brought to the [fire_gate|E] together, no matter what we now believe. We must unite against those that would deny our sacred flame, not quibble as the cold takes hold across the world." #NT!
+ special_doctrine_alau_koev_hostility_name: "Those Bound by Flame" #NT!
+ special_doctrine_is_alau_koev_faith_desc: "Whatever our differences, our faith belongs to the Alau Koevac family and they are our kin." #NT!
+ special_doctrine_is_alau_koev_faith_name: "Keepers of the Fire Gate" #NT!
+ is_alau_koev_faith_name: "Has the Alau Koev faith" #NT!
+  #Special Doctrines: Amsari 
+ special_doctrine_is_amsari_faith_desc: "Whatever our differences, our faith belongs to the Amsari family and they are our kin." #NT!
+ special_doctrine_is_amsari_faith_name: "Children of Zaoran" #NT!
+ is_amsari_faith_name: "Has the Amsari faith" #NT!
+  #Special Doctrines: Arnazni 
+ arnazni_hostility_name: "Arnazni" #NT!
+ special_doctrine_arnazni_hostility_desc: "We are all brothers under Arnaz and Parnaz, the children of Amaghea. We all have our ways of worshipping the gods, and all are legitimate." #NT!
+ special_doctrine_arnazni_hostility_name: "Sons of Arnaz" #NT!
+ special_doctrine_is_arnazni_faith_desc: "Whatever our differences, our faith belongs to the Arnazni family and they are our kin." #NT!
+ special_doctrine_is_arnazni_faith_name: "Children of Arnaz" #NT!
+ is_arnazni_faith_name: "Has the Arnazni faith" #NT!
+  #Special Doctrines: Aruvasue 
+ special_doctrine_is_aruvasue_faith_desc: "Whatever our differences, our faith belongs to the Aruvasuen family and they are our kin." #NT!
+ special_doctrine_is_aruvasue_faith_name: "Chosen of the Moon-Sun-King" #NT!
+ is_aruvasue_faith_name: "Has the Aruvasue faith" #NT!
+  #Special Doctrines: Aversarian 
+ special_doctrine_is_aversarian_faith_desc: "Whatever our differences, our faith belongs to the Aversarian family and they are our kin." #NT!
+ special_doctrine_is_aversarian_faith_name: "Among the Pure" #NT!
+ is_aversarian_faith_name: "Has the Aversarian faith" #NT!
+  #Special Doctrines: Bekashai 
+ bekashai_hostility_name: "Bekashai" #NT!
+ special_doctrine_bekashai_hostility_desc: "Long ago, foreigners destroyed our heaven, and He Who Was Most High, our divine guardian and protector, was slain. Our mission, our purpose, is singular and paramount. We exist to make the Temple-Burners pay for their crimes, to finally exact vengeance for the ancient tragedy." #NT!
+ special_doctrine_bekashai_hostility_name: "Soldiers of the Dead God" #NT!
+  #Special Doctrines: Graveright 
+ special_doctrine_is_graveright_faith_desc: "Whatever our differences, our faith belongs to the Mrógiłprano family and they are our kin." #NT!
+ special_doctrine_is_graveright_faith_name: "Within the Mrógiłprano Faith" #NT!
+ graveright_faith_name: "Within the Mrógiłprano Faith" #NT!
+ is_graveright_faith_name: "Has the Graveright Faith" #NT!
+  #Special Doctrines: Kemsari 
+ special_doctrine_is_kemsar_faith_desc: "Whatever our differences, our faith belongs to the Kemsari family and they are our kin." #NT!
+ special_doctrine_is_kemsar_faith_name: "Children of Iteru and Iah" #NT!
+ is_kemsar_faith_name: "Has the Kemsari faith" #NT!
+  #Special Doctrines: Iyrossi 
+ special_doctrine_is_iyrossi_faith_desc: "Whatever our differences, our faith belongs to the Iyrossi family and they are our kin." #NT!
+ special_doctrine_is_iyrossi_faith_name: "Followers of the Divine Law" #NT!
+ is_iyrossi_faith_name: "Has the Iyrossi faith" #NT!
+  #Special Doctrines: Izaerto Bosar 
+ special_doctrine_is_izaerto_bosar_faith_desc: "Whatever our differences, our faith belongs to the Izáerto Bošáren family and they are our kin." #NT!
+ special_doctrine_is_izaerto_bosar_faith_name: "Followers of the Feathered One" #NT!
+ is_izaerto_bosar_faith_name: "Has the Izaerto Bosar faith" #NT!
+  #Special Doctrines: Mahrator 
+ special_doctrine_is_mahrator_faith_desc: "Whatever our differences, our faith belongs to the Mahratoran family and they are our kin." #NT!
+ special_doctrine_is_mahrator_faith_name: "Servants of Kaegan" #NT!
+ is_mahrator_faith_name: "Has the Mahrator faith" #NT!
+  #Special Doctrines: Manat 
+ special_doctrine_is_manats_faith_desc: "Whatever our differences, our faith belongs to the Manat family and they are our kin." #NT!
+ special_doctrine_is_manats_faith_name: "Followers of the Sacred Texts" #NT!
+ is_manats_faith_name: "Has the Manat faith" #NT!
+  #Special Doctrines: Marefai 
+ marefai_hostility_name: "Marefai" #NT!
+ special_doctrine_marefai_hostility_desc: "The Hymns of Heaven, the ancient songs that have been sung since the beginning of time, are vague at places. And while others might cling to their version of the story, we allow all to choose. The Most High gave us the ability to interpret His sacred decrees, and it is beyond the purview of any mortal to tell another that their interpretation is false." #NT!
+ special_doctrine_marefai_hostility_name: "Singers of His Ancient Hymns" #NT!
+  #Special Doctrines: Marcher 
+ special_doctrine_is_marcher_faith_desc: "Whatever our differences, our faith belongs to the Marcher family and they are our kin." #NT!
+ special_doctrine_is_marcher_faith_name: "Within the Marcher Faith" #NT!
+ is_marcher_faith_name: "Has the Life Path faith" #NT!
+ marcher_faith_name: "Has the Life Path faith" #NT!
+ marcher_faith_doctrine_name: "Marcher Faith Doctrine" #NT!
+ marcher_faith_doctrine_desc: "Practices the Marcher Faith" #NT!
+  #Special Doctrines: Mogowai 
+ mogowai_hostility_name: "Mogowai" #NT!
+ special_doctrine_mogowai_hostility_desc: "We are tasked with a grand mission from the divine, to locate His corpse, that He might rise again. All other faiths, whatever they might preach, are merely obstacles, who have turned their followers away from the Great Search in pursuit of their own, petty, goals." #NT!
+ special_doctrine_mogowai_hostility_name: "Sole True Searchers" #NT!
+  #Special Doctrines: Mokmanur 
+ mokmanur_hostility_name: "Mokmanur" #NT!
+ special_doctrine_mokmanur_hostility_desc: "It is not Pleimao who wishes our return, but the Cold Father Khel Tvi. We must spread the truth of this revelation, saving our people from their own heresy and destroying all heathens." #NT!
+ special_doctrine_mokmanur_hostility_name: "Friends of the Cold" #NT!
+  #Special Doctrines: Nitsafai 
+ nitsafai_hostility_name: "Nitsafai" #NT!
+ special_doctrine_nitsafai_hostility_desc: "The supposed followers of He Who Was Most High stand as insults to everything He wanted. They revel in gluttonous corruption, from the lowliest Siiret to the highest Aminet. All, that is, save us. While others mock His virtues, we stand true to them. For though He is dead, His spirit is still with us, and we shall ever tread beneath His light." #NT!
+ special_doctrine_nitsafai_hostility_name: "Bastion of Piety" #NT!
+  #Special Doctrines: Öltenic 
+ special_doctrine_is_oltenic_faith_desc: "Whatever our differences, our faith belongs to the Öltenic family and they are our kin." #NT!
+ special_doctrine_is_oltenic_faith_name: "The Masked" #NT!
+ is_oltenic_faith_name: "Has the Öltenic faith" #NT!
+  #Special Doctrines: Partic 
+ special_doctrine_is_partic_faith_desc: "Whatever our differences, our faith belongs to the Partic family and they are our kin." #NT!
+ special_doctrine_is_partic_faith_name: "Followers of Serfli" #NT!
+ is_partic_faith_name: "Has the Partic faith" #NT!
+  #Special Doctrines: Ritualist 
+ special_doctrine_is_ritualist_faith_desc: "Whatever our differences, our faith is just one among a dizzying number of Ritualist sects, and they are our kin... for whatever that is worth." #NT!
+ special_doctrine_is_ritualist_faith_name: "Walkers of the 1,001 Steps" #NT!
+ is_ritualist_faith_name: "Has the Ritualist faith" #NT!
+  #Special Doctrines: Sheharddi 
+ special_doctrine_is_sheharddi_faith_desc: "Whatever our differences, our faith belongs to the Sheharddic family and they are our kin." #NT!
+ special_doctrine_is_sheharddi_faith_name: "Followers of Eloi" #NT!
+ is_sheharddi_faith_name: "Has the Sheharddic faith" #NT!
+  #Special Doctrines: Shyatan 
+ special_doctrine_is_shyatan_faith_desc: "Whatever our differences, our faith belongs to the Shy'atanic family and they are our kin." #NT!
+ special_doctrine_is_shyatan_faith_name: "Masters of Time" #NT!
+ is_shyatan_faith_name: "Has the Shyatan faith" #NT!
+  #Special Doctrines: Sjalvolki 
+ special_doctrine_is_sjalvolki_faith_desc: "Whatever our differences, our faith belongs to the Sjalvolki family and they are our kin." #NT!
+ special_doctrine_is_sjalvolki_faith_name: "Soldiers in the Divine War" #NT!
+ is_sjalvolki_faith_name: "Has the Sjalvolki faith" #NT!
+ sjalvolki_faith_name: "Has the Sjalvolki faith" #NT!
+ sjalvolki_faith_doctrine_name: "Sjalvolki Faith Doctrine" #NT!
+ sjalvolki_faith_doctrine_desc: "Practices the Sjalvolki Faith" #NT!
+  #Special Doctrines: Waharai 
+ waharai_hostility_name: "Waharai" #NT!
+ special_doctrine_waharai_hostility_desc: "The others are fools, for a god can never truly die. He Who Was Most High awaits us, the true faithful, in heaven, and all others are merely heretics. To reject His ascension is to reject Him, and we have no obligation to accept those who fail this basic test of faith." #NT!
+ special_doctrine_waharai_hostility_name: "Believers in His Ascension" #NT!
+  #Special Doctrines: Wardenite 
+ special_doctrine_is_wardenite_faith_desc: "Whatever our differences, our faith belongs to the Wardenite family and they are our kin." #NT!
+ special_doctrine_is_wardenite_faith_name: "Wardens of the Divine Prison" #NT!
+ is_sarradonian_faith_name: "Has the Wardenite faith" #NT!
+ singular_mamur_hostility_name: "Singular Mamur" #NT!
+  #Special Doctrines: Astiliak 
+ special_doctrine_is_astiliak_faith_desc: "Whatever our differences, our faith belongs to the Astiliak family and they are our kin." #NT!
+ special_doctrine_is_astiliak_faith_name: "Aspects of the Gods" #NT!
+ is_astiliak_faith_name: "Has the Astiliak faith" #NT!
+  #Special Doctrines: Kasir Worship 
+ special_doctrine_is_cuthanagi_faith_desc: "Whatever our differences, our faith belongs to the Kasir Worship family and they are our kin." #NT!
+ special_doctrine_is_cuthanagi_faith_name: "Devotees of Kasiryat" #NT!
+ is_cuthanagi_faith_name: "Has the Kasir Worship faith" #NT!
+  #Special Doctrines: E'hat'm 
+ special_doctrine_is_ehatm_faith_desc: "Whatever our differences, our faith belongs to the Krehejadic family and they are our kin." #NT!
+ special_doctrine_is_ehatm_faith_name: "Followers of the Sister-Mother" #NT!
+ is_ehatm_faith_name: "Has the Krehejadic faith" #NT!
+  #Special Doctrines: Tšuekanism 
+ special_doctrine_is_marndeoticeni_faith_desc: "Whatever our differences, our faith belongs to the Tšuekanist family and they are our kin." #NT!
+ special_doctrine_is_marndeoticeni_faith_name: "Followers of Tšuek'a" #NT!
+ is_marndeoticeni_faith_name: "Has the Tšuekanist faith" #NT!
+  #Special Doctrines: Redland Cults 
+ special_doctrine_is_redland_cults_faith_desc: "Whatever our differences, our faith belongs to the Redlander family and they are our kin." #NT!
+ special_doctrine_is_redland_cults_faith_name: "Redland Cultists" #NT!
+ is_redland_cults_faith_name: "Has the Redlander faith" #NT!
+  #Special Doctrines: Sunarwei 
+ special_doctrine_is_sunarwei_faith_desc: "Whatever our differences, our faith belongs to the Sunarweiaist family and they are our kin." #NT!
+ special_doctrine_is_sunarwei_faith_name: "Shards of Kumhant" #NT!
+ is_sunarwei_faith_name: "Has the Sunarweiaist faith" #NT!
+  #Special Doctrines: Xax'baxa'kanax 
+ special_doctrine_is_xaxbaxakanax_faith_desc: "Whatever our differences, our faith belongs to the Xax'baxa'kanaxi family and they are our kin." #NT!
+ special_doctrine_is_xaxbaxakanax_faith_name: "Believers in the Shepherd" #NT!
+ is_xaxbaxakanax_faith_name: "Has the Xax'baxa'kanaxi faith" #NT!
+  #Special Doctrines: Avastya Mahan 
+ special_doctrine_is_dravidian_faith_desc: "Whatever our differences, our faith belongs to the Avastya Mahani family and they are our kin." #NT!
+ special_doctrine_is_dravidian_faith_name: "Worshippers of the Great Council" #NT!
+ is_dravidian_faith_name: "Has the Avastya Mahani faith" #NT!
+  #Special Doctrines: Viyagaric 
+ special_doctrine_is_viyagaric_faith_desc: "Whatever our differences, our faith belongs to the Viyagaric family and they are our kin." #NT!
+ special_doctrine_is_viyagaric_faith_name: "Viyagaric Faithful" #NT!
+ is_viyagaric_faith_name: "Has the Viyagaric faith" #NT!
+  #Special Doctrines: Saielaian 
+ special_doctrine_is_saielaian_faith_desc: "Whatever our differences, our faith belongs to the Saielaian family and they are our kin." #NT!
+ special_doctrine_is_saielaian_faith_name: "Descendants of the Ten Mothers" #NT!
+ is_saielaian_faith_name: "Has the Saielaian faith" #NT!
+  #Special Doctrines: Kai-jiao 
+ special_doctrine_is_fourteen_heavenly_methods_faith_desc: "Whatever our differences, our faith belongs to the Kai-jiao family and they are our kin." #NT!
+ special_doctrine_is_fourteen_heavenly_methods_faith_name: "Followers of the Grand King" #NT!
+ is_fourteen_heavenly_methods_faith_name: "Has the Kai-jiao faith" #NT!
+  #Special Doctrines: Cult of the Black Hand 
+ special_doctrine_is_blackhand_faith_desc: "Whatever our differences, our faith belongs to the Black Hand family and they are our kin." #NT!
+ special_doctrine_is_blackhand_faith_name: "Followers of the Mindseeker" #NT!
+ is_blackhand_faith_name: "Has the Black Hand faith" #NT!
+  #Special Doctrines: Thixanonic Cult 
+ special_doctrine_is_thixanonic_faith_desc: "Whatever our differences, our faith belongs to the Thixanonic family and they are our kin." #NT!
+ special_doctrine_is_thixanonic_faith_name: "Devotees of Thixanon" #NT!
+ is_thixanonic_faith_name: "Has the Thixanonic faith" #NT!
+  #Special Doctrines: Apti 
+ special_doctrine_is_apti_faith_desc: "Whatever our differences, our faith belongs to the Apti family and they are our kin." #NT!
+ special_doctrine_is_apti_faith_name: "Dreams of Roydammna" #NT!
+ is_apti_faith_name: "Has the Apti faith" #NT!
+  #Special Doctrines: Cave Tribe Cults 
+ special_doctrine_is_ethowos_faith_desc: "Whatever our differences, our faith belongs to the Cave Tribe Cults family and they are our kin." #NT!
+ special_doctrine_is_ethowos_faith_name: "Cultists of the Caves" #NT!
+ is_ethowos_faith_name: "Has the Cave Tribe Cults faith" #NT!
+  #Special Doctrines: Theugombric 
+ special_doctrine_is_cnevobarthane_faith_desc: "Whatever our differences, our faith belongs to the Theugombric family and they are our kin." #NT!
+ special_doctrine_is_cnevobarthane_faith_name: "Chosen of Cutu Remzna" #NT!
+ is_cnevobarthane_faith_name: "Has the Theugombric faith" #NT!
+  #Special Doctrines: Gallieni 
+ special_doctrine_is_gallieni_faith_desc: "Whatever our differences, our faith belongs to the Gallieni family and they are our kin." #NT!
+ special_doctrine_is_gallieni_faith_name: "Followers of Fate" #NT!
+ is_gallieni_faith_name: "Has the Gallieni faith" #NT!
+  #Special Doctrines: Gestanwoder 
+ special_doctrine_is_gestanwoder_faith_desc: "Whatever our differences, our faith belongs to the Gestanwoder family and they are our kin." #NT!
+ special_doctrine_is_gestanwoder_faith_name: "Playthings of the Gods" #NT!
+ is_gestanwoder_faith_name: "Has the Gestanwoder faith" #NT!
+  #Special Doctrines: Gethian 
+ special_doctrine_is_gethian_faith_desc: "Whatever our differences, our faith belongs to the Gethian family and they are our kin." #NT!
+ special_doctrine_is_gethian_faith_name: "Those Judged Righteous" #NT!
+ is_gethian_faith_name: "Has the Gethian faith" #NT!
+  #Special Doctrines: Island Cults 
+ special_doctrine_is_islands_faith_desc: "Whatever our differences, our faith belongs to the Island Cults family and they are our kin." #NT!
+ special_doctrine_is_islands_faith_name: "Cultists of the Islands" #NT!
+ is_islands_faith_name: "Has the Island Cults faith" #NT!
+  #Special Doctrines: Kakarataki 
+ special_doctrine_is_kakarataki_faith_desc: "Whatever our differences, our faith belongs to the Kakarataki family and they are our kin." #NT!
+ special_doctrine_is_kakarataki_faith_name: "Faithful of Koru" #NT!
+ is_kakarataki_faith_name: "Has the Kakarataki faith" #NT!
+  #Special Doctrines: Kardawai 
+ special_doctrine_is_kardawai_faith_desc: "Whatever our differences, our faith belongs to the Kardawai family and they are our kin." #NT!
+ special_doctrine_is_kardawai_faith_name: "Followers of Kardwen" #NT!
+ is_kardawai_faith_name: "Has the Kardawai faith" #NT!
+  #Special Doctrines: Namëjishta 
+ special_doctrine_is_namejisht_faith_desc: "Whatever our differences, our faith belongs to the Namëjisht family and they are our kin." #NT!
+ special_doctrine_is_namejisht_faith_name: "Devotees of Namëj" #NT!
+ is_namejisht_faith_name: "Has the Namëjisht faith" #NT!
+  #Special Doctrines: Orgarrd 
+ special_doctrine_is_orgarrd_faith_desc: "Whatever our differences, our faith belongs to the Orgarrdian family and they are our kin." #NT!
+ special_doctrine_is_orgarrd_faith_name: "Children of the Caverns" #NT!
+ is_orgarrd_faith_name: "Has the Orgarrdian faith" #NT!
+  #Special Doctrines: Raider Cults 
+ special_doctrine_is_raider_faith_desc: "Whatever our differences, our faith belongs to the Raider Cults family and they are our kin." #NT!
+ special_doctrine_is_raider_faith_name: "Fanatical Raiders" #NT!
+ is_raider_faith_name: "Has the Raider Cults faith" #NT!
+  #Special Doctrines: Salacad 
+ special_doctrine_is_salacad_faith_desc: "Whatever our differences, our faith belongs to the Salacad family and they are our kin." #NT!
+ special_doctrine_is_salacad_faith_name: 
+ is_salacad_faith_name: "Has the Salacad faith" #NT!
+  #Special Doctrines: Samojitian 
+ special_doctrine_is_samojitian_faith_desc: "Whatever our differences, our faith belongs to the Samojitian family and they are our kin." #NT!
+ special_doctrine_is_samojitian_faith_name: "Daughters of Mother Sky" #NT!
+ is_samojitian_faith_name: "Has the Samojitian faith" #NT!
+  #Special Doctrines: Starvayrd 
+ special_doctrine_is_starvayrd_faith_desc: "Whatever our differences, our faith belongs to the Starvayrd family and they are our kin." #NT!
+ special_doctrine_is_starvayrd_faith_name: "Followers of the Stars" #NT!
+ is_starvayrd_faith_name: "Has the Starvayrd faith" #NT!
+  #Special Doctrines: Stoðherrn 
+ special_doctrine_is_stodherrn_faith_desc: "Whatever our differences, our faith belongs to the Stoðherrn family and they are our kin." #NT!
+ special_doctrine_is_stodherrn_faith_name: "Stewards of Stoðrusigga" #NT!
+ is_stodherrn_faith_name: "Has the Stoðherrn faith" #NT!
+  #Special Doctrines: Tulharsin 
+ special_doctrine_is_tulharsin_faith_desc: "Whatever our differences, our faith belongs to the Tulharsin family and they are our kin." #NT!
+ special_doctrine_is_tulharsin_faith_name: "Worshippers of the Peaks" #NT!
+ is_tulharsin_faith_name: "Has the Tulharsin faith" #NT!
+  #Special Doctrines: Uakaklo 
+ special_doctrine_is_uakaklo_faith_desc: "Whatever our differences, our faith belongs to the Uakaklo family and they are our kin." #NT!
+ special_doctrine_is_uakaklo_faith_name: "Faithful of Tensese" #NT!
+ is_uakaklo_faith_name: "Has the Uakaklo faith" #NT!
+  #Special Doctrines: Zaragatt 
+ special_doctrine_is_zaragett_faith_desc: "Whatever our differences, our faith belongs to the Zaragettian family and they are our kin." #NT!
+ special_doctrine_is_zaragett_faith_name: "Watchers of Dakalene" #NT!
+ is_zaragett_faith_name: "Has the Zaragettian faith" #NT!
+  #Special Doctrines: Dgudi 
+ special_doctrine_is_adabyssian_faith_desc: "Whatever our differences, our faith belongs to the Dgudi family and they are our kin." #NT!
+ special_doctrine_is_adabyssian_faith_name: "Worshippers of the Great Spirits" #NT!
+ is_adabyssian_faith_name: "Has the Dgudi faith" #NT!
+  #Special Doctrines: Ohrasik 
+ special_doctrine_is_ahridar_faith_desc: "Whatever our differences, our faith belongs to the Ohrasikian family and they are our kin." #NT!
+ special_doctrine_is_ahridar_faith_name: "Followers of Ohrasik" #NT!
+ is_ahridar_faith_name: "Has the Ohrasikian faith" #NT!
+  #Special Doctrines: Anaanide 
+ special_doctrine_is_anaanide_faith_desc: "Whatever our differences, our faith belongs to the Anaanide family and they are our kin." #NT!
+ special_doctrine_is_anaanide_faith_name: "Seekers of Anaan" #NT!
+ is_anaanide_faith_name: "Has the Anaanide faith" #NT!
+  #Special Doctrines: Hubarism 
+ special_doctrine_is_hubarism_faith_desc: "Whatever our differences, our faith belongs to the Hubarist family and they are our kin." #NT!
+ special_doctrine_is_hubarism_faith_name: "Faithful of the Sun" #NT!
+ is_hubarism_faith_name: "Has the Hubarist faith" #NT!
+  #Special Doctrines: Masaagnism 
+ special_doctrine_is_masaagnite_faith_desc: "Whatever our differences, our faith belongs to the Masaagnite family and they are our kin." #NT!
+ special_doctrine_is_masaagnite_faith_name: "Sacrifices of the Gods" #NT!
+ is_masaagnite_faith_name: "Has the Masaagnite faith" #NT!
+ special_doctrine_is_mogowai_faith_desc: "Whatever our differences, our faith belongs to the Mogowai family and they are our kin." #NT!
+ special_doctrine_is_mogowai_faith_name: "Searchers for the Most High" #NT!
+ is_mogowai_faith_name: "Has the Mogowai faith" #NT!
+  #Special Doctrines: Quwazaw 
+ special_doctrine_is_quwazaw_faith_desc: "Whatever our differences, our faith belongs to the Quwazawi family and they are our kin." #NT!
+ special_doctrine_is_quwazaw_faith_name: "Devotees of Statues" #NT!
+ is_quwazaw_faith_name: "Has the Quwazawi faith" #NT!
+  #Special Doctrines: Saratarat 
+ special_doctrine_is_saratan_faith_desc: "Whatever our differences, our faith belongs to the Sarataratin family and they are our kin." #NT!
+ special_doctrine_is_saratan_faith_name: "Children of the Saratan" #NT!
+ is_saratan_faith_name: "Has the Sarataratin faith" #NT!
+  #Special Doctrines: Sokaloma 
+ special_doctrine_is_sokaloma_faith_desc: "Whatever our differences, our faith belongs to the Sokaloma family and they are our kin." #NT!
+ special_doctrine_is_sokaloma_faith_name: "Watchers of the Sky Dance" #NT!
+ is_sokaloma_faith_name: "Has the Sokaloma faith" #NT!
+  #Special Doctrines: Shub-Yuaguag 
+ special_doctrine_is_yuagaug_faith_desc: "Whatever our differences, our faith belongs to the Shub-Yuaguag family and they are our kin." #NT!
+ special_doctrine_is_yuagaug_faith_name: "Children of Yuaguag" #NT!
+ is_yuagaug_faith_name: "Has the Shub-Yuaguag faith" #NT!
+  #Special Doctrines: Nalmavast 
+ special_doctrine_is_nalmavast_faith_desc: "Whatever our differences, our faith belongs to the Nalmavast family and they are our kin." #NT!
+ special_doctrine_is_nalmavast_faith_name: "Followers of the Red Maiden" #NT!
+ is_nalmavast_faith_name: "Has the Nalmavast faith" #NT!
+  #Special Doctrines: Zaldrigas 
+ special_doctrine_is_zaldrigas_faith_desc: "Whatever our differences, our faith belongs to the Zaldrigas family and they are our kin." #NT!
+ special_doctrine_is_zaldrigas_faith_name: "Children of the Serpent" #NT!
+ is_zaldrigas_faith_name: "Has the Zaldrigas faith" #NT!
+  #Other Hostility Doctrines 
+ sarradonian_hostility_doctrine_name: "Sarradonian" #NT!
+ sarradonian_hostility_doctrine_desc: "Whatever our differences, our faith belongs to the Sarradonian family and they are our kin." #NT!
+ continental_hostility_doctrine_name: "Continental" #NT!
+ continental_hostility_doctrine_desc: "Whatever our differences, our faith belongs to the Continental family and they are our kin." #NT!
+ adabyssian_hostility_doctrine_name: "Adabyssian" #NT!
+ adabyssian_hostility_doctrine_desc: "Whatever our differences, our faith belongs to the Adabyssian family and they are our kin." #NT!
+ aironoian_hostility_doctrine_name: "Aironoian" #NT!
+ aironoian_hostility_doctrine_desc: "Whatever our differences, our faith belongs to the Aironoian family and they are our kin." #NT!
+ religious_isolate_hostility_doctrine_name: "Religious Isolate" #NT!
+ religious_isolate_hostility_doctrine_desc: "Whatever our differences, our faith belongs to the Religious Isolate family and they are our kin." #NT!
+ standard_hostility_doctrine_name: "Standard" #NT!
+ standard_hostility_doctrine_desc: "Whatever our differences, our faith belongs to the Standard family and they are our kin." #NT!
+ harthahi_hostility_doctrine_name: "Harthahi" #NT!
+ harthahi_hostility_doctrine_desc: "Whatever our differences, our faith belongs to the Harthahi family and they are our kin." #NT!
+ iyrossi_hostility_doctrine_name: "Iyrossi" #NT!
+ iyrossi_hostility_doctrine_desc: "Whatever our differences, our faith belongs to the Iyrossi family and they are our kin." #NT!
+ marcher_hostility_doctrine_name: "Marcher" #NT!
+ marcher_hostility_doctrine_desc: "Whatever our differences, our faith belongs to the Marcher family and they are our kin." #NT!
+ aversarian_hostility_doctrine_name: "Aversarian" #NT!
+ aversarian_hostility_doctrine_desc: "Whatever our differences, our faith belongs to the Aversarian family and they are our kin." #NT!
+  ####################### 
+  # Doctrine Parameters # 
+  #######################' 
+  #Doctrine Parameters: General 
+ doctrine_parameter_chosen_man_mechanics_active: "[executing|E] characters and #E Purging Counties#! with an [GetCulturePillar('heritage_aversarian').GetName] [culture|E] gives [piety|E] and the [GetTrait('gh_chosen_man').GetName( GetNullCharacter )] [trait|E]" #NT!
+ doctrine_parameter_enables_practising_law: "Allows access to the [GetTraitGroup('lifestyle_jurist').GetName] line of [traits|E] and the practising of law" #NT!
+ doctrine_parameter_faith_can_use_purges: "Can use the #E Purge County#! interaction on [counties|E] with a different [faith|E]" #NT!
+ doctrine_parameter_fogeater_mechanics_active: "We can listen to the Mistmother's cries and learn from them" #NT!
+ doctrine_parameter_four_traditional_mamurs_recognized: "Recognizes the four traditional [mamur|E] titles, but does not have a singular [head_of_faith|E]" #NT!
+ doctrine_parameter_high_court_high_legitimacy_mamur_modifier: "The [mamur|E] receives the following modifiers:\n[GetModifier('high_court_legitimacy_high_mamur_modifier').GetDesc]" #NT!
+ doctrine_parameter_high_court_low_legitimacy_mamur_modifier: "The [mamur|E] receives the following modifiers:\n[GetModifier('high_court_legitimacy_low_mamur_modifier').GetDesc]" #NT!
+ doctrine_parameter_high_court_very_high_legitimacy_mamur_modifier: "The [mamur|E] receives the following modifiers:\n[GetModifier('high_court_legitimacy_very_high_mamur_modifier').GetDesc]" #NT!
+ doctrine_parameter_high_court_very_low_legitimacy_mamur_modifier: "The [mamur|E] receives the following modifiers:\n[GetModifier('high_court_legitimacy_very_low_mamur_modifier').GetDesc]" #NT!
+ doctrine_parameter_hostility_override_doctrine_clerical_marriage_allowed: "Always considers all other [faiths|E] to be [faith_astray|L], regardless of doctrinal differences" #NT!
+ doctrine_parameter_hostility_override_doctrine_clerical_marriage_disallowed: "[county_opinion|E] is not affected by [faith_hostility|E]" #NT!
+ doctrine_parameter_hunt_travel_enabled: "Can travel to other #E Zones#! to [hunt|E]" #NT!
+ doctrine_parameter_increased_legal_tradition_progress_speed: "#E Legal Tradition Progress#! from #E Patronage#! increased by #P 10%#!" #NT!
+ doctrine_parameter_kemsar_towers_decisions_active: "The Tak'han must be restored, no matter the cost." #NT!
+ doctrine_parameter_legal_tradition_progress_from_debates: "Winning a debate grants a small amount of #E Legal Tradition Progress#!" #NT!
+ doctrine_parameter_legendary_game_enabled: "Can seek #E Legendary Game#!" #NT!
+ doctrine_parameter_lifepath_choice: "Followers may choose a [lifepath|E] when they become an adult." #NT!
+ doctrine_parameter_magi_hunters_active: "Followers gain renown, prestige, and traits for killing [magi|E] characters whether by intrigue, battle, or execution" #NT!
+ doctrine_parameter_mamuramat_dependent_on_faith_head_doctrine: "Does not recognize any traditional [mamur|E], but may establish its own if allowed by the [head_of_faith|E] doctrine" #NT!
+ doctrine_parameter_masked_adherents_active: "Adherents are masked" #NT!
+ doctrine_parameter_masked_priests_active: "Priests are masked" #NT!
+ doctrine_parameter_no_mamurs_recognized: "Does not recognize a [mamur|E]" #NT!
+ doctrine_parameter_number_of_consorts_0: "Rulers, regardless of [gender_law|E], are not allowed to take any [concubines|E]" #NT!
+ doctrine_parameter_one_mamur_recognized: "Recognizes one [mamur|E], who also doubles as the [head_of_faith|E]" #NT!
+ doctrine_parameter_parameter_overseas_raiding_allowed: "This [faith|E] allows you to to [raid|E], including overseas raiding." #NT!
+ doctrine_parameter_partic_religion_sarradonian_actor_opinion_active: "Considers Partic [faiths|E], and is considered by Partic $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_penalty_for_not_hunting_enabled: "Stacking [prestige|E] and [vassal|E] [opinion|E] penalty after five years without a [hunt|E]" #NT!
+ doctrine_parameter_piety_for_rival_kill: "Killing [rivals|E] gives [piety|E]." #NT!
+ doctrine_parameter_piety_from_hunts_active: "A successful [hunt|E] earns [piety|E], scaled with the level of the game" #NT!
+ doctrine_parameter_spirit_journey_active: "You may take a decision to embark on a spirit journey once every five years." #NT!
+ doctrine_parameter_spirit_possession_active: "Enables the 'Seek Aid of The Spirits' [decision|E]" #NT!
+ doctrine_parameter_spread_the_light_promote_faith_bonus_active: "County Conversion Speed: #P +20#!" #NT!
+ doctrine_parameter_tax_evasion_illegal: "Vassals who evade the Tahariat and are caught may be arrested for their [crime|E]." #NT!
+ doctrine_parameter_thysian_physician_education: "Children with the [learning|E] [education_focus|E] may gain the [GetTrait('physician_1').GetName( GetNullCharacter )] trait if they do well at their studies." #NT!
+ doctrine_parameter_thysian_physician_pilgrimage: "Pilgrimages have a chance of granting or upgrading the [GetTrait('physician_2').GetName( GetNullCharacter )] trait." #NT!
+ doctrine_parameter_uses_legal_traditions: "Enables #E Legal Traditions#!" #NT!
+  #Doctrine Parameters: Hostility Overrides 
+ doctrine_parameter_saintly_order_faith_hostility_override_loc: "Considers, and is considered by all Saintly Order faiths, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]." #NT!
+ doctrine_parameter_hostility_override_eight_faith_doctrine: "Considers Octarian Agionism to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]." #NT!
+ doctrine_parameter_hostility_override_forgotten_faith_doctrine: "Considers the Forgotten [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]." #NT!
+ doctrine_parameter_hostility_override_saint_faith_doctrine: "Considers the Diksansynism [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]." #NT!
+ doctrine_parameter_hostility_override_seven_faith_doctrine: "Considers the Septarian Agionism [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]." #NT!
+ doctrine_parameter_hostility_override_sjalvolki_faith_doctrine: "Considers the Sjalvolki [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]." #NT!
+ doctrine_parameter_hostility_override_special_doctrine_agionist_order_cooperation_corrupt: "Considers [faiths|E] with this Doctrine to be be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]." #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_agionism_faith: "Considers Agionist [faiths|E], and is considered by Agionist $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_alau_koev_faith: "Considers Alau Koevac [faiths|E], and is considered by Alau Koevac $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_amsari_faith: "Considers Amsari [faiths|E], and is considered by Amsari $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_arnazni_faith: "Considers Arnazni [faiths|E], and is considered by Arnazni $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_aruvasue_faith: "Considers Aruvasuen [faiths|E], and is considered by Aruvasuen $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_aversarian_faith: "Considers Aversarian [faiths|E], and is considered by Aversarian $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of [SelectLocalization(ObjectsEqual(Faith.GetReligion, GetReligionByKey('aversarinas_aautokrata_religion').MakeScope.Religion), 'hostility_astray_tooltippable', 'hostility_evil_tooltippable')]" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_graveright_faith: "Considers Mrógiłprano [faiths|E], and is considered by Mrógiłprano $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_iyrossi_faith: "Considers Iyrossi [faiths|E], and is considered by Iyrossi $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_izaerto_bosar_faith: "Considers Izáerto Bošáren [faiths|E], and is considered by Izáerto Bošáren $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_kemsar_faith: "Considers Kemsari [faiths|E], and is considered by Kemsari $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_mahrator_faith: "Considers Mahratoran [faiths|E], and is considered by Mahratoran $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_manats_faith: "Considers Manat [faiths|E], and is considered by Manat $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_marcher_faith: "Considers Marcher [faiths|E], and is considered by Marcher $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_oltenic_faith: "Considers Öltenic [faiths|E], and is considered by Öltenic $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_partic_faith: "Considers Partic [faiths|E], and is considered by Partic $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_ritualist_faith: "Considers Ritualist [faiths|E], and is considered by Ritualist $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_sarradonian_faith: "Considers Wardenite [faiths|E], and is considered by Wardenite $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_sheharddi_faith: "Considers Sheharddic [faiths|E], and is considered by Sheharddic $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_shyatan_faith: "Considers Shy'atanic [faiths|E], and is considered by Shy'atanic $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_sjalvolki_faith: "Considers Sjalvolki [faiths|E], and is considered by Sjalvolki $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_astiliak_faith: "Considers Astiliak [faiths|E], and is considered by Astiliak $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_cuthanagi_faith: "Considers Kasir Worship [faiths|E], and is considered by Kasir Worship $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_ehatm_faith: "Considers Krehejadic [faiths|E], and is considered by Krehejadic $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_marndeoticeni_faith: "Considers Tšuekanist [faiths|E], and is considered by Tšuekanist $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_redland_cults_faith: "Considers Redlander [faiths|E], and is considered by Redlander $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_sunarwei_faith: "Considers Sunarweiaist [faiths|E], and is considered by Sunarweiaist $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_xaxbaxakanax_faith: "Considers Xax'baxa'kanaxi [faiths|E], and is considered by Xax'baxa'kanaxi $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_dravidian_faith: "Considers Avastya Mahani [faiths|E], and is considered by Avastya Mahani $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_viyagaric_faith: "Considers Viyagaric [faiths|E], and is considered by Viyagaric $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_saielaian_faith: "Considers Saielaian [faiths|E], and is considered by Saielaian $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_fourteen_heavenly_methods_faith: "Considers Kai-jiao [faiths|E], and is considered by Kai-jiao $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_blackhand_faith: "Considers Black Hand [faiths|E], and is considered by Black Hand $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_thixanonic_faith: "Considers Thixanonic [faiths|E], and is considered by Thixanonic $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_apti_faith: "Considers Apti [faiths|E], and is considered by Apti $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_ethowos_faith: "Considers Cave Tribe Cults [faiths|E], and is considered by Cave Tribe Cults $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_cnevobarthane_faith: "Considers Theugombric [faiths|E], and is considered by Theugombric $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_gallieni_faith: "Considers Gallieni [faiths|E], and is considered by Gallieni $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_gestanwoder_faith: "Considers Gestanwoder [faiths|E], and is considered by Gestanwoder $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_gethian_faith: "Considers Gethian [faiths|E], and is considered by Gethian $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_islands_faith: "Considers Island Cults [faiths|E], and is considered by Island Cults $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_kakarataki_faith: "Considers Kakarataki [faiths|E], and is considered by Kakarataki $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_kardawai_faith: "Considers Kardawai [faiths|E], and is considered by Kardawai $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_namejisht_faith: "Considers Namëjisht [faiths|E], and is considered by Namëjisht $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_orgarrd_faith: "Considers Orgarrdian [faiths|E], and is considered by Orgarrdian $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_raider_faith: "Considers Raider Cults [faiths|E], and is considered by Raider Cults $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_salacad_faith: "Considers Salacad [faiths|E], and is considered by Salacad $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_samojitian_faith: "Considers Samojitian [faiths|E], and is considered by Samojitian $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_starvayrd_faith: "Considers Starvayrd [faiths|E], and is considered by Starvayrd $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_stodherrn_faith: "Considers Stoðherrn [faiths|E], and is considered by Stoðherrn $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_tulharsin_faith: "Considers Tulharsin [faiths|E], and is considered by Tulharsin $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_uakaklo_faith: "Considers Uakaklo [faiths|E], and is considered by Uakaklo $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_zaragett_faith: "Considers Zaragettian [faiths|E], and is considered by Zaragettian $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_adabyssian_faith: "Considers Dgudi [faiths|E], and is considered by Dgudi $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_ahridar_faith: "Considers Ohrasikian [faiths|E], and is considered by Ohrasikian $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_anaanide_faith: "Considers Anaanide [faiths|E], and is considered by Anaanide $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_hubarism_faith: "Considers Hubarist [faiths|E], and is considered by Hubarist $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_masaagnite_faith: "Considers Masaagnite [faiths|E], and is considered by Masaagnite $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_mogowai_faith: "Considers Mogowai [faiths|E], and is considered by Mogowai $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_quwazaw_faith: "Considers Quwazawi [faiths|E], and is considered by Quwazawi $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_saratan_faith: "Considers Sarataratin [faiths|E], and is considered by Sarataratin $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_sokaloma_faith: "Considers Sokaloma [faiths|E], and is considered by Sokaloma $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_yuagaug_faith: "Considers Shub-Yuaguag [faiths|E], and is considered by Shub-Yuaguag $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_nalmavast_faith: "Considers Nalmavast [faiths|E], and is considered by Shub-Yuaguag $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_is_zaldrigas_faith: "Considers Zaldrigas [faiths|E], and is considered by Shub-Yuaguag $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_special_doctrine_singular_mamur_hostility: "[faiths|E] that recognize a different [mamur|E] are considered [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!
+ doctrine_parameter_hostility_override_tenet_aeschres_legacy: "Considers any faith with the tenet The Burning World to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!
+ doctrine_parameter_hostility_override_tenet_agionist_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Agionism, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_alau_koev_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Alau Koev, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_amsari_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Amsari, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_arnazni_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Arnazni, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_aruvasue_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Aruvasue, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_aversarian_syncretism: "Mutually considers $game_concept_faiths$ with [GetFaithDoctrine('tenet_aversarian_syncretism').GetBaseName], to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_axiaothea_legacy: "Considers any faith with the tenet The Long War to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!
+ doctrine_parameter_hostility_override_tenet_graveright_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Mrógiłprano, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_iyrossi_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Iyrossi, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_izaerto_bosar_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Izáerto Bošár, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_kemsar_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Kemsari, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_mahrator_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Mahrator, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_manats_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Manat, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_marcher_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Marcher faiths, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_partic_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Partic, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_ritualist_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Ritualist, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_sheharddi_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Sheharddi, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_shyatan_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Shy'atan, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_sjalvolki_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Sjalvolki, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_citizenship_through_service: "Considers any faith with the tenet $tenet_citizenship_through_service_name$ to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!
+ doctrine_parameter_hostility_override_tenet_the_bloodright: "Considers any faith with $tenet_the_bloodright_name$ tenet to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!
+ doctrine_parameter_hostility_override_tenet_higher_purity: "Considers any faith with the $tenet_higher_purity_name$ tenet to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!
+ doctrine_parameter_hostility_override_tenet_superiority_in_bloodshed: "Considers any faith with the $tenet_superiority_in_bloodshed_name$ tenet to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!
+ doctrine_parameter_hostility_override_tenet_wardenite_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Wardenite, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_astiliak_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Astiliak, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_cuthanagi_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Kasir Worship, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_ehatm_syncretism: "Mutually considers $game_concept_faiths$ syncretic with E'hat'm, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_marndeoticeni_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Tšuekanism, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_redland_cults_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Redland Cults, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_sunarwei_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Sunarwei, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_xaxbaxakanax_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Xax'baxa'kanax, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_dravidian_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Avastya Mahan, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_viyagaric_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Viyagaric, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_saielaian_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Saielaian, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_fourteen_heavenly_methods_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Kai-jiao, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_blackhand_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Cult of the Black Hand, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_thixanonic_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Thixanonic Cult, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_apti_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Apti, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_ethowos_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Cave Tribe Cults, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_cnevobarthane_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Theugombric, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_gallieni_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Gallieni, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_gestanwoder_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Gestanwoder, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_gethian_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Gethian, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_islands_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Island Cults, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_kakarataki_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Kakarataki, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_kardawai_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Kardawai, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_namejisht_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Namëjishta, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_orgarrd_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Orgarrd, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_raider_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Raider Cults, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_salacad_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Salacad, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_samojitian_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Samojitian, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_starvayrd_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Starvayrd, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_stodherrn_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Stoðherrn, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_tulharsin_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Tulharsin, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_uakaklo_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Uakaklo, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_zaragett_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Zaragatt, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_adabyssian_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Dgudi, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_ahridar_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Ohrasik, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_anaanide_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Anaanide, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_hubarism_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Hubarism, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_masaagnite_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Masaagnism, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_mogowai_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Mogowai, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_quwazaw_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Quwazaw, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_saratan_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Saratarat, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_sokaloma_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Sokaloma, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_yuagaug_syncretism: "Mutually considers $game_concept_faiths$ syncretic with Shub-Yuaguag, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_nalmavast_syncretism: "Mutually considers $game_concept_faiths$ syncretic with nalmavast, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_zaldrigas_syncretism: "Mutually considers $game_concept_faiths$ syncretic with zaldrigas, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_hostility_override_tenet_spread_the_light: 
+ doctrine_parameter_hostility_override_wardenite_idealist_doctrine: "[faiths|E] with the $wardenite_idealist_doctrine_name$ [doctrine|E] are considered [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!
+ doctrine_parameter_hostility_override_wardenite_mainstream_doctrine: "[faiths|E] with the $wardenite_mainstream_doctrine_name$ [doctrine|E] are considered [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!
+ doctrine_parameter_hostility_override_wardenite_radical_doctrine: "[faiths|E] with the $wardenite_radical_doctrine_name$ [doctrine|E] are considered [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!
+ doctrine_parameter_hostility_override_wardenite_traditionalist_doctrine: "[faiths|E] with the $wardenite_traditionalist_doctrine_name$ [doctrine|E] are considered [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!
+  #Doctrine Parameters: Magic 
+ doctrine_parameter_better_traits_from_gedeora: "Children born of pregnancies affected by a [gedeora|E] will not receive negative [congenital_traits|E], while having a higher chance of receiving good ones." #NT!
+ doctrine_parameter_can_predict_gedeora: "Adherents will be warned about oncoming [gedeora|E] several months in advance." #NT!
+ doctrine_parameter_faith_monthly_magic_mult_100: "#E Monthly [magic|E]#!:@magic_icon!#positive_value; +100%#!" #NT!
+ doctrine_parameter_faith_monthly_magic_mult_10: "#E Monthly [magic|E]#!:@magic_icon!#positive_value; +10%#!" #NT!
+ doctrine_parameter_faith_monthly_magic_mult_15: "#E Monthly [magic|E]#!:@magic_icon!#positive_value; +15%#!" #NT!
+ doctrine_parameter_faith_monthly_magic_mult_20: "#E Monthly [magic|E]#!:@magic_icon!#positive_value; +20%#!" #NT!
+ doctrine_parameter_faith_monthly_magic_mult_25: "#E Monthly [magic|E]#!:@magic_icon!#positive_value; +25%#!" #NT!
+ doctrine_parameter_faith_monthly_magic_mult_30: "#E Monthly [magic|E]#!:@magic_icon!#positive_value; +30%#!" #NT!
+ doctrine_parameter_faith_monthly_magic_mult_35: "#E Monthly [magic|E]#!:@magic_icon!#positive_value; +35%#!" #NT!
+ doctrine_parameter_faith_monthly_magic_mult_40: "#E Monthly [magic|E]#!:@magic_icon!#positive_value; +40%#!" #NT!
+ doctrine_parameter_faith_monthly_magic_mult_45: "#E Monthly [magic|E]#!:@magic_icon!#positive_value; +45%#!" #NT!
+ doctrine_parameter_faith_monthly_magic_mult_50: "#E Monthly [magic|E]#!:@magic_icon!#positive_value; +50%#!" #NT!
+ doctrine_parameter_faith_monthly_magic_mult_55: "#E Monthly [magic|E]#!:@magic_icon!#positive_value; +55%#!" #NT!
+ doctrine_parameter_faith_monthly_magic_mult_5: "#E Monthly [magic|E]#!:@magic_icon!#positive_value; +5%#!" #NT!
+ doctrine_parameter_faith_monthly_magic_mult_60: "#E Monthly [magic|E]#!:@magic_icon!#positive_value; +60%#!" #NT!
+ doctrine_parameter_faith_monthly_magic_mult_65: "#E Monthly [magic|E]#!:@magic_icon!#positive_value; +65%#!" #NT!
+ doctrine_parameter_faith_monthly_magic_mult_70: "#E Monthly [magic|E]#!:@magic_icon!#positive_value; +70%#!" #NT!
+ doctrine_parameter_faith_monthly_magic_mult_75: "#E Monthly [magic|E]#!:@magic_icon!#positive_value; +75%#!" #NT!
+ doctrine_parameter_faith_monthly_magic_mult_80: "#E Monthly [magic|E]#!:@magic_icon!#positive_value; +80%#!" #NT!
+ doctrine_parameter_faith_monthly_magic_mult_85: "#E Monthly [magic|E]#!:@magic_icon!#positive_value; +85%#!" #NT!
+ doctrine_parameter_faith_monthly_magic_mult_90: "#E Monthly [magic|E]#!:@magic_icon!#positive_value; +90%#!" #NT!
+ doctrine_parameter_faith_monthly_magic_mult_95: "#E Monthly [magic|E]#!:@magic_icon!#positive_value; +95%#!" #NT!
+ doctrine_parameter_magic_accepted: "Characters with or without magic are treated on equal footing by the faith." #NT!
+ doctrine_parameter_magic_illegal: "Characters with the [trait|E]s [GetTrait('magic_good_1').GetName( GetPlayer )], [GetTrait('magic_good_2').GetName( GetPlayer )], [GetTrait('magic_good_3').GetName( GetPlayer )] or [GetTrait('magic_good_4').GetName( GetPlayer )] are [criminals|E]" #NT!
+ doctrine_parameter_magic_shunned: "Characters with the [trait|E]s [GetTrait('magic_good_1').GetName( GetPlayer )], [GetTrait('magic_good_2').GetName( GetPlayer )], [GetTrait('magic_good_3').GetName( GetPlayer )] or [GetTrait('magic_good_4').GetName( GetPlayer )] are [shunned|E]" #NT!
+ doctrine_parameter_magic_honored: 
+ doctrine_parameter_magic_supreme: "Characters with the [trait|E]s [GetTrait('magic_good_1').GetName( GetPlayer )], [GetTrait('magic_good_2').GetName( GetPlayer )], [GetTrait('magic_good_3').GetName( GetPlayer )] or [GetTrait('magic_good_4').GetName( GetPlayer )] are praised." #NT!
+ doctrine_parameter_piety_and_stress_loss_for_gedeora: "Accepting a personality change from a [gedeora|E] gives significant [piety|E] and [stress|E] loss." #NT!
+ doctrine_parameter_piety_for_sacrifice: "Sacrificing [prisoners|E] and the populace of counties gives [piety|E] and 20% more @magic_icon!#E [magic|E]#!." #NT!
+  #Doctrine Parameters: Syncreticism 
+ doctrine_parameter_is_alau_koev_religion_bilateral_loc_override: "Considers Alau Koevac [faiths|E], and is considered by Alau Koevac $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_amsari_religion_bilateral_loc_override: "Considers Amsari [faiths|E], and is considered by Amsari $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_arnazni_religion_bilateral_loc_override: "Considers Arnazni [faiths|E], and is considered by Arnazni $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_aruvasue_religion_bilateral_loc_override: "Considers Aruvasueni [faiths|E], and is considered by Aruvasueni $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_aversarian_faith_bilateral_loc_override: "Considers Aversarian [faiths|E], and is considered by Aversarian $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_graveright_religion_bilateral_loc_override: "Considers Mrógiłprano [faiths|E], and is considered by Mrógiłprano $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_iyrossi_religion_bilateral_loc_override: "Considers Iyrossi [faiths|E], and is considered by Iyrossi $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_izaerto_bosar_religion_bilateral_loc_override: "Considers Izáerto Bošáren [faiths|E], and is considered by Izáerto Bošáren $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_kemsar_religion_bilateral_loc_override: "Considers Kemsari [faiths|E], and is considered by Kemsari $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_mahrator_religion_bilateral_loc_override: "Considers Mahrator [faiths|E], and is considered by Mahratoran $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_manats_religion_bilateral_loc_override: "Considers Manat [faiths|E], and is considered by Manat $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_marcher_faith_bilateral_loc_override: "Considers Marcher [faiths|E], and is considered by Marcher $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_partic_religion_bilateral_loc_override: "Considers Partic [faiths|E], and is considered by Partic $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_ritualist_religion_bilateral_loc_override: "Considers Ritualist [faiths|E], and is considered by Ritualist $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_sarradonian_religion_bilateral_loc_override: "Considers Wardenite [faiths|E], and is considered by Wardenite $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_sheharddi_religion_bilateral_loc_override: "Considers Sheharddic [faiths|E], and is considered by Sheharddic $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_shyatan_religion_bilateral_loc_override: "Considers Shy'atanic [faiths|E], and is considered by Shy'atanic $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_sjalvolki_religion_bilateral_loc_override: "Considers Sjalvolki [faiths|E], and is considered by Sjalvolki $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_astiliak_religion_bilateral_loc_override: "Considers Astiliak [faiths|E], and is considered by Astiliak $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_cuthanagi_religion_bilateral_loc_override: "Considers Kasir Worship [faiths|E], and is considered by Kasir Worship $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_ehatm_religion_bilateral_loc_override: "Considers Krehejadic [faiths|E], and is considered by Krehejadic $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_marndeoticeni_religion_bilateral_loc_override: "Considers Tšuekanist [faiths|E], and is considered by Tšuekanist $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_redland_cults_religion_bilateral_loc_override: "Considers Redlander [faiths|E], and is considered by Redlander $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_sunarwei_religion_bilateral_loc_override: "Considers Sunarweiaist [faiths|E], and is considered by Sunarweiaist $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_xaxbaxakanax_religion_bilateral_loc_override: "Considers Xax'baxa'kanaxi [faiths|E], and is considered by Xax'baxa'kanaxi $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_dravidian_religion_bilateral_loc_override: "Considers Avastya Mahani [faiths|E], and is considered by Avastya Mahani $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_viyagaric_religion_bilateral_loc_override: "Considers Viyagaric [faiths|E], and is considered by Viyagaric $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_saielaian_religion_bilateral_loc_override: "Considers Saielaian [faiths|E], and is considered by Saielaian $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_fourteen_heavenly_methods_religion_bilateral_loc_override: "Considers Kai-jiao [faiths|E], and is considered by Kai-jiao $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_blackhand_religion_bilateral_loc_override: "Considers Black Hand [faiths|E], and is considered by Black Hand $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_thixanonic_religion_bilateral_loc_override: "Considers Thixanonic [faiths|E], and is considered by Thixanonic $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_apti_religion_bilateral_loc_override: "Considers Apti [faiths|E], and is considered by Apti $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_ethowos_religion_bilateral_loc_override: "Considers Cave Tribe Cults [faiths|E], and is considered by Cave Tribe Cults $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_cnevobarthane_religion_bilateral_loc_override: "Considers Theugombric [faiths|E], and is considered by Theugombric $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_gallieni_religion_bilateral_loc_override: "Considers Gallieni [faiths|E], and is considered by Gallieni $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_gestanwoder_religion_bilateral_loc_override: "Considers Gestanwoder [faiths|E], and is considered by Gestanwoder $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_gethian_religion_bilateral_loc_override: "Considers Gethian [faiths|E], and is considered by Gethian $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_islands_religion_bilateral_loc_override: "Considers Island Cults [faiths|E], and is considered by Island Cults $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_kakarataki_religion_bilateral_loc_override: "Considers Kakarataki [faiths|E], and is considered by Kakarataki $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_kardawai_religion_bilateral_loc_override: "Considers Kardawai [faiths|E], and is considered by Kardawai $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_namejisht_religion_bilateral_loc_override: "Considers Namëjisht [faiths|E], and is considered by Namëjisht $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_orgarrd_religion_bilateral_loc_override: "Considers Orgarrdian [faiths|E], and is considered by Orgarrdian $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_raider_religion_bilateral_loc_override: "Considers Raider Cults [faiths|E], and is considered by Raider Cults $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_salacad_religion_bilateral_loc_override: "Considers Salacad [faiths|E], and is considered by Salacad $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_samojitian_religion_bilateral_loc_override: "Considers Samojitian [faiths|E], and is considered by Samojitian $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_starvayrd_religion_bilateral_loc_override: "Considers Starvayrd [faiths|E], and is considered by Starvayrd $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_stodherrn_religion_bilateral_loc_override: "Considers Stoðherrn [faiths|E], and is considered by Stoðherrn $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_tulharsin_religion_bilateral_loc_override: "Considers Tulharsin [faiths|E], and is considered by Tulharsin $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_uakaklo_religion_bilateral_loc_override: "Considers Uakaklo [faiths|E], and is considered by Uakaklo $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_zaragett_religion_bilateral_loc_override: "Considers Zaragettian [faiths|E], and is considered by Zaragettian $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_adabyssian_religion_bilateral_loc_override: "Considers Dgudi [faiths|E], and is considered by Dgudi $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_ahridar_religion_bilateral_loc_override: "Considers Ohrasikian [faiths|E], and is considered by Ohrasikian $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_anaanide_religion_bilateral_loc_override: "Considers Anaanide [faiths|E], and is considered by Anaanide $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_hubarism_religion_bilateral_loc_override: "Considers Hubarist [faiths|E], and is considered by Hubarist $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_masaagnite_religion_bilateral_loc_override: "Considers Masaagnite [faiths|E], and is considered by Masaagnite $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_mogowai_religion_bilateral_loc_override: "Considers Mogowai [faiths|E], and is considered by Mogowai $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_quwazaw_religion_bilateral_loc_override: "Considers Quwazawi [faiths|E], and is considered by Quwazawi $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_saratan_religion_bilateral_loc_override: "Considers Sarataratin [faiths|E], and is considered by Sarataratin $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_sokaloma_religion_bilateral_loc_override: "Considers Sokaloma [faiths|E], and is considered by Sokaloma $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_yuagaug_religion_bilateral_loc_override: "Considers Shub-Yuaguag [faiths|E], and is considered by Shub-Yuaguag $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_nalmavast_religion_bilateral_loc_override: "Considers Nalmavast [faiths|E], and is considered by Nalmavast $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_is_zaldrigas_religion_bilateral_loc_override: "Considers Zaldrigas [faiths|E], and is considered by Zaldrigas $game_concept_faiths$, to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$" #NT!
+ doctrine_parameter_judges_act_as_clergy: "Characters in religious positions passively gain #E Judicial Experience#!" #NT!
+ doctrine_parameter_sjalvolki_hunt_enabled: "Can go on [monster_hunts|E]." #NT!
+ doctrine_parameter_can_catch_sea_creatures: "Can tame aquatic creatures on [monster_hunts|E]." #NT!
+ doctrine_parameter_hunting_archery_building_bonuses: "The #V $building_type_hunting_grounds_01$#! line of [buildings|E] will improve #V Archers#!" #NT!

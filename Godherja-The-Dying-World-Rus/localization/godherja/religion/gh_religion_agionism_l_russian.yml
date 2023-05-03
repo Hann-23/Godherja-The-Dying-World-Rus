@@ -1,0 +1,128 @@
+﻿l_russian:
+  
+ #xyz Loc 
+ agionism_religion: "Agionism" #NT!
+ agionism_religion_adj: "Agionist" #NT!
+ agionism_religion_adjerent: "Agionist" #NT!
+ agionism_religion_adherent_plural: "Agionists" #NT!
+ saintly_order_adherent_plural: "Agionists" #NT!
+ agionism_religion_desc: "Agionism is a religion based around the lives and martyrdoms of various [aversarian|E] reformists, saints, and rebels. While initially against Aversarian religious practices, the end of their rebellions saw their cults "rehabilitated" and reincorporated into the Aversarian fold; the Agionists and Aversarians now share many tenets. They have since established themselves as Crusading Orders in [sarradon|E], seeking to spread the knowledge of their Saints in what has become known as the [saints_war|E]." #NT!
+ agionism_high_god_name: "the Saints" #NT!
+ agionism_high_god_name_possessive: "The Saints'" #NT!
+ agionism_high_god_name_alternate: "The Purest" #NT!
+ agionism_high_god_name_alternate_possessive: "The Purest's" #NT!
+ agionism_devil_name: "the Impure" #NT!
+ agionism_devil_name_possessive: "the Impure's" #NT!
+ agionism_house_of_worship: "naon" #NT!
+ agionism_house_of_worship_plural: "naon" #NT!
+ agionism_religious_symbol: "Holy Blood" #NT!
+ agionism_religious_text: "Lectio Santi" #NT!
+ agionism_religious_head_title: "Ypselos" #NT!
+ agionism_religious_head_title_name: "Eklisa Thekios" #NT!
+ agionism_devotee_male: "Omitilos" #NT!
+ agionism_devotee_male_plural: "Omitilos" #NT!
+ agionism_devotee_female: "Omitilos" #NT!
+ agionism_devotee_female_plural: "Omitilos" #NT!
+ agionism_devotee_neuter: "Omitilos" #NT!
+ agionism_devotee_neuter_plural: "Omitilos" #NT!
+ agionism_priest_male: "Pohnte" #NT!
+ agionism_priest_male_plural: "Pohntes" #NT!
+ agionism_priest_female: "Pohnte" #NT!
+ agionism_priest_female_plural: "Pohntes" #NT!
+ agionism_priest_alt_priest_term: "Lofitis" #NT!
+ agionism_bishop: "Archira" #NT!
+ agionism_bishop_plural: "Archiras" #NT!
+ agionism_positive_afterlife: "Kelos" #NT!
+ agionism_negative_afterlife: "Skotso" #NT!
+ agionism_health_god_name: "Saint Thysia" #NT!
+ agionism_health_god_name_possessive: "Saint Thysia's" #NT!
+ agionism_wealth_god_name: "Saint Philantros" #NT!
+ agionism_wealth_god_name_possessive: "Saint Philantros'" #NT!
+ agionism_household_god_name: "Saint Katharitos" #NT!
+ agionism_household_god_name_possessive: "Saint Katharitos'" #NT!
+ agionism_fate_god_name: "Saint Sansia" #NT!
+ agionism_fate_god_name_possessive: "Saint Sansia's" #NT!
+ agionism_knowledge_god_name: "Saint Dikaynos" #NT!
+ agionism_knowledge_god_name_possessive: "Saint Dikaynos'" #NT!
+ agionism_war_god_name: "Saint Eos" #NT!
+ agionism_war_god_name_possessive: "Saint Eos'" #NT!
+ agionism_trickster_god_name: "Saint Calysto" #NT!
+ agionism_trickster_god_name_possessive: "Saint Calysto's" #NT!
+ agionism_death_deity_name: "the Forgotten Saint" #NT!
+ agionism_death_deity_name_possessive: "the Forgotten Saint's" #NT!
+ agionism_creator_god_name: "$agionism_high_god_name$" #NT!
+ agionism_creator_god_name_possessive: "$agionism_high_god_name_possessive$" #NT!
+ agionism_fertility_god_name: "$agionism_health_god_name$" #NT!
+ agionism_fertility_god_name_possessive: "$agionism_health_god_name_possessive$" #NT!
+ agionism_night_god_name: "$agionism_death_deity_name$" #NT!
+ agionism_night_god_name_possessive: "$agionism_death_deity_name_possessive$" #NT!
+ agionism_water_god_name: "$agionism_trickster_god_name$" #NT!
+ agionism_water_god_name_possessive: "$agionism_trickster_god_name_possessive$" #NT!
+ agionism_witch_god_name: "$agionism_devil_name$" #NT!
+ agionism_witch_god_name_possessive: "$agionism_devil_name_possessive$" #NT!
+ sansia: "Sansianism" #NT!
+ sansia_adj: "Sansianite" #NT!
+ sansia_adherent: "Sansianite" #NT!
+ sansia_adherent_plural: "Sansianites" #NT!
+ sansia_desc: "Devoted to Saint Sansia, Sansianites emphasize self-sacrifice and denial of worldly pleasures in the name of spiritual salvation. Their symbol is a rose, stained by their patroness' blood." #NT!
+ sansia_religious_symbol: "Bloody Rose" #NT!
+ eos: "Eosianism" #NT!
+ eos_adj: "Eosian" #NT!
+ eos_adherent: "Eosian" #NT!
+ eos_adherent_plural: "Eosians" #NT!
+ eos_desc: "Dedicated to Saint Eos, the Forlorn Guardian, Eosians seek to emulate his courage both on and off the battlefield. Their symbol is a sword, blazing with righteous fury" #NT!
+ eos_religious_symbol: "Flaming Sword" #NT!
+ philanthrios: "Philantrosianism" #NT!
+ philanthrios_adj: "Philantrosianite" #NT!
+ philanthrios_adherent: "Philantrosianite" #NT!
+ philanthrios_adherent_plural: "Philantrosianites" #NT!
+ philanthrios_desc: "Followers of Saint Philantros, Philantrosianites collect alms from the wealthy and distribute them to those in need. Their symbol is a gilded hand, stretched outward in charity." #NT!
+ philanthrios_religious_symbol: "Golden Hand" #NT!
+ calysto: "Calystianism" #NT!
+ calysto_adj: "Calystianite" #NT!
+ calysto_adherent: "Calystianite" #NT!
+ calysto_adherent_plural: "Calystianites" #NT!
+ calysto_desc: "Calystianites revere Saint Calysto, who led numerous liberation wars against the Aversarians. Their symbol is two crossed keys, representing freedom from both temporal and spiritual bonds." #NT!
+ calysto_religious_symbol: "Crossed Keys" #NT!
+ thysia: "Thysianism" #NT!
+ thysia_adj: "Thysian" #NT!
+ thysia_adherent: "Thysian" #NT!
+ thysia_adherent_plural: "Thysians" #NT!
+ thysia_desc: "Thysians venerate Saint Thysia, a renowned healer who was executed for selflessly treating both master and slave. Their symbol is a chalice filled with blood, a symbol of both the practice of bloodletting and Thysia's sacrifice." #NT!
+ thysia_religious_symbol: "Bloody Chalice" #NT!
+ katharitos: "Katharitism" #NT!
+ katharitos_adj: "Katharite" #NT!
+ katharitos_adherent: "Katharite" #NT!
+ katharitos_adherent_plural: "Katharites" #NT!
+ katharitos_desc: "Katharites adhere to the teachings of Saint Katharitos, a travelling preacher who told his followers to be pure in flesh and in thought. Their symbol is their founder's staff, to remind them of his journeys." #NT!
+ katharitos_religious_symbol: "Staff of Katharitos" #NT!
+ dikaynos: "Dikaynosianism " #NT!
+ dikaynos_adj: "Dikaynosite" #NT!
+ dikaynos_adherent: "Dikaynosite" #NT!
+ dikaynos_adherent_plural: "Dikaynosites" #NT!
+ dikaynos_desc: "Dikaynosites are named for Saint Dikaynos, a judge so devoted to the law that he committed the entire legal code to memory after being blinded so he could continue his duties. Their symbol is a closed eye, demonstrating that physical sight is unnecessary to see truth." #NT!
+ dikaynos_religious_symbol: "Unseeing Eye" #NT!
+ forgotten: "The Forgotten Cult" #NT!
+ forgotten_adj: "Forgotten Cult" #NT!
+ forgotten_adherent: "Forgotten Cultist" #NT!
+ forgotten_adherent_plural: "Forgotten Cultists" #NT!
+ forgotten_desc: "All details about the Saint this cult worships, even their name, have been lost to time, so adherents wear masks and discourage personal praise in emulation of their patron's lack of identity. Their symbol is the eye of their saint, staring vacantly, unable to focus until their name is uttered once again." #NT!
+ forgotten_religious_symbol: "Forgotten Eye" #NT!
+ eight: "Octarian Agionism" #NT!
+ eight_adj: "Octarian" #NT!
+ eight_adherent: "Octarian" #NT!
+ eight_adherent_plural: "Octarians" #NT!
+ eight_desc: "United, codified, and purified under the eye of the Order of the Forlorn Guardian, Agionism is now unified in their veneration of the Saints who were martyred by the [aversarians|E]. While initially against Aversarian religious practices, the end of their rebellions saw their cults 'rehabilitated' and reincorporated into the Aversarian fold; the Agionists and Aversarians now share many tenets. All Saints previously worshipped are included in the Canon, including the Forgotten Saint." #NT!
+ eight_religious_symbol: "Eight-Pointed Star" #NT!
+ seven_one: "Septarian Agionism" #NT!
+ seven_one_adj: "Septarian" #NT!
+ seven_one_adherent: "Septarian" #NT!
+ seven_one_adherent_plural: "Septarians" #NT!
+ seven_one_desc: "United, codified, and purified under the eye of the Order of the Forlorn Guardian, Agionism is now unified in their veneration of the Saints who were martyred by the [aversarians|E]. While initially against Aversarian religious practices, the end of their rebellions saw their cults 'rehabilitated' and reincorporated into the Aversarian fold; the Agionists and Aversarians now share many tenets. Nearly all Saints previously worshipped are included in the Canon, with one notable exception in the now-heretical Cult of the Forgotten Saint." #NT!
+ seven_one_religious_symbol: "Seven-Pointed Star" #NT!
+ saintly_order: "Monokerixi" #NT!
+ saintly_order_adj: "Monokerixi" #NT!
+ saintly_order_desc: "The Monokerixi, while rejecting the divinity of aautokratirs and holding the Saints to be the only incarnation of the Purest, have still been heavily influenced by traditional [aversarian|E] cultural beliefs. They hold that it was no accident that the Saints chose to manifest in Aversaria, but rather due to the Aversarians' advanced culture increasing their ability to follow the Saints' messages and achieve purity. As such, it is the duty of pious Agionists to spread both Agionist teachings and Aversarian knowledge to the lesser peoples of the world, so that all may benefit from the teachings of the Saints." #NT!
+ agiopolei: "Agiopolei" #NT!
+ agiopolei_adj: "Agiopolei" #NT!
+ agiopolei_desc: "Humanity is hopelessly corrupt, and attempts to save mankind from impurity are futile without the Saints. Therefore the faithful seek isolation from the corruption of the outside world to preserve the Saintly teachings until the 'Second Manifestation', when the Saints shall return to spread their divine teachings as they did in times long past." #NT!

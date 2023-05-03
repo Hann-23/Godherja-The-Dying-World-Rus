@@ -1,0 +1,29 @@
+﻿l_russian:
+ interaction_category_magic: "Magic" #NT!
+  
+ gh_tribal_settlement_interaction: "Encourage Tribal Settlement" #NT!
+ gh_tribal_settlement_interaction_desc: "Invite members of your tribe to settle, rendering the region significantly easier to religiously and culturally convert." #NT!
+ cultural_acceptance_loss_tribal_settlement: "The original settlers of this land has been displaced by your tribe." #NT!
+ challenge_liege: "Challenge Leadership" #NT!
+ challenge_liege_interaction_desc: "Challenge [recipient.GetFirstNameNoTooltip]'s rule in a [trial_by_combat|E] to the death" #NT!
+ CHALLENGE_LIEGE_TEXT: "[recipient.Custom('InsultNoun')|U]! You are not worthy of the [recipient.GetPrimaryTitle.GetName]. Meet me in combat and we will see who deserves to rule!" #NT!
+ ANSWER_SUM_NEGATIVE: "They will not accept" #NT!
+ gh_purge_county_interaction: "Purge County" #NT!
+ gh_purge_county_interaction_desc: "Launch an indiscriminate massacre of the local populace" #NT!
+ gh_purge_county_interaction_result: "You purge the county's populace" #NT!
+ gh_purge_county_interaction_result_1: "You burn and pillage the land" #NT!
+ gh_purge_county_interaction_result_2: "You ravage the countryside, destroying whole villages" #NT!
+ gh_purge_county_interaction_result_3: "You turn whole towns to ash and rubble" #NT!
+ gh_purge_county_interaction_result_4: "You purge the county's populace" #NT!
+ gh_purge_county_interaction_result_5: "You completely replace the original inhabitants" #NT!
+ gh_purge_county_interaction_result_6: "You do not replace the original inhabitants" #NT!
+ cultural_acceptance_loss_purge: "[target.GetName] was purged by a ruler of the [actor.GetCulture.GetName] culture" #NT!
+ dehand_interaction: "Dehand" #NT!
+ dehand_interaction_desc: "Make [recipient.GetShortUINameNoTooltip] [GetTrait('gh_dehanded').GetName( GetPlayer )]" #NT!
+ add_to_magic_list_interaction: "Add to Magic Targets" #NT!
+ add_to_magic_list_desc: "Add [recipient.GetShortUINameNoTooltip] to your spellbook as a potential target" #NT!
+ remove_from_magic_list_interaction: "Remove from Magic Targets" #NT!
+ remove_from_magic_list_desc: "Remove [recipient.GetShortUINameNoTooltip] from my list of potential targets in my spellbook" #NT!
+ amsari_child_kill_interaction: "Quietly Remove the Child from the Succession" #NT!
+ amsari_child_kill_interaction_desc: "There are too many of my children running around....the stability of the Empire could be challenged by these possible pretenders! Something must be done about this..." #NT!
+ happy_heir: "Parent supports our claim" #NT!

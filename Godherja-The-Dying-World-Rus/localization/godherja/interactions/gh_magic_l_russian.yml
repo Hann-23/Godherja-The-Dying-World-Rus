@@ -1,0 +1,25 @@
+﻿l_russian:
+ ethereal_necromancy_possess: "Possess" #NT!
+ ethereal_necromancy_possess_desc: 
+ ethereal_necromancy_possess_notification: "You have been Possessed by a spirit, whispering "advice" into your head and even controlling you at times." #NT!
+  
+ living_magic_thinning_spell: "Thin" #NT!
+ living_magic_thinning_spell_desc: "Cast a spell of Thinning, weakening the target's body for a short time." #NT!
+ thinning_mod_minor: "Magically Weakened" #NT!
+ thinning_mod_mid: "Magically Stricken" #NT!
+ thinning_mod_major: "Magically Withered" #NT!
+ thinning_mod_huge: "Magically Crippled" #NT!
+ living_magic_poison_spell: "Poison" #NT!
+ living_magic_poison_spell_desc: "Cast a spell of Poison, significantly harming the target's health for half a year." #NT!
+ blood_poisoned_mod_minor: "Minor Magical Poisoning" #NT!
+ blood_poisoned_mod_mid: "Significant Magical Poisoning" #NT!
+ blood_poisoned_mod_major: "Major Magical Poisoning" #NT!
+ blood_poisoned_mod_huge: "Lethal Magical Poisoning" #NT!
+ living_magic_domination: "Dominate" #NT!
+ living_magic_domination_desc: "Cast a spell of Domination, twisting the target's mind to be amenable to your views." #NT!
+ living_magic_thralldom: "Enthrall" #NT!
+ living_magic_thralldom_desc: "Cast a spell of Thralldom, making the target a slave to your will." #NT!
+ living_magic_annihilation: "Annihilation" #NT!
+ living_magic_annihilation_desc: "Cast a spell of Annihilation, making the target's capital lose [development|E]" #NT!
+ dead_magic_crush_armor: "Crush Armor" #NT!
+ dead_magic_crush_armor_desc: "Crush the target's armor into their body, causing the target to be in poor health and unable to lead effectively." #NT!

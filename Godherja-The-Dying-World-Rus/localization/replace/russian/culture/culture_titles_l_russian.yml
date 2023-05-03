@@ -1,0 +1,28 @@
+﻿l_russian:
+ #General names: 
+ baron: "Landholder" #NT!
+ baron_female: "Landholder" #NT!
+ barony: "Ward" #NT!
+ count: "Magnate" #NT!
+ count_female: "Magnata" #NT!
+ county: "Territory" #NT!
+ duke: "Lowruler" #NT!
+ duke_female: "Lowruler" #NT!
+ duchy: "Dominion" #NT!
+  
+ baron_plural: "Landholders" #NT!
+ count_plural: "Magnates" #NT!
+ duke_plural: "Lowrulers" #NT!
+  #Default Feudal tiers 
+ baron_feudal_male: "Landholder" #NT!
+ baron_feudal_female: "Landholder" #NT!
+ barony_feudal: "Ward" #NT!
+ count_feudal_male: "Magnate" #NT!
+ count_feudal_female: "Magnata" #NT!
+ county_feudal: "Territory" #NT!
+ duke_feudal_male: "Lowruler" #NT!
+ duke_feudal_female: "Lowruler" #NT!
+ duchy_feudal: "Dominion" #NT!
+ duke_feudal_independent: "Prince" #NT!
+ duke_feudal_independent_female: "Princess" #NT!
+ duchy_feudal_independent: "Principality" #NT!

@@ -1,0 +1,61 @@
+﻿l_russian:
+  
+ #namejisht Loc 
+ namejisht_religion: "Namëjishta" #NT!
+ namejisht_religion_adj: "Namëjisht" #NT!
+ namejisht_religion_adjerent: "Namëjisht" #NT!
+ namejisht_religion_adherent_plural: "Namëjishts" #NT!
+ namejisht_religion_desc: "Changed drastically by existing for millenia as only a secret society among Malcoisiac slaves, the Namëjisht faith is now a faith largely focused on worshipping the idea of freedom, or Namëj. In free Namëjisht communities, freedom is treated almost deifically, with regular festivals celebrating it, and taking another's freedom through slavery seen as sacrilege. There is some indication that Namëjishta originates from another faith prior to its followers enslavement, with some festivals dedicated to \"Namëj\" having seemingly nothing to do with freedom, but little can be determined about the tenets of this original faith." #NT!
+ namejisht_high_god_name: "Namëj" #NT!
+ namejisht_high_god_name_possessive: "Namëj's" #NT!
+ namejisht_high_god_name_alternate: "Freedom" #NT!
+ namejisht_high_god_name_alternate_possessive: "Freedom's" #NT!
+ namejisht_devil_name: "The Enslavers" #NT!
+ namejisht_devil_name_possessive: "The Enslavers'" #NT!
+ namejisht_death_deity_name: "$namejisht_high_god_name$" #NT!
+ namejisht_death_deity_name_possessive: "$namejisht_high_god_name_possessive$" #NT!
+ namejisht_house_of_worship: "field" #NT!
+ namejisht_house_of_worship_plural: "fields" #NT!
+ namejisht_religious_symbol: "bird" #NT!
+ namejisht_religious_text: "tales" #NT!
+ namejisht_religious_head_title: "Land of Namëj" #NT!
+ namejisht_religious_head_title_name: "Vessel of Namëj" #NT!
+ namejisht_devotee: "Namëjisht" #NT!
+ namejisht_devotee_plural: "Namëjishts" #NT!
+ namejisht_priest: "Amara" #NT!
+ namejisht_priest_plural: "Amaras" #NT!
+ namejisht_bishop: "Tësu Amara" #NT!
+ namejisht_bishop_plural: "Tësu Amaras" #NT!
+ namejisht_positive_afterlife: "Eternal Freedom" #NT!
+ namejisht_negative_afterlife: "Imprisonment of Death" #NT!
+ namejisht_pantheon_term: "$namejisht_high_god_name$" #NT!
+ namejisht_creator_god_name: "$namejisht_high_god_name$" #NT!
+ namejisht_creator_god_name_possessive: "$namejisht_high_god_name_possessive$" #NT!
+ namejisht_health_god_name: "$namejisht_high_god_name$" #NT!
+ namejisht_health_god_name_possessive: "$namejisht_high_god_name_possessive$" #NT!
+ namejisht_fertility_god_name: "$namejisht_high_god_name$" #NT!
+ namejisht_fertility_god_name_possessive: "$namejisht_high_god_name_possessive$" #NT!
+ namejisht_wealth_god_name: "$namejisht_high_god_name$" #NT!
+ namejisht_wealth_god_name_possessive: "$namejisht_high_god_name_possessive$" #NT!
+ namejisht_household_god_name: "$namejisht_high_god_name$" #NT!
+ namejisht_household_god_name_possessive: "$namejisht_high_god_name_possessive$" #NT!
+ namejisht_fate_god_name: "$namejisht_devil_name$" #NT!
+ namejisht_fate_god_name_possessive: "$namejisht_devil_name_possessive$" #NT!
+ namejisht_knowledge_god_name: "$namejisht_high_god_name$" #NT!
+ namejisht_knowledge_god_name_possessive: "$namejisht_high_god_name_possessive$" #NT!
+ namejisht_war_god_name: "$namejisht_high_god_name$" #NT!
+ namejisht_war_god_name_possessive: "$namejisht_high_god_name_possessive$" #NT!
+ namejisht_trickster_god_name: "$namejisht_high_god_name$" #NT!
+ namejisht_trickster_god_name_possessive: "$namejisht_high_god_name_possessive$" #NT!
+ namejisht_night_god_name: "$namejisht_high_god_name$" #NT!
+ namejisht_night_god_name_possessive: "$namejisht_high_god_name_possessive$" #NT!
+ namejisht_water_god_name: "$namejisht_high_god_name$" #NT!
+ namejisht_water_god_name_possessive: "$namejisht_high_god_name_possessive$" #NT!
+ namejisht_witch_god_name: "$namejisht_high_god_name$" #NT!
+ namejisht_witch_god_name_possessive: "$namejisht_high_god_name_possessive$" #NT!
+ ghw_namejisht: "War of Freedom" #NT!
+ ghw_namejisht_plural: "Wars of Freedom" #NT!
+ namejisht: "Namëjishta" #NT!
+ namejisht_adj: "Namëjisht" #NT!
+ namejisht_adjerent: "Namëjisht" #NT!
+ namejisht_adherent_plural: "Namëjishts" #NT!

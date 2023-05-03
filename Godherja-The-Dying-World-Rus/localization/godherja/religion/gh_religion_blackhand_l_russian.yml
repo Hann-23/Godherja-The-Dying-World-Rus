@@ -1,0 +1,67 @@
+﻿l_russian:
+  
+ #Black Hand Loc 
+ blackhand_religion: "Cult of the Black Hand" #NT!
+ blackhand_religion_adj: "Black Hand" #NT!
+ blackhand_religion_adherent: "Black Hand" #NT!
+ blackhand_religion_adherent_plural: "Black Hands" #NT!
+ blackhand_religion_desc: "The Cult of the Black Hand was an [aversarian|E] cult centered around an enigmatic figure known as "the Mindseeker." The Cult held the Mindseeker as an all-powerful being and prophet, capable of predicting the future, seeing the past, and of bestowing great powers upon their followers. The Seeker themself preached the idea that all gods are to be rejected and killed, as it is the gods of man which once destroyed the world and would again. Followers of the Mindseeker destroyed all religious iconography and scripture they could, and attempted to learn the "true names" of gods, driven by the belief that speaking a deity's true name would kill them." #NT!
+ blackhand_high_god_name: "the Mindseeker" #NT!
+ blackhand_high_god_name_possessive: "the Mindseeker's" #NT!
+ blackhand_high_god_name_alternate: "the All-Knowing One" #NT!
+ blackhand_high_god_name_alternate_possessive: "the All-Knowing One's" #NT!
+ blackhand_devil_name: "The False Gods" #NT!
+ blackhand_devil_name_possessive: "The False Gods'" #NT!
+ blackhand_death_deity_name: "$blackhand_high_god_name$" #NT!
+ blackhand_death_deity_name_possessive: "$blackhand_high_god_name_possessive$" #NT!
+ blackhand_house_of_worship: "temple" #NT!
+ blackhand_house_of_worship_plural: "temples" #NT!
+ blackhand_religious_symbol: "Mindseeker's sigil" #NT!
+ blackhand_religious_text: "Mindseeker's wisdom" #NT!
+ blackhand_religious_head_title: "High Priest" #NT!
+ blackhand_religious_head_title_name: "Mindseeker's Palace" #NT!
+ blackhand_devotee_male: "acolyte" #NT!
+ blackhand_devotee_male_plural: "acolytes" #NT!
+ blackhand_devotee_female: "acolyte" #NT!
+ blackhand_devotee_female_plural: "acolytes" #NT!
+ blackhand_devotee_neuter: "acolyte" #NT!
+ blackhand_devotee_neuter_plural: "acolytes" #NT!
+ blackhand_priest_male: "servant" #NT!
+ blackhand_priest_male_plural: "servants" #NT!
+ blackhand_priest_female: "servant" #NT!
+ blackhand_priest_female_plural: "servants" #NT!
+ blackhand_priest_alternate_plural: "Disciples" #NT!
+ blackhand_bishop: "Priest" #NT!
+ blackhand_bishop_plural: "Priest" #NT!
+ blackhand_positive_afterlife: "the Mindseeker's realm" #NT!
+ blackhand_negative_afterlife: "the false gods' realm" #NT!
+ blackhand_creator_god_name: "$blackhand_high_god_name$" #NT!
+ blackhand_creator_god_name_possessive: "$blackhand_high_god_name_possessive$" #NT!
+ blackhand_health_god_name: "$blackhand_high_god_name$" #NT!
+ blackhand_health_god_name_possessive: "$blackhand_high_god_name_possessive$" #NT!
+ blackhand_fertility_god_name: "$blackhand_high_god_name$" #NT!
+ blackhand_fertility_god_name_possessive: "$blackhand_high_god_name_possessive$" #NT!
+ blackhand_wealth_god_name: "$blackhand_high_god_name$" #NT!
+ blackhand_wealth_god_name_possessive: "$blackhand_high_god_name_possessive$" #NT!
+ blackhand_household_god_name: "$blackhand_high_god_name$" #NT!
+ blackhand_household_god_name_possessive: "$blackhand_high_god_name_possessive$" #NT!
+ blackhand_fate_god_name: "$blackhand_high_god_name$" #NT!
+ blackhand_fate_god_name_possessive: "$blackhand_high_god_name_possessive$" #NT!
+ blackhand_religion_knowledge_god_name: "$blackhand_high_god_name$" #NT!
+ blackhand_religion_knowledge_god_name_possessive: "$blackhand_high_god_name_possessive$" #NT!
+ blackhand_war_god_name: "$blackhand_high_god_name$" #NT!
+ blackhand_war_god_name_possessive: "$blackhand_high_god_name_possessive$" #NT!
+ blackhand_trickster_god_name: "$blackhand_devil_name$" #NT!
+ blackhand_trickster_god_name_possessive: "$blackhand_devil_name_possessive$" #NT!
+ blackhand_night_god_name: "$blackhand_high_god_name$" #NT!
+ blackhand_night_god_name_possessive: "$blackhand_high_god_name_possessive$" #NT!
+ blackhand_water_god_name: "$blackhand_high_god_name$" #NT!
+ blackhand_water_god_name_possessive: "$blackhand_high_god_name_possessive$" #NT!
+ blackhand_witch_god_name: "$blackhand_health_god_name$" #NT!
+ blackhand_witch_god_name_possessive: "$blackhand_health_god_name_possessive$" #NT!
+  #Black Hand 
+ blackhand: "Cult of the Black Hand" #NT!
+ blackhand_adj: "Cult of the Black Hand" #NT!
+ blackhand_adherent: "Black Hand" #NT!
+ blackhand_adherent_plural: "Black Hands" #NT!
+ blackhand_desc: "The Cult of the Black Hand collapsed and vanished from the public eye after the sudden disappearance of their mysterious leader, the Mindseeker, in 1190. Until their downfall, the Cult had spread like wildfire across Etepezea and portions of Opakhasia, and were most infamous for burning the Nikarynpalati, the millennia-old residence of [aversarian|E] Aautokratirs, to the ground." #NT!

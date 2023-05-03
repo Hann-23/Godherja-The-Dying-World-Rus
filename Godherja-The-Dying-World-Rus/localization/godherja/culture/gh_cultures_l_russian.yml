@@ -1,0 +1,862 @@
+﻿l_russian:
+  # Imperial # 
+ gh_imperial_group: "Aversarian" #NT!
+ gh_imperial_group_collective_noun: "Aversarians" #NT!
+ apokiakas: "Apokiakas" #NT!
+ apokiakas_collective_noun: "Apokiakans" #NT!
+ northernimperial: "Northern Aversarian" #NT!
+ northernimperial_collective_noun: "Aversarians" #NT!
+ easternimperial: "Eastern Aversarian" #NT!
+ easternimperial_collective_noun: "Lomonioi" #NT!
+ easternislander: "Eastern Aversarian Islander" #NT!
+ easternislander_collective_noun: "Eastern Aversarian Islanders" #NT!
+ lomonios: "Lomonios" #NT!
+ southernimperial: "Southern Aversarian" #NT!
+ southernimperial_collective_noun: "Aversarians" #NT!
+ westernimperial: "Western Aversarian" #NT!
+ westernimperial_collective_noun: "Aversarians" #NT!
+ southislander: "Southern Aversarian Islander" #NT!
+ southislander_collective_noun: "Southern Aversarian Islanders" #NT!
+ centralimperial: "Central Aversarian" #NT!
+ centralimperial_collective_noun: "Aversarians" #NT!
+ islander: "Aversarian Islander" #NT!
+ islander_collective_noun: "Aversarian Islanders" #NT!
+ imperialislander: "Imperial Islander" #NT!
+ imperialislander_collective_noun: "Aversarians" #NT!
+ aersodiaxian_islander: "Phaelaxian" #NT!
+ aersodiaxian_islander_collective_noun: "Phaelaxians" #NT!
+ outerislander: "Outer Aversarian Islander" #NT!
+ outerislander_collective_noun: "Outer Aversarian Islanders" #NT!
+ centralislander: "Central Aversarian Islander" #NT!
+ centralislander_collective_noun: "Central Aversarian Islanders" #NT!
+ practitioner: "Practitioner" #NT!
+ practitioner_collective_noun: "Practitioners" #NT!
+ erimatos: "Erimatos" #NT!
+ erimatos_collective_noun: "Erimatoi" #NT!
+ makryenis: "Makryenis" #NT!
+ makryenis_collective_noun: "Makryenians" #NT!
+ agiopadis: "Agiopadis" #NT!
+ agiopadis_collective_noun: "Agiopadii" #NT!
+ aelarvisian: "Aelarvisian" #NT!
+ aelarvisian_collective_noun: "Aelarvisians" #NT!
+ aeviaxian: "Aeviaxian" #NT!
+ aeviaxian_collective_noun: "Aeviaxians" #NT!
+ redrunner: "Redrunner" #NT!
+ redrunner_collective_noun: "Redrunners" #NT!
+ lomonios_collective_noun: "Lomonios" #NT!
+ jalanka: "Jalanka" #NT!
+ jalanka_collective_noun: "Jalakannd" #NT!
+ symvolix: "Symvolix" #NT!
+ symvolix_collective_noun: "Symvolixi" #NT!
+ coldcoaster: "Coldcoaster" #NT!
+ coldcoaster_collective_noun: "Coldcoasters" #NT!
+ dialecender: "Dialecender" #NT!
+ dialecender_collective_noun: "Dialecenders" #NT!
+ abdexorn: "Abdêxorn" #NT!
+ abdexorn_collective_noun: "Abdêxorni" #NT!
+ saradoixa: "Saradoixa" #NT!
+ saradoixa_collective_noun: "Saradoixans" #NT!
+ ypsikenai: "Ypsikenai" #NT!
+ ypsikenai_collective_noun: "Ypsikenais" #NT!
+ enisaloi: "Enisaloi" #NT!
+ enisaloi_collective_noun: "Enisaloi" #NT!
+ vonatolis: "Vonatolis" #NT!
+ vonatolis_collective_noun: "Vonatolisians" #NT!
+ tretosai: "Tretosai" #NT!
+ tretosai_collective_noun: "Tretosaians" #NT!
+ rakosakai: "Rakosakai" #NT!
+ rakosakai_collective_noun: "Rakosakai" #NT!
+ nimakiroi: "Nimakiroi" #NT!
+ nimakiroi_collective_noun: "Nimakiroi" #NT!
+ karadamos: "Karadamos" #NT!
+ karadamos_collective_noun: "Karadamos" #NT!
+  # sjalvolki # 
+ gh_sjalvolki_group: "Sjalvolki" #NT!
+ gh_sjalvolki_group_collective_noun: "Sjalvolki" #NT!
+ adrakamp: "Adrakamp" #NT!
+ adrakamp_collective_noun: "Adrakamp" #NT!
+ barki: "Barki" #NT!
+ barki_collective_noun: "Barki" #NT!
+ caemansi: "Caemansi" #NT!
+ caemansi_collective_noun: "Caemansi" #NT!
+ curgerski: "Curgerski" #NT!
+ curgerski_collective_noun: "Curgerski" #NT!
+ daukeni: "Daukeni" #NT!
+ daukeni_collective_noun: "Daukeni" #NT!
+ fenvir: "Fenvir" #NT!
+ fenvir_collective_noun: "Fenviri" #NT!
+ greulokin: "Greulokin" #NT!
+ greulokin_collective_noun: "Greulokins" #NT!
+ irmionoth: "Irmionoth" #NT!
+ irmionoth_collective_noun: "Irmionoths" #NT!
+ mastikigni: "Mastikigni" #NT!
+ mastikigni_collective_noun: "Mastikigni" #NT!
+ tribocicai: "Tribocicai" #NT!
+ tribocicai_collective_noun: "Tribocicai" #NT!
+ vrodkin: "Vrodkin" #NT!
+ vrodkin_collective_noun: "Vrodkins" #NT!
+ warisnik: "Warisnik" #NT!
+ warisnik_collective_noun: "Warisniki" #NT!
+  #Marcher 
+ gh_marcher_group: "Chevalien" #NT!
+ gh_marcher_group_collective_noun: "Chevaliens" #NT!
+ shewigad: "Shewigad" #NT!
+ shewigad_collective_noun: "Shewigad" #NT!
+ shewigads_collective_noun: "Shewigads" #NT!
+ carsavisians: "Carsavisian" #NT!
+ carsavisians_collective_noun: "Carsavisians" #NT!
+ etrandanexi: "Étrandanexi" #NT!
+ etrandanexi_collective_noun: "Étrandanexi" #NT!
+ rivarisians: "Rivarisian" #NT!
+ rivarisians_collective_noun: "Rivarisians" #NT!
+ salisians: "Salisian" #NT!
+ salisians_collective_noun: "Salisians" #NT!
+ chevalies: "Chevalies" #NT!
+ chevalies_collective_noun: "Chevalies" #NT!
+ voyagen: "Voyagen" #NT!
+ voyagen_collective_noun: "Voyagens" #NT!
+ trustians: "Trustian" #NT!
+ trustians_collective_noun: "Trustians" #NT!
+ oejeynica: "Oejeynican" #NT!
+ oejeynica_collective_noun: "Oejeynicans" #NT!
+ gh_konijkemener_group: "Konijkemener" #NT!
+ gh_konijkemener_group_collective_noun: "Konijkemener" #NT!
+ konijkmener: "Konijkmener" #NT!
+ konijkmener_collective_noun: "Konijkmener" #NT!
+ leegenders: "Leegender" #NT!
+ leegenders_collective_noun: "Leegenders" #NT!
+ envokander: "Envokander" #NT!
+ envokander_collective_noun: "Envokanders" #NT!
+ urdermantern: "Urdermantern" #NT!
+ urdermantern_collective_noun: "Urdermanterners" #NT!
+ gh_ojyczaynz_group: "Ojyczaynz" #NT!
+ gh_ojyczaynz_group_collective_noun: "Ojyczaynz" #NT!
+ ojyczaynz: "Ojyczaynz" #NT!
+ ojyczaynz_collective_noun: "Ojyczaynz" #NT!
+ gisreddean: "Gisreddean" #NT!
+ gisreddean_collective_noun: "Gisreddeans" #NT!
+  #Lerrardin 
+ gh_lerrardin_group: "Lerrardin" #NT!
+ gh_lerrardin_group_collective_noun: "Lerrardins" #NT!
+ amaghean: "Amaghean" #NT!
+ amaghean_collective_noun: "Amaghean" #NT!
+ charchac: "Charchac" #NT!
+ charchac_collective_noun: "Charchacs" #NT!
+ yevamarai: "Yevamarai" #NT!
+ yevamarai_collective_noun: "Yevamarai" #NT!
+ draneti: "Draneti" #NT!
+ draneti_collective_noun: "Draneti" #NT!
+ yylaxxaz: "Yylaxxaz" #NT!
+ yylaxxaz_collective_noun: "Yylaxxazans" #NT!
+ aygaen: "Aygaen" #NT!
+ aygaen_collective_noun: "Aygaens" #NT!
+  #Kherkeloi 
+ gh_kherkeloi_group: "Kherkeloi" #NT!
+ gh_kherkeloi_group_collective_noun: "Kherkeloi" #NT!
+ erkalgani: "Erkalgani" #NT!
+ erkalgani_collective_noun: "Erkalgani" #NT!
+ khodomi: "Khódomi" #NT!
+ khodomi_collective_noun: "Khódomi" #NT!
+ zelkavani: "Zelkavani" #NT!
+ zelkavani_collective_noun: "Zelkavani" #NT!
+ lattani: "Lattani" #NT!
+ lattani_collective_noun: "Lattani" #NT!
+ astilik: "Astilik" #NT!
+ astilik_collective_noun: "Astiliks" #NT!
+ jarakmar: "Ja'Rakmar" #NT!
+ jarakmar_collective_noun: "Ja'Rakmari" #NT!
+  #Abadelos 
+ gh_abadelos_group: "Abadelos" #NT!
+ gh_abadelos_group_collective_noun: "Abadeloi" #NT!
+ gwenuyos: "Gwenuyos" #NT!
+ gwenuyos_collective_noun: "Gwenuyos" #NT!
+ beduleno: "Beduleno" #NT!
+ beduleno_collective_noun: "Bedulenoi" #NT!
+ armanas: "Armanas" #NT!
+ armanas_collective_noun: "Armanai" #NT!
+  #Anandrasi 
+ gh_anandrasi_group: "Anandrasi" #NT!
+ gh_anandrasi_group_collective_noun: "Anandrasi" #NT!
+ diorenic: "Diorenic" #NT!
+ diorenic_collective_noun: "Diorenic" #NT!
+ lorodegi: "Lorodegi" #NT!
+ lorodegi_collective_noun: "Lorodegi" #NT!
+ anorlori: "Anorlori" #NT!
+ anorlori_collective_noun: "Anorlori" #NT!
+  #Shamrania 
+ gh_shamrania_group: "Shamrania" #NT!
+ gh_shamrania_group_collective_noun: "Shamrani" #NT!
+ walakon: "Walakon" #NT!
+ walakon_collective_noun: "Walakoni" #NT!
+ raakiani: "Raakiani" #NT!
+ raakiani_collective_noun: "Raakiani" #NT!
+ makulawti: "Makulawti" #NT!
+ makulawti_collective_noun: "Makulawti" #NT!
+  #Afoseniai 
+ gh_afoseniai_group: "Afoseniai" #NT!
+ gh_afoseniai_group_collective_noun: "Afoseniai" #NT!
+ lakaloi: "Lakaloi" #NT!
+ lakaloi_collective_noun: "Lakaloi" #NT!
+  #Daidenos 
+ gh_daidenos_group: "Daidenos" #NT!
+ gh_daidenos_group_collective_noun: "Daidenosi" #NT!
+ aguadosian: "Aguadosian" #NT!
+ aguadosian_collective_noun: "Aguadosian" #NT!
+  #Skoronyk 
+ gh_skoronyk_group: "Skoronyk" #NT!
+ gh_skoronyk_group_collective_noun: "Skorony" #NT!
+ skoronyk: "Skoronyk" #NT!
+ skoronyk_collective_noun: "Skorony" #NT!
+  #Guillater 
+ gh_guillater_group: "Guillater" #NT!
+ gh_guillater_group_collective_noun: "Guillaters" #NT!
+ guillater: "Guillater" #NT!
+ guillater_collective_noun: "Guillater" #NT!
+ guillater_aversarian: "Neophretitan" #NT!
+ guillater_aversarian_collective_noun: "Neophretites" #NT!
+  #Oghainos 
+ gh_oghainos_group: "Oghainos" #NT!
+ gh_oghainos_group_collective_noun: "Oghainos" #NT!
+ vargenis: "Vargenis" #NT!
+ vargenis_collective_noun: "Vargeni" #NT!
+  #Kelthiunai 
+ gh_kelthiunai_group: "Kelthiunai" #NT!
+ gh_kelthiunai_group_collective_noun: "Kelthiunai" #NT!
+ dasulanoi: "Dasulanoi" #NT!
+ dasulanoi_collective_noun: "Dasulanoi" #NT!
+ theygundarope: "Theygundarope" #NT!
+ theygundarope_collective_noun: "Theygundaropi" #NT!
+ theygundarope_aversarian: "Theisklavoi" #NT!
+ theygundarope_aversarian_collective_noun: "Theisklavos" #NT!
+  #Agadari 
+ gh_agadari_group: "Agadari" #NT!
+ gh_agadari_group_collective_noun: "Agadari" #NT!
+ yaarnami: "Yaar'nami" #NT!
+ yaarnami_collective_noun: "Yaar'nami" #NT!
+ gh_tlakalak_group: "Tlakalak" #NT!
+ gh_tlakalak_group_collective_noun: "Tlakalak" #NT!
+ tlakalak: "Tlakalak" #NT!
+ tlakalak_collective_noun: "Tlakalak" #NT!
+ surugin: "Suru'gin" #NT!
+ surugin_collective_noun: "Suru'gin" #NT!
+  #Daravani 
+ gh_daravani_group: "Daravani" #NT!
+ gh_daravani_group_collective_noun: "Daravani" #NT!
+ ualeren: "Ualêrên" #NT!
+ ualeren_collective_noun: "Ualêrên" #NT!
+ maebalah: "Maebalah" #NT!
+ maebalah_collective_noun: "Maebalahi" #NT!
+  #Balarid 
+ daronid: "Daronid" #NT!
+ daronid_collective_noun: "Daronids" #NT!
+ daronid_prefix: "Daronidian" #NT!
+  #Iyrossi 
+ gh_iyrossi_group: "Iyrossi" #NT!
+ gh_iyrossi_group_collective_noun: "Iyrossi" #NT!
+ cerussiai: "Cerussiai" #NT!
+ cerussiai_collective_noun: "Cerussiai" #NT!
+ deresstae: "Deresstae" #NT!
+ deresstae_collective_noun: "Deresstae" #NT!
+ jassi: "Jassi" #NT!
+ jassi_collective_noun: "Jassi" #NT!
+ kinambrosti: "Kinambrosti" #NT!
+ kinambrosti_collective_noun: "Kinambrosti" #NT!
+ iyronisti: "Iyronisti" #NT!
+ iyronisti_collective_noun: "Iyronisti" #NT!
+ oxalanti: "Oxalanti" #NT!
+ oxalanti_collective_noun: "Oxalanti" #NT!
+ scusstari: "Scusstari" #NT!
+ scusstari_collective_noun: "Scusstari" #NT!
+  #Kikarsag 
+ gh_kikarsag_group: "Kikarsag" #NT!
+ gh_kikarsag_group_collective_noun: "Kikarsaga" #NT!
+ kunsag: "Kunsag" #NT!
+ kunsag_collective_noun: "Kunsagi" #NT!
+ csorsca: "Csorsca" #NT!
+ csorsca_collective_noun: "Csorscan" #NT!
+ sycharcegs: "Sycharcegs" #NT!
+ sycharcegs_collective_noun: "Sycharcegs" #NT!
+ atrakar: "Atrakar" #NT!
+ atrakar_collective_noun: "Atrakari" #NT!
+  #Zarasadari 
+ gh_zarasadari_group: "Zarasadari" #NT!
+ gh_zarasadari_group_collective_noun: "Zarasadari" #NT!
+ amsari: "Amsari" #NT!
+ amsari_collective_noun: "Amsari" #NT!
+ sarthian: "Sarthian" #NT!
+ sarthian_collective_noun: "Sarthians" #NT!
+ hixartii: "Hixartii" #NT!
+ hixartii_collective_noun: "Hixartii" #NT!
+ siralagi: "Siralagi" #NT!
+ siralagi_collective_noun: "Siralagi" #NT!
+ hamaxindi: "Hamaxindi" #NT!
+ hamaxindi_collective_noun: "Hamaxindi" #NT!
+ thyssae: "Thyssae" #NT!
+ thyssae_collective_noun: "Thyssaen" #NT!
+  #Kemsari 
+ gh_kemsar_group: "Kemsari" #NT!
+ gh_kemsar_group_collective_noun: "Kemsari" #NT!
+ ran_kemsari: "Ran Kemsari" #NT!
+ ran_kemsari_collective_noun: "Ran Kemsari" #NT!
+ alewui_kemsari: "Alewui Kemsari" #NT!
+ alewui_kemsari_collective_noun: "Alewui Kemsari" #NT!
+ almajun_kemsari: "Almajun Kemsari" #NT!
+ almajun_kemsari_collective_noun: "Almajun Kemsari" #NT!
+ aljibal_kemsari: "Aljibal Kemsari" #NT!
+ aljibal_kemsari_collective_noun: "Aljibal Kemsari" #NT!
+  #Canian 
+ gh_canian_group: "Canian" #NT!
+ gh_canian_group_collective_noun: "Canian" #NT!
+ leviden: "Leviden" #NT!
+ leviden_collective_noun: "Leviden" #NT!
+ ashital: "Ashital" #NT!
+ ashital_collective_noun: "Ashital" #NT!
+ simevian: "Simevian" #NT!
+ simevian_collective_noun: "Simevian" #NT!
+  #Saradari 
+ gh_saradari_group: "Saradari" #NT!
+ gh_saradari_group_collective_noun: "Saradari" #NT!
+ auzangeb: "Auzangeb" #NT!
+ auzangeb_collective_noun: "Auzangebi" #NT!
+ mirzana_jahar: "Mirzana Jahar" #NT!
+ mirzana_jahar_collective_noun: "Mirzana Jahari" #NT!
+ babura: "Babura" #NT!
+ babura_collective_noun: "Baburan" #NT!
+ jangkar: "Jangkar" #NT!
+ jangkar_collective_noun: "Jangkari" #NT!
+  #Saraddonian 
+ gh_saraddonian_group: "Saraddonian" #NT!
+ gh_saraddonian_group_collective_noun: "Saraddonian" #NT!
+ adnanari: "Adnanari" #NT!
+ adnanari_collective_noun: "Adnanari" #NT!
+ tasurmad: "Tasurmad" #NT!
+ tasurmad_collective_noun: "Tasurmadi" #NT!
+ barzawa: "Barzawa" #NT!
+ barzawa_collective_noun: "Barzawa" #NT!
+ qahsarides: "Qahsarides" #NT!
+ qahsarides_collective_noun: "Qahsarides" #NT!
+ khansaides: "Khansaides" #NT!
+ khansaides_collective_noun: "Khansaides" #NT!
+  #Marmalaid 
+ gh_marmaladid_group: "Mar'maladid" #NT!
+ gh_marmaladid_group_collective_noun: "Mar'maladid" #NT!
+ utyalid: "Utyalid" #NT!
+ utyalid_collective_noun: "Utyalid" #NT!
+ dawasid: "Dawasid" #NT!
+ dawasid_collective_noun: "Dawasid" #NT!
+ mutsartan: "Mutsartan" #NT!
+ mutsartan_collective_noun: "Mutsartan" #NT!
+  #Hadiyan 
+ gh_hadiyan_group: "Hadiyan" #NT!
+ gh_hadiyan_group_collective_noun: "Hadiyan" #NT!
+ adabyann: "Adabyann" #NT!
+ adabyann_collective_noun: "Adabyann" #NT!
+  #Vhanavids 
+ gh_vhanavids_group: "Vhanavid" #NT!
+ gh_vhanavids_group_collective_noun: "Vhanavids" #NT!
+ jaravad: "Jaravad" #NT!
+ jaravad_collective_noun: "Jaravads" #NT!
+ khorinot: "Khorinot" #NT!
+ khorinot_collective_noun: "Khorinots" #NT!
+ murarut: "Mur'ar'ut" #NT!
+ murarut_collective_noun: "Mur'ar'uts" #NT!
+ musar: "Müsar" #NT!
+ musar_collective_noun: "Müsari" #NT!
+ muhadamd: "Muhadam'd" #NT!
+ muhadamd_collective_noun: "Muhadam'd" #NT!
+ kuridorig: "Kuridorig" #NT!
+ kuridorig_collective_noun: "Kuridorig" #NT!
+  #Partic 
+ gh_partic_group: "Partic" #NT!
+ gh_partic_group_collective_noun: "Partic" #NT!
+ auteonic: "Auteonic" #NT!
+ auteonic_collective_noun: "Auteonic" #NT!
+ brigandines: "Brigandine" #NT!
+ brigandines_collective_noun: "Brigandines" #NT!
+ cautocoi: "Cautocoi" #NT!
+ cautocoi_collective_noun: "Cautocoi" #NT!
+ darinic: "Darinic" #NT!
+ darinic_collective_noun: "Darinics" #NT!
+ ivernic: "Ivernic" #NT!
+ ivernic_collective_noun: "Ivernic" #NT!
+ mascatic: "Mascatic" #NT!
+ mascatic_collective_noun: "Mascaticers" #NT!
+ nagandines: "Nagandine" #NT!
+ nagandines_collective_noun: "Nagandines" #NT!
+ velabronic: "Velabronic" #NT!
+ velabronic_collective_noun: "Velabronic" #NT!
+ voluntic: "Voluntic" #NT!
+ voluntic_collective_noun: "Voluntic" #NT!
+  #Fog Eaters 
+ gh_fog_eaters_group: "Fogeater" #NT!
+ gh_fog_eaters_group_collective_noun: "Fogeaters" #NT!
+ fog_eaters: "Fogeater" #NT!
+ fog_eaters_collective_noun: "Fogeaters" #NT!
+  #Samojitian 
+ gh_samojitian_group: "Samojitian" #NT!
+ gh_samojitian_group_collective_noun: "Samojitian" #NT!
+ samojitian: "Samojitian" #NT!
+ samojitian_collective_noun: "Samojitian" #NT!
+ ukininkas: "Ukininkas" #NT!
+ ukininkas_collective_noun: "Ukininkas" #NT!
+ meistras: "Meistras" #NT!
+ meistras_collective_noun: "Meistras" #NT!
+ mineris: "Mineris" #NT!
+ mineris_collective_noun: "Mineris" #NT!
+ skausmas: "Skausmas" #NT!
+ skausmas_collective_noun: "Skausmas" #NT!
+  #Damotan group 
+ gh_damotan_group: "Damotan" #NT!
+ gh_damotan_group_collective_noun: "Damotans" #NT!
+ kawoch: "Kawoch" #NT!
+ kawoch_collective_noun: "Kawochs" #NT!
+ doffore: "Doffore" #NT!
+ doffore_collective_noun: "Doffore" #NT!
+ fedagesh: "Fedagesh" #NT!
+ fedagesh_collective_noun: "Fedagesh" #NT!
+ kutma: "Kutma" #NT!
+ kutma_collective_noun: "Kutma" #NT!
+ #Gallieni Group 
+ gh_gallieni_group: "Gallieni" #NT!
+ gh_gallieni_group_collective_noun: "Gallieni" #NT!
+ gallicads: "Gallicad" #NT!
+ gallicads_collective_noun: "Gallicad" #NT!
+  #sarridians group 
+ gh_sarridian_group: "Sarridian" #NT!
+ gh_sarridian_group_collective_noun: "Sarridian" #NT!
+ sarridians: "Sarridian" #NT!
+ sarridians_collective_noun: "Sarridian" #NT!
+  #Kardwen Group 
+ gh_kardwens_group: "Kardwen" #NT!
+ gh_kardwens_group_collective_noun: "Kardwen" #NT!
+ kardwens: "Kardwen" #NT!
+ kardwens_collective_noun: "Kardwen" #NT!
+  #sarminians group 
+ gh_sarminian_group: "Sarminian" #NT!
+ gh_sarminian_group_collective_noun: "Sarminian" #NT!
+ sarminians: "Sarminian" #NT!
+ sarminians_collective_noun: "Sarminian" #NT!
+  #mondecny group 
+ gh_mondecny_group: "Mondecny" #NT!
+ gh_mondecny_group_collective_noun: "Mondecny" #NT!
+ mondecny: "Mondecny" #NT!
+ mondecny_collective_noun: "Mondecny" #NT!
+  #huegodocs group 
+ gh_huegodocs_group: "Huegodoc" #NT!
+ gh_huegodocs_group_collective_noun: "Huegodoc" #NT!
+ huegodocs: "Huegodoc" #NT!
+ huegodocs_collective_noun: "Huegodoc" #NT!
+  #karzarads group 
+ gh_karzarads_group: "Karzarad" #NT!
+ gh_karzarads_group_collective_noun: "Karzarad" #NT!
+ karzarads: "Karzarad" #NT!
+ karzarads_collective_noun: "Karzarad" #NT!
+  #goans group 
+ gh_goans_group: "Goan" #NT!
+ gh_goans_group_collective_noun: "Goan" #NT!
+ goans: "Goan" #NT!
+ goans_collective_noun: "Goan" #NT!
+  #kathunian group 
+ kathunian: "Kathunian" #NT!
+ kathunian_collective_noun: "Kathunian" #NT!
+ gh_kathunian_group: "Kathunian" #NT!
+ gh_kathunian_group_collective_noun: "Kathunian" #NT!
+ kathunians: "Kathunian" #NT!
+ kathunians_collective_noun: "Kathunian" #NT!
+  #redlander group 
+ redlander: "Redlander" #NT!
+ redlander_collective_noun: "Redlanders" #NT!
+  # Uninhabited 
+ gh_wasteland_group: 
+ wasteland: 
+ wasteland_collective_noun: 
+  #Kharadamatian group 
+ gh_kharadamatian_group: "Kharadamatian" #NT!
+ gh_kharadamatian_group_collective_noun: "Kharadamatian" #NT!
+ jaduyada: "Jaduyada" #NT!
+ jaduyada_collective_noun: "Jaduyadan" #NT!
+ hudi: "Hudi" #NT!
+ hudi_collective_noun: "Hudi" #NT!
+  #Dawic group 
+ gh_dawic_group: "Dawic" #NT!
+ gh_dawic_group_collective_noun: "Dawic" #NT!
+ amuaad: "Amuaad" #NT!
+ amuaad_collective_noun: "Amuaadi" #NT!
+ gh_kosharan_group: "Kosharan" #NT!
+ gh_dezhun_group: "Dezhun" #NT!
+ gh_dezhun_group_collective_noun: "Dezhun" #NT!
+ mazunic: "Mazunic" #NT!
+ mazunic_collective_noun: "Mazunic" #NT!
+ qushyed: "Qushyed" #NT!
+ qushyed_collective_noun: "Qushyed" #NT!
+ #Aekershaan Group 
+ gh_aekershaan_group: "Aekershaan" #NT!
+ gh_aekershaan_group_collective_noun: "Aekershaani" #NT!
+ tagrodar: "Tagrodar" #NT!
+ tagrodar_collective_noun: "Tagrodar" #NT!
+ aaoyuotaa: "Aaoyuot'aa" #NT!
+ aaoyuotaa_collective_noun: "Aaoyuot'aa" #NT!
+ aiyqarbkhiyl: "Aiyqar-B'khiyl" #NT!
+ aiyqarbkhiyl_collective_noun: "Aiyqar-B'khiyl" #NT!
+  #Amaghean group 
+ gh_amaghean_group: "Amaghean" #NT!
+ gh_amaghean_group_collective_noun: "Amaghean" #NT!
+  #Madikirib group 
+ gh_madikirib_group: "Madikrib" #NT!
+ madikirib: "Madikirib" #NT!
+ madikirib_collective_noun: "Madikirib" #NT!
+ madugi: "Madugi" #NT!
+ madugi_collective_noun: "Madugi" #NT!
+  #Kevaali group 
+ gh_kevaali_group: "Kevaali" #NT!
+ gh_kevaali_group_collective_noun: "Kevaali" #NT!
+ prakaani: "Prakaani" #NT!
+ prakaani_collective_noun: "Prakaani" #NT!
+ deraani: "Deraani" #NT!
+ deraani_collective_noun: "Deraani" #NT!
+ samayani: "Samayani" #NT!
+ samayani_collective_noun: "Samayani" #NT!
+  #Veparstva group 
+ gh_veparstva_group: "Veparstva" #NT!
+ gh_veparstva_group_collective_noun: "Veparstva" #NT!
+ rethara: "Rethara" #NT!
+ rethara_collective_noun: "Rethara" #NT!
+ tapuso: "Tapuso" #NT!
+ tapuso_collective_noun: "Tapuso" #NT!
+ rokgana: "Rokgana" #NT!
+ rokgana_collective_noun: "Rokgana" #NT!
+ arolyan: "Arolyan" #NT!
+ arolyan_collective_noun: "Arolyan" #NT!
+ savorna: "Savorna" #NT!
+ savorna_collective_noun: "Savorna" #NT!
+  #Asariyna group 
+ gh_asariyna_group: "Asariyna" #NT!
+ gh_asariyna_group_collective_noun: "Asariyna" #NT!
+ velrika: "Velrika" #NT!
+ velrika_collective_noun: "Velrika" #NT!
+ mahatha: "Mahatha" #NT!
+ mahatha_collective_noun: "Mahatha" #NT!
+ jayakayin: "Jayakayin" #NT!
+ jayakayin_collective_noun: "Jayakayin" #NT!
+ paradila: "Paradila" #NT!
+ paradila_collective_noun: "Paradila" #NT!
+ yayanka: "Yayanka" #NT!
+ yayanka_collective_noun: "Yayanka" #NT!
+ elekraya: "Elekraya" #NT!
+ elekraya_collective_noun: "Elekraya" #NT!
+  #Aembarisa group 
+ gh_aembarisa_group: "Aembarisa" #NT!
+ gh_aembarisa_group_collective_noun: "Aembarisa" #NT!
+ prapataro: "Prapataro" #NT!
+ prapataro_collective_noun: "Prapataro" #NT!
+ garami: "Garami" #NT!
+ garami_collective_noun: "Garami" #NT!
+ saruta: "Saruta" #NT!
+ saruta_collective_noun: "Saruta" #NT!
+ iafarana: "Iafarana" #NT!
+ iafarana_collective_noun: "Iafarana" #NT!
+ ikanita: "Ikanita" #NT!
+ ikanita_collective_noun: "Ikanita" #NT!
+ zalaka: "Zalaka" #NT!
+ zalaka_collective_noun: "Zalaka" #NT!
+  #Margur group 
+ gh_margur_group: "Margur" #NT!
+ gh_margur_group_collective_noun: "Margur" #NT!
+ hokanta: "Hokanta" #NT!
+ hokanta_collective_noun: "Hokanta" #NT!
+ kasanti: "Kasanti" #NT!
+ kasanti_collective_noun: "Kasanti" #NT!
+ hunawi: "Hunawi" #NT!
+ hunawi_collective_noun: "Hunawi" #NT!
+  #Aevakori group 
+ gh_aevakori_group: "Aevakori" #NT!
+ gh_aevakori_group_collective_noun: "Aevakori" #NT!
+ xrahantiia: "Xrahantiia" #NT!
+ xrahantiia_collective_noun: "Xrahantiia" #NT!
+ aezentiam: "Aezentiam" #NT!
+ aezentiam_collective_noun: "Aezentiam" #NT!
+ huxayakha: "Huxayakha" #NT!
+ huxayakha_collective_noun: "Huxayakha" #NT!
+ kadamana: "Kadamana" #NT!
+ kadamana_collective_noun: "Kadamana" #NT!
+ mithaista: "Mithaista" #NT!
+ mithaista_collective_noun: "Mithaista" #NT!
+  #Aafarzay group 
+ gh_aafarzay_group: "Aafarzay" #NT!
+ gh_aafarzay_group_collective_noun: "Aafarzay" #NT!
+ nizhbata: "Nizhbata" #NT!
+ nizhbata_collective_noun: "Nizhbata" #NT!
+ qaanhai: "Qaanhai" #NT!
+ qaanhai_collective_noun: "Qaanhai" #NT!
+ rathzemi: "Rathzemi" #NT!
+ rathzemi_collective_noun: "Rathzemi" #NT!
+ khadaleg: "Khadaleg" #NT!
+ khadaleg_collective_noun: "Khadaleg" #NT!
+  #Chordhan group 
+ gh_chordhan_group: "Chordhan" #NT!
+ gh_chordhan_group_collective_noun: "Chordhan" #NT!
+ sarishta: "Sarishta" #NT!
+ sarishta_collective_noun: "Sarishta" #NT!
+ yevanya: "Yevanya" #NT!
+ yevanya_collective_noun: "Yevanya" #NT!
+ yonata: "Yonata" #NT!
+ yonata_collective_noun: "Yonata" #NT!
+ hadaxma: "Hadaxma" #NT!
+ hadaxma_collective_noun: "Hadaxma" #NT!
+ wafrakat: "Wafrakat" #NT!
+ wafrakat_collective_noun: "Wafrakat" #NT!
+  #Athacaya 
+ gh_athacaya_group: "Athacaya" #NT!
+ gh_athacaya_group_collective_noun: "Athacaya" #NT!
+ taminiai: "Taminiai" #NT!
+ taminiai_collective_noun: "Taminiai" #NT!
+ marakje: "Marakje" #NT!
+ marakje_collective_noun: "Marakje" #NT!
+ avihana: "Avihana" #NT!
+ avihana_collective_noun: "Avihana" #NT!
+ samorihya: "Samorihya" #NT!
+ samorihya_collective_noun: "Samorihya" #NT!
+  #Agnala 
+ gh_agnala_group: "Agnala" #NT!
+ gh_agnala_group_collective_noun: "Agnala" #NT!
+ sindaara: "Sindaara" #NT!
+ sindaara_collective_noun: "Sindaara" #NT!
+ agunaha: "Agunaha" #NT!
+ agunaha_collective_noun: "Agunaha" #NT!
+  #Likarkho 
+ gh_likarkho_group: "Likarkho" #NT!
+ gh_likarkho_group_collective_noun: "Likarkho" #NT!
+ yaknha: "Yaknha" #NT!
+ yaknha_collective_noun: "Yaknha" #NT!
+ siklasa: "Siklasa" #NT!
+ siklasa_collective_noun: "Siklasa" #NT!
+ temala: "Temala" #NT!
+ temala_collective_noun: "Temala" #NT!
+  #Haraja 
+ gh_haraja_group: "Haraja" #NT!
+ gh_haraja_group_collective_noun: "Haraja" #NT!
+ korlona: "Korlona" #NT!
+ korlona_collective_noun: "Korlona" #NT!
+ lainar: "Lainar" #NT!
+ lainar_collective_noun: "Lainar" #NT!
+ qoltaam: "Qoltaam" #NT!
+ qoltaam_collective_noun: "Qoltaam" #NT!
+ kadwana: "Kadwana" #NT!
+ kadwana_collective_noun: "Kadwana" #NT!
+  #Nakahanii 
+ gh_nakahanii_group: "Nakahanii" #NT!
+ gh_nakahanii_group_collective_noun: "Nakahanii" #NT!
+ tehaina: "Tehaina" #NT!
+ tehaina_collective_noun: "Tehaina" #NT!
+ jakana: "Jakana" #NT!
+ jakana_collective_noun: "Jakana" #NT!
+ vanaarik: "Vanaarik" #NT!
+ vanaarik_collective_noun: "Vanaarik" #NT!
+  #khalai 
+ gh_khalai_group: "Khalai" #NT!
+ gh_khalai_group_collective_noun: "Khalai" #NT!
+ vyatari: "Vyatari" #NT!
+ vyatari_collective_noun: "Vyatari" #NT!
+ majanta: "Majanta" #NT!
+ majanta_collective_noun: "Majanta" #NT!
+  #zonthawa 
+ gh_zonthawa_group: "Zonthawa" #NT!
+ gh_zonthawa_group_collective_noun: "Zonthawa" #NT!
+ jankalo: "Jankalo" #NT!
+ jankalo_collective_noun: "Jankalo" #NT!
+ sakankra: "Sakankra" #NT!
+ sakankra_collective_noun: "Sakankra" #NT!
+ telukor: "Telukor" #NT!
+ telukor_collective_noun: "Telukor" #NT!
+ xokola: "Xokola" #NT!
+ xokola_collective_noun: "Xokola" #NT!
+ adani: "Adani" #NT!
+ adani_collective_noun: "Adani" #NT!
+  #adhata 
+ gh_adhata_group: "Adhata" #NT!
+ gh_adhata_group_collective_noun: "Adhata" #NT!
+ paidem: "Paidem" #NT!
+ paidem_collective_noun: "Paidem" #NT!
+ zhenayi: "Zhenayi" #NT!
+ zhenayi_collective_noun: "Zhenayi" #NT!
+ shayuni: "Shayuni" #NT!
+ shayuni_collective_noun: "Shayuni" #NT!
+ virlani: "Virlani" #NT!
+ virlani_collective_noun: "Virlani" #NT!
+  #emanhi 
+ gh_emanhi_group: "Emanhi" #NT!
+ gh_emanhi_group_collective_noun: "Emanhi" #NT!
+ karkit: "Karkit" #NT!
+ karkit_collective_noun: "Karkit" #NT!
+ pyanaki: "Pyanaki" #NT!
+ pyanaki_collective_noun: "Pyanaki" #NT!
+ swabani: "Swabani" #NT!
+ swabani_collective_noun: "Swabani" #NT!
+ yadaniya: "Yadaniya" #NT!
+ yadaniya_collective_noun: "Yadaniya" #NT!
+ ulakada: "Ulakada" #NT!
+ ulakada_collective_noun: "Ulakada" #NT!
+ karana: "Karana" #NT!
+ karana_collective_noun: "Karana" #NT!
+ rahikaya: "Rahikaya" #NT!
+ rahikaya_collective_noun: "Rahikaya" #NT!
+ ekaachi: "Ekaachi" #NT!
+ ekaachi_collective_noun: "Ekaachi" #NT!
+  #rekhala 
+ gh_rekhala_group: "Rekhala" #NT!
+ gh_rekhala_group_collective_noun: "Rekhala" #NT!
+ zabari: "Zabari" #NT!
+ zabari_collective_noun: "Zabari" #NT!
+ tahanati: "Tahanati" #NT!
+ tahanati_collective_noun: "Tahanati" #NT!
+ neshalar: "Neshalar" #NT!
+ neshalar_collective_noun: "Neshalar" #NT!
+ ilahanai: "Ilahanai" #NT!
+ ilahanai_collective_noun: "Ilahanai" #NT!
+  #dayatemi 
+ gh_dayatemi_group: "Dayatemi" #NT!
+ gh_dayatemi_group_collective_noun: "Dayatemi" #NT!
+ zyawtas: "Zyawtas" #NT!
+ zyawtas_collective_noun: "Zyawtas" #NT!
+ uthanata: "Uthanata" #NT!
+ uthanata_collective_noun: "Uthanata" #NT!
+ vaxanaka: "Vaxanaka" #NT!
+ vaxanaka_collective_noun: "Vaxanaka" #NT!
+ zharran: "Zharran" #NT!
+ zharran_collective_noun: "Zharran" #NT!
+ tanumarei: "Tanumarei" #NT!
+ tanumarei_collective_noun: "Tanumarei" #NT!
+ vastarnai: "Vastarnai" #NT!
+ vastarnai_collective_noun: "Vastarnai" #NT!
+ parakh: "Parakh" #NT!
+ parakh_collective_noun: "Parakh" #NT!
+  #khokhuud 
+ gh_khokhuud_group: "Khokhuud" #NT!
+ gh_khokhuud_group_collective_noun: "Khokhuud" #NT!
+ orshinid: "Orshinid" #NT!
+ orshinid_collective_noun: "Orshinid" #NT!
+ holganud: "Holganud" #NT!
+ holganud_collective_noun: "Holganud" #NT!
+ zakhirun: "Zakhirün" #NT!
+ zakhirun_collective_noun: "Zakhirün" #NT!
+  #xajirkel 
+ gh_xajirkel_group: "Xajirkel" #NT!
+ gh_xajirkel_group_collective_noun: "Xajirkel" #NT!
+ nargul: "Nargul" #NT!
+ nargul_collective_noun: "Nargul" #NT!
+ latur: "Latur" #NT!
+ latur_collective_noun: "Latur" #NT!
+ ogantaa: "Organtaa" #NT!
+ ogantaa_collective_noun: "Organtaa" #NT!
+ garbariz: "Garbariz" #NT!
+ garbariz_collective_noun: "Garbariz" #NT!
+ xasamdaas: "Xasamdaas" #NT!
+ xasamdaas_collective_noun: "Xasamdaas" #NT!
+ gh_arapa_group: "Arapa" #NT!
+ gh_arapa_group_collective_noun: "Arapaean" #NT!
+ kirinarth: "Kirinarth" #NT!
+ kirinarth_collective_noun: "Kirinarth" #NT!
+ sinasan: "Sinasan" #NT!
+ sinasan_collective_noun: "Sinasans" #NT!
+ lawgiri: "Lawgiri" #NT!
+ lawgiri_collective_noun: "Lawgiri" #NT!
+  #Cave tribes 
+ gh_cavetribe_group: "Cave Tribe" #NT!
+ gh_cavetribe_group_collective_noun: "Cave Tribe" #NT!
+ aeulikain: "Aeulikain" #NT!
+ aeulikain_collective_noun: "Aeulikain" #NT!
+ carkarain: "Carkarain" #NT!
+ carkarain_collective_noun: "Carkarain" #NT!
+ karannin: "Karannin" #NT!
+ karannin_collective_noun: "Karannin" #NT!
+ penetworin: "Penetworin" #NT!
+ penetworin_collective_noun: "Penetworin" #NT!
+ nevtanei: "Nevtanei" #NT!
+ nevtanei_collective_noun: "Nevtanei" #NT!
+ merdelavi: "Merdelavi" #NT!
+ merdelavi_collective_noun: "Merdelavi" #NT!
+ mahratian: "Mahratian" #NT!
+ mahratian_collective_noun: "Mahratian" #NT!
+ akhtarfi: "Akhtarfi" #NT!
+ akhtarfi_collective_noun: "Akhtarfi" #NT!
+ ghudiyy: "Ghudiyy" #NT!
+ ghudiyy_collective_noun: "Ghudiyy" #NT!
+ gwasillikh: "Gwasillikh" #NT!
+ gwasillikh_collective_noun: "Gwasillikh" #NT!
+ asarey: "Asarey" #NT!
+ asarey_collective_noun: "Asarey" #NT!
+ takopara: "Takopara" #NT!
+ takopara_collective_noun: "Takopara" #NT!
+ theugombrians: "Theugombrian" #NT!
+ theugombrians_collective_noun: "Theugombrians" #NT!
+ gh_theugombrians_group: "Theugombrian" #NT!
+ ogantea: "Ogantea" #NT!
+ ogantea_collective_noun: "Ogantea" #NT!
+ tafara: "Tafara" #NT!
+ tafara_collective_noun: "Tafara" #NT!
+ ndoufre: "Ndoufra" #NT!
+ ndoufre_collective_noun: "Ndoufre" #NT!
+ gh_redlanders_group: "Redlander" #NT!
+ gh_takopara_group: "Takopara" #NT!
+ gh_zanaumaures_group: "Zanaumares" #NT!
+ leriseb: "Leriseb" #NT!
+ leriseb_collective_noun: "Leriseb" #NT!
+ saruyad: "Saruyad" #NT!
+ saruyad_collective_noun: "Saruyad" #NT!
+ aslalti: "Aslalti" #NT!
+ aslalti_collective_noun: "Aslalti" #NT!
+ averkathuni: "Axeizu" #NT!
+ averkathuni_collective_noun: "Axeizu" #NT!
+ dubadin: "Dubadin" #NT!
+ dubadin_collective_noun: "Dubadins" #NT!
+ saielaian: "Saielaian" #NT!
+ saielaian_collective_noun: "Saielaians" #NT!
+  #Mtuwe group 
+ gh_mtuwe_group: "Mtuwê" #NT!
+ gh_mtuwe_group_collective_noun: "Mtuwê" #NT!
+ mtuwe: "Mtuwê" #NT!
+ mtuwe_collective_noun: "Mtuwê" #NT!
+  #Daikheni group 
+ gh_daikheni_group: "Daikhenì" #NT!
+ gh_daikheni_group_collective_noun: "Daikhenì" #NT!
+ hmaceak: "Hmacèak" #NT!
+ hmaceak_collective_noun: "Hmacèak" #NT!
+ dergi: "Dergi" #NT!
+ dergi_collective_noun: "Dergii" #NT!
+ enynanthari: "Enynanthari" #NT!
+ enynanthari_collective_noun: "Enynantharias" #NT!
+ erridai: "Erridai" #NT!
+ erridai_collective_noun: "Erridians" #NT!
+ marndeoticeni: "Marndeoticeni" #NT!
+ marndeoticeni_collective_noun: "Marndeoticenii" #NT!
+ iseni: "Iseñi" #NT!
+ iseni_collective_noun: "Iseñae" #NT!
+ sceyfig_lighter: "Scæyfig Lighter" #NT!
+ sceyfig_lighter_collective_noun: "Scæyfig Lighters" #NT!
+ bricotaves: "Bricotave" #NT!
+ bricotaves_collective_noun: "Bricotaves" #NT!
+ ardothanes: "Ardothane" #NT!
+ ardothanes_collective_noun: "Ardothanes" #NT!
+ ordikin: "Ordikin" #NT!
+ ordikin_collective_noun: "Ordikin" #NT!
+ corvosnari: "Corvosnari" #NT!
+ corvosnari_collective_noun: "Corvosnari" #NT!
+ drothacny: "Drothacny" #NT!
+ drothacny_collective_noun: "Drothacny" #NT!
+ drothacny_prefix: "Drothac" #NT!
+ watumimba: "Watumimba" #NT!
+ watumimba_collective_noun: "Watumimba" #NT!
+ watumimba_prefix: "Watumimbas" #NT!
+ ouwabadin: "Ouwabadin" #NT!
+ ouwabadin_collective_noun: "Ouwabadin" #NT!
+ ouwabadin_prefix: "Ouwabadin" #NT!
+ siltwalker: "Siltwalker" #NT!
+ siltwalker_collective_noun: "Siltwalkers" #NT!
+ siltwalker_prefix: "Siltwalker" #NT!
+ dadkawji: "Dadkawji" #NT!
+ dadkawji_collective_noun: "Dadkawji" #NT!
+ dadkawji_prefix: "Dadkawjese" #NT!
+ izikalek: "Izikalek" #NT!
+ izikalek_collective_noun: "Izikalek" #NT!
+ balauri: "Balauri" #NT!
+ balauri_collective_noun: "Balauri" #NT!

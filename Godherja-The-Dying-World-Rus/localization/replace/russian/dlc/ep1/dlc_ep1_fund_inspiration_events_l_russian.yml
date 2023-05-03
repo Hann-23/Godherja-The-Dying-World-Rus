@@ -1,0 +1,51 @@
+﻿l_russian:
+  
+  ########################### 
+  #  INSPIRATION ONGOING 
+ fund_inspiration.2070.desc.hashishiyah: "I am told of the great quantities of chort which [inspiration_owner.GetFirstNameNoTooltip] spends [inspiration_owner.GetHerHis] funding on, before locking [inspiration_owner.GetHerselfHimself] away in the dark." #NT!
+ ## Postcards from your Adventurer by Isabella Welch 
+ #Aironoi I 
+ fund_inspiration.6001.t: "The Steppe and saddle gallop through my heart," #NT!
+ fund_inspiration.6001.desc: "I have riding for months on end. My rear shall never recover! I've acquired quite the taste for fermented mare's milk and nights beneath the open sky.\n\nWith this courier, I send a carved tip of a Morin Khuur — the decorative horse head placed atop instruments. Perhaps you have a use for it." #NT!
+ fund_inspiration.6001.a: "I'll hold onto this!" #NT!
+ fund_inspiration.6001.b: "Send it to the Court Musician." #NT!
+ #Kashirya 
+ fund_inspiration.6002.t: "My jaunt through Kashirya marches on!" #NT!
+ fund_inspiration.6002.desc: "I am near-blinded by all the gems the courts I visit have to show me. I find myself yearning for the filth of the open road.\n\nI have sent a courier with a particularly tasteless gift I was given — a tiger's head ornament on a ring, with jewels for eyes. Have you ever seen something so garish?" #NT!
+ fund_inspiration.6002.a: "I rather like it, it's his loss." #NT!
+ fund_inspiration.6002.b: "Ghastly! Take it apart and sell the gems." #NT!
+ #Sarradon 
+ fund_inspiration.6003.t: "I dream of the desert," #NT!
+ fund_inspiration.6003.desc: "My liege, my journey to Sarradon is underway, and I have joined a camel train traversing the width of the land.\n\nI send to you a piece of jewelry one of my fellow travelers granted me — a most delicate necklace covered in ostrich shell beads. I suppose you haven't seen an ostrich." #NT!
+ fund_inspiration.6003.a: "A fine find! I will wear it myself." #NT!
+ fund_inspiration.6003.b: "I shall give it to [event_spouse.GetTitledFirstNameNoTooltip]." #NT!
+ #Sarradon (Pilgrimage areas) 
+ fund_inspiration.6004.t: "Ah, to be a pilgrim," #NT!
+ fund_inspiration.6004.desc: "My journey through Sarradon has mostly involved fighting off hoards of peddlers on the pilgrim-paths.\n\nOft, in order not to delay my quest over-long, I give in and buy one of their little trinkets. I have sent a courier bearing the tat your way. Perhaps it shall provide some amusement." #NT!
+ fund_inspiration.6004.a: "What use is an adventurer who takes the common path?" #NT!
+ fund_inspiration.6004.b: "These are some pretty baubles..." #NT!
+ #Europe (Disabled) 
+ fund_inspiration.6005.t: "My adventures are sodden," #NT!
+ fund_inspiration.6005.desc: "My Lord, I have found a few trite relics so far in my adventures, which I have sent with this courier, but I am unsure what I may uncover next.\n\nThe Europeans are the smelliest creatures I have encountered. As a child, I dreamt of the green and pleasant meadows, but I am convinced half of this world is made of mud. If you are a gracious liege, please send word to call me back." #NT!
+ fund_inspiration.6005.a: "This isn't a holiday! Quest on!" #NT!
+ fund_inspiration.6005.b: "Poor soul, I suppose these rewards shall suffice." #NT!
+ fund_inspiration.6005.b.tt: "You permit [inspiration_owner.GetTitledFirstName] to return home" #NT!
+ #Aironoi II 
+ fund_inspiration.6006.t: "Greetings from Aironoi," #NT!
+ fund_inspiration.6006.desc: "My travels throughout Aironoi have left me with quite a taste for lamb, yogurt and eggplants, and I have sent some recipes along with this courier.\n\nI have been given a golden brooch adorned with a seahorse by one of my hosts, which I also send to you. I'm certain my travels will bring further wonders in due time." #NT!
+ fund_inspiration.6006.a: "Order our chefs to prepare these dishes at once!" #NT!
+ fund_inspiration.6006.b: "[inspiration_owner.GetSheHe|U] seems to be having too much fun on this quest..." #NT!
+ #Aironoi III 
+ fund_inspiration.6503.t: "$fund_inspiration.title$ Whispers of the Past" #NT!
+ fund_inspiration.6503.desc: "\n\n'I have delved into a Kurgan, an ancient burial mound made by the Ölteni. Hundreds of long-perished horses, stuffed, preserved, and staked to the walls to stand upright, each with their own room. It was a stable for the damned, lost to time.\n\n'Knowing of my duty to seek knowledge for our realm, I considered stealing a relic from the tomb when my guide was not watching to bring to you." #NT!
+ fund_inspiration.6503.a: "You pocketed one of the ornaments." #NT!
+ fund_inspiration.6503.b: "You brought one of the horses' saddles, for our study." #NT!
+ fund_inspiration.6503.c: "You didn't dare disturb the dead." #NT!
+ #Fund Alchemical Text 
+ fund_inspiration.8013.t: "$fund_inspiration.title$ An Alchemical Treasure" #NT!
+ fund_inspiration.8013.desc: ""My [ROOT.Char.GetLadyLord]," My alchemist [inspiration_owner.GetTitledFirstName] practically runs up to me, giddy as a child.\n\n"I found this book when visiting the market in [barony_market.GetName]. It is a book attributed to the fabled alchemist Alqama A'Bahlith – the master himself! At least according to the merchant... Nevertheless, just imagine the wealth of knowledge contained within!"" #NT!
+ fund_inspiration.8013.a: "Thank you, I will study this." #NT!
+ fund_inspiration.8013.a_tt: "You keep the book" #NT!
+ fund_inspiration.8013.b: "I trust you will make good use of the book." #NT!
+ fund_inspiration.8013.b_tt: "You give the book to [inspiration_owner.GetShortUINameNoTooltip]" #NT!
+ fund_inspiration.8013.c: "What a find! It is sure to fetch a hefty price." #NT!

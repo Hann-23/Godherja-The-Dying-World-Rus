@@ -1,0 +1,26 @@
+﻿l_russian:
+  
+  ########### 
+  # General # 
+ SMALL_FAITH_CONVERSION_PENALTY: "Target faith has less than 6 counties" #NT!
+ TRIBAL_SETTLEMENT_BONUS: "Target of tribal settlement" #NT!
+ COURT_CHAPLAIN_CONVERSION_SPREAD_THE_LIGHT_MODIFIER: "[councillor.GetFaith.GetName] — [GetFaithDoctrine('tenet_spread_the_light').GetBaseName]" #NT!
+  ################# 
+  # Quartermaster # 
+ QUARTERMASTER_PROGRESS_BASE: "Base" #NT!
+ SCALED_COUNCILLOR_STEWARDSHIP_VALUE: "[councillor.GetCouncilTitle] [councillor.GetFirstNamePossessive] Stewardship Skill" #NT!
+ ESTABLISH_SHADOW_PORT_DYNASTY_PERK_BONUS_VALUE: "[GetDynastyPerk('erudition_legacy_5').GetName]" #NT!
+ CULTURE_CONVERSION_COUNTY_FAITH_TRIGGER: "Can only convert the culture counties of your [faith|E]" #NT!
+ CULTURE_CONVERSATION_COUNTY_CONDITIONS_TRIGGER: "Can only convert the culture of counties that are either the capital of an independent ruler, or neighbouring another county of your culture, or coastal and near a coastal county of your culture." #NT!
+  ################### 
+  # Wardenism Perks # 
+ INTEGRATE_TITLE_JUDICIAL_COUNCIL_DYNASTY_PERK_BONUS_VALUE: "[GetDynastyPerk('wardenite_legacy_3').GetName]" #NT!
+ FABRICATE_CLAIM_LEGALISM_DYNASTY_PERK_BONUS_VALUE: "[GetDynastyPerk('wardenite_legacy_3').GetName]" #NT!
+ CONVERSION_LEGALISM_DYNASTY_PERK_BONUS_VALUE: "[GetDynastyPerk('wardenite_legacy_3').GetName]" #NT!
+ JUDICIAL_COUNCIL_DYNASTY_PERK_BONUS_VALUE: "[GetDynastyPerk('wardenite_legacy_3').GetName]" #NT!
+ task_religious_relations_effect_desc_wardenite_legacy_bonus_opinion: "\n$TAB$[GetDynastyPerk('wardenite_legacy_3').GetName]: #P +#![SCOPE.ScriptValue('court_chaplain_religious_relations_opinion_max_legalism_modifier')|P]" #NT!
+ task_religious_relations_effect_desc_wardenite_legacy_bonus_piety: "\n$TAB$[GetDynastyPerk('wardenite_legacy_3').GetName]: #P +[SCOPE.ScriptValue('court_chaplain_religious_relations_legalism_legacy_3_bonus_modifier')]#!" #NT!
+ task_collect_taxes_judicial_council_bonus_desc: "\n$TAB$[GetDynastyPerk('wardenite_legacy_3').GetName]: #P +[SCOPE.ScriptValue('steward_collect_taxes_judicial_council_bonus_scale')|2]%#!" #NT!
+ task_domestic_affairs_judicial_council_bonus_desc: "\n$TAB$[GetDynastyPerk('wardenite_legacy_3').GetName]: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_judicial_council_bonus')|2]#!" #NT!
+ task_foreign_affairs_effect_desc_judicial_council_bonus_opinion: "\n$TAB$[GetDynastyPerk('wardenite_legacy_3').GetName]: #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_opinion_max_judicial_council_modifier')|P]" #NT!
+ task_foreign_affairs_effect_desc_judicial_council_bonus_prestige: "\n$TAB$[GetDynastyPerk('wardenite_legacy_3').GetName]:  #P +#![SCOPE.ScriptValue('chancellor_foreign_affairs_prestige_gain_judicial_council_modifier')|P]" #NT!

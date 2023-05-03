@@ -1,0 +1,40 @@
+﻿l_russian:
+  #Generic Lines 
+ historical_commander_trait.reject.tt: "#F You will look elsewhere for inspiration #!" #NT!
+  
+  #Hannibal - Pothacleas 
+ historical_commander_trait.0001.t: "The Last Iyrossi" #NT!
+ historical_commander_trait.0001.desc: "While studying the tactics of ancient generals I was [ROOT.Char.Custom('surprised_reaction')] to learn about the exploits of Pothacleas during the Iyrossi Wars:\n\n#F Known as 'The Last Iyrossi', Pothacleas was the last independent Iyrossi ruler in ancient history, and legendarily caused massive casualties during the Mytidon Campaign, where Iyrossi militas fought a running battle and focused on guerilla tactics, causing over 10,000 [aversarian|E] soldiers to freeze during the winter. Pothacleas earned enough respect for the Aversarians to accept his surrender and his request for the Iyrossi to be spared - though they were spared to a life of slavery, and Pothacleas was devoured by an Aversarian [dragon|E].#!" #NT!
+ historical_commander_trait.0001.a: "Like Pothacleas I will fight to the bitter end!" #NT!
+ historical_commander_trait.0001.b: "Pothacleas' guerilla tactics were truly inspired." #NT!
+ historical_commander_trait.0001.c: "Quick thinking was what carried Pothacleas." #NT!
+ historical_commander_trait.0001.d: "Bah! He was a fool, fighting his hopeless war." #NT!
+ historical_commander_trait.0001.d.good: "Brutality is not a trait to be envied, even in war." #NT!
+  #Caesar - Lethigianex 
+ historical_commander_trait.0002.t: "The Cruel Lethigianex" #NT!
+ historical_commander_trait.0002.desc: "While studying the tactics of ancient generals I was amused to learn about Lethigianex's exploits during his the War of the Thousand Dragons.\n\n#F After Dhacixen came to meet him to discuss a possible treaty, Lethigianex imprisoned him, his [dragon|E], and retainers and swiftly brought them to Dhacixen's capital in [GetTitleByKey('c_oraispol').GetNameNoTier]. Lethigianex had them all tortured in front of the walls of [GetTitleByKey('c_oraispol').GetNameNoTier] for almost two weeks before the gates were opened, at which point Lethigianex had his enemies throat slit and the city torched.#!" #NT!
+ historical_commander_trait.0002.a: "There's more than one way to end a siege..." #NT!
+ historical_commander_trait.0002.b: "Make the enemy come to you! I like it!" #NT!
+ historical_commander_trait.0002.c: "The plan was dangerous, but it surely paid off." #NT!
+ historical_commander_trait.0002.d: "Wars just aren't fought like that these days..." #NT!
+  #Alexander - Sansia 
+ historical_commander_trait.0003.t: "The Shrewd Sansia" #NT!
+ historical_commander_trait.0003.desc: "While studying the tactics of ancient generals I was [ROOT.Char.Custom('surprised_reaction')] to learn about the exploits of Saint Sansia during her battles in the Agionist Rebellions.\n\n#F During the Second Siege of Adrigora, Sansia ordered sappers to expand the moat of the local fortress to the confusion of the Opakhasian defenders. She then led a raid on the docked local fleet and captured a vessel, ordering it sailed into the moat and wrecked near the castle's wall. Sansia used the vessel as a causeway to allow a siege tower to reach the wall, the defenders surrendering soon after the first breach.#!" #NT!
+ historical_commander_trait.0003.a: "No amount of water will stop my armies!" #NT!
+ historical_commander_trait.0003.b: "That bridge was a feat of great ingenuity." #NT!
+ historical_commander_trait.0003.c: "Turning my foe's resources against them? Brilliant!" #NT!
+ historical_commander_trait.0003.d: "Why waste time studying tactics which didn't work?" #NT!
+  #Constantine - Maklea 
+ historical_commander_trait.0004.t: "The Might of the Purest" #NT!
+ historical_commander_trait.0004.desc: "While studying the tactics of ancient generals I was inspired when I learned about Maklea's victory at the Sorrowing of the Tawny Loe.\n\n#F Before the battle, Maklea declared that her blood was that of the Purest, and cutting open her palm, pressed her hand to each soldier's shield. She declared as long as her blood protected them, they would not falter, and that any who did not slay at least ten men in her name would be flayed alive for such disrespect. They did just as demanded, and her soldiers charged across the local river and wiped out the last great horde of the Mygotti tribals despite being out-numbered two to one.#!" #NT!
+ historical_commander_trait.0004.a: "The wicked are no match for the Purest's armies!" #NT!
+ historical_commander_trait.0004.b: "Like Maklea, no river can delay my victory!" #NT!
+ historical_commander_trait.0004.c: "Logically speaking, flexible tactics won that battle." #NT!
+ historical_commander_trait.0004.d: "Tricks to bolster morale aren't enough to win wars!" #NT!
+  #Khalid ibn al-Walid 
+ historical_commander_trait.0005.t: "The Tower's Blade" #NT!
+ historical_commander_trait.0005.desc: "While studying the tactics of historical generals I became contemplative upon learning about Aband ibn Khaldiyya's campaign against the Wardenites.\n\n#F With [GetBuilding('sophocos_01').GetName] defenseless due to the betrayal of Ali Mahand and his cabal of fallen Magi and his army too battered to defeat both Mahand and his new Wardenite allies, Aband rallied his forces for a defiant last stand at Dowrabeh where it is said his army defeated six times their number that day. With the Wardenites forced to retreat, Aband withdrew to the east and rebuilt his forces, then would return to end the siege of [GetBuilding('sophocos_01').GetName] by finally destroying the Wardenite army and bringing Mahand to justice!#!" #NT!
+ historical_commander_trait.0005.a: "Those who fight in the name of [GetBuilding('sophocos_01').GetName] will be victorious!" #NT!
+ historical_commander_trait.0005.b: "Devotion keeps us strong when outnumbered." #NT!
+ historical_commander_trait.0005.c: "Knowing #EMP when#! to fight is as important as knowing #EMP how#!." #NT!
+ historical_commander_trait.0005.d: "Why celebrate an embarrassing defeat?" #NT!

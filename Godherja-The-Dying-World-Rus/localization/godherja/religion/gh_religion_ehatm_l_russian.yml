@@ -1,0 +1,63 @@
+﻿l_russian:
+  
+ ehatm: "E'hat'm" #NT!
+ ehatm_adj: "E'hat'mic" #NT!
+ ehatm_adherent: "E'hat'mian" #NT!
+ ehatm_adherent_plural: "E'hat'mians" #NT!
+ ehatm_desc: "Once the dominant faith of the islands of Krehejad, E'hat'm is the belief in the 'Sister-Mother', Corihot and Coryqet, the sister of humanity and mother of humanity who are both separate entities while also being two aspects of the same divinity. Coryqet, taking the form of the sun, created an infinite sea before creating her daughter Corihot (who takes the form of [aervalr|E]). Corihot would raise up land from the sea so that they could share their creation, and wishing for her daughter to have company when she passed to the other side of their planet, Coryqet would create all life and allow Corihot to watch over them at night while she did so in the day.\n\nA matriarchal and nautical culture, the E'hat'm were once known as terrifying pirates that menaced shipping across the south who would raid as far as [aversaria|E] before its formation. To the E'hat'm, women are the ones who control the seas due to it having been created by the female gods, while men are to keep the land safe so that the women may better bring forth the bounty of the sea. To this end, most E'hat'mian pirate vessels were entirely crewed by warrior-women, which was the foundation for many fables that would then after the mythology of Aversaria and many other cultures.\n\nE'hat'm migrated as a faith to Cyrat when the Aversarians finally deemed the E'hat'm's constant piracy and attempts at colonization were becoming a serious nuisance to the Empire. Aautokratia Paleas would order the E'hat'm people put to the sword to pay for centuries of raiding, and those of the people that survived would flee to their disparate colonies in the southwest. Since then, the faith has adapted to their new home, though the faithful still yearn for their homeland, and believe that the destruction of Aervalr in [frodbrokna|E] was the result of their exile." #NT!
+ ehatm_religion: "E'hat'm" #NT!
+ ehatm_religion_adj: "Krehejadic" #NT!
+ ehatm_high_god_name: "Corihot" #NT!
+ ehatm_high_god_name_possessive: "Corihot's" #NT!
+ ehatm_high_god_name_alternate: "$ehatm_high_god_name$" #NT!
+ ehatm_high_god_name_alternate_possessive: "$ehatm_high_god_name$_possessive" #NT!
+ ehatm_devil_name: "The Beast" #NT!
+ ehatm_devil_name_possessive: "The Beast's" #NT!
+ ehatm_death_deity_name: "$ehatm_high_god_name$" #NT!
+ ehatm_death_deity_name_possessive: "$ehatm_high_god_name_possessive$" #NT!
+ ehatm_house_of_worship: "Temple" #NT!
+ ehatm_house_of_worship_plural: "Temples" #NT!
+ ehatm_religious_symbol: "The Sisters" #NT!
+ ehatm_religious_text: "The Story of the Sisters" #NT!
+ ehatm_religious_head_title: "ehatm_religious_head_title" #NT!
+ ehatm_religious_head_title_name: "ehatm_religious_head_title_name" #NT!
+ ehatm_devotee_male: "E'hat'mian" #NT!
+ ehatm_devotee_male_plural: "E'hat'mians" #NT!
+ ehatm_devotee_female: "E'hat'mian" #NT!
+ ehatm_devotee_female_plural: "E'hat'mians" #NT!
+ ehatm_devotee_neuter: "E'hat'mian" #NT!
+ ehatm_devotee_neuter_plural: "E'hat'mians" #NT!
+ ehatm_priest_male: "E'bed" #NT!
+ ehatm_priest_male_plural: "E'bedim" #NT!
+ ehatm_priest_female: "Ma't" #NT!
+ ehatm_priest_female_plural: "Ma'tim" #NT!
+ ehatm_priest_alternate: "Ma't" #NT!
+ ehatm_priest_alternate_plural: "Ma'tim" #NT!
+ ehatm_bishop: "Miqimel" #NT!
+ ehatm_bishop_plural: "Miqimelim" #NT!
+ ehatm_positive_afterlife: "Merez" #NT!
+ ehatm_negative_afterlife: "Molk" #NT!
+ ehatm_creator_god_name: "$ehatm_high_god_name$" #NT!
+ ehatm_creator_god_name_possessive: "$ehatm_high_god_name_possessive$" #NT!
+ ehatm_health_god_name: "$ehatm_high_god_name$" #NT!
+ ehatm_health_god_name_possessive: "$ehatm_high_god_name_possessive$" #NT!
+ ehatm_fertility_god_name: "$ehatm_high_god_name$" #NT!
+ ehatm_fertility_god_name_possessive: "$ehatm_high_god_name_possessive$" #NT!
+ ehatm_wealth_god_name: "Coryqet" #NT!
+ ehatm_wealth_god_name_possessive: "Coryqet's" #NT!
+ ehatm_household_god_name: "$ehatm_wealth_god_name$" #NT!
+ ehatm_household_god_name_possessive: "$ehatm_wealth_god_name_possessive$" #NT!
+ ehatm_fate_god_name: "$ehatm_high_god_name$" #NT!
+ ehatm_fate_god_name_possessive: "$ehatm_high_god_name_possessive$" #NT!
+ ehatm_knowledge_god_name: "$ehatm_high_god_name$" #NT!
+ ehatm_knowledge_god_name_possessive: "$ehatm_high_god_name_possessive$" #NT!
+ ehatm_war_god_name: "$ehatm_devil_name$" #NT!
+ ehatm_war_god_name_possessive: "$ehatm_devil_name_possessive$" #NT!
+ ehatm_trickster_god_name: "Balam" #NT!
+ ehatm_trickster_god_name_possessive: "Balam's" #NT!
+ ehatm_night_god_name: "$ehatm_devil_name$" #NT!
+ ehatm_night_god_name_possessive: "$ehatm_devil_name_possessive$" #NT!
+ ehatm_water_god_name: "$ehatm_high_god_name$" #NT!
+ ehatm_water_god_name_possessive: "Derya's" #NT!
+ ehatm_witch_god_name: "$ehatm_devil_name$" #NT!
+ ehatm_witch_god_name_possessive: "$ehatm_devil_name_possessive$" #NT!

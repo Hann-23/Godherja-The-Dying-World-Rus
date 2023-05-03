@@ -1,0 +1,6 @@
+﻿l_russian:
+  
+ activity_elephant_race: "Elephant Race" #NT!
+ activity_elephant_race_name: "[ACTIVITY.GetOwner.GetNamePossessiveOrMy|U] Elephant Race" #NT!
+ activity_elephant_race_desc: "[ACTIVITY.GetOwner.GetTitledFirstName] has gone to the track to enjoy elephant racing." #NT!
+ activity_elephant_race_owner: "Patron" #NT!

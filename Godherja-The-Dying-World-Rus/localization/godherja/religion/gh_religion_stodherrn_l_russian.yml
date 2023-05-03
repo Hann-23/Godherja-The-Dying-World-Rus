@@ -1,0 +1,77 @@
+﻿l_russian:
+  
+ #allemani Loc renaming Stoðherrn due to conflict w/ kardwen culture also being called allemani, leaving the in-code name alone for now to prevent unforseen complications 
+ stodherrn_religion: "Stoðherrn" #NT!
+ stodherrn_religion_adj: "Stoðherrn" #NT!
+ stodherrn_religion_adjerent: "Stoðherrn" #NT!
+ stodherrn_religion_adherent_plural: "Stoðherrn" #NT!
+ stodherrn_religion_desc: "The Stoðherrn faith sees the world as being the trunk that supports a great Tree, which they call Stoðrusigga. Further up the trunk and one passes into the trees, which are the homes of the gods, and down the trunk are the roots where the dead lie. They believe that their duty is to act as stewards of the tree, maintaining it the same way that birds and squirrels peacefully live in the trees they call home. Honoring the gods brings them bounties from the earth, and mistreatment will eventually lead to blight and decay until the world is naught but a gnarled stump." #NT!
+ stodherrn_high_god_name: "The World Tree" #NT!
+ stodherrn_high_god_name_possessive: "The World Tree" #NT!
+ stodherrn_high_god_name_alternate: "Sdoðrusigga" #NT!
+ stodherrn_high_god_name_alternate_possessive: "Sdoðrusigga's" #NT!
+ stodherrn_devil_name: "$stodherrn_death_deity_name$" #NT!
+ stodherrn_devil_name_possessive: "$stodherrn_death_deity_name_possessive$" #NT!
+ stodherrn_death_deity_name: "Arawn" #NT!
+ stodherrn_death_deity_name_possessive: "Arawn's" #NT!
+ stodherrn_house_of_worship: "Temple" #NT!
+ stodherrn_house_of_worship_plural: "Temples" #NT!
+ stodherrn_religious_symbol: "World Tree" #NT!
+ stodherrn_religious_text: "Song of Stoðrusigga" #NT!
+ stodherrn_religious_head_title: "Master Shaman" #NT!
+ stodherrn_religious_head_title_name: "Sacred Council" #NT!
+ stodherrn_devotee_male: "Stoðhar" #NT!
+ stodherrn_devotee_male_plural: "Stoðhar" #NT!
+ stodherrn_devotee_female: "Stoðdki" #NT!
+ stodherrn_devotee_female_plural: "Stoðdki" #NT!
+ stodherrn_devotee_neuter: "Stoðhe" #NT!
+ stodherrn_devotee_neuter_plural: "Stoðherrn" #NT!
+ stodherrn_priest_male: "Ðalhar" #NT!
+ stodherrn_priest_male_plural: "Ðalhar" #NT!
+ stodherrn_priest_female: "Ðalhdki" #NT!
+ stodherrn_priest_female_plural: "Ðalhdki" #NT!
+ stodherrn_priest_alternate_plural: "Ðaldkris" #NT!
+ stodherrn_bishop: "Leðalhryis" #NT!
+ stodherrn_bishop_plural: "Leðalhryis" #NT!
+ stodherrn_positive_afterlife: "Adkalla" #NT!
+ stodherrn_negative_afterlife: "Turredkand" #NT!
+ stodherrn_creator_god_name: "$stodherrn_high_god_name$" #NT!
+ stodherrn_creator_god_name_possessive: "$stodherrn_high_god_name_possessive$" #NT!
+ stodherrn_health_god_name: "$stodherrn_fertility_god_name$" #NT!
+ stodherrn_health_god_name_possessive: "$stodherrn_fertility_god_name_possessive$" #NT!
+ stodherrn_fertility_god_name: "Amidhaon" #NT!
+ stodherrn_fertility_god_name_possessive: "Amidhaon's" #NT!
+ stodherrn_wealth_god_name: "Tandkeo" #NT!
+ stodherrn_wealth_god_name_possessive: "Tandkeo's" #NT!
+ stodherrn_household_god_name: "Hedkaon" #NT!
+ stodherrn_household_god_name_possessive: "Hedkaon's" #NT!
+ stodherrn_fate_god_name: "Ordkannu" #NT!
+ stodherrn_fate_god_name_possessive: "Ordkannu's" #NT!
+ stodherrn_knowledge_god_name: "Keridken" #NT!
+ stodherrn_knowledge_god_name_possessive: "Keridken's" #NT!
+ stodherrn_war_god_name: "Keidonik" #NT!
+ stodherrn_war_god_name_possessive: "Keidonik's" #NT!
+ stodherrn_trickster_god_name: "Siskuear" #NT!
+ stodherrn_trickster_god_name_possessive: "Siskuear's" #NT!
+ stodherrn_night_god_name: "$stodherrn_trickster_god_name$" #NT!
+ stodherrn_night_god_name_possessive: "$stodherrn_trickster_god_name_possessive$" #NT!
+ stodherrn_water_god_name: "Adkellat" #NT!
+ stodherrn_water_god_name_possessive: "Adkellat's" #NT!
+ stodherrn_witch_god_name: "$stodherrn_fate_god_name$" #NT!
+ stodherrn_witch_god_name_possessive: "$stodherrn_fate_god_name_possessive$" #NT!
+  ######## 
+  #portenchant loc 
+ portenchant: "Portenchant" #NT!
+ portenchant_adj: "Portenchant" #NT!
+ portenchant_adjerent: "Portenchant" #NT!
+ portenchant_adherent_plural: "Portenchant" #NT!
+ portenchant_desc: "The Portenchant found themselves conquered and victimized under the lash of the [aversarians|E], but they did not break in their faith. The Sjalvolki invasion freed them from their servitude, but they do not wish to seek vengeance on their former slavemasters. Instead, they wish to return to the ways of isolationism and quiet faith, as they once practiced when they were free." #NT!
+ portenchant_old: "Old Portenchant" #NT!
+ portenchant_old_adj: "Old Portenchant" #NT!
+ portenchant_old_adherent: "Old Portenchant" #NT!
+ portenchant_old_adherent_plural: "Old Portenchant" #NT!
+ dethedklann: "Dethedklann Accord" #NT!
+ dethedklann_adj: "Dethedklann Accord" #NT!
+ dethedklann_adherent: "Accordite" #NT!
+ dethedklann_adherent_plural: "Accordites" #NT!
+ dethedklann_desc: "Representing a divergent tradition within the Stodherrn faith, the Dethadklann Accord are the heirs to the Mondecny Prophet Audvakar, whose career spanned roughly the fifth century IS - at least according to scholars' attempts at reconstructing the often contradictory reports of Audvakar's life.\n\nThe Dethadklann take their name from the site at which their prophet committed suicide, dying for the fifth and final time, doing so to seal the oaths his followers swore to hold to his message in life and death. They preach that the gods have prepared a way forward for the Stodherrn people to transcend this world as a reward for their millennia of work. This way must first be opened by virtuous deeds, and valorous defense - proactively and with violence if need be - of the natural order and their people. This last tenet leaves them often at odds, even shunned by the rest of the pacifistic Stodherrn faithful. Of Audvakar himself, they report his revelations occurred over four descensions into the Roots of the world tree itself, traveling unseen among the dead to steal glances at the marvels of the gods under the mischevious protection of Siskuear the Trickster. He was able to affect this deception for he himself had died - if only temporarily. His deaths came first by lightning strike, second by hanging, third by wild beasts, and fourth by throwing himself from the tallest tree in the world. Each time he arose the next day and delivered to his followers more of the promises of the gods, and warnings for the future. According to the Dethadklann, he hasn't been wrong even once." #NT!

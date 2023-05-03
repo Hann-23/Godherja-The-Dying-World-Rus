@@ -1,0 +1,13 @@
+﻿l_russian:
+ war_event.3103.t: "The Black Sun Expands" #NT!
+ war_event.3103.desc: "Glory, restored again." #NT!
+ war_event.3103.a: "The start of a new chapter." #NT!
+ war_event.4000.desc: "Cenware's Call to War" #NT!
+  
+ war_event.3104.t: "Where It All Began" #NT!
+ war_event.3104.desc: "For most of us today, ever since our first breath, our lives have been dominated by fear. Fear of the [fog|E], of the broken remains of [aervalr|E], and of the chaos, warfare and suffering that our ancestors have brought. Though many could be blamed for the calamity, one above all can be named the greatest perpetrator, a man now at my mercy.\n\nAfter cutting down the last of his pet fanatics, [prisoner_a.GetFirstName] now awaits his fate in my deepest dungeon. To say that there's little remorse in the old [magi|E]'s rantings and ravings would be an understatement, for he dares to gloat of his reputation as the fool that left the world a burning ruin.\n\nNo matter. On this day, the whims of this vile tyrant will finally cease to matter, once and for all." #NT!
+ war_event.3104.a: "Let justice be found and this madman forgotten." #NT!
+ war_event.3104.b: "Perhaps he's of more use alive?" #NT!
+ fervor_loss_aeschraes_executed: "The Purest incarnate is slain!" #NT!
+ gh_raiding.0001.t: "Our Loot is Distributed" #NT!
+ gh_raiding.0001.desc: "We distribute our ill-gotten gains amongst the soldiers." #NT!

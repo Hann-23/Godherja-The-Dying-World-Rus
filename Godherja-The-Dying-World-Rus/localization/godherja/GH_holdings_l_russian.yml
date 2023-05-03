@@ -1,0 +1,41 @@
+﻿l_russian:
+  ################# 
+  # HOLDING TYPES # 
+  
+ military_district_holding: "Military District" #NT!
+ palatial_district_holding: "Palatial District" #NT!
+ maritime_district_holding: "Maritime District" #NT!
+ academic_district_holding: "Academic District" #NT!
+ trade_district_holding: "Trade District" #NT!
+ temple_district_holding: "Temple District" #NT!
+ urban_district_holding: "Urban District" #NT!
+ workshop_district_holding: "Workshop District" #NT!
+ ruined_district_holding: "Ruined District" #NT!
+ ruined_military_district_holding: "Ruined Military District" #NT!
+ ruined_palatial_district_holding: "Ruined Palatial District" #NT!
+ ruined_maritime_district_holding: "Ruined Maritime District" #NT!
+ ruined_academic_district_holding: "Academic District" #NT!
+ ruined_trade_district_holding: "Ruined Trade District" #NT!
+ ruined_temple_district_holding: "Ruined Temple District" #NT!
+ ruined_urban_district_holding: "Ruined Urban District" #NT!
+ ruined_workshop_district_holding: "Ruined Workshop District" #NT!
+ wasteland_empty_holding: "Wasteland" #NT!
+ wasteland_empty_holding_concept_key: "Wasteland" #NT!
+  ################ 
+  # CONCEPT KEYS # 
+ military_district_holding_concept_key: "[military_district|E]" #NT!
+ palatial_district_holding_concept_key: "[palatial_district|E]" #NT!
+ maritime_district_holding_concept_key: "[maritime_district|E]" #NT!
+ academic_district_holding_concept_key: "[academic_district|E]" #NT!
+ trade_district_holding_concept_key: "[trade_district|E]" #NT!
+ temple_district_holding_concept_key: "[temple_district|E]" #NT!
+ urban_district_holding_concept_key: "[urban_district|E]" #NT!
+ workshop_district_holding_concept_key: "[workshop_district|E]" #NT!
+ ruined_district_holding_concept_key: "[ruined_district|E]" #NT!
+ ruined_military_district_holding_concept_key: "[ruined_military_district|E]" #NT!
+ ruined_palatial_district_holding_concept_key: "[ruined_palatial_district|E]" #NT!
+ ruined_maritime_district_holding_concept_key: "[ruined_maritime_district|E]" #NT!
+ ruined_trade_district_holding_concept_key: "[ruined_trade_district|E]" #NT!
+ ruined_temple_district_holding_concept_key: "[ruined_temple_district|E]" #NT!
+ ruined_urban_district_holding_concept_key: "[ruined_urban_district|E]" #NT!
+ ruined_workshop_district_holding_concept_key: "[ruined_workshop_district|E]" #NT!

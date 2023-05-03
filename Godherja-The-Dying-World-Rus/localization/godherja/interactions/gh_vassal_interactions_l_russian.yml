@@ -1,0 +1,6 @@
+﻿l_russian:
+  
+ force_join_clique_interaction: "Force to Join Clique" #NT!
+ force_join_clique_interaction_desc: "Use a [hook|E] on [recipient.GetShortUIName] to force them to join your current Clique" #NT!
+ force_join_clique_interaction_notification: "Forced to Join Clique" #NT!
+ FORCE_JOIN_CLIQUE_NOTIFICATION: "I have decided to leverage my influence over you to force you to join my Clique." #NT!

@@ -1,0 +1,67 @@
+﻿l_russian:
+ kaosahetam_religion: "Kao'sahetam" #NT!
+ kaosahetam_religion_adj: "Kao'sahetam" #NT!
+ kaosahetam_religion_adherent: "Kao'sahetami" #NT!
+ kaosahetam_religion_adherent_plural: "Kao'sahetami" #NT!
+ kaosahetam_religion_desc: "The Kao'sahetami believe in the 'Kao' or 'Fortune', which they believed is possessed by every person starting from birth. Those with great amounts of Kao are blessed with good luck in their endeavors, while those that are lacking are mired in misfortune." #NT!
+ kaosahetam_high_god_name: "Kao" #NT!
+ kaosahetam_high_god_name_possessive: "Kao's" #NT!
+ kaosahetam_high_god_name_alternate: "The Inner Fortune" #NT!
+ kaosahetam_high_god_name_alternate_possessive: "The Inner Fortune's" #NT!
+ kaosahetam_devil_name: "Khom" #NT!
+ kaosahetam_devil_name_possessive: "Khom's" #NT!
+ kaosahetam_death_deity_name: "$kaosahetam_devil_god_name$" #NT!
+ kaosahetam_death_deity_name_possessive: "$kaosahetam_devil_god_name_possessive$" #NT!
+  
+ kaosahetam_house_of_worship: "Kao'phen" #NT!
+ kaosahetam_house_of_worship_plural: "Kao'phens" #NT!
+ kaosahetam_religious_symbol: "The Crab" #NT!
+ kaosahetam_religious_text: "Sixty-Six Treatises on Kao" #NT!
+ kaosahetam_religious_head_title: "Dai Kaothòn" #NT!
+ kaosahetam_religious_head_title_name: "Dai Kaothònok" #NT!
+ kaosahetam_devotee_male: "Kao'sahetami" #NT!
+ kaosahetam_devotee_male_plural: "Kao'sahetami" #NT!
+ kaosahetam_devotee_female: "Kao'sahetami" #NT!
+ kaosahetam_devotee_female_plural: "Kao'sahetami" #NT!
+ kaosahetam_devotee_neuter: "Kao'sahetami" #NT!
+ kaosahetam_devotee_neuter_plural: "Kao'sahetami" #NT!
+ kaosahetam_priest_male: "Thòn" #NT!
+ kaosahetam_priest_male_plural: "Thònai" #NT!
+ kaosahetam_priest_female: "Thòn" #NT!
+ kaosahetam_priest_female_plural: "Thònai" #NT!
+ kaosahetam_priest_alternate: "Thòn" #NT!
+ kaosahetam_priest_alternate_plural: "Thònai" #NT!
+ kaosahetam_bishop: "Kaothòn" #NT!
+ kaosahetam_bishop_plural: "Kaothònai" #NT!
+ kaosahetam_positive_afterlife: "Kao" #NT!
+ kaosahetam_negative_afterlife: "Khom" #NT!
+ kaosahetam_creator_god_name: "$kaosahetam_high_god_name$" #NT!
+ kaosahetam_creator_god_name_possessive: "$kaosahetam_high_god_name_possessive$" #NT!
+ kaosahetam_health_god_name: "$kaosahetam_high_god_name$" #NT!
+ kaosahetam_health_god_name_possessive: "$kaosahetam_high_god_name_possessive$" #NT!
+ kaosahetam_fertility_god_name: "$kaosahetam_high_god_name$" #NT!
+ kaosahetam_fertility_god_name_possessive: "$kaosahetam_high_god_name_possessive$" #NT!
+ kaosahetam_wealth_god_name: "$kaosahetam_high_god_name$" #NT!
+ kaosahetam_wealth_god_name_possessive: "$kaosahetam_high_god_name_possessive$" #NT!
+ kaosahetam_household_god_name: "$kaosahetam_high_god_name$" #NT!
+ kaosahetam_household_god_name_possessive: "$kaosahetam_high_god_name_possessive$" #NT!
+ kaosahetam_fate_god_name: "$kaosahetam_high_god_name$" #NT!
+ kaosahetam_fate_god_name_possessive: "$kaosahetam_high_god_name_possessive$" #NT!
+ kaosahetam_knowledge_god_name: "$kaosahetam_high_god_name$" #NT!
+ kaosahetam_knowledge_god_name_possessive: "$kaosahetam_high_god_name_possessive$" #NT!
+ kaosahetam_war_god_name: "$kaosahetam_high_god_name$" #NT!
+ kaosahetam_war_god_name_possessive: "$kaosahetam_high_god_name_possessive$" #NT!
+ kaosahetam_trickster_god_name: "$kaosahetam_high_god_name$" #NT!
+ kaosahetam_trickster_god_name_possessive: "$kaosahetam_high_god_name_possessive$" #NT!
+ kaosahetam_night_god_name: "$kaosahetam_high_god_name$" #NT!
+ kaosahetam_night_god_name_possessive: "$kaosahetam_high_god_name_possessive$" #NT!
+ kaosahetam_water_god_name: "$kaosahetam_high_god_name$" #NT!
+ kaosahetam_water_god_name_possessive: "$kaosahetam_high_god_name_possessive$" #NT!
+ kaosahetam_witch_god_name: "$kaosahetam_devil_name$" #NT!
+ kaosahetam_witch_god_name_possessive: "$kaosahetam_devil_name_possessive$" #NT!
+ kaosahetam: "Kao'sahetam" #NT!
+ kaosahetam_adj: "Kao'sahetami" #NT!
+ kaosahetam_adherent: "Kao'sahetami" #NT!
+ kaosahetam_adherent_plural: "Kao'sahetami" #NT!
+ kaosahetam_desc: "The Kao'sahetami believe that every person is born possessing a set amount of "Kao" or "Fortune" inside their spirit, which is increased by performing good deeds and reduced when engaging in evil acts. Those with great amounts of Kao are blessed with good luck in their endeavors, while those that are lacking are mired in misfortune. The Kao'sahetami also make use of divination, using the motions and actions of crabs to gauge a person's Kao. The more skilled diviners are said to be able to use the crabs' movement to see the truth of the past, and even predict future events." #NT!
+ holy_order_seekers_of_kao: "Seekers of Kao" #NT!

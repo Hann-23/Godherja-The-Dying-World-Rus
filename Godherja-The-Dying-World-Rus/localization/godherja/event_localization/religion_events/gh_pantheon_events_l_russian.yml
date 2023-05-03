@@ -1,0 +1,70 @@
+﻿l_russian:
+ # 
+ # pantheon.0001.t: "The Temple of Izcatotl" #NT!
+ # pantheon.0001.desc: "As I complete my trek through the jungle, I stand before an ominous structure, an edifice which seems to exude and contain a horrible, overwhelming power. Black spires stretch upwards, wrapped in writhing vines, from which eyes seem to gaze down upon me. #Steadying myself, I continue approaching the door, studying the intricate symbols drawn in blood that adorn the gates to Izcatotl's temple.\n\nStepping inside, I am greeted by the Mictpixilaqui of the temple, who inquires as to my purpose. After explaining that I am here to #receive a blessing from their god, I am taken to a shadowy room, where I am interviewed as to my desires. The priests explain to me what boons the Flayed Mother can offer, and I am left to answer a simple question: What might she give, and what might I give?" #NT!
+ # pantheon.0001.a: "I wish for might!" #NT!
+ # pantheon.0001.b: "Teach me the secrets of terror!" #NT!
+ # pantheon.0001.c: "Strike fear into beasts of my domain!" #NT!
+ # pantheon.0001.d: "I ask for blood!" #NT!
+ # pantheon.0001.a.tt: "#X You will undergo potentially-mortal risk in exchange for martial power.#!" #NT!
+ # pantheon.0001.b.tt: "You will exchange gold or a child in for lessons in [dread|E]." #NT!
+ # pantheon.0001.c.tt: "You will exchange gold or a child for the protection of your lands." #NT!
+ # pantheon.0001.d.tt: "You will offer gold for a supply of magical power." #NT!
+ # pantheon.0002.t: "Pain and Power" #NT!
+ # pantheon.0002.desc: "After indicating my request, my eyes are covered by a cloth, and I am lead by the hand down what seems to be a twisting passage. As I walk, a voice beside me explains that suffering is necessary to invoke the Flayed Mother's blessing. With that, the cloth #is removed, and I bear witness to a room lit by a red magical light. Below it sits a slab of black stone, carved with strange channels that seem to contain dark stains.\n\nMy guide gestures towards the table and intones what seems to be a ritualized speech. After explaining the #nature of the blessing to be sought, he hesistates for a moment, eyes rolling back into his head, before continuing in his monotone voice; his seeming communion with the divine making clear that should I still wish to attain power, I must pay a price." #NT!
+ # pantheon.0002.a: "The price will be paid." #NT!
+ # pantheon.0002.b: "Some prices are too high." #NT!
+ # pantheon.0002.a.tt_success: "The ritual is successful" #NT!
+ # pantheon.0002.a.tt_success_wound_1: "The ritual works, but leaves minor wounds" #NT!
+ # pantheon.0002.a.tt_success_wound_2: "The ritual works, but leaves wounds" #NT!
+ # pantheon.0002.a.tt_failure_wound_1: "The ritual fails with minor wounds" #NT!
+ # pantheon.0002.a.tt_failure_wound_2: "The ritual fails, and wounds you" #NT!
+ # pantheon.0002.a.tt_failure_death: "You die in the ritual" #NT!
+ # pantheon.abandon.tt: "You abandon the ritual" #NT!
+ # pantheon.0003.t: "Know Their Fears" #NT!
+ # pantheon.0003.desc: "When I make my request, the Mictpixilaqui gestures for me to follow, and I oblige. I am lead through the winding halls of the temple to a dark room, a seemingly-magical lamp embedded in the ceiling seemingly the only illumination. At the center of the room #rests a table, made of an eerily smooth black stone, with what seem to be restraints of some sort.\n\nAfter explaining what is to be done, a nude man enters the chamber, and is restrained upon the table by a handful of initiates. He seems to offer no resistance, and bears scars #across much of his body. My attention is directed to an assortment of tools, which I am to use to inflict pain upon this man, under the guidance of the initiates surrounding me.\n\nBefore we can begin, however, I must offer a gift in return." #NT!
+ # pantheon.0003.a: "A child initiate." #NT!
+ # pantheon.0003.b: "A generous donation." #NT!
+ # pantheon.0003.c: "I will not do this." #NT!
+ # pantheon.0003.a.tt: "You will give them a child to raise" #NT!
+ # pantheon.0004.t: "The Wrath of the Flayed" #NT!
+ # pantheon.0004.desc: "When I make my request, the Mictpixilaqui nods, for this is no uncommon request. Gesturing for me to follow, he leads me through dark passageways; navigating by the dim lights placed occaisonally within the ceiling. We soon reach an open chamber, with a #distinctive stench permeating the air. As I pass under the great archway which marks the room's entrace, I am greeted with a grisly scene. At the center, down a set of steps sits a great pool, shifting in strange patterns. Under the light, the pool reflects a deep red, and I #cannot help but wonder as to what truly lies within it.\n\nThe Mictpixilaqui solemnly intones what must occur. The monsters of the world must feel fear. He also, however, states the price." #NT!
+ # pantheon.0004.a: "A child initiate." #NT!
+ # pantheon.0004.b: "A generous donation." #NT!
+ # pantheon.0004.c: "I will not pay this price." #NT!
+ # pantheon.0005.t: "Blood From the Blood God" #NT!
+ # pantheon.0005.desc: "As I explain the details of my desired boon, the priest before me stops for a moment to think. Eyes fixed, seemingly, directly on my soul soon rise, however, and he nods. The rituals performed in this sacred site often produce large amounts of blood, and #while much of it is consumed in yet further celebrations of their patron's glory, some of it could be spared.\n\nHowever, the temple demands an exchange of goods in exchange for this service. In exchange for their agreement to provide me with whatever ritual blood I may need, I #must agree to provide them with a quantity of valuable goods. Is the power of [magic|E] worth this price?" #NT!
+ # pantheon.0005.a: "It is." #NT!
+ # pantheon.0005.b: "It is not." #NT!
+ # pantheon.0010.t: "The Temple of Alitikatl" #NT!
+ # pantheon.0010.desc: "Emerging from the dense jungle that surrounds the temple, I stop in my tracks. Before me is a great statue, its eerily smooth form wrought of a strange black stone; its arm reaching into the air as if to grasp at something. Beyond the statue, and across a #sizable, strangely flat field rises an imposing edifice, crafted of the same dark material, its gaping doorway leading into darkness.\n\nTaking a deep breath, I continue my forward progress, passing under the imposing archway and into the bowels of the temple. Once inside, I #find myself in a dimly-lit hallway, my footsteps echoing within the seemingly-empty chamber. After a seemingly-interminable walk, however, I fine myself before the Mictpixilaqui. Alitikatl has many gifts, says he, so long as one pays his price." #NT!
+ # pantheon.0010.a: "Pray in my name!" #NT!
+ # pantheon.0010.b: "Assist me in [magic|E]!" #NT!
+ # pantheon.0010.c: "Teach my heir your ways!" #NT!
+ # pantheon.0010.d: "Bring wonder to my lands!" #NT!
+ # pantheon.0010.a.tt: "#X You will risk a horrible fate for the chance of power#!" #NT!
+ # pantheon.0010.b.tt: "You will offer a tithe or a spell in exchange for magical knowledge." #NT!
+ # pantheon.0010.c.tt: "You will be granted a skilled #E Court Magi#!." #NT!
+ # pantheon.0010.d.tt: "Your lands will be blessed at the cost of money or [magic|E]" #NT!
+ # pantheon.0011.t: "Memories of Hope" #NT!
+ # pantheon.0011.desc: "In the dark hallway, I struggle to discern the Mictpixilaqui's reaction. Soon, however, he nods, and suddenly turns away from me. I follow, both our steps reverberating through the passage. It feels like an eternity before we finally arrive at its end; #passing under another grand archway we emerge into a massive chamber. Its roof vanishes into darkness, with platforms and walkways criss-crossing on the edge of my vision. The feeling of being watched, already present, becomes noticable, and I cannot help but search for eyes in #that void.\n\nAt the center of this chamber stands an altar, a great raised dais upon which the artifacts of ancient rulers have been collected. I am told to stand at its center. This ritual, it is explained, will call upon the spirits of the old Ayi-Tlacatolalli, and will have #no price beyond the risks inherent to it." #NT!
+ # pantheon.0011.a: "I swear upon my soul and power..." #NT!
+ # pantheon.0011.b: "I do not believe I am worthy." #NT!
+ # pantheon.0011.a.tt_success: "The ritual works as expected" #NT!
+ # pantheon.0011.a.tt_success_wound_damage: "The ritual succeeds, but I hear voices" #NT!
+ # pantheon.0011.a.tt_failure: "I begin hearing voices" #NT!
+ # pantheon.0011.a.tt_mind_loss: "My mind is severely damaged" #NT!
+ # pantheon.0012.t: "Lessons of Lost Kings" #NT!
+ # pantheon.0012.desc: "When I explain my quest for knowledge, the Mictpixilaqui asks that I demonstrate magical ability, a request to which I quickly oblige. A light forms above my outstretched hand, and in the clear light, I see the man nod. Producing his own light, he leads me #down the long hallway, the sound of our footfalls magnified by the shape of the passage. After some time, we turn into a doorway embedded within the wall, and I am lead into what seems to be a room dedicated to writing.\n\nUpon shelves sit rolled scrolls and even a handful of #bound tomes, the last remnants of an ancient tradition. Staring at the vast gaps between the books, I cannot help but wonder what has been lost. The Mictpixilaqui turns, and states solemnly that the knowledge once provided by Alitkatl could be mine, should I pay an appropriate #price." #NT!
+ # pantheon.0012.a: "A material tithe." #NT!
+ # pantheon.0012.b: "I can aid in your rituals." #NT!
+ # pantheon.0012.c: "The cost of knowledge is too high." #NT!
+ # pantheon.0013.t: "For the Future" #NT!
+ # pantheon.0013.desc: "I explain to the Mictpixilaqui that I wish for my progeny to be taught [magic|E] by their order, a request to which he quickly aquisces. It is the custom of their order to teach children how to harness their power. Before accepting, however, he explains to #me the purpose of the lesson. The reason why the Initiates of the Higher Mysteries of Alitikatl exist is to preserve the old ways, to save the Uakakloh faithful.\n\nAnd by teaching children, especially the children of rulers, the ways of magic, they hope to teach a new #Ayi-Tlacatolalli. After his brief sermon, it is agreed that one of their teachers will follow me when I return home, to tutor my children of magic." #NT!
+ # pantheon.0013.a: "Teach them!" #NT!
+ # pantheon.0013.b: "This service will be unneeded." #NT!
+ # pantheon.0014.t: "To Turn Back Time" #NT!
+ # pantheon.0014.desc: "My desire is a vague one, for I wish only for a reminder, a return. I ask the Mictpixilaqui to perform great rituals, to bring even a fraction of the ancient glories of our people back to this world for a time. Upon hearing this, he seems to stare through #me, as if watching something only he can see.\n\nWithout warning, he turns away, asking that I wait in the hallway until he returns. After some time spent in the darkness, a group of silhouettes approach, and soon summon flames above their hands. In the light I can see the #robes of priesthood, and when they near me, I am asked a simple question: what can I offer for their god's blessing?" #NT!
+ # pantheon.0014.a: "A donation" #NT!
+ # pantheon.0014.b: "I can aid in your rituals" #NT!
+ # pantheon.0014.c: "I cannot pay this price." #NT!

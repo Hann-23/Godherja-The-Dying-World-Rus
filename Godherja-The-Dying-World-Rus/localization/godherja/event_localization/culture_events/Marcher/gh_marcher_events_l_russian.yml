@@ -1,0 +1,31 @@
+﻿l_russian:
+ marcher.0101.t: "A Wounded Griffon" #NT!
+ marcher.0101.desc: "The infernal screeching of the maimed monster is almost unbearable. I cover my ears, to little avail, as the [antimagi|E] approach the bleeding [griffon|E] from the side, ready to strike the finishing blow.\n\nSuch a shame, really. There is no denying that there is a certain regal aura about the creature. For a moment, a wild thought crosses my mind - why not ask to keep the beast for myself?" #NT!
+ marcher.0101.a: "'Wait! Could we not nurse it back to good health?'" #NT!
+ marcher.0101.a.tt: "I shout for the [antimagi|E] to stand down. Surely, something more productive can be done about the creature than just mindlessly slaughtering it?" #NT!
+ marcher.0101.b: "Hah! My imagination is quite wild, at times." #NT!
+ marcher.0101.b.tt: "An interesting fantasy, to be sure, but impractical." #NT!
+  
+ marcher.0102.t: "A Wounded Griffon" #NT!
+ marcher.0102.desc: "Stopping in their tracks, the [antimagi|E] first look at me, then at each other. Exchanging a few puzzled murmurs, they shrug their shoulders and inform me that I am free to do with the beast as I wish, so long as I actually manage to keep it alive.\n\nJudging by its miserable appearance, that will not be a trivial task." #NT!
+ marcher.0102.a: "There must be someone skilled at this?" #NT!
+ marcher.0102.a.tt: "Finding a trained healer that could get the [griffon|E] back in shape wouldn't be hard, but with convenience comes a price." #NT!
+ marcher.0102.b: "Toss me the splint and bandages." #NT!
+ marcher.0102.b.tt: "These wounds, while grave, seem to be within the reaches of your skill to heal." #NT!
+ marcher.0102.c: "On second thought, just put it out of its misery." #NT!
+ marcher.0103.t: "Bird of Prey" #NT!
+ marcher.0103.desc: "A retired [antimagi|E] passing through my lands has been on the receiving end of my hospitality, and has taken notice of my [griffon|E]. Regaling me and my family with half a dozen tales of his experiences with the creature, his talk, after getting just a slight bit too tedious, seems to reach its intended endpoint.\n\nFor but a nominal fee and some required equipment, he could turn the bird from an interesting, but idle curiosity to a deadly weapon of war." #NT!
+ marcher.0103.a: "Anything for such a glorious steed!" #NT!
+ marcher.0103.a.tt: "Surely someone with so many tales to share about the monster knows what they are doing." #NT!
+ marcher.0103.b: "Eh, not interested." #NT!
+ marcher.0103.b.tt: "I'm not risking that thing in pitched battle." #NT!
+ marcher.0104.t: "Bird of Prey" #NT!
+ marcher.0104.desc: "After a tireless month of training, it would seem that my [griffon|E] is, at last, ready to soar the skies and strike terror into the hearts of my enemies. His work done with utmost satisfaction, the old [antimagi|E] departs, handing me reins over the beautiful, and now twice as deadly, animal." #NT!
+ marcher.0104.a: "Death from above!" #NT!
+ marcher.0105.t: "Bird of Prey" #NT!
+ marcher.0105.desc: "From the outset, the 'training' of my [griffon|E] has taken a strange and oft annoying course. At best, its would-be trainer was far more likely to be seen wasting away their life and coin at the tavern, bizarrely insisting that this was somehow part of the process. At worst, when he would try to actually train the bird, it would simply devolve into mutual screaming and fighting.\n\nAs I have finally had enough of this charade, I go to the [antimagi|E]'s room, only to find it empty!" #NT!
+ marcher.0105.a: "Guards, find that man before he gets away!" #NT!
+ marcher.0110.t: "A Royal Gift" #NT!
+ marcher.0110.desc: "With my coronation as the new ruler of all of [chevalie|E], the last few days have been a continous stream of visitors coming to give their homage and renew their fealty to the crown, more often than not bearing gifts.\n\nOne such group of emissaries have come bearing something truly spectacular in tow - a fully grown [griffon|E]! As the group of [antimagi|E] explain, it is customary for every sovereign of the united Marches to be gifted one such creature upon their accession to the throne by the [antimagic_orders|E]." #NT!
+ marcher.0110.a: "We thank you for this beautiful gift!" #NT!
+ marcher.0110.b: "I... I don't feel comfortable around that thing." #NT!

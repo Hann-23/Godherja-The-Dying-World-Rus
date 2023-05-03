@@ -1,0 +1,529 @@
+﻿l_russian:
+  ### Hair and Beard Variants mod ### 
+  
+ PORTRAIT_MODIFIER_custom_hair_male_hair_frankish_01: "Longer Bowl" #NT!
+ PORTRAIT_MODIFIER_custom_hair_epe_male_hair_steppe_01: "Shaved With Middle Lock" #NT!
+ PORTRAIT_MODIFIER_custom_hair_male_hair_turkic_06: "Shaved With Long Braids" #NT!
+ PORTRAIT_MODIFIER_custom_hair_epe_male_hair_steppe_02: "Shaved With Braids" #NT!
+ PORTRAIT_MODIFIER_custom_hair_bald: "Bald" #NT!
+ PORTRAIT_MODIFIER_custom_hair_female_hair_custom_01: "Wavy Sides (No Jewelery)" #NT!
+ PORTRAIT_MODIFIER_custom_hair_female_hair_custom_02: "Neck Braid (No Jewelery)" #NT!
+ PORTRAIT_MODIFIER_custom_hair_female_hair_custom_03: "Jeweled Bun (No Jewelery)" #NT!
+ PORTRAIT_MODIFIER_custom_hair_female_hair_custom_04: "Gilded Braids (No Jewelery)" #NT!
+ PORTRAIT_MODIFIER_custom_hair_female_hair_custom_05: "Long Curly (No Jewelery)" #NT!
+ PORTRAIT_MODIFIER_custom_hair_female_hair_custom_06: "Crown Curls (No Jewelery)" #NT!
+ PORTRAIT_MODIFIER_custom_hair_female_hair_custom_07: "Twin Braids with Ribbons (No Jewelery)" #NT!
+ PORTRAIT_MODIFIER_custom_hair_female_hair_custom_08: "Rolled Up Braids (No Jewelery)" #NT!
+ PORTRAIT_MODIFIER_custom_hair_female_hair_western_cover: "Swept Back" #NT!
+ PORTRAIT_MODIFIER_custom_hair_female_hair_sub_saharan_03b: "Short Thin Braids With Jewelry" #NT!
+ PORTRAIT_MODIFIER_custom_hair_female_hair_sub_saharan_child_01: "Short Afro" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_beard_custom_01: "Straight Medium Goatee" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_beard_custom_02: "Straight Medium Mustache" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_beard_custom_03: "Straight Medium Pointy" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_beard_custom_04: "Straight Medium Chinstrap" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_beard_custom_05: "Straight Medium Muttonchops" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_beard_custom_06: "Short Stylish Goatee" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_beard_custom_07: "Beaded Goatee" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_beard_custom_08: "Beaded Mustache" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_beard_custom_09: "THIS IS A WIZARD BEARD" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_beard_mena_04b: "Parted Full Beard" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_beard_western_1b: "Wavy Parted Full Beard" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_beard_western_2b: "Wavy Goatee" #NT!
+ ORTRAIT_MODIFIER_custom_beards_male_beard_western_9b: "Full Beard 2" #NT!
+ PORTRAIT_MODIFIER_custom_beards_mena_curled_mustache_chinstrap_01: "Short Beard With Curly Mustache" #NT!
+ PORTRAIT_MODIFIER_custom_beards_mena_islamic_pointed_beard: "Full Beard 4" #NT!
+ PORTRAIT_MODIFIER_custom_beards_mena_islamic_pointed_beard_03: "Full Beard 5" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_long_mustache_indian_02: "Medium Mustache" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_long_mustache_indian_03: "Long Mustachee" #NT!
+ PORTRAIT_MODIFIER_custom_beards_epe_male_beard_indian_01: "Wavy Sideburns" #NT!
+ PORTRAIT_MODIFIER_custom_beards_epe_male_beard_fp1_04: "Bushy Mustache" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_beard_western_8b: "Curly Mustache" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_beard_western_8c: "Curly Raised Mustache" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_beard_western_8d: "Curly Long Mustache" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_beard_western_8e: "Long Pointed Mustache" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_beard_western_8f: "Curly Lowered Mustache" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_beard_western_9b: "Full Beard 3" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_beard_mena_05: "Big Curly Beard" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_beard_mena_06: "Full Beard 6" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_beard_mena_08: "Big Curly Beard With Loose Hairs" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_beard_turkic_01: "Medium Mustache 2" #NT!
+ PORTRAIT_MODIFIER_custom_beards_epe_male_beard_fp1_02: "Thin Handlebar" #NT!
+ PORTRAIT_MODIFIER_custom_beards_male_long_mustache_indian_01: "Long Pointed Mustache 2" #NT!
+ PORTRAIT_MODIFIER_special: "Special" #NT!
+ PORTRAIT_MODIFIER_special_no_portrait: "No Portrait" #NT!
+ PORTRAIT_MODIFIER_special_masked_faith: "Masked Faith" #NT!
+  ### GH Genes ### 
+ PORTRAIT_MODIFIER_custom_gh_headgear: "Godherja Headgear" #NT!
+ PORTRAIT_MODIFIER_gh_clothes: "Godherja Clothes" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods: "Godherja Hoods" #NT!
+ PORTRAIT_MODIFIER_custom_gh_masks: "Godherja Masks" #NT!
+  ### Aversarian ### 
+ PORTRAIT_MODIFIER_custom_gh_headgear_bronze_helmet_vanilla: "Plain Bronze Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_bronze_helmet_vanilla_legon: "Aversarian Legon Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_bronze_helmet_vanilla_female: "Plain Bronze Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_plain_cloth: "Bronze Helmet with Cloth Band" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_aversarian_helmet_pointed_coif: "Aversarian Helmet with Pointed Coif" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_aversarian_helmet_pointed_coif_legon: "Aversarian Arch-Legon Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_aversarian_helmet_pointed_coif_female: "Aversarian Helmet with Pointed Coif" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_aversarian_helmet_pointed_coif_female_legan: "Aversarian Arch-Legan Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_aversarian_helmet_pointed_coif_tipped: "Tipped Aversarian Helmet with Pointed Coif" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_aversarian_helmet_pointed_coif_female_tipped: "Tipped Aversarian Helmet with Pointed Coif" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_plain_cloth_female: "Bronze Helmet with Cloth Band" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_full_chainmail: "Bronze Helmet with Full Chain" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_full_chainmail_female: "Bronze Helmet with Full Chain" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_plain_chainmail: "Bronze Helmet with Chain Coif" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_plain_chainmail_female: "Bronze Helmet with Chain Coif" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_plain_cloth_chainmail: "Bronze Helmet with Chain Coif and Cloth Band" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_plain_cloth_chainmail_female: "Bronze Helmet with Chain Coif and Cloth Band" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_epe_byzantine_nobility_02_imperial: "Aversarian Noble's Garb" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_epe_byzantine_nobility_02_imperial: "Aversarian Noble's Garb" #NT!
+  ### Black Sun ### 
+ PORTRAIT_MODIFIER_custom_gh_headgear_helmet_black_sun: "Black Sun's Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_helmet_black_sun_female: "Black Sun's Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_helmet_black_sun_no_mask: "Black Sun's Helmet (No Mask)" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_helmet_black_sun_female_no_mask: "Black Sun's Helmet (No Mask)" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_black_sun_armor: "Black Sun's Armor" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_gh_special_black_sun_armor: "Black Sun's Armor" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_gh_special_black_sun_female_armor: "Black Sun's Armor" #NT!
+  ### Donated by Ascalon's Anachronisms ### 
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgears_secular_byzantine_illyrian_rich: "Iron Illyrian Helmet: Upper class" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgears_secular_byzantine_illyrian_mid: "Iron Illyrian Helmet: Middle class" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgears_secular_byzantine_illyrian_poor: "Iron Illyrian Helmet: Lower class" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgears_secular_byzantine_attic_01: "Attic Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgears_secular_byzantine_rich_corinth_01: "Late Corinthian Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgears_secular_byzantine_rich_corinth_02: "Late Corinthian Helmet (Tipped)" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_headgears_secular_byzantine_illyrian_rich: "Iron Illyrian Helmet: Upper class" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_headgears_secular_byzantine_illyrian_mid: "Iron Illyrian Helmet: Middle class" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_headgears_secular_byzantine_illyrian_poor: "Iron Illyrian Helmet: Lower class" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_headgears_secular_byzantine_attic_01: "Attic Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_headgears_secular_byzantine_rich_corinth_01: "Late Corinthian Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_fem_headgears_secular_byzantine_rich_corinth_02: "Late Corinthian Helmet (Tipped)" #NT!
+  ### Aversarian Islander ### 
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_aegean_proto_boar_tusk_01: "Aversarian Islander Helmet 1" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_mycenaean_helmet_boar_tusk_01: "Aversarian Islander Helmet 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_mycenaean_crown_01: "Aversarian Islander Crown" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_headgear_mycenaean_crown_01: "Aversarian Islander Crown" #NT!
+  ### Opakhasian ### 
+ PORTRAIT_MODIFIER_custom_gh_headgear_opakhasian_helmet_commoners: "Opakhasian Helmet Commoners" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_opakhasian_helmet_commoners_female: "$PORTRAIT_MODIFIER_custom_gh_headgear_opakhasian_helmet_commoners$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_opakhasian_helmet_low: "Opakhasian Helmet Low" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_opakhasian_helmet_low_female: "$PORTRAIT_MODIFIER_custom_gh_headgear_opakhasian_helmet_low$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_opakhasian_helmet_low_wingless: "Opakhasian Helmet Low Wingless" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_opakhasian_helmet_low_wingless_female: "$PORTRAIT_MODIFIER_custom_gh_headgear_opakhasian_helmet_low_wingless$" #NT!
+  ### Magi Robes ### 
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_robes_generic: "Magi's Robes" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_robes_generic_liches: "Torn Magi's Robes" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_robes_generic: "Magi's Robes" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_robes_generic_liches: "Torn Magi's Robes" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_robes_aversarian: "Aversarian Magi's Robes" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_robes_aversarian_liches: "Torn Aversarian Magi's Robes" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_robes_aversarian: "Aversarian Magi's Robes" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_robes_aversarian_liches: "Torn Aversarian Magi's Robes" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_robes_aversarian_black: "Black Practitioner Robes" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_robes_aversarian_black_liches: "Torn Black Practitioner Robes" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_robes_aversarian_black: "Black Practitioner Robes" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_robes_aversarian_black_liches: "Torn Black Practitioner Robes" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_sarradon_nobility: "Sarradonian Magi's Robes Low Nobility" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_sarradon_high_nobility: "Sarradonian Magi's Robes High Nobility" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_sarradon_nobility: "Sarradonian Magi's Robes Low Nobility" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_sarradon_high_nobility: "Sarradonian Magi's Robes High Nobility" #NT!
+  ### Magi Hoods ### 
+ PORTRAIT_MODIFIER_custom_gh_hoods_male_empty: "No Hood" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_empty: "No Hood" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_boy_empty: "No Hood" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_girl_empty: "No Hood" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_aversarian: "Aversarian Magi's Hood" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_aversarian_liches: "Torn Aversarian Magi's Hood" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_aversarian: "Aversarian Magi's Hood" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_aversarian_liches: "Torn Aversarian Magi's Hood" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_aversarian_down: "Aversarian Magi's Hood (Down)" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_aversarian_liches_down: "Torn Aversarian Magi's Hood (Down)" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_aversarian_down: "Aversarian Magi's Hood (Down)" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_aversarian_liches_down: "Torn Aversarian Magi's Hood (Down)" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_generic: "Magi's Hood" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_generic_liches: "Torn Magi's Hood" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_generic: "Magi's Hood" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_generic_liches: "Torn Magi's Hood" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_generic_down: "Magi's Hood (Down)" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_generic_liches_down: "Torn Magi's Hood (Down)" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_generic_down: "Magi's Hood (Down)" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_generic_liches_down: "Torn Magi's Hood (Down)" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_aversarian_black: "Black Practitioner Magi's Hood" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_aversarian_black_liches: "Torn Black Practitioner Magi's Hood" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_aversarian_black: "Black Practitioner Magi's Hood" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_aversarian_black_liches: "Torn Black Practitioner Magi's Hood" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_aversarian_black_down: "Black Practitioner Magi's Hood (Down)" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_aversarian_black_liches_down: "Torn Black Practitioner Magi's Hood (Down)" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_aversarian_black_down: "Black Practitioner Magi's Hood (Down)" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_aversarian_black_liches_down: "Torn Black Practitioner Magi's Hood (Down)" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_aversarian_battlemagi: "Battlemagi Hood" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_aversarian_battlemagi: "Battlemagi Hood" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_hood_aversarian_battlemagi_down: "Battlemagi Hood (Down)" #NT!
+ PORTRAIT_MODIFIER_custom_gh_hoods_female_hood_aversarian_battlemagi_down: "Battlemagi Hood (Down)" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_hood_sarradon: "Sarradonian Magi's Hood Variant 1" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_hood_sarradon_var1: "Sarradonian Magi's Hood Variant 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_hood_sarradon_var2: "Sarradonian Magi's Hood Variant 3" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_hood_sarradon: "Sarradonian Magi's Hood Variant 1" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_hood_sarradon_var1: "Sarradonian Magi's Hood Variant 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_hood_sarradon_var2: "Sarradonian Magi's Hood Variant 3" #NT!
+  ### Agionist ### 
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_generic: "Generic Agionist Armor" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_calysto: "Calystianite Agionist Armor" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_diky: "Dikaynosite Agionist Armor" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_eos: "Eosian Agionist Armor" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_forgotten: "Forgotten Cultist Agionist Armor" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_katharitos: "Katharite Agionist Armor" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_philantrosos: "Philantrosianite Agionist Armor" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_sansia: "Sansianite Agionist Armor" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_thysia: "Thysian Agionist Armor" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_agionist_generic: "$PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_generic$" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_agionist_calysto: "$PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_calysto$" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_agionist_diky: "$PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_diky$" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_agionist_eos: "$PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_eos$" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_agionist_forgotten: "$PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_forgotten$" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_agionist_katharitos: "$PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_katharitos$" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_agionist_philantrosos: "$PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_philantrosos$" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_agionist_sansia: "$PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_sansia$" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_agionist_thysia: "$PORTRAIT_MODIFIER_gh_clothes_male_clothes_agionist_thysia$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_var1: "Plain Agionist Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_var2: "Agionist Helmet Without Visor" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_var3: "Agionist Helmet Visor Up" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_generic: "Generic Agionist Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_generic_2: "Generic Agionist Helmet 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_calysto: "Calystianite Agionist Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_calysto_2: "Calystianite Agionist Helmet 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_diky: "Dikaynosite Agionist Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_diky_2: "Dikaynosite Agionist Helmet 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_eos: "Eosian Agionist Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_eos_2: "Eosian Agionist Helmet 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_forgotten: "Forgotten Cultist Agionist Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_forgotten_2: "Forgotten Cultist Agionist Helmet 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_katharitos: "Katharite Agionist Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_katharitos_2: "Katharite Agionist Helmet 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_philantrosos: "Philantrosianite Agionist Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_philantrosos_2: "Philantrosianite Agionist Helmet 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_sansia: "Sansianite Agionist Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_sansia_2: "Sansianite Agionist Helmet 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_thysia: "Thysian Agionist Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_thysia_2: "Thysian Agionist Helmet 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_var1: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_var1$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_generic: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_generic$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_generic_2: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_generic_2$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_calysto: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_calysto$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_calysto_2: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_calysto_2$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_diky: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_diky$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_diky_2: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_diky_2$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_eos: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_eos$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_eos_2: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_eos_2$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_forgotten: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_forgotten$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_forgotten_2: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_forgotten_2$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_katharitos: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_katharitos$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_katharitos_2: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_katharitos_2$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_philantrosos: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_philantrosos$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_philantrosos_2: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_philantrosos_2$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_sansia: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_sansia$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_sansia_2: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_sansia_2$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_thysia: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_thysia$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_thysia_2: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_thysia_2$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_var2: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_var2$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_agionist_helm_var3: "$PORTRAIT_MODIFIER_custom_gh_headgear_agionist_helm_var3$" #NT!
+  ### Aironoi ### 
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_Seljuk_Leather_Hat_01: "Aironoi Helmet 1" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_Seljuk_Leather_Hat_01_02: "Aironoi Helmet 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_Seljuk_Leather_Hat_02: "Aironoi Helmet 3" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_Seljuk_Leather_Hat_02_02: "Aironoi Helmet 4" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_Seljuk_Helmet_Hat_02: "Aironoi Helmet 5" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_Seljuk_Helmet_Hat_01_war: "Aironoi Helmet 6" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_kipchak_war_helmet_01: "Aironoi War Mask" #NT!
+  ### Damotan ### 
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_epe_sahelian_royal_01: "Damotan Royal Crown 1" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_epe_sahelian_royal_02: "Damotan Royal Crown 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_epe_sahelian_royal_03: "Damotan Royal Crown 3" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_headgear_epe_sahelian_royal_01: "Damotan Royal Crown 1" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_east_african_02_low_nobility_01: "Damotan Commoner's Garb 1" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_east_african_03_low_nobility: "Damotan Commoner's Garb 2" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_east_african_02_common: "Damotan Commoner's Garb 3" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_east_african_01v2_common: "Damotan Commoner's Garb 1" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_east_african_04_low_nobility: "Damotan Commoner's Garb 2" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_east_african_03_low: "Damotan Commoner's Garb 3" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_east_african_03_high_nobility: "Damotan Noble's Garb 1" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_east_african_02_high_nobility: "Damotan Noble's Garb 2" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_east_african_04_high_nobility: "Damotan Noble's Garb 1" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_east_african_03_high: "Damotan Noble's Garb 2" #NT!
+  ### Sarradonian ### 
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_ghaznavid_high_01: "Sarradonian Noble Turban" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_Seljuk_Warrior_Helmet_01: "Sarradonian Helmet 1" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_Seljuk_Warrior_Helmet_02: "Sarradonian Helmet 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_seljuk_war_helmet_03: "Sarradonian Helmet 3" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_seljuk_war_helmet_04: "Sarradonian Helmet 4" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_maghreb_high_noble_01: "Sarradonian High Noble Turban" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_maghreb_common_01: "Sarradonian Nomad Garb 1" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_epe_sahelian_common_04: "Sarradonian Nomad Garb 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_epe_mena_low_01: "Sarradonian Commoner Garb 1" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_epe_mena_high_01: "Sarradonian Commoner Garb 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_epe_iranian_high_01: "Sarradonian Commoner Garb 3" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_epe_maghreb_high_01: "Sarradonian Commoner Garb 4" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_early_eastern_iranian_nobility_03_low: "Sarradonian Robes Low" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_early_eastern_iranian_nobility_03_common: "Sarradonian Noble's Garb 3" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_early_eastern_iranian_nobility_03_high: "Sarradonian Robes High" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_early_eastern_iranian_nobility_03_low: "Sarradonian Robes Low" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_early_eastern_iranian_nobility_03_common: "Sarradonian Noble's Garb 3" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_early_eastern_iranian_nobility_03_high: "Sarradonian Robes High" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_religious_dde_muslim_caliph_01_male: "Mamur's Clothes 1" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_epe_early_sunni_caliph_01: "Mamur's Clothes 2" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_mena_nobility_01_high: "Sarradonian Noble's Garb 1" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_mena_nobility_02_high: "Sarradonian Noble's Garb 2" #NT!
+  ### Spymaster's Clothes ### 
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_epe_western_western_spymaster_01: "Spymaster's Clothes" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_epe_western_western_spymaster_01: "Spymaster's Clothes" #NT!
+  ### Vanilla Replacers ### 
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_secular_western_war_nobility_01: "Chain Piece" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_headgear_secular_western_war_nobility_01: "Chain Piece" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_secular_crusades_western_war_nobility_01: "Crusader" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_headgear_secular_crusades_western_war_nobility_01: "Crusader" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_empty: "No Headgear" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_empty: "No Headgear" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_boy_empty: "$PORTRAIT_MODIFIER_custom_gh_headgear_male_empty$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_girl_empty: "$PORTRAIT_MODIFIER_custom_gh_headgear_female_empty$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_epe_western_spy_master_hood: "Spymaster's Hood" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_epe_western_spy_master_hood: "Spymaster's Hood" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_western_nudity_01: "No Clothes" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_western_nudity_01: "No Clothes" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_western_nudity_01: "No Clothes" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_western_nudity_01: "No Clothes" #NT!
+ PORTRAIT_MODIFIER_muscularity: "Muscularity" #NT!
+ PORTRAIT_MODIFIER_muscularity_muscular: "Muscular" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_steppe_nobility_01_common: "Steppe Commoner Clothing 1" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_steppe_nobility_02_common: "Steppe Commoner Clothing 2" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_steppe_nobility_01_low: "Steppe Low Nobility Clothing 1" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_steppe_nobility_02_low: "Steppe Low Nobility Clothing 2" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_steppe_nobility_01_high: "Steppe High Nobility Clothing 1" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_steppe_nobility_02_high: "Steppe High Nobility Clothing 2" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_steppe_nobility_01_common: "Steppe Commoner Clothing 1" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_steppe_nobility_02_common: "Steppe Commoner Clothing 2" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_steppe_nobility_01_low: "Steppe Low Nobility Clothing 1" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_steppe_nobility_02_low: "Steppe Low Nobility Clothing 2" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_steppe_nobility_01_high: "Steppe High Nobility Clothing 1" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_steppe_nobility_02_high: "Steppe High Nobility Clothing 2" #NT!
+  ### Liches ### 
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_lich_crown: "Lich Crown" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_archlich_crown: "Arch-Lich Crown" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_lich_crown: "Lich Crown" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_archlich_crown: "Arch-Lich Crown" #NT!
+  ### Marcher ### 
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_norman_fpl_helmet_01: "Marcher Helmet 1" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_norman_fpl_helmet_02: "Marcher Helmet 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_early_great_helm_01: "Marcher Greathelm" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_early_great_helm_01: "Marcher Greathelm" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_early_great_helm_01_painted: "Painted Marcher Greathelm" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_early_great_helm_01_painted: "Painted Marcher Greathelm" #NT!
+  ### Kemsar ### 
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_egyptian_nemes_common: "Kemsaric Nemes Common" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_egyptian_nemes_low: "Kemsaric Nemes Low" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_egyptian_nemes_high: "Kemsaric Nemes High" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_egyptian_usekh_common: "Kemsaric Usekh Common" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_egyptian_usekh_low: "Kemsaric Usekh Low" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_egyptian_usekh_high: "Kemsaric Usekh High" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_egyptian_shirt_common: "Kemsaric Shirt Common" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_egyptian_shirt_low: "Kemsaric Shirt Low" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_egyptian_shirt_high: "Kemsaric Shirt High" #NT!
+  ### Skull Helmet ### 
+ PORTRAIT_MODIFIER_custom_gh_headgear_vampire_gaze_male: "Skull Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_vampire_gaze_female: "Skull Helmet" #NT!
+  ### Donated by 457 AD ### 
+ PORTRAIT_MODIFIER_gh_clothes_male_kaftan1: "Kaftan Over Tunic" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_kaftan2_low_nobles: "Closed Kaftan Low Nobility" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_kaftan2_high_nobles: "Closed Kaftan High Nobility" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_kaftan2_commoner: "Closed Kaftan Commoner" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_kaftan3_low_nobles: "Open Kaftan Low Nobility" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_kaftan3_high_nobles: "Open Kaftan High Nobility" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_kaftan3_commoner: "Open Kaftan Commoner" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_kaftan1: "Kaftan Over Tunic" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_kaftan2_low_nobles: "Closed Kaftan Low Nobility" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_kaftan2_high_nobles: "Closed Kaftan High Nobility" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_kaftan2_commoner: "Closed Kaftan Commoner" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_kaftan3_low_nobles: "Open Kaftan Low Nobility" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_kaftan3_high_nobles: "Open Kaftan High Nobility" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_kaftan3_commoner: "Open Kaftan Commoner" #NT!
+  ### Lonely Lighter ### 
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_anglo_sax_wollaston_helmet_01: "Crested Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_anglo_sax_wollaston_helmet_01: "Crested Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_banded_helmet_britain_01: "Banded Helmet 1" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_banded_helmet_britain_02: "Banded Helmet 2" #NT!
+  ### Huegodocs ### 
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_frankish_noble_veil_02: "Huegodoc Noble Long Veil" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_frankish_noble_veil_brocade: "Huegodoc Noble Long Veil 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_early_italian_royal_crown_01: "Huegodoc Crown" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_early_italian_royal_crown_01: "Huegodoc Crown" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_early_italian_royal_crown_01_veil_1: "Huegodoc Crown Veil 1" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_early_italian_royal_crown_01_veil_3: "Huegodoc Crown Veil 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_early_italian_royal_crown_01_veil_3_white: "Huegodoc Crown Veil 2 White" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_early_italian_royal_crown_01_veil_4: "Huegodoc Crown Veil 3" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_mer_royal_crown_03b: "Huegodoc Crown 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_mer_royal_crown_03_veil_1: "Huegodoc Crown 2 Veil 1" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_mer_royal_crown_03_veil_3: "Huegodoc Crown 2 Veil 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_mer_royal_crown_03_veil_4: "Huegodoc Crown 2 Veil 3" #NT!
+  ### Amaghean ### 
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_khorasan_helmet_01: "Amaghean Helmet 1" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_khorasan_helmet_02: "Amaghean Helmet 2" #NT!
+ PORTRAIT_MODIFIER_custom_cloaks_male_frankish_low_sagum_01: "Amaghean Low Nobility Sagum" #NT!
+ PORTRAIT_MODIFIER_custom_cloaks_male_byzantine_duchy_sagum_01: "Amaghean High Nobility Sagum 1" #NT!
+ PORTRAIT_MODIFIER_custom_cloaks_male_byzantine_duchy_sagum_02: "Amaghean High Nobility Sagum 2" #NT!
+ PORTRAIT_MODIFIER_custom_cloaks_male_georgia_royalty_sagum_01: "Amaghean Royal Sagum" #NT!
+  ### Oltenic Masks ### 
+ PORTRAIT_MODIFIER_custom_gh_masks_Baldwins_Mask: "Öltenic Mask 1" #NT!
+ PORTRAIT_MODIFIER_custom_gh_masks_Baldwins_Mask_female: "Öltenic Mask 1" #NT!
+ PORTRAIT_MODIFIER_custom_gh_masks_vanilla_face_mask_hoodless: "Öltenic Mask 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_masks_vanilla_face_mask_hoodless_female: "Öltenic Mask 2" #NT!
+ PORTRAIT_MODIFIER_custom_gh_masks_kipchak_mask: "Öltenic Mask 3" #NT!
+ PORTRAIT_MODIFIER_custom_gh_masks_male_empty: "No Mask" #NT!
+ PORTRAIT_MODIFIER_custom_gh_masks_female_empty: "No Mask" #NT!
+ PORTRAIT_MODIFIER_custom_gh_masks_boy_empty: "No Mask" #NT!
+ PORTRAIT_MODIFIER_custom_gh_masks_girl_empty: "No Mask" #NT!
+  ### Ayyari ### 
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_ghaznavid_nobility_01_common: "Ayyari Commoner Clothing 1" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_ghaznavid_nobility_01_common: "Ayyari Commoner Clothing 1" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_ghaznavid_nobility_02_common: "Ayyari Commoner Clothing 2" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_ghaznavid_nobility_02_common: "Ayyari Commoner Clothing 2" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_ghaznavid_nobility_03_common: "Ayyari Commoner Clothing 3" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_ghaznavid_nobility_03_common: "Ayyari Commoner Clothing 3" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_ghaznavid_nobility_01_low: "Ayyari Low Nobility Clothing 1" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_ghaznavid_nobility_01_low: "Ayyari Low Nobility Clothing 1" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_ghaznavid_nobility_02_low: "Ayyari Low Nobility Clothing 2" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_ghaznavid_nobility_02_low: "Ayyari Low Nobility Clothing 2" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_ghaznavid_nobility_03_low: "Ayyari Low Nobility Clothing 3" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_ghaznavid_nobility_03_low: "Ayyari Low Nobility Clothing 3" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_ghaznavid_nobility_01_high: "Ayyari High Clothing 1" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_ghaznavid_nobility_01_high: "Ayyari High Clothing 1" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_ghaznavid_nobility_02_high: "Ayyari High Clothing 2" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_ghaznavid_nobility_02_high: "Ayyari High Clothing 2" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_ghaznavid_nobility_03_high: "Ayyari High Clothing 3" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_ghaznavid_nobility_03_high: "Ayyari High Clothing 3" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_ghaznavid_war_nobility_01_low: "Ayyari Armor" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_female_clothes_secular_ghaznavid_war_nobility_01_low: "Ayyari Armor" #NT!
+ ### Donated by Sunset Invasion ### 
+ PORTRAIT_MODIFIER_custom_cloaks_male_tilmahtli_common: "Modest Tlakalakan Tilmahtli" #NT!
+ PORTRAIT_MODIFIER_custom_cloaks_male_tilmahtli_low: "Fashionable Tlakalakan Tilmahtli" #NT!
+ PORTRAIT_MODIFIER_custom_cloaks_male_tilmahtli_high: "Luxurious Tlakalakan Tilmahtli" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_maxlatl_common: "Modest Tlakalakan Maxtlatl" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_maxlatl_low: "Fashionable Tlakalakan Maxtlatl" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_maxlatl_high: "Luxurious Tlakalakan Maxtlatl" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_helmet_ocelotl: "Tlakalakan Ocelotl Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_helmet_ocelotl: "$PORTRAIT_MODIFIER_custom_headgear_male_helmet_ocelotl$" #NT!
+  ### Rovarskan ### 
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_secular_mmjm_royalty_01: "Rovarskan Royal Crown" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_headgear_secular_mmjm_royalty_01: "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_mmjm_royalty_01$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_male_headgear_secular_mmjm_high_nobility_01: "Rovarskan Blangkon" #NT!
+ PORTRAIT_MODIFIER_custom_gh_headgear_female_headgear_secular_mmjm_high_nobility_01: "Rovarskan Caping" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_mmjm_royalty_01: "Rovarskan Royalty" #NT!
+ PORTRAIT_MODIFIER_custom_gh_clothes_female_clothes_secular_mmjm_royalty_01: "$PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_mmjm_royalty_01$" #NT!
+ PORTRAIT_MODIFIER_gh_clothes_male_clothes_secular_mmjm_high_nobility_01: "Rovarskan Nobility" #NT!
+ PORTRAIT_MODIFIER_custom_gh_clothes_female_clothes_secular_mmjm_high_nobility_01: "$PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_mmjm_high_nobility_01$" #NT!
+ PORTRAIT_MODIFIER_custom_gh_clothes_female_clothes_secular_mmjm_common_01: "Rovarskan Commoner" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_mmjm_common_01: "Rovarskan Commoner Legwear" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_mmjm_high_nobility_01: "Rovarskan Noble Legwear" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_secular_mmjm_royalty_01: "Rovarskan Royal Legwear" #NT!
+  ### Donated by Ethnicities and Portraits Expanded ### 
+  ### Cosmetic Eyeliner ### 
+ PORTRAIT_MODIFIER_cosmetics_eyeliner: "Eyeliner" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_none: "none" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_iranian_1: "Amsari 1" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_iranian_2: "Amsari 2" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_iranian_3: "Amsari 3" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_iranian_4: "Amsari 4" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_iranian_5: "Amsari 5" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_byzantine_1: "Aversarian 1" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_byzantine_2: "Aversarian 2" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_byzantine_3: "Aversarian 3" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_byzantine_4: "Aversarian 4" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_byzantine_5: "Aversarian 5" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_indian_1: "Kashiryan 1" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_indian_2: "Kashiryan 2" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_indian_3: "Kashiryan 3" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_indian_4: "Kashiryan 4" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_indian_5: "Kashiryan 5" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_european_1: "Chevalien 1" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_european_2: "Chevalien 2" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_european_3: "Chevalien 3" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_european_4: "Chevalien 4" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeliner_eyeliner_european_5: "Chevalien 5" #NT!
+  ### Cosmetic Eyeshadow ### 
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow: "Eyeshadow" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeshadow_none: "none" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_iranian_1: "Amsari 1" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_iranian_2: "Amsari 2" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_iranian_3: "Amsari 3" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_iranian_4: "Amsari 4" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_iranian_5: "Amsari 5" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_byzantine_1: "Aversarian 1" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_byzantine_2: "Aversarian 2" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_byzantine_3: "Aversarian 3" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_byzantine_4: "Aversarian 4" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_byzantine_5: "Aversarian 5" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_european_1: "Chevalien 1" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_european_2: "Chevalien 2" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_european_3: "Chevalien 3" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_european_4: "Chevalien 4" #NT!
+ PORTRAIT_MODIFIER_cosmetics_eyeshadow_eyeliner_european_5: "Chevalien 5" #NT!
+  ### Cosmetic Foundation ### 
+ PORTRAIT_MODIFIER_cosmetics_foundation: "Foundation" #NT!
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_none: "none" #NT!
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_iranian_1: "Amsari 1" #NT!
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_iranian_2: "Amsari 2" #NT!
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_iranian_3: "Amsari 3" #NT!
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_iranian_4: "Amsari 4" #NT!
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_iranian_5: "Amsari 5" #NT!
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_byzantine_1: "Aversarian 1" #NT!
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_byzantine_2: "Aversarian 2" #NT!
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_byzantine_3: "Aversarian 3" #NT!
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_byzantine_4: "Aversarian 4" #NT!
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_byzantine_5: "Aversarian 5" #NT!
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_european_1: "Chevalien 1" #NT!
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_european_2: "Chevalien 2" #NT!
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_european_3: "Chevalien 3" #NT!
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_european_4: "Chevalien 4" #NT!
+ PORTRAIT_MODIFIER_cosmetics_foundation_foundation_european_5: "Chevalien 5" #NT!
+  ### Cosmetic Blush ### 
+ PORTRAIT_MODIFIER_cosmetics_blush: "Blush" #NT!
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_none: "none" #NT!
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_iranian_1: "Amsari 1" #NT!
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_iranian_2: "Amsari 2" #NT!
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_iranian_3: "Amsari 3" #NT!
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_iranian_4: "Amsari 4" #NT!
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_iranian_5: "Amsari 5" #NT!
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_byzantine_1: "Aversarian 1" #NT!
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_byzantine_2: "Aversarian 2" #NT!
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_byzantine_3: "Aversarian 3" #NT!
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_byzantine_4: "Aversarian 4" #NT!
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_byzantine_5: "Aversarian 5" #NT!
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_european_1: "Chevalien 1" #NT!
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_european_2: "Chevalien 2" #NT!
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_european_3: "Chevalien 3" #NT!
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_european_4: "Chevalien 4" #NT!
+ PORTRAIT_MODIFIER_cosmetics_blush_blush_european_5: "Chevalien 5" #NT!
+  ### Cosmetic Lipcolor ### 
+ PORTRAIT_MODIFIER_cosmetics_lipcolor: "Lipcolor" #NT!
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_none: "none" #NT!
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_iranian_1: "Amsari 1" #NT!
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_iranian_2: "Amsari 2" #NT!
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_iranian_3: "Amsari 3" #NT!
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_iranian_4: "Amsari 4" #NT!
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_iranian_5: "Amsari 5" #NT!
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_byzantine_1: "Aversarian 1" #NT!
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_byzantine_2: "Aversarian 2" #NT!
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_byzantine_3: "Aversarian 3" #NT!
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_byzantine_4: "Aversarian 4" #NT!
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_byzantine_5: "Aversarian 5" #NT!
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_european_1: "Chevalien 1" #NT!
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_european_2: "Chevalien 2" #NT!
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_european_3: "Chevalien 3" #NT!
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_european_4: "Chevalien 4" #NT!
+ PORTRAIT_MODIFIER_cosmetics_lipcolor_lipcolor_european_5: "Chevalien 5" #NT!
+  ##Lonely Note: We need an ethnicities loc file 
+ mesoamerican: "Tlakalak" #NT!
+  ### Legwear ### 
+ PORTRAIT_MODIFIER_custom_legwear: "Legwear" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_empty: "No Legwear" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_female_empty: "$PORTRAIT_MODIFIER_custom_legwear_male_empty$" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_boy_empty: "$PORTRAIT_MODIFIER_custom_legwear_male_empty$" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_girl_empty: "$PORTRAIT_MODIFIER_custom_legwear_male_empty$" #NT!

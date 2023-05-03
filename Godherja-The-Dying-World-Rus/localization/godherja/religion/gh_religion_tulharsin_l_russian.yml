@@ -1,0 +1,66 @@
+﻿l_russian:
+  
+ #tulharsin Loc 
+ tulharsin_religion: "Tulharsin" #NT!
+ tulharsin_religion_adj: "Tulharsin" #NT!
+ tulharsin_religion_adjerent: "Tulharsite" #NT!
+ tulharsin_religion_adherent_plural: "Tulharsites" #NT!
+ tulharsin_religion_desc: "An old system of belief endemic to the Tarsanides mountains, the worshippers of the Tulharsin gods have endured for countless millennia. While both [wardenites|E] and [ritualists|E] have attempted to see them suppressed, the inhospitable nature of the religion's highland home has sheltered and protected it, keeping the armies and priests of the lowlanders at bay from the sacred mountain peaks whereupon lie the sacred homes of the Tulharsin gods." #NT!
+ tulharsin_high_god_name: "Ke-Ren" #NT!
+ tulharsin_high_god_name_possessive: "Ke-Ren's" #NT!
+ tulharsin_high_god_name_alternate: "The Mother-Father" #NT!
+ tulharsin_high_god_name_alternate_possessive: "The Mother-Father's" #NT!
+ tulharsin_devil_name: "Isoldu" #NT!
+ tulharsin_devil_name_possessive: "Isoldu's" #NT!
+ tulharsin_death_deity_name: "Kesh" #NT!
+ tulharsin_death_deity_name_possessive: "Kesh's" #NT!
+ tulharsin_house_of_worship: "Temple" #NT!
+ tulharsin_house_of_worship_plural: "Temples" #NT!
+ tulharsin_religious_symbol: "Carved Idol" #NT!
+ tulharsin_religious_text: "Lumod Sagas" #NT!
+ tulharsin_religious_head_title: "High Priest" #NT!
+ tulharsin_religious_head_title_name: "High Preisthood" #NT!
+ tulharsin_devotee_male: "worshipper" #NT!
+ tulharsin_devotee_male_plural: "worshippers" #NT!
+ tulharsin_devotee_female: "worshipper" #NT!
+ tulharsin_devotee_female_plural: "worshippers" #NT!
+ tulharsin_devotee_neuter: "worshipper" #NT!
+ tulharsin_devotee_neuter_plural: "worshippers" #NT!
+ tulharsin_priest_male: "priest" #NT!
+ tulharsin_priest_male_plural: "priests" #NT!
+ tulharsin_priest_female: "priestess" #NT!
+ tulharsin_priest_female_plural: "priestesses" #NT!
+ tulharsin_priest_alternate_plural: "priest" #NT!
+ tulharsin_bishop: "keeper" #NT!
+ tulharsin_bishop_plural: "keepers" #NT!
+ tulharsin_positive_afterlife: "The Underworld" #NT!
+ tulharsin_negative_afterlife: "The Underworld" #NT!
+ tulharsin_creator_god_name: "$tulharsin_high_god_name$" #NT!
+ tulharsin_creator_god_name_possessive: "$tulharsin_high_god_name_possessive$" #NT!
+ tulharsin_health_god_name: "Mishkush" #NT!
+ tulharsin_health_god_name_possessive: "Mishkush's" #NT!
+ tulharsin_fertility_god_name: "$tulharsin_high_god_name$" #NT!
+ tulharsin_fertility_god_name_possessive: "$tulharsin_high_god_name_possessive$" #NT!
+ tulharsin_wealth_god_name: "$tulharsin_health_god_name$" #NT!
+ tulharsin_wealth_god_name_possessive: "$tulharsin_health_god_name_possessive$" #NT!
+ tulharsin_household_god_name: "Annira" #NT!
+ tulharsin_household_god_name_possessive: "Annira's" #NT!
+ tulharsin_fate_god_name: "$tulharsin_death_deity_name$" #NT!
+ tulharsin_fate_god_name_possessive: "$tulharsin_death_deity_name_possessive$" #NT!
+ tulharsin_knowledge_god_name: "$tulharsin_death_deity_name$" #NT!
+ tulharsin_knowledge_god_name_possessive: "$tulharsin_death_deity_name_possessive$" #NT!
+ tulharsin_war_god_name: "Tarhannu" #NT!
+ tulharsin_war_god_name_possessive: "Tarhannu's" #NT!
+ tulharsin_trickster_god_name: "Crow" #NT!
+ tulharsin_trickster_god_name_possessive: "Crow's" #NT!
+ tulharsin_night_god_name: "$tulharsin_health_god_name$" #NT!
+ tulharsin_night_god_name_possessive: "$tulharsin_health_god_name_possessive$" #NT!
+ tulharsin_water_god_name: "$tulharsin_high_god_name$" #NT!
+ tulharsin_water_god_name_possessive: "$tulharsin_high_god_name_possessive$" #NT!
+ tulharsin_witch_god_name: "Iohan" #NT!
+ tulharsin_witch_god_name_possessive: "Iohan's" #NT!
+ tulharsin: "Tulharsin" #NT!
+ tulharsin_adj: "Tulharsin" #NT!
+ tulharsin_desc: "A faith as old as the ancient and rocky hillsides of the Tarsanides - or at least, human habitation thereof, the Tulharsin, or "family" is the name the Barzawa give to their pantheon. Though lesser gods come and go, the core five dieties of the Tulharsin have remained the same since time out of memory, their faces carved by ancient hands into the highest peaks of the Tarsanides Range. Chief among them is Ke-Ren, the mother-father god who split open their own stomach to birth the universe, and from whose viscera crawled the second-born - key among them the other four eldest gods, Tarhannu, Mishkush, Annira, and kesh, as well as the moon itself. Once assembled, these siblings then set about populating [aeras|E] by bringing into existence all manner of flora, fauna, and terrible monsters.\n\nIn the myths, the creation of man was something of an afterthought to the Gods, who found them incidentally as they rooted through the offal left over from Ke-Ren's explosive act of creation. Finding them too weak to hunt with their bare hands, too hairless to survive the harsh mountain nights, and too frightened of the dark to hide in the caves where they would be safe, it was only through an act of bemused curiosity - and an unspoken feeling of compassion on the part of Mishkush - that the gods chose to educate mankind to ensure their survival. " #NT!
+ tulharsin_adherent: "Tulharsite" #NT!
+ tulharsin_adherent_plural: "Tulharsites" #NT!

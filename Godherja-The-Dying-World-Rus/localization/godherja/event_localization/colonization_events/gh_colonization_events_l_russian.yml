@@ -1,0 +1,93 @@
+﻿l_russian:
+  
+ colonization_event.0001.t: "Colony Prospers" #NT!
+ colonization_event.0001.desc: "The colony at [county_being_colonized.GetName] has reported record prosperity. Poring over the records my steward handed me, its success has encouraged scores of new settlers to arrive, greatly increasing the number and size of settlements throughout the region. With prosperity comes the ability to pay higher taxes, and I could impose a new tax or levy upon the colony if I so desired." #NT!
+ colonization_event.0001.a: "Let them enjoy their prosperity." #NT!
+ colonization_event.0001.b: "Levy a small 'prosperity tax' on them." #NT!
+ colonization_event.0001.c: "Increase their taxes by a quarter; the treasury needs more gold." #NT!
+ colonization_event.0001.d: "Increase their taxes by half, and seize a third of their grain this month." #NT!
+ colonization_event.0011.t: "Plague of Brigands" #NT!
+ colonization_event.0011.desc: "Magistrates in charge of the colony of [county_being_colonized.GetName] report that it is plagued by a veritable horde of brigands formed from disaffected settlers. They assault vital caravans, pillage undefended settlements, and wreak havoc in general on the land. As I'm reading the multitude of reports, my marshal awaits my command." #NT!
+ colonization_event.0011.a: "We can do nothing for the colony." #NT!
+ colonization_event.0011.b: "Send them gold and weapons so they can defend themselves." #NT!
+ colonization_event.0011.c: "Send soldiers to hunt down and round up the brigands." #NT!
+ colonization_event.0021.t: "Poor Harvest" #NT!
+ colonization_event.0021.desc: "The colony in [county_being_colonized.GetName] has reported a terrible harvest this year; grain and other food staples have failed to grow in sufficient numbers to feet the colonists, and they may soon face a famine unless something is done about it." #NT!
+ colonization_event.0021.a: "They will have to fend for themselves." #NT!
+ colonization_event.0021.b: "Send them enough food to survive the year." #NT!
+ colonization_event.0021.c: "Arrange a shipment of food and hardier seeds for next year's harvest." #NT!
+ colonization_event.0031.t: "Incompetent Administrator" #NT!
+ colonization_event.0031.desc: "My steward has found that the official in charge of the colony at [county_being_colonized.GetName] has severely mismanaged the colony, founding new settlements in poor regions, placing farms in inhospitable areas, and improperly storing perishable goods. This level of stupidity is criminal, and the administrator has been arrested and brought before me for judgement." #NT!
+ colonization_event.0031.a: "Strip this fool of his office." #NT!
+ colonization_event.0031.b: "Have this lackwit thrown in the dungeon!" #NT!
+ colonization_event.0031.c: "Guards, execute this dullard!" #NT!
+ colonization_event.0031.d: "Kill this witless idiot and exterminate his family!" #NT!
+ colonization_event.0031.e: "Put him back at his post, he is where I want him to be." #NT!
+ colonization_event.0041.t: "Monster Infestation" #NT!
+ colonization_event.0041.desc: "The people of the colony at [county_being_colonized.GetName] have sent me a petition asking for aid. The colony has apparently been suffering from large populations of monsters predating on livestock and, in some cases, people. People are afraid to leave their homesteads, and trade between settlements is conducted only in large numbers. While some are hunting the beasts, not enough are volunteering for the dangerous work. Something must be done about this." #NT!
+ colonization_event.0041.a: "I can't do anything about this." #NT!
+ colonization_event.0041.b: "I will post a large bounty on these beasts." #NT!
+ colonization_event.0041.c: "I'll hire a monster hunter guild." #NT!
+ colonization_event.0051.t: "Struck Gold" #NT!
+ colonization_event.0051.desc: "The colonists in [county_being_colonized.GetName] have found a large amount of gold, sending a significant quantity of it back to the homeland and, more importantly for me, into my treasury. Already, scores of new settlers are heading to the region for a chance to make their fortunes, and the colony is growing at a steady rate." #NT!
+ colonization_event.0051.a: "Fantastic news!" #NT!
+ colonization_event.0051.b: "I will invest some of that gold back into the colony." #NT!
+ colonization_event.0061.t: "Influx of Settlers" #NT!
+ colonization_event.0061.desc: "My steward reports that the colony of [county_being_colonized.GetName] has seen an influx of new settlers, heading there for the promise of a bright future away from the homeland. Although that future might not be as bright as they think it will be, they will no doubt be doing their part to ensure a prosperous realm." #NT!
+ colonization_event.0061.a: "Good news!" #NT!
+ colonization_event.0061.b: "More people means more taxes!" #NT!
+ colonization_event.0071.t: "Good Harvest" #NT!
+ colonization_event.0071.desc: "The colony of [county_being_colonized.GetName] has enjoyed an unusually good harvest this year, my steward reports. Crops are blooming, and they will have more than enough food to feed themselves for this year and the next. While I could confiscate a good amount of that grain for my own ends, I must also consider the long-term ramifications of such an act." #NT!
+ colonization_event.0071.a: "Let them keep their grain; I don't need it." #NT!
+ colonization_event.0071.b: "I'll seize a small amount of grain for my own ends." #NT!
+ colonization_event.0071.c: "Take a tenth-share of the grain! I need it more than they do." #NT!
+ colonization_event.0071.d: "I will have all of their excess grain! It is all mine!" #NT!
+ colonization_event.0200.t: "To Build a Colony" #NT!
+ colonization_event.0200.desc: "The colony of [county_being_colonized.GetName] has finally reached a state of financial independence. Where once was naught the province now enjoys the sounds of laughing children and the proud sweat of their brow[SelectLocalization(GetPlayer.HasTrait(GetTrait('greedy').Self),' and most important of all, the joy of paying their taxes!','.')] However this humble village will doubtless soon grow into a larger settlement of the type townships much like it shall circle, and it is up to me to decide what exactly that settlement shall one day look like." #NT!
+ colonization_event.0200.a: "A fort shall be erected, to protect these lands." #NT!
+ colonization_event.0200.b: "Let the people invest in commerce, and thus invest in the realm." #NT!
+ colonization_event.0200.c: "Let this holding be one of [ROOT.Char.GetFaith.HighGodName]." #NT!
+  ############# 
+  # MODIFIERS # 
+ colony_prospers_modifier: "Prospering Colony" #NT!
+ colony_prospers_modifier_desc: "#W Colonization Speed:#! #positive_value +50%#!" #NT!
+ colony_prospers_mitigated_modifier: "Prospering Colony" #NT!
+ colony_prospers_mitigated_modifier_desc: "#W Colonization Speed:#! #positive_value +25%#!" #NT!
+ colony_prospers_minor_modifier: "Prospering Colony" #NT!
+ colony_prospers_minor_modifier_desc: "#W Colonization Speed:#! #positive_value +10%#!" #NT!
+ colony_struck_gold_modifier: "Gold Rush" #NT!
+ colony_struck_gold_modifier_desc: "#W Colonization Speed:#! #positive_value +25%#!" #NT!
+ colony_struck_gold_improved_modifier: "Gold Rush" #NT!
+ colony_struck_gold_improved_modifier_desc: "#W Colonization Speed:#! #positive_value +50%#!" #NT!
+ colony_influx_of_settlers_modifier: "Migrant Influx" #NT!
+ colony_influx_of_settlers_modifier_desc: "#W Colonization Speed:#! #positive_value +50%#!" #NT!
+ colony_influx_of_settlers_mitigated_modifier: "Migrant Influx" #NT!
+ colony_influx_of_settlers_mitigated_modifier_desc: "#W Colonization Speed:#! #positive_value +25%#!" #NT!
+ colony_good_harvest_modifier: "Bountiful Harvest" #NT!
+ colony_good_harvest_modifier_desc: "#W Colonization Speed:#! #positive_value +50%#!" #NT!
+ colony_good_harvest_mitigated_modifier: "Excellent Harvest" #NT!
+ colony_good_harvest_mitigated_modifier_desc: "#W Colonization Speed:#! #positive_value +25%#!" #NT!
+ colony_good_harvest_minor_modifier: "Good Harvest" #NT!
+ colony_good_harvest_minor_modifier_desc: "#W Colonization Speed:#! #positive_value +10%#!" #NT!
+ colony_plague_of_brigands_modifier: "Bandit Stronghold" #NT!
+ colony_plague_of_brigands_modifier_desc: "#W Colonization Speed:#! #negative_value -50%#!" #NT!
+ colony_plague_of_brigands_mitigated_modifier: "Bandit Nest" #NT!
+ colony_plague_of_brigands_mitigated_modifier_desc: "#W Colonization Speed:#! #negative_value -25%#!" #NT!
+ colony_plague_of_brigands_minor_modifier: "Bandit Hideout" #NT!
+ colony_plague_of_brigands_minor_modifier_desc: "#W Colonization Speed:#! #negative_value -10%#!" #NT!
+ colony_poor_harvest_modifier: "Catastrophic Harvest" #NT!
+ colony_poor_harvest_modifier_desc: "#W Colonization Speed:#! #negative_value -50%#!" #NT!
+ colony_poor_harvest_mitigated_modifier: "Terrible Harvest" #NT!
+ colony_poor_harvest_mitigated_modifier_desc: "#W Colonization Speed:#! #negative_value -25%#!" #NT!
+ colony_poor_harvest_minor_modifier: "Poor Harvest" #NT!
+ colony_poor_harvest_minor_modifier_desc: "#W Colonization Speed:#! #negative_value -10%#!" #NT!
+ colony_incompetent_administrator_modifier: "Incompetent Administrator" #NT!
+ colony_incompetent_administrator_modifier_desc: "#W Colonization Speed:#! #negative_value -25%#!" #NT!
+ colony_incompetent_administrator_major_modifier: "Empowered Incompetent Administrator" #NT!
+ colony_incompetent_administrator_major_modifier_desc: "#W Colonization Speed:#! #negative_value -50%#!" #NT!
+ colony_monster_infestation_modifier: "Monster Infestation" #NT!
+ colony_monster_infestation_modifier_desc: "#W Colonization Speed:#! #negative_value -50%#!" #NT!
+ colony_monster_infestation_mitigated_modifier: "Monster Infestation" #NT!
+ colony_monster_infestation_mitigated_modifier_desc: "#W Colonization Speed:#! #negative_value -25%#!" #NT!
+ colony_monster_infestation_minor_modifier: "Monster Infestation" #NT!
+ colony_monster_infestation_minor_modifier_desc: "#W Colonization Speed:#! #negative_value -10%#!" #NT!

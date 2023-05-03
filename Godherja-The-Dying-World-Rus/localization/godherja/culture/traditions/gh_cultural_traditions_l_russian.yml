@@ -1,0 +1,242 @@
+﻿l_russian:
+  ########### 
+  # ETHOSES # 
+ ethos_magical_name: "Magic-Focused" #NT!
+ ethos_magical_desc: "This culture has chosen to vest its utter trust in the power of [magic|E] and its practitioners, and is organized to accomodate the maximal growth of arcane knowledge and bloodlines." #NT!
+  
+  ############## 
+  # TRADITIONS # 
+ incompatible_tradition_legacy_of_aversaria: "Incompatible with the $tradition_legacy_of_aversaria_name$ tradition" #NT!
+ tradition_lodge_dominance_name: "Lodge Dominance" #NT!
+ tradition_lodge_dominance_desc: "Powerful lodges permeate all aspects of this culture's society, and membership in one is almost integral to daily life." #NT!
+ tradition_traders_name: "Traders" #NT!
+ tradition_traders_desc: "Either due to an optimal geographic position or simply inherent cultural values, this culture has a long and storied history of commercial activity with its neighbors." #NT!
+ tradition_mubaaizun_name: "Mubaaizun" #NT!
+ tradition_mubaaizun_desc: "A mubaaizun is a champion of a [sarradonian|E] army; often the best warriors of a lord will participate in a ritual duel before the battle commences, fighting to the death. These duels are often accompanied with each army chanting or insulting one another, and there have been instances - such as the Battle of the Mubaaizun - where multiple duels happen before battle commences, often to avenge a dead mubaaizun." #NT!
+ tradition_botai_name: "Bötai" #NT!
+ tradition_botai_desc: "Bötai are warrior-bands formed for the purposes of raiding and companionship. Societies with bötai have them as a core social group, the decider of whether one is an adult or a child, and whether one can participate in society or not." #NT!
+ tradition_ardara_name: "Ardara" #NT!
+ tradition_ardara_desc: "Ardara is a system of honor emblematic to the Kikarsagi. Being brave in battle, generous in wealth, and forthright in one's dealings with other Kikarsagi is the epitome of ardara." #NT!
+ tradition_bloodhounds_of_aversaria_name: "Bloodhounds of Aversaria" #NT!
+ tradition_bloodhounds_of_aversaria_desc: "The Sycharceg could count themselves among the most feared of [aversaria_possessive|E] enforcers, their culture gradually transformed to hone and magnify the most ruthless aspects of their warrior society. A rebellious area visited by the Sycharceg is usually brought back to peace quickly and decisively - the peace of the grave, at least." #NT!
+ tradition_legacy_of_aversaria_name: "Legacy of Aversaria" #NT!
+ tradition_legacy_of_aversaria_desc: "[aversaria|E] and its institutions loom large in this culture - regardless of whether the Aautokrata still stands, these people see themselves as its subjects and inheritors." #NT!
+ tradition_legacy_of_aversaria_lesser_name: "Legacy of Aversaria" #NT!
+ tradition_legacy_of_aversaria_lesser_desc: "[aversaria|E] and its institutions loom large in this culture - regardless of whether the Aautokrata still stands, these people see themselves as its subjects and inheritors." #NT!
+ tradition_northern_pragmatism_name: "Northern Pragmatism" #NT!
+ tradition_northern_pragmatism_desc: "Generally disinterested in broader world affairs and content to stick to their forest estates, the [aversarians|E] of Kalathipsomi are well known for a type of ruthless pragmatism that has oft put them at odds with their more principled kin in the rest of the empire. The amount of storms that their ruling houses have weathered over the centuries, however, stands as a clear testament to the effectiveness of their approach to politics." #NT!
+ tradition_opakhasian_opulence_name: "Opakhasian Opulence" #NT!
+ tradition_opakhasian_opulence_desc: "The decadence which Opakhasian courts are expected to play host to would be considered near-crass in most other cultures, but it has undoubtedly made them quite an attractive destination for those seeking a level of excess normally considered only the stuff of fairytales." #NT!
+ tradition_blood_magi_name: "Blood Magi" #NT!
+ tradition_blood_magi_desc: "This culture has great reverence for practitioners of [blood_magic|E], and has developed a skill in the field that places their [blood_magi|E] above those of most others." #NT!
+ tradition_purity_of_blood_name: "Purity of Blood" #NT!
+ tradition_purity_of_blood_desc: "Great emphasis is placed on cultivating pure, [magical|E] bloodlines in this culture." #NT!
+ tradition_otachedian_law_name: "Otachedian Law" #NT!
+ tradition_otachedian_law_desc: "Though centuries have passed since its fall, the rules and guidelines of the [otachedian_empire|E] still hold strong in this culture's society." #NT!
+ tradition_literary_divergence_name: "Literary Divergence" #NT!
+ tradition_literary_divergence_desc: "This culture has diverged from their historical literature to the point of becoming unique in its own right." #NT!
+ tradition_amaghean_lions_name: "Amaghean Lions" #NT!
+ tradition_amaghean_lions_desc: "The people of Amaghea have long mastered the skills needed to defend their home in the Armazli range. Unyielding to the end, this culture does not surrender its mountains without a fight." #NT!
+ tradition_centralized_name: "Centralized" #NT!
+ tradition_centralized_desc: "To grow is to die! This culture has grown around a small number of cities, inside which the hustle and bustle of city life serves as the beating heart of their lives." #NT!
+ tradition_flame_children_name: "Children of the Flames" #NT!
+ tradition_flame_children_desc: "Born in fire and fury, this culture sees its faith as an integral part of its rituals. They will stand with their religion until the end, and avenge any slight againgst it." #NT!
+ tradition_kaegan_wind_name: "Wind of Kaegan" #NT!
+ tradition_kaegan_wind_desc: "A hybrid of Amaghean and Vhanavid warrior traditions, this culture values cavalry that can sweep across plains like divine wind." #NT!
+ tradition_armazli_sanctuaries_name: "Armazli Sanctuaries" #NT!
+ tradition_armazli_sanctuaries_desc: "Born in the high mountains of Aygaea, this culture embraces the high peaks of the Armazli mountains as its one true home. No mountain is too high, and no temple is too secluded." #NT!
+ tradition_eagle_court_name: "Plumed Courtship" #NT!
+ tradition_eagle_court_desc: "The Draneti follow the ways of court slowly and deliberately. Those who break their vows see no more; those who stand against the sacred oaths face a death they cannot see." #NT!
+ tradition_world_tree_name: "Followers of the World Tree" #NT!
+ tradition_world_tree_desc: "The Partic live their ways according to the pulse of the the World Tree, which has guided them to be some of the most skilled [magi|E] in all of [aeras|E]." #NT!
+ tradition_chortoson_name: "Chortosons" #NT!
+ tradition_chortoson_desc: "This culture has a formed a deep connection with the chort plant, and all the calming properties that come with it; those who partake seem easier to get along with." #NT!
+ tradition_chevalien_identity_name: "Chevalien Legacy" #NT!
+ tradition_chevalien_identity_desc: "The children of modern [chevalie|E], whether they be Marcher, Oejeynican, or Konijkmener, have long held deep ties that bring them together and tear them apart just as often. But when it comes to defending their homeland, there is nothing on [aeras|E] that could break their shared bond." #NT!
+ tradition_falcon_veneration_name: "Messengers from the Sky" #NT!
+ tradition_falcon_veneration_desc: "The Sarminian people venerate the falcon, building them roosts and taming them as companions. For a horsewoman, their bird is an extension of their body." #NT!
+ tradition_sammalriq_name: "Sammalriq" #NT!
+ tradition_sammalriq_desc: "The desert is a place fraught with danger, to survive we must place our trust in eachother. A warrior who does not share his wealth, knowledge and weapons, is no warrior at all" #NT!
+ tradition_painted_men_name: "The Painted of Kafasali" #NT!
+ tradition_painted_men_desc: "This culture follows the ancient warrior customs of the Rahikaya, painting their faces with beautiful powders and their swords with blood." #NT!
+ tradition_shadow_trade_name: "The Shadow Trade" #NT!
+ tradition_shadow_trade_desc: "The Shadow Trade has perforated this culture deeply, to the point that every dynast's glance appears an offer for profit." #NT!
+ tradition_scarred_warriors_of_forest_name: "Scarred Warriors Of The Forest" #NT!
+ tradition_scarred_warriors_of_forest_desc: "Tanumarei consider the forests their playground, scarring their face as a mark of strength and utilizing their skills in the art of war." #NT!
+ tradition_herbalist_priests_name: "Herbalist Priests" #NT!
+ tradition_herbalist_priests_desc: "The ritualistic nature of floral medicine in Tanumarei culture leads to herbalists seen as renowned priests, especially due to their important place as healers for the ones that come back from a hunt." #NT!
+ tradition_ruled_by_no_other_name: "Ruled By No Other" #NT!
+ tradition_ruled_by_no_other_desc: "We have been oppressed for long. No more! We shall now hunt their blood, the ones that strangle us. The Scarred shall never be caged!" #NT!
+ tradition_axe_master_name: "Sevra Par" #NT!
+ tradition_axe_master_desc: "Sevra Par, the Dance of Axes, is a key part of this culture. Many amongst its ranks have developed a keen skill with an axe." #NT!
+ tradition_middlemen_of_empires_name: "Middlemen of Empires" #NT!
+ tradition_middlemen_of_empires_desc: "This culture has established itself as powerful and loyal vassals of great empires. Rulers of this culture are rarely at the top of the hierarchy, but rarely at the bottom either." #NT!
+ tradition_beloved_bastards_name: "Beloved Bastards" #NT!
+ tradition_beloved_bastards_desc: "Nature and morality has decreed that a parent should love their children. The circumstances - or legitimacy - of their birth need not interfere with this duty. A noble seed sown carelessly shines no less bright." #NT!
+ tradition_bounty_of_ureha_name: "Bounty of Ureha" #NT!
+ tradition_bounty_of_ureha_desc: "#italic 'Our kin may obsess with the power of their clan or the might of their blade, but the Sjalvolki of the southern reaches know what our stubborn mountainkin and the foolish rivermen do not, that the might of the gods comes from the wealth of their bounty! With every harvest we know the honor we bring the gods, with great towns and holdfasts standing as monuments to the divine wealth of the Below!' " #NT!
+ tradition_warriors_of_velos_name: "Warriors of Velos" #NT!
+ tradition_warriors_of_velos_desc: "#italic For Velos, we war! The craggy hills of the Mountainhomes of yore may bare no fruit to supper, but the might of our arms and the strength of our steel shall provide! The oldest children of the Gods Below know that which our distant kin have long forgot—that to feast on the bounty that your enemies have harvested is to feast among the gods themselves!#!" #NT!
+ tradition_skalds_of_zamistra_name: "Skalds of Zamistra" #NT!
+ tradition_skalds_of_zamistra_desc: "#italic While our gods may have fought as warriors, they sung as mighty skalds! Some say their great legends were wrought from the blood of war against the demons of yore or from the endless schemes and dramatics of the highest courts of Velos and his kin, yet we know the truth better than any who claim to be of our blood! The legends of the gods were forged not by the sword but by the word, told from hero to hero, from skald to skald, and by every adventurer and traveler with naught besides a campfire and their fellows for entertainment in the cold nights.#!" #NT!
+ tradition_visvasavrak_guardians_name: "Viśvāsavrak Guardians" #NT!
+ tradition_visvasavrak_guardians_desc: "Noble Marakje rulers have long bestowed the noble title of Viśvāsavrak to distinguished warriors, who have dedicated themselves to fight for their liege until death. In times of great strife, the Viśvāsavrak are expected to reluctantly take power and guide their people wisely." #NT!
+ tradition_glass_smiths_name: "Glass Smithery" #NT!
+ tradition_glass_smiths_desc: "The art of glass making is a corner stone of the Zelkavani. Sculpted pieces of glass art can found everywhere, from the pretty vases and pots of a Zelkvani household to the most exquisitly crafted sculptures found in either the art galleries or a noble man's manor." #NT!
+ tradition_elephant_racers_name: "Elephant Racers" #NT!
+ tradition_elephant_racers_desc: "This culture sees the use of elephants in warfare as foolish. They prefer to race the majestic creatures in extravagent fashion instead." #NT!
+ tradition_redlanders_name: "Redland Dwellers" #NT!
+ tradition_redlanders_desc: "This culture has adapted to harsh Redlands, learning to surviving its harsh features and fight amongst its labyrinthian structure." #NT!
+ tradition_nhudabyad_name: "Nhudabyad" #NT!
+ tradition_nhudabyad_desc: "This culture has developed a talent for cultivating the nhudabyad plant, the boiled leaves of which aid them in seeing into the lands beyond." #NT!
+ tradition_idealistic_past_name: "Idealistic Past" #NT!
+ tradition_idealistic_past_desc: "The ancient history of this culture is well remembered and held with pride, considered by some as a past more glorious than anything that could ever follow." #NT!
+ tradition_proud_history_name: "Proud Histories" #NT!
+ tradition_proud_history_desc: "This culture is known to maintain vast historical records of a long and proud history, detailing accomplishments no matter how small." #NT!
+ tradition_political_animals_name: "Life is Political" #NT!
+ tradition_political_animals_desc: "Politics is central to the life of this culture, respecting those who rise through the chaos to political ascendance." #NT!
+ tradition_settlers_of_krehejad_name: "Settlers of Krehejad" #NT!
+ tradition_settlers_of_krehejad_desc: "The islands of Krehejad were conquered and settled by a millieu of cultures from across [aversaria|E], and retain a strong sense of shared heritage, with no individual culture having ever attained a position of hegemony over their brothers." #NT!
+ tradition_dergi_gardens_name: "Majestic Gardens" #NT!
+ tradition_dergi_gardens_desc: "This culture expresses its unity with its environment through the use of grandiose magical gardens, taking the place of nature's caretaker until it is ready to take its final form." #NT!
+ tradition_islander_name: "Islanders" #NT!
+ tradition_islander_desc: "This culture is well-adapted to the challenges of the [shatteredisles|E], mastering the art of seafaring and survival amongst the diverse and often harsh fauna of the seas." #NT!
+ tradition_guillate_legacy_name: "Legacy of Guillate" #NT!
+ tradition_guillate_legacy_desc: "The legendary figure of Admiral Guillate den va Chrestoffexaroff has inspired a fierce independent spirit amongst this culture, it's people determined to forever expel all foreign empires from the [Concept('shatteredisles','Isles')|E] they call home." #NT!
+ gh_tradition_debug_desc: "Debug cultural tradition. If you see this tradition in-game, please report it as a bug to our github." #NT!
+ tradition_mdala_hasira_name: "Mdala Hasira" #NT!
+ tradition_mdala_hasira_desc: "This culture has long benefitted from extensive spice plantations, generating great wealth at the cost of their land." #NT!
+ tradition_mutually_beneficial_name: "Mutually Beneficial" #NT!
+ tradition_mutually_beneficial_desc: "This culture has long benefitted from the mutual support of another." #NT!
+ tradition_competitive_name: "Competitive" #NT!
+ tradition_competitive_desc: "This culture has a long history of competition and games." #NT!
+ tradition_walking_stilts_name: "Walking Stilts" #NT!
+ tradition_walking_stilts_desc: "This culture has long used tall walking stilts as part of their way of life." #NT!
+ tradition_lords_of_aironoi_name: "Lords of Aironoi" #NT!
+ tradition_lords_of_aironoi_desc: "Since the days of the [aironoian_migration|E], the Öltenic warlords have held dominion over the vast Aironoian steppe." #NT!
+ tradition_lightshy_name: "Lightshy" #NT!
+ tradition_lightshy_desc: "Having dwelt deep beneath the surface of Aeras for many long years, this culture has adapted to the perpetual darkness. Now hating and fearing the sunlight, they are vicious tunnel fighters, capable of operating in near total darkness." #NT!
+ culture_subterranean_desc: "Culture exists primarily underground" #NT!
+ culture_parameter_subterranean_fighters: "Gains increased [advantage|E] in combat while in subterranean regions." #NT!
+  ############### 
+  # MAA UNLOCKS # 
+ culture_parameter_unlock_maa_mubaaizun: "Can recruit [GetMaA('mubaaizun').GetName] as [men_at_arms|E]" #NT!
+ culture_parameter_unlock_maa_krialetil: "Can recruit [GetMaA('krialetil').GetName] as [men_at_arms|E]" #NT!
+ culture_parameter_unlock_maa_tsanruti: "Can recruit [GetMaA('tsanruti').GetName] as [men_at_arms|E]" #NT!
+ culture_parameter_unlock_maa_tskherosan: "Can recruit [GetMaA('tskherosan').GetName] as [men_at_arms|E]" #NT!
+ culture_parameter_unlock_maa_sahkmavali: "Can recruit [GetMaA('sahkmavali').GetName] as [men_at_arms|E]" #NT!
+ culture_parameter_unlock_maa_mezilachitnen: "Can recruit [GetMaA('mezilachitnen').GetName] as [men_at_arms|E]" #NT!
+ culture_parameter_chevalien_identity: "The #V $building_type_military_academy_01$#! line of [buildings|E] have additional bonuses in [counties|E] of this [culture|E]" #NT!
+ culture_parameter_chevalien_defense: "Unlocks [chevalie|E]'s unique 'Defense of Chevalie' [casus_belli|E] for fighting back against Non-Marcher Invasions" #NT!
+ culture_parameter_unlock_maa_cloud_riders: "Can recruit [GetMaA('cloud_riders').GetName] as [men_at_arms|E]" #NT!
+ culture_parameter_unlock_maa_jaanvarkis: "Can recruit [GetMaA('jaanvarkis').GetName] as [men_at_arms|E]" #NT!
+ culture_parameter_unlock_maa_kanpahuri: "Can recruit [GetMaA('kanpahuri').GetName] as [men_at_arms|E]" #NT!
+ culture_parameter_unlock_maa_visvasavrak: "Can recruit [GetMaA('visvasavrak').GetName] as [men_at_arms|E]" #NT!
+  ############# 
+  # TRAIT LOC # 
+ culture_parameter_access_to_glass_smith_traits: "Characters can now gain the [GetTraitGroup('gh_glass_smith').GetName] line of traits" #NT!
+ culture_parameter_ardara_positive_trait_modifiers: "The [GetTrait('brave').GetName( GetNullCharacter )] and [GetTrait('generous').GetName( GetNullCharacter )] [traits|E] are seen as [prestige_i][prestigious|E] and give [county_opinion|E]" #NT!
+ culture_parameter_ardara_negative_trait_modifiers: "The [GetTrait('craven').GetName( GetNullCharacter )] and [GetTrait('greedy').GetName( GetNullCharacter )] [traits|E] are looked down upon" #NT!
+ culture_parameter_can_raid_even_if_feudal: "Unlocks the ability to [raid|E]" #NT!
+ culture_parameter_can_distribute_raid_loot_for_prestige_and_development: "Can choose to redistribute part of the loot at the conclusion of a [raid|E], receiving substantial additional [prestige_i][prestige|E] in return and boosting [county|E] [development|E]" #NT!
+ culture_parameter_sending_gifts_to_vassals_and_courtiers_gives_prestige: "Using the [send_gift|E] [character_interaction|E] on [vassals|E] and [courtiers|E] gives [prestige_i][prestige|E]" #NT!
+ culture_parameter_has_access_to_familial_extermination: "[characters|E] that you have an [execute_reason|E] against can have the #E Familial Extermination#! interaction used against them, with [prestige_i][prestige|E] and [tyranny|E] costs rising with how closely related they are to you" #NT!
+ culture_parameter_encouraged_old_ruler_abdication: "Old rulers can voluntarily abdicate, gaining [dynasty_prestige_i][dynasty_prestige|E] proportional to their [skills|E]" #NT!
+ culture_parameter_enables_alatans: "Rulers that have voluntarily abdicated become an [GetTrait('gh_alatan').GetName(GetNullCharacter)], and perform [councillor_tasks|E] better" #NT!
+ culture_parameter_enables_khatan_succession: "Enables access to the #underline Khatan Succession#! [law|E]" #NT!
+ culture_parameter_bloodhounds_of_aversaria_positive_trait_modifiers: "The [GetTrait('sadistic').GetName( GetNullCharacter )], [GetTrait('callous').GetName( GetNullCharacter )] and [GetTrait('vengeful').GetName( GetNullCharacter )] [traits|E] are seen as [prestige_i][prestigious|E] and give [martial_i][martial|E] bonuses" #NT!
+ culture_parameter_bloodhounds_of_aversaria_negative_trait_modifiers: "The [GetTrait('compassionate').GetName( GetNullCharacter )] and [GetTrait('forgiving').GetName( GetNullCharacter )] [traits|E] are looked down upon" #NT!
+ culture_parameter_can_purge_counties: "Enables the #E Purge County#! interaction on [counties|E] with a low [cultural_acceptance|E]" #NT!
+ culture_parameter_purging_counties_gives_prestige: "#E Purging Counties#! gives [prestige_i][prestige|E]" #NT!
+ culture_parameter_executing_different_culture_characters_gives_prestige: "[executing|E] characters of a different [culture|E] gives [prestige_i][prestige|E]" #NT!
+ culture_parameter_blood_magi_positive_trait_modifiers: "The [GetTrait('education_living_magic_1').GetName( GetNullCharacter )], [GetTrait('education_living_magic_2').GetName( GetNullCharacter )], [GetTrait('education_living_magic_3').GetName( GetNullCharacter )] and [GetTrait('education_living_magic_4').GetName( GetNullCharacter )] [traits|E] are seen as [prestige_i][prestigious|E]" #NT!
+ culture_parameter_living_magic_mutation_positive_trait_modifiers: "Mutations from using [living_magic|E] such as [GetTrait('gh_glowing_veins').GetName( GetNullCharacter )] and [GetTrait('gh_ritual_tattoos').GetName( GetNullCharacter )] are seen as [prestige_i][prestigious|E]" #NT!
+ culture_parameter_living_magic_education_better_outcomes: "[children|E] tend to do better in the [living_magic|E] [education|E]" #NT!
+ culture_parameter_culture_characters_more_magically_potent: "[Concept( 'character', 'Characters' )|E] of the [culture|E] tend to have better [congenital|E] [magic|E]" #NT!
+ culture_parameter_marriages_with_purity_of_blood_cultures_yield_better_magic: "Children of [Concept( 'character', 'Characters' )|E] whose cultures both have [GetCultureTradition('tradition_purity_of_blood').GetName] or a similar [tradition|E] tend to be born with better [congenital|E] [magic|E]" #NT!
+ culture_parameter_dislikes_marrying_impure_cultures: "[marriage|E] Acceptance towards impure [cultures|E]: #N -50#!" #NT!
+ culture_parameter_dislikes_marrying_impure_cultures_lesser: "[marriage|E] Acceptance towards impure [cultures|E]: #N -25#!" #NT!
+ culture_parameter_harder_to_hybridize_lesser: "Creating a Hybrid [culture|E] requires #V 50%#! more [cultural_acceptance|E], it is also much harder to Hybridise with this Culture" #NT!
+ culture_parameter_expensive_convert_to_local_culture_lesser: "#V $convert_to_local_culture_decision$#! [decision|E] Cost: [prestige_i]#N +150%#!" #NT!
+ culture_parameter_ai_doesnt_marry_impure_cultures: "Very unlikely to arrange [marriages|E] with [Concept( 'character', 'Characters' )|E] of an impure [culture|E]" #NT!
+ culture_parameter_blood_senate_succession_enabled: "Can enact the #high $aversarian_succession_law$#! [succession_law|E]" #NT!
+ culture_parameter_magocracy_government_enabled: "Can adopt the #high $magocratic_government$#! [government|E] under certain conditions" #NT!
+ TRADITION_PENALTY_BLOODPURIST: "Purist [culture|E]: $VALUE|+=0$" #NT!
+ culture_parameter_northern_pragmatism_positive_trait_modifiers: "The [GetTrait('cynical').GetName( GetNullCharacter )] [trait|E] is seen as [prestige_i][prestigious|E] and gives additional [intrigue_i][intrigue|E], [diplomacy_i][diplomacy|E] and [gold_i][tax|E] bonuses" #NT!
+ culture_parameter_intrigue_education_prestige_and_tax_modifiers: "[intrigue|E] [education|E] [traits|E] are seen as [prestige_i][prestigious|E] and give [gold_i][tax|E] bonuses" #NT!
+ culture_parameter_cynical_trait_more_common: "The [GetTrait('cynical').GetName( GetNullCharacter )] [trait|E] is more common" #NT!
+ culture_parameter_intrigue_education_better_outcomes: "[children|E] tend to do better in the [intrigue|E] [education|E]" #NT!
+ culture_parameter_opakhasian_opulence_positive_trait_modifiers: "The [GetTrait('arrogant').GetName( GetNullCharacter )] and [GetTrait('gluttonous').GetName( GetNullCharacter )] [traits|E] are seen as [prestige_i][prestigious|E] and give #V 1#! [diplomacy_i][diplomacy|E] per [prestige_level|E], while incurring a [gold_i][tax|E] malus" #NT!
+ culture_parameter_arrogant_trait_more_common: "The [GetTrait('arrogant').GetName( GetNullCharacter )] [trait|E] is more common" #NT!
+ culture_parameter_gluttonous_trait_more_common: "The [GetTrait('gluttonous').GetName( GetNullCharacter )] [trait|E] is more common" #NT!
+ culture_parameter_unlocks_lodge_mechanics: "Unlocks access to [lodges_mechanical|E]" #NT!
+ culture_parameter_not_tribal_pirate_raiding_malus: "When returning from a successful [raid|E], non-[tribal|E] or non-[pirates|E] characters #EMP lose#! [EmptyScope.ScriptValue('not_tribal_raid_prestige_multiplier')|1] [prestige_i][prestige|E] per 1 [raid_loot|E] delivered" #NT!
+ culture_parameter_sacred_living_magi: "The [GetTrait('education_living_magic_1').GetName( GetNullCharacter )], [GetTrait('education_living_magic_2').GetName( GetNullCharacter )], [GetTrait('education_living_magic_3').GetName( GetNullCharacter )], and [GetTrait('education_living_magic_4').GetName( GetNullCharacter )] [traits|E] give [piety|E]." #NT!
+ culture_parameter_chort_traits_more_common: "Rulers are more likely to gain the [GetTrait('hashishiyah').GetName( GetNullCharacter )] [trait|E] when [stressed|E]." #NT!
+ culture_parameter_chort_traits_more_valued: "The [GetTrait('hashishiyah').GetName( GetNullCharacter )] [trait|E] is seen as [prestige_i][prestigious|E], and rulers gain prestige when smoking chort." #NT!
+ culture_parameter_chort_diplomacy: "The [GetTrait('hashishiyah').GetName( GetNullCharacter )] [trait|E] gives [diplomacy|E]." #NT!
+ culture_parameter_elephant_racer_traits_more_valued: "The [GetTrait('gh_elephant_racer').GetName( GetNullCharacter )] [trait|E] is seen as [prestige_i][prestigious|E]." #NT!
+ culture_parameter_elephant_racer_intrigue: "The [GetTrait('gh_elephant_racer').GetName( GetNullCharacter )] [trait|E] gives [intrigue|E]." #NT!
+ culture_parameter_enable_falcon_roost_building: "Can build the [GetBuilding('falcon_roost_01').GetName] [building|E], allowing characters to train falcons at halved cost." #NT!
+ culture_parameter_easier_to_train_falcons: "Characters have an easier time training falcons." #NT!
+ culture_parameter_open_terrain_trait_bonuses: "The [GetTrait('gh_falconer').GetName( GetNullCharacter )] [trait|E] gives open terrain bonuses." #NT!
+ culture_parameter_hunting_bonus_against_aquatic_fauna: "Characters have an easier time defeating Aquatic Fauna and gain double [prestige|E] from doing so." #NT!
+ culture_parameter_cultural_dynasty_hostile_scheme_agent_chance: "Increased [agent|E] acceptance by [dynasty|E] members for [hostile_schemes|E]: #P +[EmptyScope.ScriptValue('cultural_dynasty_hostile_scheme_agent_chance')|0]%#! against non-[dynasty|E] members" #NT!
+ culture_parameter_cultural_foreign_hostile_scheme_agent_chance: "Increased [agent|E] acceptance by [culture|E] members for [hostile_schemes|E]: #P +[EmptyScope.ScriptValue('cultural_foreign_hostile_scheme_agent_chance')|0]%#! against other [cultures|E]" #NT!
+ culture_parameter_deceitful_trait_more_common: "The [GetTrait('deceitful').GetName( GetNullCharacter )] [trait|E] is more common" #NT!
+ culture_parameter_herbalist_trait_give_piety: "The [GetTrait('lifestyle_herbalist').GetName( GetNullCharacter )] [trait|E] gives more [piety|E]" #NT!
+ culture_parameter_herbalist_trait_give_renown: "The [GetTrait('lifestyle_herbalist').GetName( GetNullCharacter )] [trait|E] gives more [dynasty_prestige|E]" #NT!
+ culture_parameter_ambitious_trait_more_common: "The [GetTrait('ambitious').GetName( GetNullCharacter )] [trait|E] is more common" #NT!
+ culture_parameter_enable_axe_house_building: "Can build Houses of Axes, unique Kherkeloi Duchy Buildings." #NT!
+ culture_parameter_blademaster_traits_give_diplomacy: "The [GetTrait('blademaster_1').GetName( GetNullCharacter )], [GetTrait('blademaster_2').GetName( GetNullCharacter )], and [GetTrait('blademaster_3').GetName( GetNullCharacter )] [traits|E] give [diplomacy|E]" #NT!
+ culture_parameter_more_prestige_from_battles: "Gains more [prestige_i][prestige|E] from battles" #NT!
+ culture_parameter_more_piety_from_battles: "Gains more [piety_i][piety|E] from battles" #NT!
+ culture_parameter_central_sjalvolki_courtly: "Characters gain slightly more renown" #NT!
+ culture_parameter_bounty_of_ureha_positive_trait_modifiers: "The [GetTrait('architect').GetName( GetNullCharacter)] [trait|E] is considered of high esteem and gives additional [stewardship_i][stewardship|E], [learning_i][learning|E] and faster [temple_holding|E] build speed" #NT!
+ culture_parameter_warriors_of_velos_positive_trait_modifiers: "The [GetTrait('berserker').GetName( GetNullCharacter )] [trait|E] is seen as [prestige_i][prestigious|E] and gives additional [prowess_i][prowess|E], increased [knight_effectiveness|E], increased [skirmisher|E] [toughness|E] and faster winter movement speed" #NT!
+ culture_parameter_skalds_of_zamistra_positive_trait_modifiers: "The [GetTrait('poet').GetName( GetNullCharacter)] [trait|E] is highly [prestige_i][prestigious|E] and gives additional [diplomacy_i][diplomacy|E], [dynasty_prestige_i][dynasty_prestige|E] and stronger Courting [schemes|E] " #NT!
+ culture_parameter_unlock_visvasavrak_guardian_title: "Can appoint [knights|E] to the Viśvāsavrak Guardian [court_position|E], increasing their [prowess|E] as well as the likeliness that they will die in battle" #NT!
+ culture_parameter_visvasavrak_gains_claim: "Viśvāsavrak Guardians gain an [unpressed_claim|E] on their liege's lands after they die." #NT!
+ culture_parameter_reduced_cost_legitimization: "Discounted [dynasty_prestige|E] cost for legitimizing [bastards|E]." #NT!
+ culture_parameter_reduced_bastard_trait_penalties: "[bastard|E] and Child of Concubine [traits|E] provide reduced penalties and maluses." #NT!
+ culture_parameter_bastard_court_performance: "[bastards|E] perform better in several [court|E] positions." #NT!
+ culture_parameter_enable_dergi_garden_building: "Can build Dergi Gardens, which boost [piety_i][piety|E] and [prestige_i][prestige|E]." #NT!
+ culture_parameter_gardener_traits_more_valued: "The [GetTrait('lifestyle_gardener').GetName( GetNullCharacter )] [trait|E] is seen as [prestige_i][prestigious|E]." #NT!
+ culture_parameter_krehejad_tolerance: "Gains #P 30%#! [cultural_acceptance|E] with other [Concept('culture','Cultures')|E] that possess the same [tradition|E]." #NT!
+ culture_parameter_otachedian_tolerance: "Gains #P 15%#! [cultural_acceptance|E] with other [Concept('culture', 'Cultures')|E] that possess this [tradition|E]." #NT!
+ culture_parameter_otachedian_hybridization: "Creating a Hybrid [culture|E] requires #P 25%#! less [cultural_acceptance|E] and [prestige_i]#P -25%#! with other Cultures that possess this [tradition|E]." #NT!
+ culture_parameter_mutually_beneficial_acceptance: "Gains #P 50%#! acceptance towards gaining an [alliance|E] with other [Concept('culture','Cultures')|E] that possess this [tradition|E]." #NT!
+ culture_parameter_mutually_beneficial_tolerance: "Gains #P 20%#! [cultural_acceptance|E] with other [Concept('culture','Cultures')|E] that possess this [tradition|E]." #NT!
+ culture_parameter_enable_mdala_duchy_building: "Can Build Mdala Hasira, which grant [income|E], [court_grandeur|E] and [prestige_i][prestige|E] at the cost of [development|E] and [county_opinion|E]." #NT!
+ culture_parameter_enable_crab_ranch_duchy_building: "Can Build Kaa Beero, temporary shelters for the Giant Spindle Leg Crabs that grant [income|E] and [advantage|E], though they can only be built while a county is experiencing [high_tide|E]." #NT!
+ culture_parameter_mountain_dwellers_biome: "Is better at not getting lost in [mountainous|E] [biozones|E]." #NT!
+ culture_parameter_jungle_dwellers_biome: "Is better at not getting lost in [jungle|E] [biozones|E]." #NT!
+ culture_parameter_forest_folk_biome: "Is better at not getting lost in [woodland|E] [biozones|E]." #NT!
+ culture_parameter_challenging_terrain_dwellers: "Is better at not getting lost in [challenging_terrain|E] [biozones|E]." #NT!
+ culture_parameter_cold_home_biozone_dwellers: "Is better at avoiding penalties in [cold|E] [biozones|E]." #NT!
+ culture_parameter_hot_home_biozone_dwellers: "Is better at avoiding penalties in [hot|E] [biozones|E]." #NT!
+ culture_parameter_unlock_maa_oltenic_cavalry: "Can build the unique Öltenic Cavalry." #NT!
+ culture_parameter_unlock_urbanism_legacy: "A [dynast|E] of this [culture|E] can use the #V $fp2_urbanism_legacy_track_name$#! [dynasty_perk|E]." #NT!
+ culture_parameter_unlock_coterie_legacy: "A [dynast|E] of this [culture|E] can use the #V $fp2_coterie_legacy_track_name$#! [dynasty_perk|E]." #NT!
+  # MODIFIERS # 
+ not_tribal_desc: "Not [tribal|E]" #NT!
+ otached_lawbreaker_desc: "[culture|E] [counties|E] in your [realm|E] must not border any Culture that they have less than #V 50%#! or more [cultural_acceptance|E] with" #NT!
+ rulers_with_chortosan_desc: "The [culture|E] does not have #V 4#! [rulers|E] with [GetTrait('hashishiyah').GetName( GetNullCharacter )] [traits|E]" #NT!
+ culture_parameter_peasant_and_populist_factions_more_common: "Different-[culture|E] [peasant_factions|E] and [popular_factions|E] are more common" #NT!
+ culture_parameter_populist_factions_more_common: "[popular_factions|E] are more common" #NT!
+ culture_parameter_vassals_revolt_more_different_culture: "[vassals|E] of this [culture|E] join [factions|E] against [liege|E] of different [culture|E] more easily" #NT!
+ not_aversarian_heritage_desc: "The [culture|E] does not have the [GetCulturePillar('heritage_aversarian').GetName] [heritage|E]" #NT!
+ not_sjalvolki_heritage_desc: "The [culture|E] does not have the [GetCulturePillar('heritage_sjalvolki').GetName] [heritage|E]" #NT!
+ rulers_with_living_magic_education_desc: "The [culture|E] does not have #V 4#! [rulers|E] with [GetTraitGroup('education_living_magic').GetName] [traits|E]" #NT!
+ TRADITION_PENALTY_PURIST: "Purist [culture|E]: $VALUE|+=0$" #NT!
+ ACCEPTANCE_BASELINE_KREHEJAD_TOLERANCE: "Settlers of Krehejad [tradition|E]" #NT!
+ ACCEPTANCE_BASELINE_OTACHEDIAN_TOLERANCE: "Otachedian Law [tradition|E]" #NT!
+ ACCEPTANCE_BASELINE_MUTUALLY_BENEFICIAL_TOLERANCE: "Mutually Beneficial [tradition|E]" #NT!
+  ######## 
+  # MISC # 
+ cannot_have_tradition_ardara: "$cannot_combine_tradition_trigger_desc$ #high $tradition_ardara_name$#!" #NT!
+ not_bureaucratic_communal_courtly_or_egalitarian_desc: "The [culture|E] does not have the $ethos_bureaucratic_name$, $ethos_communal_name$, $ethos_courtly_name$ or $ethos_egalitarian_name$ [ethos|E]" #NT!
+ culture_parameter_glass_house_duchy_building: "Grants access to the Glass House [duchy|E] building" #NT!
+ culture_parameter_characters_glass_traits_can_make_glass_artifacts: "Characters can now forge Glass [artifacts|E]" #NT!
+ lack_pirate_government_penalty_desc: "Lacking #E Pirate#! government form" #NT!
+ culture_underground_desc: "Must be located in the [GetGeographicalRegion('world_ga_mayikprolollan_mayikprolollan_depths').GetName] [region|E]" #NT!

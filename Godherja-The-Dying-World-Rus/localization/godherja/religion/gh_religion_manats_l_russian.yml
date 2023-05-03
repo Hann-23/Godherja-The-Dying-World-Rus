@@ -1,0 +1,79 @@
+﻿l_russian:
+  
+ #manats Loc 
+ manats_religion: "Manat" #NT!
+ manats_religion_adj: "Manat" #NT!
+ manats_religion_adherent: "Manat" #NT!
+ manats_religion_adherent_plural: "Manats" #NT!
+ manats_religion_desc: "A thousand thousand generations prior, the Manats claim, the [manat_gods|E] once walked among humanity. They taught mankind how to build cities, how to hunt, how to fight, and how to structure society. When they departed, they left behind a list of [manat_sacred_texts|E] for humanity to follow their teachings. They have been transcribed again and again over the centuries, repeated in a long-dead language whose translations have been passed down by oral tradition. Although only a fraction of the original texts are said to survive, what remains is treasured by Manats as more precious than gold." #NT!
+ manats_high_god_name: "Relyon" #NT!
+ manats_high_god_name_possessive: "Relyon's" #NT!
+ manats_devil_name: "Atar" #NT!
+ manats_devil_name_possessive: "Atar's" #NT!
+ manats_death_deity_name: "Mod" #NT!
+ manats_death_deity_name_possessive: "Mod's" #NT!
+ manats_house_of_worship: "library" #NT!
+ manats_house_of_worship_plural: "libraries" #NT!
+ manats_religious_symbol: "[manat_sacred_texts|E]" #NT!
+ manats_religious_text: "[manat_sacred_texts|E]" #NT!
+ manats_religious_head_title: "[nomera_dikirib|E]" #NT!
+ manats_religious_head_title_name: "[dogena_dikirib|E]" #NT!
+ manats_devotee: "Nonat" #NT!
+ manats_devotee_plural: "Nonats" #NT!
+ manats_priest: "[nosanni|E]" #NT!
+ manats_priest_plural: "[nosanni|E]" #NT!
+ manats_bishop: "Nomera Kedogena" #NT!
+ manats_bishop_plural: "Nomera Kedogena" #NT!
+ manats_positive_afterlife: "Dogena Tinngir" #NT!
+ manats_negative_afterlife: "Maw of Mod" #NT!
+ manats_pantheon_term: "the [manat_gods|E]" #NT!
+ manats_creator_god_name: "$manats_high_god_name$" #NT!
+ manats_creator_god_name_possessive: "$manats_high_god_name_possessive$" #NT!
+ manats_health_god_name: "Astoret" #NT!
+ manats_health_god_name_possessive: "Astoret's" #NT!
+ manats_fertility_god_name: "$manats_health_god_name$" #NT!
+ manats_fertility_god_name_possessive: "$manats_health_god_name_possessive$" #NT!
+ manats_wealth_god_name: "$manats_health_god_name$" #NT!
+ manats_wealth_god_name_possessive: "$manats_health_god_name_possessive$" #NT!
+ manats_household_god_name: "$manats_health_god_name$" #NT!
+ manats_household_god_name_possessive: "$manats_health_god_name_possessive$" #NT!
+ manats_fate_god_name: "$manats_high_god_name$" #NT!
+ manats_fate_god_name_possessive: "$manats_high_god_name_possessive$" #NT!
+ manats_knowledge_god_name: "Ashema" #NT!
+ manats_knowledge_god_name_possessive: "Ashema's" #NT!
+ manats_war_god_name: "$manats_knowledge_god_name$" #NT!
+ manats_war_god_name_possessive: "$manats_knowledge_god_name_possessive$" #NT!
+ manats_trickster_god_name: "Lokan" #NT!
+ manats_trickster_god_name_possessive: "Lokan's" #NT!
+ manats_night_god_name: "Yarikh" #NT!
+ manats_night_god_name_possessive: "Yarikh's" #NT!
+ manats_water_god_name: "$manats_health_god_name$" #NT!
+ manats_water_god_name_possessive: "$manats_health_god_name_possessive$" #NT!
+ manats_witch_god_name: "Malqod" #NT!
+ manats_witch_god_name_possessive: "Malqod's" #NT!
+ ghw_manats: "Zomera Nat" #NT!
+ ghw_manats_plural: "Zomera Nats" #NT!
+ manats: "Manat" #NT!
+ manats_adj: "Manat" #NT!
+ manats_adherent: "Manat" #NT!
+ manats_adherent_plural: "Manats" #NT!
+ manats_desc: "Much of modern Manat religious culture is built around protection and interpretation of the [manat_sacred_texts|E] of the gods, which is overseen by a large caste of [translator_priests|E]. Although there are original translations passed down by oral tradition, many Manat translators attempt to decipher the original language of the gods themselves, so that they might better be able to form a society as it was in those holiest of early days." #NT!
+ makerelyon: "Makerelyon" #NT!
+ makerelyon_adj: "Makerelyon" #NT!
+ makerelyon_adherent: "Makerelyon" #NT!
+ makerelyon_adherent_plural: "Makerelyons" #NT!
+ makerelyon_desc: "The Makerelyon branch of the Manat religion is popular among amibitious kings who wish to usurp the power of the [nosanni|E]. They believe that it is the sole right of the ruler of a realm to translate the [manat_sacred_texts|E], with clergy only guarding the libraries, a task they argue is so vital it cannot be distracted from by scholarly efforts. They justify this belief by referring to how the king of the gods, [relyon|E], had supreme authority over all other gods, even the keeper of the divine library, [ashema|E]." #NT!
+ makerelyon_priest: "Nomera" #NT!
+ makerelyon_priest_plural: "Nomera" #NT!
+ makerelyon_priest_male: "Nomera" #NT!
+ makerelyon_priest_male_plural: "Nomera" #NT!
+ makerelyon_priest_female: "Nomera" #NT!
+ makerelyon_priest_female_plural: "Nomera" #NT!
+ makerelyon_religious_head_title: "Rilun Dikirib" #NT!
+ makerelyon_religious_head_title_name: "Durilun Dikirib" #NT!
+ mafida: "Mafida" #NT!
+ mafida_adj: "Mafida" #NT!
+ mafida_adherent: "Mafida" #NT!
+ mafida_adherent_plural: "Mafidas" #NT!
+ mafida_desc: "Founded by disgruntled peasants, the Mafida believe that all humans have the right to interpret and translate the [manat_sacred_texts|E], from the lowest of peasants to the highest of kings. Due to the large variety of interpretations of the Sacred Texts tolerated by the Mafida, they have been labelled as heretical by all other Manats, even if the majority of Mafida have similar beliefs to the Manat mainstream." #NT!
+ holy_order_nenomera_nat: "Nomera Nat" #NT!

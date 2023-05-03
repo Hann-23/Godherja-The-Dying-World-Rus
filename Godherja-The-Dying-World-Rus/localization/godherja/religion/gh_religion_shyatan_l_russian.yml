@@ -1,0 +1,73 @@
+﻿l_russian:
+  
+ #shyatan Loc 
+ shyatan_religion: "Shy'atan" #NT!
+ shyatan_religion_adj: "Shy'atanic" #NT!
+ shyatan_religion_adherent: "Shy'ataner" #NT!
+ shyatan_religion_adherent_plural: "Shy'ataners" #NT!
+ shyatan_religion_desc: "Shy'ataners believe that the world is an endless cycle, one that their priests have broken out of an manipulated to their will. Adherents believe that if there are gods, they have not yet deigned to stop the reincarnation of the religion's priests. With no gods to honour, the religion instead showers its priesthood with lavish gifts to keep the cycle of life under their control." #NT!
+ shyatan_high_god_name: "Vanel Shy'ata" #NT!
+ shyatan_high_god_name_possessive: "Vanel Shy'ata's" #NT!
+ shyatan_high_god_name_alternate: "The Master of the Cycle" #NT!
+ shyatan_high_god_name_alternate_possessive: "The Master of the Cycle's" #NT!
+ shyatan_devil_name: "Utsnora" #NT!
+ shyatan_devil_name_possessive: "Utsnora's" #NT!
+ shyatan_death_deity_name: "Vanela Nestani" #NT!
+ shyatan_death_deity_name_possessive: "Vanela Nestani's" #NT!
+ shyatan_house_of_worship: "Sakhmer" #NT!
+ shyatan_house_of_worship_plural: "Sakhmeri" #NT!
+ shyatan_religious_symbol: "Sakhmer Shy'ata" #NT!
+ shyatan_religious_text: "Song of Shy'ata" #NT!
+ shyatan_religious_head_title: "Vaneliszar" #NT!
+ shyatan_religious_head_title_name: "Sakhmeriszat Vaneliszar" #NT!
+ shyatan_devotee_male: "Ghalvir" #NT!
+ shyatan_devotee_male_plural: "Ghalvirim" #NT!
+ shyatan_devotee_female: "Ghalvira" #NT!
+ shyatan_devotee_female_plural: "Ghalviram" #NT!
+ shyatan_devotee_neuter: "Ghalvo" #NT!
+ shyatan_devotee_neuter_plural: "Ghalvot" #NT!
+ shyatan_priest_male: "Halighalir" #NT!
+ shyatan_priest_male_plural: "Halighalirim" #NT!
+ shyatan_priest_female: "Halighala" #NT!
+ shyatan_priest_female_plural: "Halighalam" #NT!
+ shyatan_priest_neuter: "Halighal" #NT!
+ shyatan_priest_neuter_plural: "Halighalom" #NT!
+ shyatan_priest_alternate_plural: "Halighomir" #NT!
+ shyatan_bishop: "Mosavan" #NT!
+ shyatan_bishop_plural: "Mosavanom" #NT!
+ shyatan_positive_afterlife: "Dzilhan" #NT!
+ shyatan_negative_afterlife: "Samudbul" #NT!
+ shyatan_creator_god_name: "Vanel Shy'ata" #NT!
+ shyatan_creator_god_name_possessive: "Vanel Shy'ata's" #NT!
+ shyatan_health_god_name: "$shyatan_wealth_god_name$" #NT!
+ shyatan_health_god_name_possessive: "$shyatan_wealth_god_name_possessive$" #NT!
+ shyatan_fertility_god_name: "Vanela Ia" #NT!
+ shyatan_fertility_god_name_possessive: "Vanela Ia's" #NT!
+ shyatan_wealth_god_name: "Vanela Mariami" #NT!
+ shyatan_wealth_god_name_possessive: "Vanela Mariami's" #NT!
+ shyatan_household_god_name: "Vanel Luarzan" #NT!
+ shyatan_household_god_name_possessive: "Vanel Luarzan's" #NT!
+ shyatan_fate_god_name: "Vanel Reznir" #NT!
+ shyatan_fate_god_name_possessive: "Vanel Reznir's" #NT!
+ shyatan_knowledge_god_name: "Vanela Kenara" #NT!
+ shyatan_knowledge_god_name_possessive: "Vanela Kenara's" #NT!
+ shyatan_war_god_name: "Vanel Lacham" #NT!
+ shyatan_war_god_name_possessive: "Vanel Lacham's" #NT!
+ shyatan_trickster_god_name: "$shyatan_devil_name$" #NT!
+ shyatan_trickster_god_name_possessive: "$shyatan_devil_name_possessive$" #NT!
+ shyatan_night_god_name: "$shyatan_war_god_name$" #NT!
+ shyatan_night_god_name_possessive: "$shyatan_war_god_name_possessive$" #NT!
+ shyatan_water_god_name: "$shyatan_fate_god_name$" #NT!
+ shyatan_water_god_name_possessive: "$shyatan_fate_god_name_possessive$" #NT!
+ shyatan_witch_god_name: "$shyatan_knowledge_god_name$" #NT!
+ shyatan_witch_god_name_possessive: "$shyatan_knowledge_god_name_possessive$" #NT!
+ shyatan: "Shy'atan" #NT!
+ shyatan_adj: "Shy'atanic" #NT!
+ shyatan_adherent: "Shy'ataner" #NT!
+ shyatan_adherent_plural: "Shy'ataners" #NT!
+ shyatan_desc: "Shy'atan is the western Amaghean belief that time is ultimately nothing more than a reflection of an unending cosmos and ultimately is nothing besides yet another facet of the world that humans can shape to their will, just as they can dig a ditch or planet a tree. Shy'atani priests claim to be endless reincarnations of other priests who discovered a way to step out of the cycle of time and reenter it in a new body. Priests before their 'death' will seemingly randomly choose a time along with village, region, or name, and declare that to be the date and location of their reincarnation, a babe then being plucked from there (sometimes forcefully) to be raised among the priests to return to life. While this is normally seen as a great honor, it is still considered heresy to resist the coming priests.\n\nSecular rulers have often chafed against the excesses of the priesthood, technically beholden to any demands made by the priests who often miraculously choose their own children as their reincarnations and thus maintain vast holdings in their name." #NT!
+ halighalir: "Halighalirism" #NT!
+ halighalir_adj: "Halighalirist" #NT!
+ halighalir_adherent: "Halighalir" #NT!
+ halighalir_adherent_plural: "Halighalirs" #NT!
+ halighalir_desc: "Halighalirism is a school of thought that teaches that the existence of the priesthood is tied entirely to its ability to hold onto the gifts that Shy'ata granted it in times long since forgotten. The struggles that the Shy'atanic faithful have endured did not endear the faith to those subjugated by empire after empire, and the faith thus has historically remained on the fringes of society." #NT!

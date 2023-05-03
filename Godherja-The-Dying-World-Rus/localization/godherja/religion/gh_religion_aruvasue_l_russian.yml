@@ -1,0 +1,148 @@
+﻿l_russian:
+  
+ #aruvasue Loc 
+ aruvasue_religion: "Aruvasue" #NT!
+ aruvasue_religion_adj: "Aruvasuen" #NT!
+ aruvasue_religion_adjerent: "Aruvasuen" #NT!
+ aruvasue_religion_adherent_plural: "Aruvasueni" #NT!
+ aruvasue_religion_desc: "Named after the Moon-Sun-King Aruvas, He-Who-Is-One-But-Is-Three, Aruvasue is a state of mind first found in southern Aironoi. Aruvasueni believe that the material world is as sacred as the spirtual one, and place home and hearth above all others." #NT!
+ aruvasue_high_god_name: "Aruva Tsere" #NT!
+ aruvasue_high_god_name_possessive: "Aruva Tsere's" #NT!
+ aruvasue_high_god_name_alternate: "The Sun of Fate" #NT!
+ aruvasue_high_god_name_alternate_possessive: "The Sun of Fate's" #NT!
+ aruvasue_devil_name: "Aruva Nilud" #NT!
+ aruvasue_devil_name_possessive: "Aruva Nilud's" #NT!
+ aruvasue_death_deity_name: "Aruva Agat" #NT!
+ aruvasue_death_deity_name_possessive: "Aruva Agat's" #NT!
+ aruvasue_house_of_worship: "Vaybar" #NT!
+ aruvasue_house_of_worship_plural: "Vaybars" #NT!
+ aruvasue_religious_symbol: "Aruvasuen Sun" #NT!
+ aruvasue_religious_text: "Hundred Sermons of the Moon-Sun-King" #NT!
+ aruvasue_religious_head_title: "Zar Ekadri" #NT!
+ aruvasue_religious_head_title_name: "Zaribat Ekadri" #NT!
+ aruvasue_devotee: "Aruvasuen" #NT!
+ aruvasue_devotee_plural: "Aruvasuen" #NT!
+ aruvasue_priest: "Tarlus" #NT!
+ aruvasue_priest_plural: "Tarlusi" #NT!
+ aruvasue_priest_alternate_plural: "Tarluses" #NT!
+ aruvasue_bishop: "Mijikal" #NT!
+ aruvasue_bishop_plural: "Mijikali" #NT!
+ aruvasue_positive_afterlife: "Metonai" #NT!
+ aruvasue_negative_afterlife: "Yirg Kishe" #NT!
+ aruvasue_creator_god_name: "$aruvasue_high_god_name$" #NT!
+ aruvasue_creator_god_name_possessive: "$aruvasue_high_god_name_possessive$" #NT!
+ aruvasue_health_god_name: "$aruvasue_high_god_name$" #NT!
+ aruvasue_health_god_name_possessive: "$aruvasue_high_god_name_possessive$" #NT!
+ aruvasue_fertility_god_name: "$aruvasue_devil_name$" #NT!
+ aruvasue_fertility_god_name_possessive: "$aruvasue_devil_name_possessive$" #NT!
+ aruvasue_wealth_god_name: "$aruvasue_death_deity_name$" #NT!
+ aruvasue_wealth_god_name_possessive: "$aruvasue_death_deity_name_possessive$" #NT!
+ aruvasue_household_god_name: "$aruvasue_death_deity_name$" #NT!
+ aruvasue_household_god_name_possessive: "$aruvasue_death_deity_name_possessive$" #NT!
+ aruvasue_fate_god_name: "$aruvasue_high_god_name$" #NT!
+ aruvasue_fate_god_name_possessive: "$aruvasue_high_god_name_possessive$" #NT!
+ aruvasue_knowledge_god_name: "$aruvasue_high_god_name$" #NT!
+ aruvasue_knowledge_god_name_possessive: "$aruvasue_high_god_name_possessive$" #NT!
+ aruvasue_war_god_name: "$aruvasue_high_god_name$" #NT!
+ aruvasue_war_god_name_possessive: "$aruvasue_high_god_name_possessive$" #NT!
+ aruvasue_trickster_god_name: "$aruvasue_death_deity_name$" #NT!
+ aruvasue_trickster_god_name_possessive: "$aruvasue_death_deity_name_possessive$" #NT!
+ aruvasue_night_god_name: "$aruvasue_devil_name$" #NT!
+ aruvasue_night_god_name_possessive: "$aruvasue_devil_name$" #NT!
+ aruvasue_water_god_name: "$aruvasue_devil_name$" #NT!
+ aruvasue_water_god_name_possessive: "$aruvasue_devil_name_possessive$" #NT!
+ aruvasue_witch_god_name: "$aruvasue_high_god_name$" #NT!
+ aruvasue_witch_god_name_possessive: "$aruvasue_high_god_name_possessive$" #NT!
+ aruvasue: "Aruvasue" #NT!
+ aruvasue_adj: "Aruvasuen" #NT!
+ aruvasue_adherent: "Aruvasuen" #NT!
+ aruvasue_adherent_plural: "Aruvasueni" #NT!
+ aruvasue_desc: "Built on the [Concept('aruvas_myth','myth of Aruvas')|E], Aruvasueni believe that the feast is the most sacred of things, and that an honored guest is inhabited by the spirit of Aruva Agat who will speak on their behalf in the [oskinjer|E]. Passing it would grant sainthood, their statues standing proudly amongst angels serving the three realms of Aruvas in their temples." #NT!
+ rutbay: "Rut'Bay" #NT!
+ rutbay_adj: "Rut'Bayan" #NT!
+ rutbay_adherent: "Rut'Bayan" #NT!
+ rutbay_adherent_plural: "Rut'Bayani" #NT!
+ rutbay_desc: "Rut'Bay('Twelve Brothers') is the code of the twelve dissenters who killed the first 'saint' to succeed in the Os Kinjer whilst living. Believing that Os Kinjer cannot be understood by living priests, or that the spirit of Aruva Agat is present in the feast and not the guest, the faithful also shun magic as it is seen a gift stolen from Aruvas. Their creed underlines a [Concept('rutbay_prophesy','weary prophesy')|E]." #NT!
+ sarmuyr: "Sar'muyr" #NT!
+ sarmuyr_adj: "Sar'muyran" #NT!
+ sarmuyr_adherent: "Sar'muyran" #NT!
+ sarmuyr_adherent_plural: "Sar'muyrani" #NT!
+ sarmuyr_desc: "Held in high regard in most Aruvasuen faiths, the Sword Mother is held in such a way highest by the Sar'myur, who believe themselves children of her. Emphasizing her as the [Concept('sword_mother','Queen of the Dead')|E] they devote their mortal lives extinguishing those who would dare deny her. They refuse to enact [oskinjer|E] until they meet her." #NT!
+ sarmuyr_high_god_name: "Aruva Nilud" #NT!
+ sarmuyr_high_god_name_possessive: "Aruva Nilud's" #NT!
+ sarmuyr_high_god_name_alternate: "The Moon of Plenty" #NT!
+ sarmuyr_high_god_name_alternate_possessive: "The Moon of Plenty's" #NT!
+ sarmuyr_devil_name: "Aruva Tsere" #NT!
+ sarmuyr_devil_name_possessive: "Aruva Tsere's" #NT!
+ sarmuyr_death_deity_name: "Aruva Agat" #NT!
+ sarmuyr_death_deity_name_possessive: "Aruva Agat's" #NT!
+ sarmuyr_creator_god_name: "$sarmuyr_high_god_name$" #NT!
+ sarmuyr_creator_god_name_possessive: "$sarmuyr_high_god_name_possessive$" #NT!
+ sarmuyr_health_god_name: "$sarmuyr_devil_name$" #NT!
+ sarmuyr_health_god_name_possessive: "$sarmuyr_devil_name_possessive$" #NT!
+ sarmuyr_fertility_god_name: "$sarmuyr_high_god_name$" #NT!
+ sarmuyr_fertility_god_name_possessive: "$sarmuyr_high_god_name_possessive$" #NT!
+ sarmuyr_wealth_god_name: "$sarmuyr_death_deity_name$" #NT!
+ sarmuyr_wealth_god_name_possessive: "$sarmuyr_death_deity_name_possessive$" #NT!
+ sarmuyr_household_god_name: "$sarmuyr_death_deity_name$" #NT!
+ sarmuyr_household_god_name_possessive: "$sarmuyr_death_deity_name_possessive$" #NT!
+ sarmuyr_fate_god_name: "$sarmuyr_devil_name$" #NT!
+ sarmuyr_fate_god_name_possessive: "$sarmuyr_devil_name_possessive$" #NT!
+ sarmuyr_knowledge_god_name: "$sarmuyr_devil_name$" #NT!
+ sarmuyr_knowledge_god_name_possessive: "$sarmuyr_devil_name_possessive$" #NT!
+ sarmuyr_war_god_name: "$sarmuyr_devil_name$" #NT!
+ sarmuyr_war_god_name_possessive: "$sarmuyr_devil_name_possessive$" #NT!
+ sarmuyr_trickster_god_name: "$sarmuyr_death_deity_name$" #NT!
+ sarmuyr_trickster_god_name_possessive: "$sarmuyr_death_deity_name_possessive$" #NT!
+ sarmuyr_night_god_name: "$sarmuyr_high_god_name$" #NT!
+ sarmuyr_night_god_name_possessive: "$sarmuyr_high_god_name_possessive$" #NT!
+ sarmuyr_water_god_name: "$sarmuyr_high_god_name$" #NT!
+ sarmuyr_water_god_name_possessive: "$sarmuyr_high_god_name_possessive$" #NT!
+ sarmuyr_witch_god_name: "$sarmuyr_high_god_name$" #NT!
+ sarmuyr_witch_god_name_possessive: "$sarmuyr_high_god_name_possessive$" #NT!
+ blorivok: "Blorivok" #NT!
+ blorivok_adj: "Blorivoken" #NT!
+ blorivok_adherent: "Blorivoken" #NT!
+ blorivok_adherent_plural: "Blorivokeni" #NT!
+ blorivok_desc: "Believing in Aruvas's desire of unity in humankind, the Blorivok emphasize the trivialities of distractions like war over eternal salvation. A moderate reaction to many hostile faiths around them, especially Ertomaxism, the origins of the Blorivoken faith are purely pragmatic in nature." #NT!
+ ertomax: "Ertomaxism" #NT!
+ ertomax_adj: "Ertomaxist" #NT!
+ ertomax_adherent: "Ertomaxist" #NT!
+ ertomax_adherent_plural: "Ertomaxists" #NT!
+ ertomax_desc: "Founded upon the idea that the spirit of the Moon-Sun-King exists only in the souls of the faithful, it is named after [ertomax|E] who believed himself to be the most faithful of all. Slaughtering non-believers to attain a chance of enacting Os Kinjer with Ertomax, his [Concept('fate_of_ertomaxism','death')|E] did not kill the flames of fervor amongst his supporters, who merely wait for his return." #NT!
+ ertomax_high_god_name: "Ertomax" #NT!
+ ertomax_high_god_name_possessive: "Ertomax's" #NT!
+ ertomax_high_god_name_alternate: "He-Who-Is-One-But-Is-Three" #NT!
+ ertomax_high_god_name_alternate_possessive: "He-Who-Is-One-But-Is-Three's" #NT!
+ ertomax_devil_name: "$ertomax_high_god_name$" #NT!
+ ertomax_devil_name_possessive: "$ertomax_high_god_name_possessive$" #NT!
+ ertomax_death_deity_name: "$ertomax_high_god_name$" #NT!
+ ertomax_death_deity_name_possessive: "$ertomax_high_god_name_possessive$" #NT!
+ ertomax_creator_god_name: "$ertomax_high_god_name$" #NT!
+ ertomax_creator_god_name_possessive: "$ertomax_high_god_name_possessive$" #NT!
+ ertomax_health_god_name: "$ertomax_high_god_name$" #NT!
+ ertomax_health_god_name_possessive: "$ertomax_high_god_name_possessive$" #NT!
+ ertomax_fertility_god_name: "$ertomax_devil_name$" #NT!
+ ertomax_fertility_god_name_possessive: "$ertomax_devil_name_possessive$" #NT!
+ ertomax_wealth_god_name: "$ertomax_death_deity_name$" #NT!
+ ertomax_wealth_god_name_possessive: "$ertomax_death_deity_name_possessive$" #NT!
+ ertomax_household_god_name: "$ertomax_death_deity_name$" #NT!
+ ertomax_household_god_name_possessive: "$ertomax_death_deity_name_possessive$" #NT!
+ ertomax_fate_god_name: "$ertomax_high_god_name$" #NT!
+ ertomax_fate_god_name_possessive: "$ertomax_high_god_name_possessive$" #NT!
+ ertomax_knowledge_god_name: "$ertomax_high_god_name$" #NT!
+ ertomax_knowledge_god_name_possessive: "$ertomax_high_god_name_possessive$" #NT!
+ ertomax_war_god_name: "$ertomax_high_god_name$" #NT!
+ ertomax_war_god_name_possessive: "$ertomax_high_god_name_possessive$" #NT!
+ ertomax_trickster_god_name: "$ertomax_death_deity_name$" #NT!
+ ertomax_trickster_god_name_possessive: "$ertomax_death_deity_name_possessive$" #NT!
+ ertomax_night_god_name: "$ertomax_devil_name$" #NT!
+ ertomax_night_god_name_possessive: "$ertomax_devil_name$" #NT!
+ ertomax_water_god_name: "$ertomax_devil_name$" #NT!
+ ertomax_water_god_name_possessive: "$ertomax_devil_name_possessive$" #NT!
+ ertomax_witch_god_name: "$ertomax_high_god_name$" #NT!
+ ertomax_witch_god_name_possessive: "$ertomax_high_god_name_possessive$" #NT!
+ ertomax_religious_symbol: "Sun of Ertomax" #NT!
+ ertomax_religious_text: "Ertomaxian Scrolls" #NT!
+ ertomax_house_of_worship: "Temple" #NT!
+ ertomax_house_of_worship_plural: "Temples" #NT!

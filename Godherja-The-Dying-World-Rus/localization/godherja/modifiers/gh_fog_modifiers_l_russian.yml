@@ -1,0 +1,5 @@
+﻿l_russian:
+ fogswept_modifier: "Fogswept" #NT!
+ fogswept_modifier_desc: "This area has been devoured by the [fog|E], forever consigned to the hellish conditions only found in the darkest nightmares." #NT!
+ bordering_fog_modifier: "Bordering the [fog|E]" #NT!
+ bordering_fog_modifier_desc: "This area borders the [fog|E], standing on the precipice of becoming utterly consumed." #NT!

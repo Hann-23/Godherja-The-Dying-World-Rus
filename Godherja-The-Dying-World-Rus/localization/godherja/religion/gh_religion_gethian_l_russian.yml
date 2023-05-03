@@ -1,0 +1,72 @@
+﻿l_russian:
+  
+ #gethian Loc 
+ gethian_religion: "Gethian" #NT!
+ gethian_religion_adj: "Gethian" #NT!
+ gethian_religion_adherent: "Gethian" #NT!
+ gethian_religion_adherent_plural: "Gethian" #NT!
+ gethian_religion_desc: "Gethian cosmology says that in the earliest of days, the first humans greatly dishonored the Great Judge Aldordemah. This sin, they claim, was so offensive and heinous that its specifics have been lost to time, for none dare to utter its vileness. Aldordemah was wise but stern, and told humanity that they shall not be judged by that one act alone. He would quit this world for a long time, and when he returned, he would judge mankind and see whether they have done enough good to outweigh their unspeakable sin." #NT!
+ gethian_high_god_name: "Aldordemah" #NT!
+ gethian_high_god_name_possessive: "Aldordemah's" #NT!
+ gethian_high_god_name_alternate: "The Great Judge" #NT!
+ gethian_high_god_name_alternate_possessive: "The Great Judge's" #NT!
+ gethian_devil_name: "$gethian_death_deity_name$" #NT!
+ gethian_devil_name_possessive: "$gethian_death_deity_name_possessive$" #NT!
+ gethian_death_deity_name: "Cwaltt" #NT!
+ gethian_death_deity_name_possessive: "Cwaltt's" #NT!
+ gethian_house_of_worship: "Temple" #NT!
+ gethian_house_of_worship_plural: "Temples" #NT!
+ gethian_religious_symbol: "Scales of Heaven" #NT!
+ gethian_religious_text: "Saga of the Ancestors" #NT!
+ gethian_religious_head_title: "Thāyī N'yādhisi" #NT!
+ gethian_religious_head_title_name: "Great Judge's Temple" #NT!
+ gethian_devotee_male: "Gethian" #NT!
+ gethian_devotee_male_plural: "Gethian" #NT!
+ gethian_devotee_female: "Gethian" #NT!
+ gethian_devotee_female_plural: "Gethian" #NT!
+ gethian_devotee_neuter: "Gethian" #NT!
+ gethian_devotee_neuter_plural: "Gethian" #NT!
+ gethian_priest_male: "Amāphīsi" #NT!
+ gethian_priest_male_plural: "Amāphīsis" #NT!
+ gethian_priest_female: "Amāphīsia" #NT!
+ gethian_priest_female_plural: "Amāphīsias" #NT!
+ gethian_priest_alternate: "Agnuhōsis" #NT!
+ gethian_priest_alternate_plural: "Agnuhōsis" #NT!
+ gethian_bishop: "Kānuranvi" #NT!
+ gethian_bishop_plural: "Kānuranvis" #NT!
+ gethian_positive_afterlife: "Garden of Aldordemah" #NT!
+ gethian_negative_afterlife: "Ten-Thousand Torments" #NT!
+ gethian_creator_god_name: "$gethian_high_god_name$" #NT!
+ gethian_creator_god_name_possessive: "$gethian_high_god_name_possessive$" #NT!
+ gethian_health_god_name: "$gethian_fertility_god_name$" #NT!
+ gethian_health_god_name_possessive: "$gethian_fertility_god_name_possessive$" #NT!
+ gethian_fertility_god_name: "Berendnes" #NT!
+ gethian_fertility_god_name_possessive: "Berendnes'" #NT!
+ gethian_wealth_god_name: "Mammon" #NT!
+ gethian_wealth_god_name_possessive: "Mammon's" #NT!
+ gethian_household_god_name: "Boldwela" #NT!
+ gethian_household_god_name_possessive: "Boldwela's" #NT!
+ gethian_fate_god_name: "$gethian_high_god_name$" #NT!
+ gethian_fate_god_name_possessive: "$gethian_high_god_name_possessive$" #NT!
+ gethian_knowledge_god_name: "$gethian_high_god_name$" #NT!
+ gethian_knowledge_god_name_possessive: "$gethian_high_god_name_possessive$" #NT!
+ gethian_war_god_name: "Ampebeadu" #NT!
+ gethian_war_god_name_possessive: "Ampebeadu's" #NT!
+ gethian_trickster_god_name: "Léasbregda" #NT!
+ gethian_trickster_god_name_possessive: "Léasbregda's" #NT!
+ gethian_night_god_name: "$gethian_trickster_god_name$" #NT!
+ gethian_night_god_name_possessive: "$gethian_trickster_god_name$" #NT!
+ gethian_water_god_name: "Estmere" #NT!
+ gethian_water_god_name_possessive: "Estmere's" #NT!
+ gethian_witch_god_name: "$gethian_fate_god_name$" #NT!
+ gethian_witch_god_name_possessive: "$gethian_fate_god_name_possessive$" #NT!
+ #gethian loc 
+ gethian: "Gethian" #NT!
+ gethian_adj: "Gethian" #NT!
+ gethian_adherent: "Gethian" #NT!
+ gethian_adherent_plural: "Gethian" #NT!
+ gethian_desc: "The Gethian entered the known world with the Sjalvolki coalition. Although they tended to be rather insular, they were told by the Sjalvolki of the great evils of the [aversarians|E] and their empire. They hope that by wiping out this despicable and destructive faith, they would be able to redeem themselves in the eyes of the Great Judge Aldordemah." #NT!
+ gethian_old: "Old Gethian" #NT!
+ gethian_old_adj: "Old Gethian" #NT!
+ gethian_old_adherent: "Old Gethian" #NT!
+ gethian_old_adherent_plural: "Old Gethian" #NT!

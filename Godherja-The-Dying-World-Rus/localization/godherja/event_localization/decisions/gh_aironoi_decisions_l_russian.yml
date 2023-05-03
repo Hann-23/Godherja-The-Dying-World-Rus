@@ -1,0 +1,68 @@
+﻿l_russian:
+ investigate_valerix_decision: "Investigate the Murder of Legon Valerix" #NT!
+ investigate_valerix_decision_desc: "When Valerix first gathered his forces for the long march west, he told his assorted legion, "We march not for glory and gain, but for mothers and sons, fathers and daughters. We come home not for glory and not to parade, but for what is right and just. Only we can save our home, now and forever."\n\nEven now that he is dead, his words hang heavy on our souls. It is our duty to make wrongs right, and save our homeland, but before we do that we must avenge the father to us all. How can we save [aversaria|E] if we can not even right this smallest of wrongs?\n\nTo this end I need funds, with which I will gather a taskforce to track down the killer. Let none be safe from the rage of the legion, and let what happens next be a message to all of Aversaria." #NT!
+ investigate_valerix_decision_confirm: "For Valerix! For [aversaria|E]!" #NT!
+ investigate_valerix_decision_tooltip: "Investigate Valerix" #NT!
+  
+ free_the_slaves_decision: "Free Slaves in Kalliados" #NT!
+ free_the_slaves_decision_2: "Free Slaves in the Brass Sea" #NT!
+ free_the_slaves_decision_3: "Free Slaves in Messopus" #NT!
+ free_the_slaves_decision_4: "Free Slaves in Svatevego" #NT!
+ free_the_slaves_decision_5: "Free Slaves in He Vrerai" #NT!
+ free_the_slaves_decision_6: "Free Slaves in Hyrea" #NT!
+ free_the_slaves_decision_desc: "The governor is dead, and Aironoi as we knew it disbanded. With Valerix avenged, a new age dawns, an age where we will fix [aversaria|E] and right wrongs a thousand years in the making.\n\nWe shall begin by freeing all those bound in slavery within our lands and we shall do the same in lands we conquer. By breaking their chains we will give them the offer, they may leave or they may join us, and bolster our army further. While the hardliners will no doubt find issue, with the governor dead they have nobody to organize under, and with the numbers our new bretheren can bring in, we will be more prepared than ever to take back [GetTitleByKey('c_asiupoli').GetNameNoTier] and then face the Witch-Breaker." #NT!
+ free_the_slaves_decision_confirm: "Today, we are all [aversarians|E]." #NT!
+ free_the_slaves_decision_2_confirm: "Today, we are all [aversarians|E]." #NT!
+ free_the_slaves_decision_3_confirm: "Today, we are all [aversarians|E]." #NT!
+ free_the_slaves_decision_4_confirm: "Today, we are all [aversarians|E]." #NT!
+ free_the_slaves_decision_5_confirm: "Today, we are all [aversarians|E]." #NT!
+ free_the_slaves_decision_6_confirm: "Today, we are all [aversarians|E]." #NT!
+ free_the_slaves_decision_tooltip: "Free the Slaves" #NT!
+ free_the_slaves_decision_2_tooltip: "Free the Slaves" #NT!
+ free_the_slaves_decision_3_tooltip: "Free the Slaves" #NT!
+ free_the_slaves_decision_4_tooltip: "Free the Slaves" #NT!
+ free_the_slaves_decision_5_tooltip: "Free the Slaves" #NT!
+ free_the_slaves_decision_6_tooltip: "Free the Slaves" #NT!
+ free_the_slaves_generic_valid_desc: "You must completely control a [duchy|E] in Aironoi to free its slaves." #NT!
+ aironoi_free_slaves_effect_tt: "Freeing the slaves will earn the enmity of our countrymen but the loyalty of many more. An army of those who swear loyalty will be gathered immediately. We will also be able to free slaves for various boons in future areas of conquest." #NT!
+ emancipate_the_slaves_decision: "End Slavery in Aironoi" #NT!
+ emancipate_the_slaves_decision_desc: "We now hold the jewel of [aversaria|E] in [GetTitleByKey('c_asiupoli').GetNameNoTier] and can begin the greater work of bringing our people to greater glory. A new age dawns, an age where we will fix Aversaria and right wrongs a thousand years in the making.\n\nWe shall free all slaves within [GetTitleByKey('c_asiupoli').GetNameNoTier], and announce the emancipation of all others living on Aversarian land in Aironoi. None shall live in bondage within our lands." #NT!
+ emancipate_the_slaves_decision_confirm: "Today, we are all [aversarians|E]." #NT!
+ emancipate_the_slaves_decision_tooltip: "End Slavery in Aironoi" #NT!
+ eastern_reforms.0001.title: "The Investigation Begins" #NT!
+ eastern_reforms.0001.desc: "[aversaria|E] bleeds, but I find my mind on other matters. Personal ones, but ones with great weight.\n\nValerix is dead, and the Legion knows not who killed him. The old man was a hero to us all, a living legend, and with his death we sit confused and lost. Who is our enemy? Who would see him dead? Truth be told, the list of suspects is great. Few Aversarians were fond of his message of peace with non-humans, or of the destruction of the [magi|E] caste, but to resort to such means? Who am I kidding, that's the most Aversarian move of all.\n\nBut who? We must know, we need to know. Not only for Valerix's memory, but for our own guidance. We must find our enemy, and we must destroy them. There can be no other recourse.\n\nI have assembled a force to investigate this immediately. It's time we begin asking questions, and preparing our blades." #NT!
+ eastern_reforms.0001.a: "For Aversaria!" #NT!
+ eastern_reforms.0002.title: "A Governor's Word" #NT!
+ eastern_reforms.0002.desc: "Governor Tetradia, effeminate as always, strides into my quarters smelling of a dozen different perfumes that no doubt cost more than an entire cohorts armor.\n\n"Legan," he starts, clearly doubting the worth of such a title, "Your investigators have been hounding me. I tire of it, I have information for you. Take it and kill your enemies, and then give me back my city."\n\nCommon words from him, but the scroll he drops before me has actually useful information. Movements from Öltenic tribesmen under secrecy, all towards the west. Several desertions from new recruits from eastern tribes shortly after the Valerix's death, and the report from the physicians who investigated Valerix's body reporting poison only created in the far east..." #NT!
+ eastern_reforms.0002.a: "Damning evidence..." #NT!
+ eastern_reforms.0003.title: "Masked Words" #NT!
+ eastern_reforms.0003.desc: "Khatan Altan of the Kteumaxa tribe has sent me a rider, and a series of letters dictated by himself with notes added by several of my Öltenic vassals.\n\nThe letter describes a second narrative to the death of Legon Valerix. Attempts to bribe him and his clansmen by mysterious agents speaking in [aversarian|E] accents, Valerix's Öltenic guard of the night not deserting but disappearing shortly after, a woman who was otherwise renowned for her loyalty and honor. Finally, a similar accusation of eastern poison, but instead a note that the seller of which had been captured, and had given the information that the poison was shipped to our port by a third party before committing suicide...\n\nAltan states in the letter that he has no wish to make assumptions on my account, but tells me that the culprit is likely one within my own court..." #NT!
+ eastern_reforms.0003.a: "Oh are they? Something to think about..." #NT!
+ eastern_reforms.0003.a.tt: "With the evidence in our hands, we must now make a choice" #NT!
+ eastern_reforms.0004.title: "Rebellion!" #NT!
+ eastern_reforms.0004.desc: "Already, my men move east to bring justice to the Öltenic tribes. I feel doubt in my mind, but it is doubt that must be cast out. The traitors - those who I once considered kin - have proven themselves unworthy of their masks. I will take each one as I drive the dagger into their hearts, for the memory of Valerix must be avenged.\n\nTetradia has sent a token force and coin to assist in the endeavor, hardly any worth mentioning. A poor showing from my new 'ally'." #NT!
+ eastern_reforms.0004.a: "Death to the foreigners!" #NT!
+ eastern_reforms.0005.title: "Rebellion!" #NT!
+ eastern_reforms.0005.desc: "Tetradia has, predictably, not taken the accusation well. He has declared me many things in a rather long call to arms against me - traitor, heretic, whore, bitch, lowborn, mongrel, thinblood, and four other pages of insults.\n\nHe does so because he is scared, he does so because he is a fool, he does so because he has no idea how soon he will face justice. Valerix's honored spirit stands with us, as do the Öltenic, and it is by my name and the honor of my Legion that neither will be done shame." #NT!
+ eastern_reforms.0005.a: "Death to the traitor!" #NT!
+ eastern_reforms.0006.title: "To Kill a Governor" #NT!
+ eastern_reforms.0006.desc: "It is over.\n\nTetradia now sits before me in chains, sniveling for mercy one second and then cursing my name in the next. His personal guard - a force of Kikarsag mercenaries - lie dead or sit with swords to their back, having surrendered in the final moments of battle. Around us, his personal estate burns, and I watch as my men slowly escort his slaves out of the premises, the signs of long abuse and torture visible on their half-starved frames.\n\nThe sight of this... to say it fills me with anger would be underselling it, and I drive my blade into Tetradia's thigh as he lets out a high pitched scream.\n\n"Admit it, and I won't make this more painful than it has to be, Tetradia."\n\nThe man whimpers again, and I twist the blade as my men and his watch solemnly. Another scream, and then he nods through tears.\n\n"I did it, damn you! The fool was going to damn us all! Freed slaves? Ridding us of the [magi|E]? The man was an idiot! And so are you, you fucking lowborn whore!"\n\nThe blade is dragged from his thigh slowly, and I sigh.\n\n"My mother was the whore, Tetradia, I am the Legan." With one swift motion, Tetradia's head is lopped off his shoulders, and rolls down the ancient mosaic of his manor, blood filling the gaps.\n\nWith Tetradia dead, Valerix is avenged, and our bond with the Öltenic is forged. Now is the time to see Valerix's dream through, and prepare for the reconquest." #NT!
+ eastern_reforms.0006.a: "For Aversaria, we avenge." #NT!
+ eastern_reforms.0006.a.tt: "More decisions are now available" #NT!
+ eastern_reforms.0007.title: "The Invasion Begins" #NT!
+ eastern_reforms.0007.desc: "The time is now. The legion stands before me, just as they did for Valerix when the first march west began, with our new allies alongside them. Freed slaves, Öltenic tribesmen, volunteers from across the east. Before us stands the gates of [GetTitleByKey('c_asiupoli').GetNameNoTier], the great city glimmering in the wastes, even in its ruined post-Frodbrokna state.\n\nThe Fenvir are not to be discounted, and we will need bravery, skill, and cunning to defeat them. It wouldn't hurt to have more help as well, and the Öltenic have promised their aid in return for their claims in Ephesos. The southern region is now essentially wasteland, and while no doubt it will be a shame to give away rightful [aversarian|E] land, it would be a small price to pay for the entirety of the homeland." #NT!
+ eastern_reforms.0007.a: "The Öltenic aided us before, let us prove the alliance true." #NT!
+ eastern_reforms.0007.b: "[aversaria|E] will be united, all of it." #NT!
+ eastern_reforms.0008.title: "The [aversarians|E] Call for Aid" #NT!
+ eastern_reforms.0008.desc: "Hecaeda, the woman-general of the west, has requested our aid once again. While she had already proven herself one of our people at heart, just as her mother was, she now proves herself a true Khatan of her people as well. She has vowed to retake the city of her people, and has requested her blood-bretheren in our clans join her. In return for aiding her in this war, she will give us the ancient lands of our people in Ephesos." #NT!
+ eastern_reforms.0008.a: "We will aid our blood-sister as we should." #NT!
+ eastern_reforms.0008.b: "Sister or not, she is on her own." #NT!
+ eastern_reforms.0009.title: "The Eastern Union" #NT!
+ eastern_reforms.0009.desc: "The Öltenic tribes of my mother have proven their loyalty, and have kept their offer. Already, Kteumaxan riders have joined our forces, with promises of the rest of their army coming soon. Surely united, no Fenvir scum could hope to face us?" #NT!
+ eastern_reforms.0009.a: "For Aversaria! March!" #NT!
+ eastern_reforms.0010.title: "The Eastern Union Shatters" #NT!
+ eastern_reforms.0010.desc: "The Öltenic tribes have proven themselves without honor despite their fierce reputation. They have reneged on their promise to me, despite our shared blood, and have refused the call to arms." #NT!
+ eastern_reforms.0010.a: "Then we will free our nation without them." #NT!
+ eastern_reforms.0011.title: "The Invasion Begins" #NT!
+ eastern_reforms.0011.desc: "Doubt still clouds my mind about Valerix and the truth of his death, but this is doubt that I must banish from my mind from the task ahead. Reform or no, [GetTitleByKey('c_asiupoli').GetNameNoTier] can not be held by the Fenvir while [aversarians|E] still live to take it back. With the pure-blooded sons of Aversaria before me, my legion and the governor's personal forces both, the time is now to retake our city." #NT!
+ eastern_reforms.0011.a: "Attack!" #NT!

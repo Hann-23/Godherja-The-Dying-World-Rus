@@ -1,0 +1,5 @@
+﻿l_russian:
+ quartermaster_task.1001.desc: "The groundwork for the shadow port is laid. All that is needed now is a few small bribes for the right people to look away and [county.GetName] will be open for business." #NT!
+ quartermaster_task.1001.a: "Excellent" #NT!
+ quartermaster_task.1001.b: "No, we have no need of it" #NT!
+ quartermaster_task.1001.b.tt: "Lose all progress on establishing a black port" #NT!

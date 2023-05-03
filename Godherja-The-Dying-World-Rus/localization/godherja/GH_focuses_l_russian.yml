@@ -1,0 +1,15 @@
+﻿l_russian:
+  
+  # Enrichment 
+ adventure_lifestyle_name: "Enrichment" #NT!
+ adventure_lifestyle_desc: "Focus on deepening and enriching the soul... or your pockets, through personal focuses." #NT!
+ adventure_lifestyle_highlight_desc: "Because of your [GetTrait('adventurer').GetName( candidate.Self )] [trait|E], you gain #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ adventure_glory_focus: "Glory Focus" #NT!
+ adventure_glory_focus_desc: "To have a name to be remembered - that is the true calling of life." #NT!
+ adventure_glory_focus_effect_desc: "Focusing on Glory grants:\n\n#!Gain [dynasty_prestige|E] from [journeys|E]" #NT!
+ adventure_fortune_focus: "Fortune Focus" #NT!
+ adventure_fortune_focus_desc: "[aeras|E] is full of riches ripe for the plucking for those willing to get their hands dirty." #NT!
+ adventure_fortune_focus_effect_desc: "Focusing on Fortune grants:\n\n#!Gain additional [gold|E] from [journeys|E]" #NT!
+ adventure_enlightenment_focus: "Enlightenment Focus" #NT!
+ adventure_enlightenment_focus_desc: "The greatest joy is to experience the depth of the world." #NT!
+ adventure_enlightenment_focus_effect_desc: "Focusing on Enlightenment grants:\n\n#!Can gain [skills|E] from [journeys|E]\n[guest|E] Recruitment Cost: [gold_i]#P -15%#!" #NT!

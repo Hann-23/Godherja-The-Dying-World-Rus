@@ -1,0 +1,71 @@
+﻿l_russian:
+  
+ #starvayrd Loc 
+ ancient_religion: "Ancient Religion" #NT!
+ ancient_religion_adj: "Ancient" #NT!
+ ancient_religion_desc: "The world is full of faiths and religions, not all of which have been able to maintain worshippers through the present day. Some have spawned successors that incorporate tenets of their faith, but many were not as lucky. They only live on in tomes in libraries, paintings in decaying temples, or in the bones of the dead." #NT!
+ starvayrd: "Starvayrd" #NT!
+ starvayrd_adj: "Starvayrd" #NT!
+ starvayrd_religion: "Starvayrd" #NT!
+ starvayrd_religion_adj: "Starvayrd" #NT!
+ starvayrd_adherent: "Starvayrd" #NT!
+ starvayrd_adherent_plural: "Starvayrdi" #NT!
+ starvayrd_religion_desc: "Starvayrd is based around the belief that the Gods and spirits are interchangeable, and that the first Gods were merely the spirits of faded stars. Starvayrdi believe that one can see their destiny by looking to these stars, and by tracking the signs in the sky at a child's birth. However, the destiny will be lost if not strived for, and that it is every good Starvayrdi's goal in life to achieve it." #NT!
+ starvayrd_desc: "Starvayrd is based around the belief that the Gods and spirits are interchangeable, and that the first Gods were merely the spirits of faded stars. Starvayrdi believe that one can see their destiny by looking to these stars, and by tracking the signs in the sky at a child's birth. However, the destiny will be lost if not strived for, and that it is every good Starvayrdi's goal in life to achieve it." #NT!
+ starvayrd_high_god_name: "the Stars" #NT!
+ starvayrd_high_god_name_possessive: "the Stars'" #NT!
+ starvayrd_high_god_name_alternate: "the Heavens" #NT!
+ starvayrd_high_god_name_alternate_possessive: "the Heavens'" #NT!
+ starvayrd_devil_name: "the Misaligned" #NT!
+ starvayrd_devil_name_possessive: "the Betrayed's" #NT!
+ starvayrd_death_deity_name: "the One That Is North" #NT!
+ starvayrd_death_deity_name_possessive: "the One That Is North's" #NT!
+ starvayrd_house_of_worship: "the Circle of Divining" #NT!
+ starvayrd_house_of_worship_plural: "the Circles" #NT!
+ starvayrd_religious_symbol: "Stars Aligned" #NT!
+ starvayrd_religious_text: "the Omens" #NT!
+ starvayrd_religious_head_title: "Chief Astrologer" #NT!
+ starvayrd_religious_head_title_name: "Chief Astrologer" #NT!
+ starvayrd_devotee_male: "Starvayrder" #NT!
+ starvayrd_devotee_male_plural: "Starvayrders" #NT!
+ starvayrd_devotee_female: "Starvayrder" #NT!
+ starvayrd_devotee_female_plural: "Starvayrders" #NT!
+ starvayrd_devotee_neuter: "Starvayrder" #NT!
+ starvayrd_devotee_neuter_plural: "Starvayrders" #NT!
+ starvayrd_priest_male: "Diviner" #NT!
+ starvayrd_priest_male_plural: "Diviners" #NT!
+ starvayrd_priest_female: "Diviner" #NT!
+ starvayrd_priest_female_plural: "Diviners" #NT!
+ starvayrd_priest_alternate_plural: "Diviners" #NT!
+ starvayrd_bishop: "Astrologer" #NT!
+ starvayrd_bishop_plural: "Astrologers" #NT!
+ starvayrd_positive_afterlife: "the Heavens" #NT!
+ starvayrd_negative_afterlife: "the North" #NT!
+ starvayrd_creator_god_name: "$starvayrd_high_god_name$" #NT!
+ starvayrd_creator_god_name_possessive: "$starvayrd_high_god_name_possessive$" #NT!
+ starvayrd_health_god_name: "$starvayrd_fertility_god_name$" #NT!
+ starvayrd_health_god_name_possessive: "$starvayrd_fertility_god_name_possessive$" #NT!
+ starvayrd_fertility_god_name: "the One That Sets" #NT!
+ starvayrd_fertility_god_name_possessive: "the One That Sets'" #NT!
+ starvayrd_wealth_god_name: "the One That Rises" #NT!
+ starvayrd_wealth_god_name_possessive: "the One That Rises'" #NT!
+ starvayrd_household_god_name: "the Two That Are Faded" #NT!
+ starvayrd_household_god_name_possessive: "the Two That Are Faded's" #NT!
+ starvayrd_fate_god_name: "$starvayrd_high_god_name$" #NT!
+ starvayrd_fate_god_name_possessive: "$starvayrd_high_god_name_possessive$" #NT!
+ starvayrd_knowledge_god_name: "$starvayrd_high_god_name$" #NT!
+ starvayrd_knowledge_god_name_possessive: "$starvayrd_high_god_name_possessive$" #NT!
+ starvayrd_war_god_name: "the One That Shines" #NT!
+ starvayrd_war_god_name_possessive: "the One That Shines'" #NT!
+ starvayrd_trickster_god_name: "$starvayrd_high_god_name$" #NT!
+ starvayrd_trickster_god_name_possessive: "$starvayrd_high_god_name_possessive$" #NT!
+ starvayrd_night_god_name: "$starvayrd_high_god_name$" #NT!
+ starvayrd_night_god_name_possessive: "$starvayrd_high_god_name_possessive$" #NT!
+ starvayrd_water_god_name: "$starvayrd_health_god_name$" #NT!
+ starvayrd_water_god_name_possessive: "$starvayrd_health_god_name_possessive$" #NT!
+ starvayrd_witch_god_name: "The Magi" #NT!
+ starvayrd_witch_god_name_possessive: "The Magi's" #NT!
+ starvayrd_old: "Old Starvayrd" #NT!
+ starvayrd_old_adj: "Old Starvayrd" #NT!
+ starvayrd_old_adherent: "Old Starvayrd" #NT!
+ starvayrd_old_adherent_plural: "Old Starvayrdi" #NT!

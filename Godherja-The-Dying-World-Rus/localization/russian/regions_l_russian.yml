@@ -1,0 +1,126 @@
+﻿l_russian:
+ world_europe_west_britannia: "Britannia" #NT!
+ world_europe_west_germania: "Germania" #NT!
+ world_europe_west_francia: "Francia" #NT!
+ world_europe_west_iberia: "Iberia" #NT!
+ world_europe_west: "Western Europe" #NT!
+ world_europe_north: "Northern Europe" #NT!
+ world_europe_south_east: "South-Eastern Europe" #NT!
+ world_europe_south_italy: "Italia" #NT!
+ world_europe_south: "Southern Europe" #NT!
+ world_europe_east: "Eastern Europe" #NT!
+ world_asia_minor: "Asia Minor" #NT!
+ world_middle_east_jerusalem: "Syria" #NT!
+ world_middle_east_arabia: "Arabia" #NT!
+ world_middle_east_persia: "Persia" #NT!
+ world_india_deccan: "Deccan India" #NT!
+ world_india_bengal: "Bengal India" #NT!
+ world_india_rajastan: "Rajasthan" #NT!
+ world_persian_empire: "Ancient Persia" #NT!
+ world_africa_north: "Northern Africa" #NT!
+ world_africa_west: "Western Africa" #NT!
+ world_africa_east: "Eastern Africa" #NT!
+ world_africa: "Africa" #NT!
+ world_africa_sahara: "the Sahara" #NT!
+ world_steppe_tarim: "Tarim Basin" #NT!
+ world_steppe_west: "Western Steppe" #NT!
+ world_steppe_east: "Eastern Steppe" #NT!
+ world_steppe: "Steppe" #NT!
+ world_europe: "Europe" #NT!
+ world_middle_east: "Middle East" #NT!
+ world_burma: "Burma" #NT!
+ world_tibet: "Tibet" #NT!
+ world_india: "India" #NT!
+ world_himalaya: "Himalaya" #NT!
+ world_innovation_elephants: "Kashirya or Northeast Sarradon" #NT!
+ world_innovation_camels: "the Great Desert, Sirwali Coast, Khenemhat or Kemsar" #NT!
+ western: "West" #NT!
+ mena: "North-Africa and Middle East" #NT!
+ custom_eastern_baltic: "Eastern Baltic" #NT!
+ custom_frisia: "Frisia" #NT!
+ custom_netherlands: "Netherlands" #NT!
+ custom_england: "England" #NT!
+ custom_wales: "Wales" #NT!
+ custom_castilian: "Castille" #NT!
+ custom_aragonese: "Aragon" #NT!
+ custom_catalan: "Catalonia" #NT!
+ custom_andalusian: "Andalusia" #NT!
+ custom_portuguese: "Portugal" #NT!
+ custom_asturleonese: "Asturia" #NT!
+ custom_swedish: "Sweden" #NT!
+ custom_danish: "Denmark" #NT!
+ custom_norwegian: "Norway" #NT!
+ custom_scotland: "Scotland" #NT!
+ custom_burgundy: "Burgundy" #NT!
+ world_persia: "Persia" #NT!
+ world_khorasan: "Khorasan" #NT!
+ world_daylam: "Daylam" #NT!
+ world_transoxiana: "Transoxiana" #NT!
+ world_makran: "Makran" #NT!
+ world_baluchistan: "Baluchistan" #NT!
+ world_kabulistan: "Kabulistan" #NT!
+ world_khiva: "Khiva" #NT!
+ world_mesopotamia: "Mesopotamia" #NT!
+ world_jazira: "Jazira" #NT!
+ custom_roman_empire: "Roman Heartland" #NT!
+ custom_roman_syria_palestina: "Syria-Palaestina" #NT!
+ custom_roman_aegyptus: "Aegyptus" #NT!
+ custom_roman_cyrenaica: "Cyrenaica" #NT!
+ custom_roman_africa: "Roman Africa" #NT!
+ custom_roman_illyricum: "Illyricum" #NT!
+ custom_roman_hispania: "Hispania" #NT!
+ custom_roman_mauretania: "Mauretania" #NT!
+ custom_roman_mesopotamia: "Mesopotamia" #NT!
+ custom_roman_caledonia: "Caledonia" #NT!
+ custom_roman_hibernia: "Hibernia" #NT!
+ custom_roman_full_borders: "Roman Empire" #NT!
+ custom_eastern_roman_empire: "Eastern Roman Empire" #NT!
+ custom_outremer: "Outremer" #NT!
+ custom_latvia: "Livonia" #NT!
+ custom_lotharingia: "Lotharingia" #NT!
+ custom_bavaria: "Bavaria" #NT!
+ custom_germany: "Germany" #NT!
+ custom_northern_italy: "Northern Italy" #NT!
+ custom_navarra: "Navarra" #NT!
+ custom_sicily: "Sicily" #NT!
+ custom_ganges_plain: "Ganges Plain" #NT!
+ custom_bactria: "Bactria" #NT!
+ custom_south_francia: "Southern Francia" #NT!
+ custom_hungary: "Hungary" #NT!
+ custom_carpathia: "Carpathia" #NT!
+ custom_europe_western_germany: "Western Germany" #NT!
+ custom_europe_eastern_germany: "Eastern Germany" #NT!
+ custom_northern_england: "Northern England" #NT!
+ custom_southern_england: "Southern England" #NT!
+ custom_slavia: "Slavia" #NT!
+ custom_west_slavia: "West Slavia" #NT!
+ custom_south_slavia: "South Slavia" #NT!
+ custom_greater_armenia: "the former Armenian Empire" #NT!
+ custom_ireland: "Ireland" #NT!
+ custom_sahara_proper: "the Sahara" #NT!
+ custom_sahel_proper: "the Sahel" #NT!
+ custom_sub_saharan_africa_immediate: "sub-Saharan Africa" #NT!
+ custom_carolingian_francia: "Carolingian Francia" #NT!
+ custom_carolingian_iberia: "Carolingian Iberia" #NT!
+ custom_carolingian_germany: "Carolingian Germany" #NT!
+ custom_core_switzerland: "Old Switzerland" #NT!
+ custom_core_austria: "Austria" #NT!
+ custom_stretch_austria: "Southern Bavaria" #NT!
+ custom_fennoscandia: "Fennoscandia" #NT!
+ custom_polabia: "Sorbia" #NT!
+ ghw_region_britannia: "the British Isles" #NT!
+ ghw_region_germany: "Germany" #NT!
+  
+  #FP1 
+ dlc_fp1_region_core_north_sea: "North Sea Heartlands" #NT!
+ dlc_fp1_region_core_mainland_scandinavia: "Mainland Scandinavia" #NT!
+ dlc_fp1_region_non_scandinavian_southern_baltic: "Southern and Eastern Baltic Coast" #NT!
+ dlc_fp1_achievement_far_from_home: "Islands in the Indian Ocean" #NT!
+ dlc_fp1_achievement_king_of_all_the_isles: "Islands in the Atlantic and Mediterranean" #NT!
+ dlc_fp1_achievement_vladimirs_second_choice: "Russian" #NT!
+  #FP2 
+ dlc_fp2_old_vasconia: "Old Vasconia" #NT!
+ dlc_fp2_old_vasconia_pushed: "Old Vasconia" #NT!
+ dlc_fp2_dlc_fp2_caucasian_iberia: "Caucasian Iberia" #NT!
+  #EP1 
+ dlc_ep1_achievement_rise_of_the_ghurids: "Historical Ghurid Empire" #NT!

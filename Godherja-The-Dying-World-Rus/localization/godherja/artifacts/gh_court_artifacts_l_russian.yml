@@ -1,0 +1,754 @@
+﻿l_russian:
+  ############################## 
+  # Procedural court artifacts # 
+  
+  # Animals (used in ArtifactAnimalType) 
+ animal_type_dire_stag: "dire stag" #NT!
+ animal_type_hyena: "hyena" #NT!
+ animal_type_jackal: "jackal" #NT!
+ animal_type_kursha: "kursha" #NT!
+ animal_type_ibex: "ibex" #NT!
+ animal_type_camel: "camel" #NT!
+ animal_type_bison: "bison" #NT!
+ animal_type_fogbeast: "fogbeast" #NT!
+ animal_type_tinessian: "tinessian lion" #NT!
+ animal_type_mammoth: "mammoth" #NT!
+ animal_type_living_blizzard: "living Blizzard" #NT!
+ animal_type_whisperwind: "whisperwind" #NT!
+ animal_type_animal_spirit: "spirit" #NT!
+ animal_type_shade: "shade" #NT!
+ animal_type_djinn: "djinn" #NT!
+ animal_type_banshee: "banshee" #NT!
+ animal_type_fortune_eater: "fortune Eater" #NT!
+ animal_type_cor: "cor" #NT!
+ animal_type_dire_mosquito: "dire Mosquito" #NT!
+ animal_type_king_cobra: "king Cobra" #NT!
+ animal_type_emperorcobra: "emperor Cobra" #NT!
+ animal_type_rovarskan_dragon: "rovarskan Dragon" #NT!
+ animal_type_great_rahksasa: "great Rahksasa" #NT!
+ animal_type_chimera: "chimera" #NT!
+ animal_type_tarasque: "tarasque" #NT!
+ animal_type_giant_spider: "giant Spider" #NT!
+ animal_type_ukhinbooum: "ukhinbooum" #NT!
+ animal_type_adze: "adze" #NT!
+ animal_type_bhramar: "bhramar" #NT!
+ animal_type_ugkilrrrmag: "ugkilrrmag" #NT!
+ animal_type_cockatrice: "cockatrice" #NT!
+ animal_type_rock_giant: "rock Giant" #NT!
+ animal_type_manzasiri: "manzaširi" #NT!
+ animal_type_valien_diamond: "valien diamond" #NT!
+ animal_type_panther: "panther" #NT!
+ animal_type_cheetah: "cheetah" #NT!
+ animal_type_leopard: "leopard" #NT!
+ animal_type_snow_leopard: "snow Leopard" #NT!
+ animal_type_bubalus: "bubalus" #NT!
+ animal_type_gaur: "gaur" #NT!
+ animal_type_hippopotamus: "hippopotamus" #NT!
+ animal_type_rhinoceros: "rhinoceros" #NT!
+ animal_type_gorilla: "gorilla" #NT!
+ animal_type_cat: "cat" #NT!
+ animal_type_dog: "dog" #NT!
+ animal_type_fox: "fox" #NT!
+ animal_type_hare: "hare" #NT!
+ animal_type_wolf: "wolf" #NT!
+ animal_type_stag: "stag" #NT!
+ animal_type_hart: "hart" #NT!
+ animal_type_horse: "horse" #NT!
+ animal_type_rabbit: "rabbit" #NT!
+ animal_type_boar: "boar" #NT!
+ animal_type_lion: "lion" #NT!
+ animal_type_tiger: "tiger" #NT!
+ animal_type_bear: "bear" #NT!
+ animal_type_aurochs: "aurochs" #NT!
+ animal_type_unicorn: "unicorn" #NT!
+ animal_type_dragon: "dragon" #NT!
+ animal_type_lynx: "lynx" #NT!
+ animal_type_snake: "snake" #NT!
+ animal_type_owlbear: "owlbear" #NT!
+ animal_type_lymrill: "lymrill" #NT!
+  # Hides 
+ artifact_hide_type_dire_stag: "a dire Stag" #NT!
+ artifact_hide_type_hyena: "a hyena" #NT!
+ artifact_hide_type_jackal: "a jackal" #NT!
+ artifact_hide_type_kursha: "a kursha" #NT!
+ artifact_hide_type_ibex: "a ibex" #NT!
+ artifact_hide_type_camel: "a camel" #NT!
+ artifact_hide_type_bison: "a bison" #NT!
+ artifact_hide_type_fogbeast: "a fogbeast" #NT!
+ artifact_hide_type_tinessian: "a tinessian Lion" #NT!
+ artifact_hide_type_panther: "a panther" #NT!
+ artifact_hide_type_cheetah: "a cheetah" #NT!
+ artifact_hide_type_leopard: "a leopard" #NT!
+ artifact_hide_type_snow_leopard: "a snow Leopard" #NT!
+ artifact_hide_type_mammoth: "a mammoth" #NT!
+ artifact_hide_type_cat: "[owner.GetTitledFirstNamePossessiveNoTooltip] beloved cat [ROOT.Char.Custom('CatStoryName')]" #NT!
+ artifact_hide_type_dog: "[owner.GetTitledFirstNamePossessiveNoTooltip] beloved dog [ROOT.Char.Custom('DogStoryName')]" #NT!
+ artifact_hide_type_fox: "a beautiful fox" #NT!
+ artifact_hide_type_hare: "a beautiful hare" #NT!
+ artifact_hide_type_hart: "a hart" #NT!
+ artifact_hide_type_stag: "a majestic stag" #NT!
+ artifact_hide_type_boar: "a boar" #NT!
+ artifact_hide_type_wolf: "a wolf" #NT!
+ artifact_hide_type_lion: "a lion" #NT!
+ artifact_hide_type_tiger: "a tiger" #NT!
+ artifact_hide_type_unicorn: "a unicorn" #NT!
+ artifact_hide_type_dragon: "a dragon" #NT!
+ artifact_hide_type_lynx: "a lynx" #NT!
+ artifact_hide_type_owlbear: "an owlbear" #NT!
+ artifact_hide_type_lymrill: "a lymrill" #NT!
+ feature_animal_hide_type_hyena: "a hyena" #NT!
+ feature_animal_hide_type_jackal: "a jackal" #NT!
+ feature_animal_hide_type_kursha: "a kursha" #NT!
+ feature_animal_hide_type_ibex: "a ibex" #NT!
+ feature_animal_hide_type_camel: "a camel" #NT!
+ feature_animal_hide_type_bison: "a bison" #NT!
+ feature_animal_hide_type_fogbeast: "a fogbeast" #NT!
+ feature_animal_hide_type_dire_stag: "a dire Stag" #NT!
+ feature_animal_hide_type_tinessian: "a tinessian Lion" #NT!
+ feature_animal_hide_type_panther: "a panther" #NT!
+ feature_animal_hide_type_cheetah: "a cheetah" #NT!
+ feature_animal_hide_type_leopard: "a leopard" #NT!
+ feature_animal_hide_type_snow_leopard: "a snow Leopard" #NT!
+ feature_animal_hide_type_mammoth: "a mammoth" #NT!
+ feature_animal_hide_type_owlbear: "an owlbear" #NT!
+ feature_animal_hide_type_lymrill: "a lymrill" #NT!
+ artifact_wall_animal_skull_wild_boar: "a boar with razor-sharp tusks" #NT!
+ artifact_wall_animal_skull_wolf: "a keen-toothed large wolf" #NT!
+ artifact_wall_animal_skull_stag: "a dire stag, boasting a truly colossal rack" #NT!
+ artifact_wall_animal_skull_lion: "a great lion, king of beasts" #NT!
+ artifact_wall_animal_skull_tiger: "a lethal tiger" #NT!
+ artifact_wall_animal_skull_bear: "a large bear" #NT!
+ artifact_wall_animal_skull_aurochs: "a massive aurochs" #NT!
+ artifact_wall_animal_skull_horse: "a mighty warhorse, taken from the deceased steed of [owner.GetNameNoTooltip]." #NT!
+ artifact_wall_animal_skull_rabbit: "the most fearsome creature in the entire world; a rabbit" #NT!
+ feature_animal_hide_type_cat: "[owner.GetTitledFirstNamePossessiveNoTooltip] beloved cat [Artifact.GetOwner.Custom('CatStoryName')]" #NT!
+ feature_animal_hide_type_dog: "[owner.GetTitledFirstNamePossessiveNoTooltip] beloved dog [Artifact.GetOwner.Custom('DogStoryName')]" #NT!
+ feature_animal_hide_type_fox: "a beautiful fox" #NT!
+ feature_animal_hide_type_hare: "a beautiful hare" #NT!
+ feature_animal_hide_type_hart: "a hart" #NT!
+ feature_animal_hide_type_rabbit: "a rabbit" #NT!
+ feature_animal_hide_type_stag: "a majestic stag" #NT!
+ feature_animal_hide_type_boar: "a boar" #NT!
+ feature_animal_hide_type_wolf: "a wolf" #NT!
+ feature_animal_hide_type_lion: "a lion" #NT!
+ feature_animal_hide_type_bear: "a bear" #NT!
+ feature_animal_hide_type_tiger: "a tiger" #NT!
+ feature_animal_hide_type_aurochs: "an aurochs" #NT!
+ feature_animal_hide_type_unicorn: "a unicorn" #NT!
+ feature_animal_hide_type_dragon: "a dragon" #NT!
+ feature_animal_hide_type_lynx: "a lynx" #NT!
+  # Essence 
+ artifact_animal_essence: "Essence" #NT!
+ artifact_animal_essence_type_living_blizzard: "a living Blizzard" #NT!
+ artifact_animal_essence_type_whisperwind: "a whisperwind" #NT!
+ artifact_animal_essence_type_spirit: "a spirit" #NT!
+ artifact_animal_essence_type_shade: "a shade" #NT!
+ artifact_animal_essence_type_djinn: "a djinn" #NT!
+ artifact_animal_essence_type_banshee: "a banshee" #NT!
+ artifact_animal_essence_type_fortune_eater: "a fortune Eater" #NT!
+ artifact_animal_essence_type_cor: "a Cor" #NT!
+ feature_animal_essence_type_living_blizzard: "a living Blizzard" #NT!
+ feature_animal_essence_type_whisperwind: "a whisperwind" #NT!
+ feature_animal_essence_type_spirit: "a spirit" #NT!
+ feature_animal_essence_type_shade: "a shade" #NT!
+ feature_animal_essence_type_djinn: "a djinn" #NT!
+ feature_animal_essence_type_banshee: "a banshee" #NT!
+ feature_animal_essence_type_fortune_eater: "a fortune Eater" #NT!
+ feature_animal_essence_type_cor: "a cor" #NT!
+ feature_animal_essence_infusion_fear: "infused with fear" #NT!
+ feature_animal_essence_infusion_bliss: "infused with bliss" #NT!
+ feature_animal_essence_infusion_sorrow: "infused with sorrow" #NT!
+ feature_animal_essence_infusion_rage: "infused with rage" #NT!
+ feature_animal_essence_infusion_disgust: "infused with disgust" #NT!
+  # Toxins 
+ artifact_animal_toxin: "Toxin" #NT!
+ artifact_animal_toxin_type_king_cobra: "a king Cobra" #NT!
+ artifact_animal_toxin_type_emperorcobra: "an emperor Cobra" #NT!
+ artifact_animal_toxin_type_rovarskan_dragon: "a rovarskan Dragon" #NT!
+ artifact_animal_toxin_type_great_rahksasa: "a great Rahksasa" #NT!
+ artifact_animal_toxin_type_chimera: "a chimera" #NT!
+ artifact_animal_toxin_type_tarasque: "a tarasque" #NT!
+ artifact_animal_toxin_type_giant_spider: "a giant Spider" #NT!
+ artifact_animal_toxin_type_ukhinbooum: "a ukhinbooum" #NT!
+ artifact_animal_toxin_type_adze: "a adze" #NT!
+ artifact_animal_toxin_type_bhramar: "a bhramar" #NT!
+ artifact_animal_toxin_type_ugkilrrrmag: "a ugkilrrrmag" #NT!
+ artifact_animal_toxin_type_cockatrice: "a cockatrice" #NT!
+ artifact_animal_toxin_type_dire_mosquito: "a dire Mosquito" #NT!
+ artifact_animal_toxin_type_snake: "a snake" #NT!
+ feature_animal_toxin_type_king_cobra: "a king Cobra" #NT!
+ feature_animal_toxin_type_emperorcobra: "an emperor Cobra" #NT!
+ feature_animal_toxin_type_rovarskan_dragon: "a rovarskan Dragon" #NT!
+ feature_animal_toxin_type_great_rahksasa: "a great Rahksasa" #NT!
+ feature_animal_toxin_type_chimera: "a chimera" #NT!
+ feature_animal_toxin_type_tarasque: "a tarasque" #NT!
+ feature_animal_toxin_type_giant_spider: "a giant Spider" #NT!
+ feature_animal_toxin_type_ukhinbooum: "a ukhinbooum" #NT!
+ feature_animal_toxin_type_adze: "a adze" #NT!
+ feature_animal_toxin_type_bhramar: "a bhramar" #NT!
+ feature_animal_toxin_type_ugkilrrrmag: "a ugkilrrrmag" #NT!
+ feature_animal_toxin_type_cockatrice: "a cockatrice" #NT!
+ feature_animal_toxin_type_dire_mosquito: "a dire Mosquito" #NT!
+ feature_animal_toxin_type_snake: "a snake" #NT!
+ feature_animal_toxin_infusion_sickly: "The ichor looks rancid and sickly." #NT!
+ feature_animal_toxin_infusion_honey: "It looks and smells of golden honey." #NT!
+ feature_animal_toxin_infusion_acidic: "The air burns your nose when you smell it." #NT!
+ feature_animal_toxin_infusion_bloody: "The dark ichor smells of iron and coagulation." #NT!
+ feature_animal_toxin_infusion_powder: "Once extracted, the toxin quickly turned to powder that smells of earth." #NT!
+  # Gems 
+ artifact_animal_gem: "Gem" #NT!
+ artifact_animal_gem_type_rock_giant: "a rock Giant" #NT!
+ artifact_animal_gem_type_manzasiri: "a manzaširi" #NT!
+ artifact_animal_gem_type_valien_diamond: "a valien diamond" #NT!
+ feature_animal_gem_type_rock_giant: "a rock Giant" #NT!
+ feature_animal_gem_type_manzasiri: "a manzaširi" #NT!
+ feature_animal_gem_type_valien_diamond: "a valien diamond" #NT!
+ feature_animal_gem_infusion_hot: "The gem is scalding to the touch, as if freshly pulled from a volcano." #NT!
+ feature_animal_gem_infusion_rock: "The gem is muddied and jagged, but a power still emanates from within." #NT!
+ feature_animal_gem_infusion_crystal: "The gem glitters in the light." #NT!
+ may_gain_artifact_hide_tooltip: "#positive_value Hunters are likely to gain an [artifact|E].#!" #NT!
+  # Skull 
+ artifact_hunt_wall_skull_name: "Skull of the [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] of [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]" #NT!
+ artifact_hunt_wall_skull_description: "The impressive skull of [newly_created_artifact.GetFeatureText( 'animal_skull_type' )], hunted in the [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]. The skull is [SCOPE.Custom('ArtifactAdverbQuality')] preserved and attached to a [SCOPE.Custom('ArtifactAdverbWealth')] decorated [newly_created_artifact.GetFeatureText( 'generic_material_wood' )] mount." #NT!
+ artifact_wall_skull_bubalus: "a bubalus" #NT!
+ artifact_wall_skull_gaur: "a gaur" #NT!
+ artifact_wall_skull_hippopotamus: "a hippopotamus" #NT!
+ artifact_wall_skull_rhinoceros: "a rhinoceros" #NT!
+ artifact_wall_skull_gorilla: "a gorilla" #NT!
+ artifact_wall_skull_leopard: "a leopard" #NT!
+ feature_animal_skull_type_bubalus: "a bubalus" #NT!
+ feature_animal_skull_type_leopard: "a leopard" #NT!
+ feature_animal_skull_type_gaur: "a gaur" #NT!
+ feature_animal_skull_type_hippopotamus: "a hippopotamus" #NT!
+ feature_animal_skull_type_rhinoceros: "a rhinoceros" #NT!
+ feature_animal_skull_type_gorilla: "a gorilla" #NT!
+ artifact_monster_hide_big_name: "Hide of a [newly_created_artifact.GetFeatureText( 'animal_hide_type' )]" #NT!
+ artifact_monster_hide_big_description: "The tanned hide of a [newly_created_artifact.GetFeatureText( 'animal_hide_type' )]. The hide is massive in size and of [SCOPE.Custom('ArtifactQuality')] quality." #NT!
+ artifact_hunt_animal_hide_big_description: "The tanned hide of [newly_created_artifact.GetFeatureText( 'animal_hide_type' )], hunted in [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]. The hide is massive in size and of [SCOPE.Custom('ArtifactQuality')] quality." #NT!
+ artifact_hunt_animal_hide_medium_description: "The tanned hide of the [newly_created_artifact.GetFeatureText( 'animal_hide_type' )], hunted in [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]. The hide is of [SCOPE.Custom('ArtifactQuality')] quality." #NT!
+ artifact_hunt_animal_hide_medium_name: "Hide of the [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] of [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]" #NT!
+ artifact_hunt_animal_hide_big_name: "Hide of the [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] of [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]" #NT!
+ artifact_hunt_animal_hide_small_name: "Hide of the [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] of [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]" #NT!
+ artifact_hunt_animal_hide_fogbeast_name: "Hide of the [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] of the [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]" #NT!
+ artifact_hunt_fogbeast_hide_description: "The tanned hide of [newly_created_artifact.GetFeatureText( 'animal_hide_type' )], hunted in the [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]. Despite the hides quality, it looks uncanny." #NT!
+ artifact_hunt_essence_name: "Essence of the [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] of [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]" #NT!
+ artifact_hunt_essence_description: "Essence of the [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] of [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))], [newly_created_artifact.GetFeatureText( 'animal_essence_infusion' )]. Vapors still roll off of the container." #NT!
+ artifact_animal_toxin_name: "Toxin Extract of the [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] of [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]" #NT!
+ artifact_animal_toxin_description: "Toxins extracted from the [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] of [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]. [newly_created_artifact.GetFeatureText( 'animal_toxin_infusion' )]" #NT!
+ artifact_animal_gem_name: "Crystal of the [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] of [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]" #NT!
+ artifact_animal_gem_description: "A gem pulled from the [newly_created_artifact.Custom('ArtifactAnimalAdjective')|U] [newly_created_artifact.Custom('ArtifactAnimalType')|U] of [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]. [newly_created_artifact.GetFeatureText( 'animal_gem_infusion' )]" #NT!
+ artifact_shahmaran_heart_name: "Heart of the Shahmaran of [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]" #NT!
+ artifact_shahmaran_heart_description: "The heart of a Shahmaran is anything but- a crystalline formation of gem and stone that pulsates with faint magical energy. Disturbingly, the crystals have formed to look like a man hunched in the fetal position." #NT!
+ artifact_simurgh_feathers_name: "Feathers of the Simurgh of [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]" #NT!
+ artifact_simurgh_feathers_description: "These feathers still retain some of the brilliant color and wisdom of the majestic Simurgh." #NT!
+ artifact_shahmaran_heart: "Shahmaran Heart" #NT!
+ artifact_simurgh_feathers: "Simurgh Feathers" #NT!
+ artifact_wild_hunt_helmet: "Wild Rider's Helm" #NT!
+ artifact_wild_hunt_name: "Wild Rider's Helm" #NT!
+ artifact_wild_hunt_description: "Despite being divorced from its formidable owner is it still capable of sending shivers down an opponent's spine." #NT!
+ artifact_gargoyle_figure: "Gargoyle Figure" #NT!
+ artifact_gargoyle_name: "Gargoyle of [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]" #NT!
+ artifact_gargoyle_description: "This shrunken figure was once a mighty Gargoyle, now reduced to little larger than a house cat." #NT!
+ artifact_seamonster_treasure: "Abyssal Monstrosities Treasure" #NT!
+ artifact_seamonster_name: "Abyssal Monstrosity of [Localize(Concatenate(GetPlayer.MakeScope.Var('temporary_hunt_biozone_variable').GetFlagName,'_name'))]" #NT!
+ artifact_seamonster_description: "This was once protected by an Abyssal Monstrosity, but now ours." #NT!
+ artifact_iye_gem: "Iye Crystal" #NT!
+ artifact_iye_name: "Mysterious Crystal" #NT!
+ artifact_iye_description: "This was given as a blessing by a mysterious spirit found in the Steppe. It glows with iridescence and warms the body when held." #NT!
+ # Gemstones 
+ artifact_gemstone_name: "$artifact_name_prefix$ [newly_created_artifact.GetFeatureText( 'gemstone_cut' )|U]-Cut [newly_created_artifact.GetFeatureText( 'gemstone_type' )]" #NT!
+ artifact_gemstone_name_manzasiri_heart: "$artifact_name_prefix$ [newly_created_artifact.GetFeatureText( 'gemstone_cut' )|U]-Cut [newly_created_artifact.GetFeatureText( 'gemstone_type' )] Manzaširi Heart" #NT!
+ artifact_gemstone_name_shard: "$artifact_name_prefix$ [newly_created_artifact.GetFeatureText( 'gemstone_type' )] Shard" #NT!
+ artifact_gemstone_description: "A beautiful, magically-infused [newly_created_artifact.GetFeatureText( 'gemstone_type' )] in a [newly_created_artifact.GetFeatureText( 'gemstone_cut' )] cut. The gem has [newly_created_artifact.GetFeatureText( 'gemstone_magical_texture' )] and it [newly_created_artifact.GetFeatureText( 'gemstone_magical_aura' )]." #NT!
+ artifact_gemstone_description_manzasiri_heart: "A beautiful, magically-infused [newly_created_artifact.GetFeatureText( 'gemstone_type' )] in a [newly_created_artifact.GetFeatureText( 'gemstone_cut' )] cut. The gem has [newly_created_artifact.GetFeatureText( 'gemstone_magical_texture' )] and it [newly_created_artifact.GetFeatureText( 'gemstone_magical_aura' )].\n\nThe stone was once the "heart" of a dreaded Manzaširi, which imbued it with exceptional magical properties." #NT!
+ artifact_gemstone_description_manzasiri_shard: "A beautiful, magically-infused [newly_created_artifact.GetFeatureText( 'gemstone_type' )] in a [newly_created_artifact.GetFeatureText( 'gemstone_cut' )] cut. The gem has [newly_created_artifact.GetFeatureText( 'gemstone_magical_texture' )] and it [newly_created_artifact.GetFeatureText( 'gemstone_magical_aura' )].\n\nThe stone was extracted from the body of a Manzaširi, which imbued it with significant magical properties." #NT!
+ ## Extra Types 
+ feature_gemstone_type_sunstone: "Sunstone" #NT!
+ feature_gemstone_type_citrine: "Citrine" #NT!
+ feature_gemstone_type_chrysoberyl: "Chrysoberyl" #NT!
+ feature_gemstone_type_black_zircon: "Black Zircon" #NT!
+ feature_gemstone_type_red_zircon: "Red Zircon" #NT!
+ feature_gemstone_type_yellow_zircon: "Yellow Zircon" #NT!
+ feature_gemstone_type_brown_zircon: "Brown Zircon" #NT!
+ feature_gemstone_type_green_zircon: "Green Zircon" #NT!
+ feature_gemstone_type_clear_zircon: "Clear Zircon" #NT!
+ feature_gemstone_type_blue_zircon: "Blue Zircon" #NT!
+ feature_gemstone_type_fire_opal: "Fire Opal" #NT!
+ feature_gemstone_type_cherry_opal: "Cherry Opal" #NT!
+ feature_gemstone_type_sapphire: "Sapphire" #NT!
+ feature_gemstone_type_manzasiri_obsidian: "Manzaširi Obsidian" #NT!
+ artifact_tooltip_sunstone: "#BOL Sunstone#!" #NT!
+ artifact_tooltip_black_zircon: "#BOL #color_green Black Zircon#!#!" #NT!
+ artifact_tooltip_red_zircon: "#BOL #color_green Red Zircon#!#!" #NT!
+ artifact_tooltip_yellow_zircon: "#BOL #color_green Yellow Zircon#!#!" #NT!
+ artifact_tooltip_brown_zircon: "#BOL #color_green Brown Zircon#!#!" #NT!
+ artifact_tooltip_green_zircon: "#BOL #color_green Green Zircon#!#!" #NT!
+ artifact_tooltip_clear_zircon: "#BOL #color_light_blue Clear Zircon#!#!" #NT!
+ artifact_tooltip_blue_zircon: "#BOL #color_goldy_yellow Blue Zircon#!#!" #NT!
+ artifact_tooltip_fire_opal: "#BOL #color_green Fire Opal#!#!" #NT!
+ ## Cuts 
+ feature_gemstone_cut_brilliant: "brilliant" #NT!
+ feature_gemstone_cut_emerald: "emerald" #NT!
+ feature_gemstone_cut_baguette: "baguette" #NT!
+ feature_gemstone_cut_briolette: "briolette" #NT!
+ feature_gemstone_cut_cushion: "cushion" #NT!
+ feature_gemstone_cut_marquise: "marquise" #NT!
+ feature_gemstone_cut_octagonal: "octagonal" #NT!
+ feature_gemstone_cut_oval: "oval" #NT!
+ feature_gemstone_cut_pear: "pear" #NT!
+ feature_gemstone_cut_point: "point" #NT!
+ feature_gemstone_cut_radiant: "radiant" #NT!
+ feature_gemstone_cut_table: "table" #NT!
+ feature_gemstone_cut_trilliant: "trilliant" #NT!
+ feature_gemstone_cut_shard: "shard" #NT!
+ ## Magical Textures 
+ feature_gemstone_magical_texture_swirling: "magical tendrils gently swirling [Artifact.Custom('ArtifactGemstoneWithinOrOverSurface')]" #NT!
+ feature_gemstone_magical_texture_hypnotic: "hypnotic magical tendrils gently rolling [Artifact.Custom('ArtifactGemstoneWithinOrOverSurface')]" #NT!
+ feature_gemstone_magical_texture_geometric: "slowly shifting geometric shapes and patterns [Artifact.Custom('ArtifactGemstoneWithinOrOverSurface')]" #NT!
+ feature_gemstone_magical_texture_fire: "fiery, animated flames burning [Artifact.Custom('ArtifactGemstoneWithinOrOverSurface')], its brightness causing it to glow in the dark" #NT!
+ feature_gemstone_magical_texture_water: "wave-like movements [Artifact.Custom('ArtifactGemstoneWithinOrOverSurface')], giving off the impression of an ocean being trapped inside" #NT!
+ feature_gemstone_magical_texture_air: "movements of wind and small clouds [Artifact.Custom('ArtifactGemstoneWithinOrOverSurface')]" #NT!
+ feature_gemstone_magical_texture_thunder: "electrical sparks and small flashes of light going off [Artifact.Custom('ArtifactGemstoneWithinOrOverSurface')]" #NT!
+ feature_gemstone_magical_texture_vortex: "magical tendrils swirling in a vortex [Artifact.Custom('ArtifactGemstoneWithinOrOverSurface')]" #NT!
+ feature_gemstone_magical_texture_night_sky: "a brilliant, nebulous night sky filled with stars [Artifact.Custom('ArtifactGemstoneWithinOrOverSurface')]" #NT!
+ feature_gemstone_magical_texture_visions: "strange, dream-like visions of events both past and future being replayed [Artifact.Custom('ArtifactGemstoneWithinOrOverSurface')]" #NT!
+ ## Magical Auras 
+ feature_gemstone_magical_aura_hot: "is hot to the touch and emanates heat a significant radius around itself" #NT!
+ feature_gemstone_magical_aura_cold: "is very cold to the touch and lowers the ambient temperature a significant radius around itself" #NT!
+ feature_gemstone_magical_aura_dark: "seems to suck up ambient light, causing nearby lights to dim and shadows to deepen" #NT!
+ feature_gemstone_magical_aura_wind: "causes winds in the surrounding area, even if indoors" #NT!
+ feature_gemstone_magical_aura_whispers: "is known for the ominous whispers that can often be heard in its vicinity" #NT!
+ feature_gemstone_magical_aura_euphoria: "causes a sense of euphoria, and sometimes even mania, in those that stand nearby and especially look at it for prolonged periods of time" #NT!
+ feature_gemstone_magical_aura_melancholy: "induces a sense of melancholy to those nearby" #NT!
+ feature_gemstone_magical_aura_washes_out_colors: "washes out the colors of its surroundings, making its own color stand out strikingly" #NT!
+ feature_gemstone_magical_aura_increases_vibrancy: "seems to make the colors of surrounding objects significantly more vibrant and ilvely" #NT!
+ feature_gemstone_magical_aura_necromantic: "has necromantic properties, causing nearby bones to begin shaking and slightly moving on their own accord and attracting any nearby undead like a beacon" #NT!
+ feature_gemstone_magical_aura_plant_growth: "causes plants nearby to bloom and grow significantly faster than naturally possible" #NT!
+ feature_gemstone_magical_aura_alluring: "causes almost irresistible greed in creatures that see it" #NT!
+ feature_gemstone_magical_aura_magic_boosting: "massively amplifies all kinds of magic casted in the vicinity" #NT!
+ feature_gemstone_magical_aura_anti_magic: "has a small anti-magical field around itself" #NT!
+ ## Misc Gemstone Localize 
+ artifact_gemstone_within: "within" #NT!
+ artifact_gemstone_over_surface: "over its surface" #NT!
+  # Goblets 
+ artifact_aversarian_goblet_name: "$artifact_name_prefix$ Aversarian Goblet" #NT!
+ artifact_aversarian_goblet_description: "An Aversarian goblet of [SCOPE.Custom('ArtifactQuality')] craftsmanship. It is made of [newly_created_artifact.GetFeatureText( 'goblet_material' )] with [newly_created_artifact.GetFeatureText( 'decoration_material_gem' )] inserts.\n\n$artifact_aversarian_goblet_explanation$ $artifact_aversarian_goblet_age$" #NT!
+ artifact_aversarian_goblet_explanation: "A common utility in [living_magic|E] rituals, well crafted Aversarian goblets are prized for both their exquisite beauty and use in [magic|E]." #NT!
+ artifact_aversarian_goblet_age: "This [newly_created_artifact.GetFeatureText( 'goblet_characteristic' )] sample is [newly_created_artifact.GetFeatureText( 'goblet_decoration' )] and was likely made around the year [owner.MakeScope.Var('goblet_age').GetValue|0]." #NT!
+ feature_decoration_material_gem_bloodcrystal: "bloodcrystal" #NT!
+ feature_goblet_characteristic_large: "rather large" #NT!
+ feature_goblet_characteristic_huge: "huge and heavy" #NT!
+ feature_goblet_characteristic_wide_topped: "exceptionally wide-topped" #NT!
+ feature_goblet_characteristic_narrow: "exceptionally narrow" #NT!
+ feature_goblet_characteristic_elaborate_stem: "elaborately-stemmed" #NT!
+ feature_goblet_characteristic_unremarkable: "rather unremarkable" #NT!
+ feature_goblet_decoration_magical_runes: "engraved with magical runes on all sides" #NT!
+ feature_goblet_decoration_magical_geometric_shapes: "engraved with magically-attuned geometric shapes" #NT!
+ feature_goblet_decoration_the_purest: "engraved with an elaborate rendition of the Purest and First Men" #NT!
+ feature_goblet_decoration_the_sea_tower: "engraved with an elaborate rendition of the Sea Tower" #NT!
+ feature_goblet_decoration_mountain_sun_iconography: "engraved with iconography of the old Mountain-Sun Temple" #NT!
+ feature_goblet_decoration_cups: "engraved with images of cups" #NT!
+ feature_goblet_decoration_moons: "engraved with images of [aervalr|E]" #NT!
+ feature_goblet_decoration_dragons: "engraved with dragon motifs" #NT!
+ feature_goblet_decoration_battle: "engraved with scenes of battle" #NT!
+ feature_goblet_decoration_blood_drops: "engraved with blood drops" #NT!
+ feature_goblet_decoration_flowers: "engraved with floral motifs" #NT!
+ feature_goblet_decoration_rivers: "engraved with intertwining rivers" #NT!
+ feature_goblet_decoration_lions: "engraved with lion motifs" #NT!
+ feature_goblet_decoration_chimerae: "engraved with chimera motifs" #NT!
+ feature_goblet_decoration_mayikprolollan: "engraved with symbols marking the property of the [mayikrata|E]" #NT!
+ feature_goblet_decoration_heraldry: "engraved with the heraldry of a likely long-dead noble house" #NT!
+ feature_goblet_decoration_undecorated: "plain and undecorated" #NT!
+  # Vases 
+ feature_vase_type_amphora: "amphora" #NT!
+ feature_vase_type_column_krater: "column krater" #NT!
+ feature_vase_type_calyx_krater: "calyx krater" #NT!
+ feature_vase_type_volute_krater: "volute krater" #NT!
+ feature_vase_type_bell_krater: "bell krater" #NT!
+ feature_vase_type_pithos: "pithos" #NT!
+ feature_vase_type_pelike: "pelike" #NT!
+ feature_vase_type_hydria: "hydria" #NT!
+ feature_vase_type_stamnos: "stamnos" #NT!
+ feature_vase_type_pyxis: "pyxis" #NT!
+ feature_vase_type_dinos: "dinos" #NT!
+ feature_vase_type_kylix: "kylix" #NT!
+ feature_vase_type_kantharos: "kantharos" #NT!
+ feature_vase_type_oenochoe: "oenochoe" #NT!
+ feature_vase_type_loutrophoros: "loutrophoros" #NT!
+ feature_vase_type_lekythos: "lekythos" #NT!
+ feature_vase_painted_black: "painted a deep black" #NT!
+ feature_vase_painted_white: "painted an ivory white" #NT!
+ feature_vase_painted_red: "painted a crimson red" #NT!
+ feature_vase_painted_faded: "discolored with age" #NT!
+ feature_vase_decoration_magical_runes: "decorated with magical runes on all sides" #NT!
+ feature_vase_decoration_magical_geometric_shapes: "decorated with magically-attuned geometric shapes" #NT!
+ feature_vase_decoration_the_purest: "decorated with an elaborate rendition of the Purest and First Men" #NT!
+ feature_vase_decoration_the_sea_tower: "decorated with an elaborate rendition of the Sea Tower" #NT!
+ feature_vase_decoration_mountain_sun_iconography: "decorated with iconography of the old Mountain-Sun Temple" #NT!
+ feature_vase_decoration_cups: "decorated with images of cups" #NT!
+ feature_vase_decoration_moons: "decorated with images of [aervalr|E]" #NT!
+ feature_vase_decoration_dragons: "decorated with red dragon motifs" #NT!
+ feature_vase_decoration_battle: "decorated with scenes of battle" #NT!
+ feature_vase_decoration_blood_drops: "decorated with blood drops" #NT!
+ feature_vase_decoration_flowers: "decorated with floral motifs" #NT!
+ feature_vase_decoration_rivers: "decorated with intertwining rivers" #NT!
+ feature_vase_decoration_lions: "decorated with lion motifs" #NT!
+ feature_vase_decoration_chimerae: "decorated with chimera motifs" #NT!
+ feature_vase_decoration_mayikprolollan: "decorated with symbols marking the property of the [mayikrata|E]" #NT!
+ feature_vase_decoration_heraldry: "decorated with the heraldry of a likely long-dead noble house" #NT!
+ feature_vase_decoration_undecorated: "plain and undecorated" #NT!
+ artifact_aversarian_vase_name: "$artifact_name_prefix$ [newly_created_artifact.GetFeatureText( 'vase_type' )|U]" #NT!
+ artifact_aversarian_vase_description: "An Aversarian [newly_created_artifact.GetFeatureText( 'vase_type' )] of [SCOPE.Custom('ArtifactQuality')] craftsmanship. It is [newly_created_artifact.GetFeatureText( 'vase_painted' )] and detailed with [newly_created_artifact.GetFeatureText( 'decoration_material_inlay' )] inserts.\n\n$artifact_aversarian_vase_explanation$ $artifact_aversarian_vase_age$" #NT!
+ artifact_aversarian_vase_explanation: "A common utility across Aversarian society, well crafted Aversarian vases are highly sought after and have promoted a long history of painted artistry." #NT!
+ artifact_aversarian_vase_age: "This sample is [newly_created_artifact.GetFeatureText( 'vase_decoration' )] and was likely made around the year [owner.MakeScope.Var('vase_age').GetValue|0]." #NT!
+ artifact_vase: "Vase" #NT!
+ artifact_iye_crystal: "Gem" #NT!
+ artifact_votive: "Votive Figure" #NT!
+ artifact_casket: "Casket" #NT!
+ artifact_tablet: "Stone Tablet" #NT!
+ artifact_coin: "Coin" #NT!
+ artifact_gemstone: "Gemstone" #NT!
+  # Caskets 
+ feature_casket_characteristic_large: "rather large" #NT!
+ feature_casket_characteristic_huge: "huge and heavy" #NT!
+ feature_casket_characteristic_small: "quite small" #NT!
+ feature_casket_characteristic_tiny: "exceptionally small" #NT!
+ feature_casket_characteristic_detailed: "intricately detailed" #NT!
+ feature_casket_characteristic_unremarkable: "rather unremarkable" #NT!
+ feature_casket_material_ivory: "ivory" #NT!
+ feature_casket_material_bronze: "bronze" #NT!
+ feature_casket_material_wood: "wood" #NT!
+ feature_casket_material_terracotta: "terracotta" #NT!
+ feature_casket_material_ebony: "ebony" #NT!
+ feature_casket_decoration_harvest: "decorated with scenes of Waymasters harvesting bountiful crops" #NT!
+ feature_casket_decoration_swords: "decorated with scenes of Waymasters dueling to the death" #NT!
+ feature_casket_decoration_family: "decorated with scenes of a Waymaster shepherding their family" #NT!
+ feature_casket_decoration_coins: "decorated with gold leaves and filings" #NT!
+ feature_casket_decoration_knowledge: "decorated with scenes of a Waymaster researching in a great hall" #NT!
+ feature_casket_decoration_crows: "decorated with scenes of a Waymaster conversing with crows" #NT!
+ feature_casket_decoration_nullification: "decorated with scenes of a Waymaster challenging a [magi|E]" #NT!
+ feature_casket_decoration_gisredde: "decorated with tales of Gisreddean pride" #NT!
+ feature_casket_decoration_champion_of_chevalie: "decorated with tales of the [champion_of_chevalie|E] and their exploits during the [red_river_war|E]" #NT!
+ feature_casket_decoration_romantic: "decorated with tales of romance and chivalry" #NT!
+ feature_casket_decoration_high_king: "decorated with depictions of various High Kings of [chevalie|E]" #NT!
+ feature_casket_decoration_weathered: "its carvings have degraded over time" #NT!
+ feature_casket_decoration_antimagi: "decorated with heraldries of many different [antimagic_orders|E]" #NT!
+ feature_casket_decoration_griffons: "decorated with carvings of griffons in flight" #NT!
+ feature_casket_decoration_konijk: "decorated with landscapes from the Konijkmener Swamplands" #NT!
+ feature_casket_decoration_chevalie: "decorated with landscapes from the enchanted forests of [chevalie|E]" #NT!
+ feature_casket_branded_stamped: "This particular casket is stamped with the crest and name of the " #NT!
+ feature_casket_branded_branded: "This particular casket is branded with the crest and name of the " #NT!
+ feature_casket_branded_marked: "This particular casket is marked with the crest and name of the " #NT!
+ feature_casket_branded_scribbled: "This particular casket is scribbled with the crest and name of the " #NT!
+ feature_casket_branded_adorned: "This particular casket is adorned with the crest and name of the " #NT!
+ feature_casket_branded_sealed: "This particular casket is sealed with the crest and name of the " #NT!
+ feature_casket_branded_engraved: "This particular casket is engraved with the crest and name of the " #NT!
+ feature_casket_branded_gilded: "This particular casket is gilded with the crest and name of the " #NT!
+ feature_casket_branded_inlaid: "This particular casket is inlaid with the crest and name of the " #NT!
+ feature_casket_name_one: "[Artifact.GetOwner.Custom('MarcherCasketAdjective')] [Artifact.GetOwner.Custom('MarcherCasketOrganization')]" #NT!
+ feature_casket_name_two: "[Artifact.GetOwner.Custom('MarcherCasketAdjective')] [Artifact.GetOwner.Custom('MarcherCasketOrganization')] of [Artifact.GetOwner.Custom('MarcherCasketAdjective')] [Artifact.GetOwner.Custom('MarcherCasketMakers')]" #NT!
+ feature_casket_name_three: "[Artifact.GetOwner.Custom('MarcherCasketAdjective')] and [Artifact.GetOwner.Custom('MarcherCasketAdjective')] [Artifact.GetOwner.Custom('MarcherCasketOrganization')] of the [Artifact.GetOwner.Custom('MarcherCasketAdjective')] [Artifact.GetOwner.Custom('MarcherCasketMakers')]" #NT!
+ feature_casket_name_four: "[Artifact.GetOwner.Custom('MarcherCasketAdjective')] [Artifact.GetOwner.Custom('MarcherCasketOrganization')] of the [Artifact.GetOwner.Custom('MarcherCasketAdjective')] and [Artifact.GetOwner.Custom('MarcherCasketAdjective')] [Artifact.GetOwner.Custom('MarcherCasketMakers')] of the [Artifact.GetOwner.Custom('MarcherCasketDedication')|U]" #NT!
+ casket_illustrious: "Illustrious" #NT!
+ casket_wondrous: "Wondrous" #NT!
+ casket_wizened: "Wizened" #NT!
+ casket_experienced: "Experienced" #NT!
+ casket_crafty: "Crafty" #NT!
+ casket_ingenious: "Ingenious" #NT!
+ casket_historic: "Historic" #NT!
+ casket_pious: "Pious" #NT!
+ casket_opulent: "Opulent" #NT!
+ casket_wealthy: "Wealthy" #NT!
+ casket_humble: "Humble" #NT!
+ casket_proud: "Proud" #NT!
+ casket_holy: "Holy" #NT!
+ casket_meandering: "Meandering" #NT!
+ casket_doddering: "Doddering" #NT!
+ casket_respected: "Respected" #NT!
+ casket_honored: "Honored" #NT!
+ casket_warbound: "Warbound" #NT!
+ casket_pathtreading: "Pathtreading" #NT!
+ casket_pathwalking: "Pathwalking" #NT!
+ casket_kind: "Kind" #NT!
+ casket_keen: "Keen" #NT!
+ casket_sharp: "Sharp" #NT!
+ casket_eagle_eyed: "Eagle-Eyed" #NT!
+ casket_heroic: "Heroic" #NT!
+ casket_brave: "Brave" #NT!
+ casket_stumbling: "Stumbling" #NT!
+ casket_six_fingered: "Six-Fingered" #NT!
+ casket_esteemed: "Esteemed" #NT!
+ casket_regarded: "Regarded" #NT!
+ casket_admired: "Admired" #NT!
+ casket_valued: "Valued" #NT!
+ casket_appreciated: "Appreciated" #NT!
+ casket_revered: "Revered" #NT!
+ casket_knighted: "Knighted" #NT!
+ casket_squired: "Squired" #NT!
+ casket_indentured: "Indentured" #NT!
+ casket_pathblessed: "Pathblessed" #NT!
+ casket_saintly: "Saintly" #NT!
+ casket_saint_sponsored: "Saint Sponsored" #NT!
+ casket_champion_approved: "[Concept('champion_of_chevalie','Champion-Approved')|E]" #NT!
+ casket_bastione_blessed: "Bastione-Blessed" #NT!
+ casket_ranos_like: "Ranos-Like" #NT!
+ casket_extraordinary: "Extraordinary" #NT!
+ casket_miraculous: "Miraculous" #NT!
+ casket_astounding: "Astounding" #NT!
+ casket_diligent: "Diligent" #NT!
+ casket_industrious: "Industrious" #NT!
+ casket_assiduous: "Assiduous" #NT!
+ casket_studious: "Studious" #NT!
+ casket_conscientious: "Conscientious" #NT!
+ casket_particular: "Particular" #NT!
+ casket_punctual: "Punctual" #NT!
+ casket_meticulous: "Meticulous" #NT!
+ casket_rigorous: "Rigorous" #NT!
+ casket_exacting: "Exacting" #NT!
+ casket_careful: "Careful" #NT!
+ casket_athwart: "Athwart" #NT!
+ casket_fain: "Fain" #NT!
+ casket_enowed: "Enowed" #NT!
+ casket_forthwith: "Forthwith" #NT!
+ casket_forthright: "Forthright" #NT!
+ casket_most_upright: "Most Upright" #NT!
+ casket_rightmost_honorable: "Rightmost Honorable" #NT!
+ casket_hitherto: "Hitherto" #NT!
+ casket_yonder: "Yonder" #NT!
+ casket_yare: "Yare" #NT!
+ casket_puissant: "Puissant" #NT!
+ casket_peradventured: "Peradventured" #NT!
+ casket_proudly_founded: "Proudly Founded" #NT!
+ casket_affrightened: "Affrightened" #NT!
+ casket_goutridden: "Goutridden" #NT!
+ casket_leprosy_cursed: "Leprosy Cursed" #NT!
+ casket_beef_witted: "Beef-Witted" #NT!
+ casket_beliked: "Beliked" #NT!
+ casket_behoofed: "Behoofed" #NT!
+ casket_betwixed: "Betwixed" #NT!
+ casket_monastic: "Monastic" #NT!
+ casket_master: "Master" #NT!
+ casket_worshipful: "Worshipful" #NT!
+ casket_fellowship: "Fellowship" #NT!
+ casket_companionship: "Companionship" #NT!
+ casket_comradeship: "Comradeship" #NT!
+ casket_association: "Association" #NT!
+ casket_society: "Society" #NT!
+ casket_club: "Club" #NT!
+ casket_league: "League" #NT!
+ casket_union: "Union" #NT!
+ casket_guild: "Guild" #NT!
+ casket_lodge: "Lodge" #NT!
+ casket_laychurch: "Laychurch" #NT!
+ casket_affiliation: "Affiliation" #NT!
+ casket_alliance: "Alliance" #NT!
+ casket_order: "Order" #NT!
+ casket_fraternity: "Fraternity" #NT!
+ casket_sorority: "Sorority" #NT!
+ casket_brotherhood: "Brotherhood" #NT!
+ casket_sisterhood: "Sisterhood" #NT!
+ casket_chapter: "Chapter" #NT!
+ casket_knightly_craftleague: "Knightly Craftleague" #NT!
+ casket_craftleague: "Craftleague" #NT!
+ casket_clan: "Clan" #NT!
+ casket_consociation: "Consociation" #NT!
+ casket_tradesmen: "Tradesmen" #NT!
+ casket_tradeswomen: "Tradeswomen" #NT!
+ casket_makers: "Makers" #NT!
+ casket_wrights: "Wrights" #NT!
+ casket_journeymen: "Journeymen" #NT!
+ casket_journeywomen: "Journeywomen" #NT!
+ casket_workers: "Workers" #NT!
+ casket_skillmen: "Skillmen" #NT!
+ casket_skillwomen: "Skillwomen" #NT!
+ casket_artificers: "Artificers" #NT!
+ casket_fullers: "Fullers" #NT!
+ casket_carpenters: "Carpenters" #NT!
+ casket_crafters: "Crafters" #NT!
+ casket_craftsmen: "Craftsmen" #NT!
+ casket_craftswomen: "Craftswomen" #NT!
+ casket_builders: "Builders" #NT!
+ casket_handyworkers: "Handyworkers" #NT!
+ casket_artisans: "Artisans" #NT!
+ casket_gilders: "Gilders" #NT!
+ casket_amputees: "Amputees" #NT!
+ casket_saints: "Saints" #NT!
+ casket_knights: "Knights" #NT!
+ casket_heroes: "Heroes" #NT!
+ casket_champions: "Champions" #NT!
+ casket_pilgrims: "Pilgrims" #NT!
+ casket_holymen: "Holymen" #NT!
+ casket_holywomen: "Holywomen" #NT!
+ casket_wainters: "Wainters" #NT!
+ casket_bravemen: "Bravemen" #NT!
+ casket_bravewomen: "Bravewomen" #NT!
+ casket_living_souls: "Living Souls" #NT!
+ casket_milners: "Milners" #NT!
+ casket_merchants: "Merchants" #NT!
+ casket_merchant_adventurers: "Merchant-Adventurers" #NT!
+ casket_knighted_craftsmen: "Knighted Craftsmen" #NT!
+ casket_lady_knights: "Lady Knights" #NT!
+ casket_chevaliers: "Chevaliers" #NT!
+ casket_barber_surgeons: "Barber-Surgeons" #NT!
+ casket_cutters: "Cutters" #NT!
+ casket_appreintaces: "Appreintaces" #NT!
+ casket_masters: "Masters" #NT!
+ casket_elders: "Elders" #NT!
+ casket_waysaint_of_the_path_of_crowns: "Waysaint of the Path of Crowns" #NT!
+ casket_waysaint_of_the_path_of_crows: "Waysaint of the Path of Crows" #NT!
+ casket_waysaint_of_the_path_of_swords: "Waysaint of the Path of Swords" #NT!
+ casket_waysaint_of_the_path_of_coin: "Waysaint of the Path of Coin" #NT!
+ casket_waysaint_of_the_path_of_family: "Waysaint of the Path of Family" #NT!
+ casket_waysaint_of_the_path_of_harvests: "Waysaint of the Path of Harvests" #NT!
+ casket_waysaint_of_the_path_of_justice: "Waysaint of the Path of Justice" #NT!
+ casket_waysaint_of_the_path_of_nullification: "Waysaint of the Path of Nullification" #NT!
+ casket_waysaint_of_the_path_of_craftsworks: "Waysaint of the Path of Craftsworks" #NT!
+ casket_waysaint_of_the_path_of_saints: "Waysaint of the Path of Saints" #NT!
+ casket_waysaint_of_the_path_of_blessings: "Waysaint of the Path of Blessings" #NT!
+ casket_waysaint_of_the_path_of_the_chicken: "Waysaint of the Path of the Chicken" #NT!
+ casket_waysaint_of_the_path_of_eagles: "Waysaint of the Path of Eagles" #NT!
+ casket_waysaint_of_the_path_of_the_vow: "Waysaint of the Path of the Vow" #NT!
+ casket_waysaint_of_the_path_of_shadows: "Waysaint of the Path of Shadows" #NT!
+ casket_waysaint_of_the_path_of_stars: "Waysaint of the Path of Stars" #NT!
+ casket_waysaint_of_the_path_of_wisdom: "Waysaint of the Path of Wisdom" #NT!
+ casket_waysaint_of_the_path_of_life: "Waysaint of the Path of Life" #NT!
+ casket_waysaint_of_the_path_of_death: "Waysaint of the Path of Death" #NT!
+ casket_waysaint_of_the_path_of_remembrance: "Waysaint of the Path of Remembrance" #NT!
+ casket_waysaint_of_the_path_of_mirrors: "Waysaint of the Path of Mirrors" #NT!
+ casket_waysaint_of_the_path_of_sighs: "Waysaint of the Path of Sighs" #NT!
+ casket_gisredde: "Gisredde" #NT!
+ casket_gisreddes: "Gisreddes" #NT!
+ casket_and_finest_of_the_gisreddes: "Finest of the Gisreddes" #NT!
+ casket_city_of_peti_gisredde_finest_of_the_gisreddes: "City of [peti_gisredde|E], Finest of the Gisreddes" #NT!
+ casket_city_of_grande_gisredde_finest_of_the_gisreddes: "City of [grande_gisredde|E], Finest of the Gisreddes" #NT!
+ casket_and_prosperous_peti_gisredde_not_of_the_lesser_and_miserable_grande_gisredde: "and Prosperous [peti_gisredde|E], Not of the Lesser and Miserable [GetTitleByKey('c_grande_gisredde').GetNameNoTier]" #NT!
+ casket_and_prosperous_grande_gisredde_not_of_the_lesser_and_despicable_peti_gisredde: "and Prosperous [grande_gisredde|E], Not of the Lesser and Despicable [GetTitleByKey('c_peti_gisredde').GetNameNoTier]" #NT!
+ casket_bastione: "Bastione" #NT!
+ casket_king_bastione: "King Bastione" #NT!
+ casket_kind_king_bastione: "Kind King Bastione" #NT!
+ casket_old_king_bastione: "Old King Bastione" #NT!
+ casket_sir_ranos: "Sir Ranos" #NT!
+ casket_sir_ranos_to_who_we_give_thanks: "Sir Ranos, To Who We Give Thanks" #NT!
+ casket_sir_ranos_who_freed_our_people: "Sir Ranos, Who Freed Our People" #NT!
+ casket_champion_of_chevalie: "[champion_of_chevalie|E]" #NT!
+ casket_champion: "Champion" #NT!
+ casket_holiest_and_most_honorable_saints: "Holiest and Most Honorable Saints" #NT!
+ casket_saints_whom_blessed_our_fine_organization: "Saints Whom Blessed Our Fine Organization" #NT!
+ casket_saints_xyilllvidigi: "Saints XYILLLVIDIGI" #NT!
+ casket_saints_who_we_ask_to_guide_us_ililixibmnopqr: "Saints Who We Ask to Guide Us ILILIXIBMNOPQR" #NT!
+ casket_and_kind_patrons_whom_bless_our_establishment_with_many_fine_and_wise_purchases: "Kind Patrons Whom Bless Our Establishment With Many Fine and Wise Purchases" #NT!
+ casket_and_many_patrons_of_our_work_who_never_complain_at_our_fair_and_just_increases_in_price_thanks_to_the_respected_qualities_of_our_wares: "and Many Patrons of Our Work Who Never Complain at our Fair and Just Increases in Price Thanks to the Respected Qualities of our Wares" #NT!
+ casket_patrons_whom_purchase_our_goods_and_not_those_of_the_much_despised: "Patrons Whom Purchase our Goods and Not Those of the Much-Despised [ROOT.GetChar.Custom('ArtifactCasketBrand)|U]" #NT!
+ casket_heroes_whom_gave_their_lives_against_the_hated_undead: "Heroes Whom Gave Their Lives Against the Hated Undead" #NT!
+ artifact_marcher_casket_name: "$artifact_name_prefix$ Marcher Casket" #NT!
+ artifact_marcher_casket_description: "A Chevalien casket of [SCOPE.Custom('ArtifactQuality')] craftsmanship. It is made out of [newly_created_artifact.GetFeatureText( 'casket_material' )] and [newly_created_artifact.GetFeatureText( 'casket_decoration' )].\n\n$artifact_marcher_casket_explanation$ $artifact_marcher_casket_age$\n\n[newly_created_artifact.GetFeatureText( 'casket_branded' )][newly_created_artifact.GetFeatureText( 'casket_name' )]" #NT!
+ artifact_marcher_casket_explanation: "Chevalien caskets have long been a standard of Marcher craftsmen, and are often used as wedding gifts and jewelry boxes throughout the [continent|E]." #NT!
+ artifact_marcher_casket_age: "This [newly_created_artifact.GetFeatureText( 'casket_characteristic' )] sample was likely made around the year [owner.MakeScope.Var('casket_age').GetValue|0]." #NT!
+  # Votive Figures 
+ feature_votive_characteristic_crude: "rather crude and malformed" #NT!
+ feature_votive_characteristic_plain: "plain and unremarkable" #NT!
+ feature_votive_characteristic_elegant: "quite elegant" #NT!
+ feature_votive_characteristic_detailed: "exquisitely detailed" #NT!
+ feature_votive_characteristic_tiny: "exceptionally small" #NT!
+ feature_votive_characteristic_small: "small enough to carry with one hand" #NT!
+ feature_votive_characteristic_large: "large enough to need both hands to carry" #NT!
+ feature_votive_characteristic_damaged: "damaged with age" #NT!
+ feature_votive_characteristic_painted: " matte colored" #NT!
+ feature_votive_material_wood: "wood" #NT!
+ feature_votive_material_ivory: "ivory" #NT!
+ feature_votive_material_marble: "marble" #NT!
+ feature_votive_material_stone: "stone" #NT!
+ feature_votive_material_bronze: "bronze" #NT!
+ feature_votive_material_gold: "gold" #NT!
+ feature_votive_carving_axiaothea: "a carving of Aautokratir Axiaothea in full military dress" #NT!
+ feature_votive_carving_anesimasios: "a carving of Aautokratir Anesimasios holding a goblet and scepter" #NT!
+ feature_votive_carving_crios: "a carving of Aautokratir Crios with his arms folded" #NT!
+ feature_votive_carving_theodian: "a carving of Aautokratir Theodian hastily finished" #NT!
+ feature_votive_carving_aeolus: "a carving of Aautokratir Aeolus hastily finished" #NT!
+ feature_votive_carving_thresatos: "a carving of Aautokratir Thresatos" #NT!
+ feature_votive_carving_ischenios: "a carving of Aautokratir Ischenios with his head held high" #NT!
+ feature_votive_carving_maeonias: "a carving of Aautokratir Maeonias drinking" #NT!
+ feature_votive_carving_biton: "a carving of Aautokratir Biton filled with wrath" #NT!
+ feature_votive_carving_phancis: "a carving of Aautokratir Phancis holding a nondescript woman" #NT!
+ feature_votive_carving_exaduis: "a carving of Aautokratir Exaduis holding a spear" #NT!
+ feature_votive_carving_isocrates: "a carving of Aautokratir Isocrates, last of his name" #NT!
+ feature_votive_carving_alcandrea: "a carving of Aautokratir Alcandrea holding a babe" #NT!
+ feature_votive_carving_clytomedes: "a carving of Aautokratir Cyltomedes haphazardly crafted" #NT!
+ feature_votive_carving_oliatos: "a carving of Aautokratir Oliatos hastily finished" #NT!
+ feature_votive_carving_nothyx: "a carving of Aautokratir Nothyx wielding a mighty blade" #NT!
+ feature_votive_carving_mythix: "a carving of Aautokratir Mythix wrting on a length of parchment" #NT!
+ feature_votive_carving_theyssia: "a carving of Aautokratir Theyssia bathed in dragonfire" #NT!
+ feature_votive_carving_eramos: "a carving of Aautorkatir Eramos holding the helm of a Kartharaddi" #NT!
+ feature_votive_carving_aeliadas: "a carving of Aautokratir Aeliadas holding a star" #NT!
+ feature_votive_carving_dikaynos: "a carving of the Agionist Saint Dikaynos reading a tome" #NT!
+ feature_votive_carving_sansia: "a carving of the Agionist Saint Sansia, scarred and damaged" #NT!
+ feature_votive_carving_thysia: "a carving of the Agionist Saint Thysia, holding a pair of forceps" #NT!
+ feature_votive_carving_katharitos: "a carving of the Agionist Saint Katharitos in silent reflection" #NT!
+ feature_votive_carving_eos: "a carving of the Agionist Saint Eos filled with confidence and bravery" #NT!
+ feature_votive_carving_philantros: "a carving of the Agionist Saint Philantros giving alms" #NT!
+ feature_votive_carving_calystos: "a carving of the Agionist Saint Calystos holding a chain" #NT!
+ feature_votive_carving_pathos: "a carving of Aautokratir Pathos watching a game of war" #NT!
+ feature_votive_carving_maklea: "a carving of Aautokratir Maklea, the blood soaked" #NT!
+ feature_votive_carving_akalionixos: "a carving of Aautokratir Akalionixos, too damaged to discern more of its features" #NT!
+ feature_votive_carving_aessocianix: "a carving of Aautokratir Aessocianix, too damaged to discern more of its features" #NT!
+ feature_votive_carving_aexionarax: "a carving of Aautokratir Aexionarax, too damaged to discern more of its features" #NT!
+ feature_votive_carving_dhacixen: "a carving of Aautorkratir Phanagorax, too damaged to discern more of its features" #NT!
+ artifact_votive_figure_name: "$artifact_name_prefix$ Aversarian Votive Figure" #NT!
+ artifact_votive_figure_description: "An Aversarian sculpture of [SCOPE.Custom('ArtifactQuality')] craftsmanship. It is made out of [newly_created_artifact.GetFeatureText( 'votive_material' )] and is [newly_created_artifact.GetFeatureText( 'votive_carving' )].\n\n$artifact_votive_figure_explanation$ $artifact_votive_figure_age$" #NT!
+ artifact_votive_figure_explanation: "Aversarians have long produced votive figures that were offered to sacred places across [aversaria|E]. Many depict the Aautokratirs, but other famous or powerful Aversarians are not uncommon." #NT!
+ artifact_votive_figure_age: "This [newly_created_artifact.GetFeatureText( 'votive_characteristic' )] sample was likely made around the year [owner.MakeScope.Var('votive_age').GetValue|0]." #NT!
+  # Stone Tablets 
+ feature_tablet_characteristic_large: "rather large" #NT!
+ feature_tablet_characteristic_huge: "huge and heavy" #NT!
+ feature_tablet_characteristic_small: "quite small" #NT!
+ feature_tablet_characteristic_tiny: "exceptionally small" #NT!
+ feature_tablet_characteristic_detailed: "intricately detailed" #NT!
+ feature_tablet_characteristic_unremarkable: "rather unremarkable" #NT!
+ feature_tablet_engraving_inelligible: "its engravings are inelligible" #NT!
+ feature_tablet_engraving_undecipherable: "its engravings are undecipherable" #NT!
+ feature_tablet_engraving_ritual: "its engravings are thought to be related to a tradition or ritual" #NT!
+ feature_tablet_engraving_bill: "its engravings are thought to be related to a bill of sale" #NT!
+ feature_tablet_engraving_law: "its engravings are thought to relate to ancient code of law" #NT!
+ feature_tablet_engraving_kemsar: "its engravings are thought to hold details of an ancient Kemsar empire" #NT!
+ feature_tablet_engraving_ruler: "its engravings show a scene of a ruler before their subjects" #NT!
+ feature_tablet_engraving_magi: "its engravings show a scene of a [magi|E] performing some kind of ritual" #NT!
+ feature_tablet_engraving_conqueror: "its engravings show a rider on horseback" #NT!
+ feature_tablet_engraving_ancient: "its engravings show what some believe is a map of Sarradon from before the [halakdun|E]" #NT!
+ feature_tablet_engraving_river: "its engravings are thought to speak of the Kemsar river irrigation" #NT!
+ feature_tablet_condition_mint: "is in near perfect condition" #NT!
+ feature_tablet_condition_degraded: "has degraded with age" #NT!
+ feature_tablet_condition_cracked: "has a massive crack running across its front" #NT!
+ feature_tablet_condition_crumbling: "crumbles at the lightest touch" #NT!
+ feature_tablet_condition_broken: "is broken into two halfs" #NT!
+ feature_tablet_condition_missing: "is missing parts of its engraving due to damage" #NT!
+ artifact_stone_tablet_name: "$artifact_name_prefix$ Ancient Sarradonian Tablet" #NT!
+ artifact_stone_tablet_description: "A stone tablet found in [sarradon|E] of [SCOPE.Custom('ArtifactQuality')] craftsmanship. It [newly_created_artifact.GetFeatureText( 'tablet_condition' )], and [newly_created_artifact.GetFeatureText( 'tablet_engraving' )].\n\n$artifact_stone_tablet_explanation$ $artifact_stone_tablet_age$" #NT!
+ artifact_stone_tablet_explanation: "Stone tablets were commonly used in Ancient Sarradon for writing, and many found across the continent are highly sought after by scholars and collectors alike." #NT!
+ artifact_stone_tablet_age: "This [newly_created_artifact.GetFeatureText( 'tablet_characteristic' )] sample was likely made around [owner.MakeScope.Var('tablet_age').GetValue|0]00 BI." #NT!
+  # Coins 
+ artifact_commemorative_coin_name: "$artifact_name_prefix$ Commemorative Coin" #NT!
+ artifact_commemorative_coin_description: "A commemorative coin of [SCOPE.Custom('ArtifactQuality')] craftsmanship. It was [newly_created_artifact.GetFeatureText( 'coin_issue' )], and [newly_created_artifact.GetFeatureText( 'coin_decoration' )].\n\n$artifact_commemorative_coin_explanation$ $artifact_commemorative_coin_age$" #NT!
+ artifact_commemorative_coin_explanation: "Commemorative coins have been issued across [aversaria|E] and [chevalie|E] to commemorate special events or moments throughout history." #NT!
+ artifact_commemorative_coin_age: "This [newly_created_artifact.GetFeatureText( 'coin_characteristic' )] sample was likely made around the year [owner.MakeScope.Var('coin_age').GetValue|0]." #NT!
+ feature_coin_issue_karthraddi: "issued in memory of the [kartharaddi|E] wars" #NT!
+ feature_coin_issue_jan: "issued in remembrance of Jan va Gisredde, surrounded by livestock" #NT!
+ feature_coin_issue_printed: "issued by the Bank of [peti_gisredde|E]" #NT!
+ feature_coin_issue_hero: "issued in honor of the [champion_of_chevalie|E]" #NT!
+ feature_coin_issue_schism: "issued in memory of the Pontgonez Dispute" #NT!
+ feature_coin_issue_schism2: "issued in memory of the Conclave of Gisredde protecting their values" #NT!
+ feature_coin_issue_schism3: "issued in memory of the Conclave of Gisredde protecting their choices for Waymasters" #NT!
+ feature_coin_issue_schism4: "issued in memory of the Living Waysaint Isaia" #NT!
+ feature_coin_issue_schism5: "issued in memory of the Conclave of Gisredde protecting the honor of Waymaster Aine" #NT!
+ feature_coin_issue_schism6: "issued in honor of the Conclave of Gisredde's resolve during the War of the Herectic Princes" #NT!
+ feature_coin_issue_schism7: "issued in memory of the schismatics of the Conclave of Gisredde" #NT!
+ feature_coin_decoration_plain: "is plain and undecorated" #NT!
+ feature_coin_decoration_flora: "has a floral motif" #NT!
+ feature_coin_decoration_fauna: "has an animal motif" #NT!
+ feature_coin_decoration_calligraphy: "has unique calligraphy" #NT!
+ feature_coin_decoration_poor: "was poorly pressed" #NT!
+ feature_coin_decoration_sided: "has only one decorated side" #NT!
+ feature_coin_characteristic_large: "rather large" #NT!
+ feature_coin_characteristic_small: "quite small" #NT!
+ feature_coin_characteristic_detailed: "intricately detailed" #NT!
+ feature_coin1_characteristic_unremarkable: "rather unremarkable" #NT!
+ take_their_skull_tooltip: "#positive_value You will gain an [artifact|E]" #NT!

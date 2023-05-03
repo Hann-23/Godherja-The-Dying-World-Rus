@@ -1,0 +1,66 @@
+﻿l_russian:
+  
+ #saielaian Loc 
+ saielaian_religion: "Saielaian" #NT!
+ saielaian_religion_adj: "Saielaian" #NT!
+ saielaian_religion_adjerent: "Saielaian" #NT!
+ saielaian_religion_adherent_plural: "Saielaians" #NT!
+ saielaian_religion_desc: "The diverse religious expressions of the Saielaian people tend towards forms of ancestor worship, with each extended family expected to maintain a shrine honoring every dead generation. [magi|E] with the ability to contact the spirits are highly sought after by those who can afford their services. The Saielaian pantheon of gods is a direct extension of the private faith, with the legendary Ten Mothers of the Saielaians held as the progenitors of their people. Legends state that these ten ancestral matriarchs voyaged from across the Eastern Sea, seeking shelter from a distant homeland now lost beneath the waves." #NT!
+ saielaian_high_god_name: "Hoath Drieth" #NT!
+ saielaian_high_god_name_possessive: "Hoath Drieth's" #NT!
+ saielaian_high_god_name_alternate: "The Ten Sisters" #NT!
+ saielaian_high_god_name_alternate_possessive: "The Ten Sisters'" #NT!
+ saielaian_devil_name: "Mặdet tajrăng" #NT!
+ saielaian_devil_name_possessive: "Mặdet tajrăng" #NT!
+ saielaian_death_deity_name: "Mặdet tajrăng" #NT!
+ saielaian_death_deity_name_possessive: "Mặdet tajrăn" #NT!
+ saielaian_house_of_worship: "Shrine" #NT!
+ saielaian_house_of_worship_plural: "Shrines" #NT!
+ saielaian_religious_symbol: "Budyin" #NT!
+ saielaian_religious_text: "The Voyages" #NT!
+ saielaian_religious_head_title: "High priest" #NT!
+ saielaian_religious_head_title_name: 
+ saielaian_devotee_male: "worshipper" #NT!
+ saielaian_devotee_male_plural: "worshippers" #NT!
+ saielaian_devotee_female: "worshipper" #NT!
+ saielaian_devotee_female_plural: "worshippers" #NT!
+ saielaian_devotee_neuter: "worshipper" #NT!
+ saielaian_devotee_neuter_plural: "worshippers" #NT!
+ saielaian_priest_male: "priest" #NT!
+ saielaian_priest_male_plural: "priests" #NT!
+ saielaian_priest_female: "priestess" #NT!
+ saielaian_priest_female_plural: "priestesses" #NT!
+ saielaian_priest_alternate_plural: "priest" #NT!
+ saielaian_bishop: "priest" #NT!
+ saielaian_bishop_plural: "priest" #NT!
+ saielaian_positive_afterlife: "The Afterlife" #NT!
+ saielaian_negative_afterlife: "The Afterlife" #NT!
+ saielaian_creator_god_name: "$saielaian_high_god_name$" #NT!
+ saielaian_creator_god_name_possessive: "$saielaian_high_god_name_possessive$" #NT!
+ saielaian_health_god_name: "Grandmother Quiyên" #NT!
+ saielaian_health_god_name_possessive: "Grandmother Quiyên" #NT!
+ saielaian_fertility_god_name: "$saielaian_high_god_name$" #NT!
+ saielaian_fertility_god_name_possessive: "$saielaian_high_god_name_possessive$" #NT!
+ saielaian_wealth_god_name: "$saielaian_high_god_name$" #NT!
+ saielaian_wealth_god_name_possessive: "$saielaian_high_god_name_possessive$" #NT!
+ saielaian_household_god_name: "$saielaian_health_god_name$" #NT!
+ saielaian_household_god_name_possessive: "$saielaian_health_god_name_possessive$" #NT!
+ saielaian_fate_god_name: "$saielaian_high_god_name$" #NT!
+ saielaian_fate_god_name_possessive: "$saielaian_high_god_name_possessive$" #NT!
+ saielaian_knowledge_god_name: "$saielaian_high_god_name$" #NT!
+ saielaian_knowledge_god_name_possessive: "$saielaian_high_god_name_possessive$" #NT!
+ saielaian_war_god_name: "$saielaian_high_god_name$" #NT!
+ saielaian_war_god_name_possessive: "$saielaian_high_god_name_possessive$" #NT!
+ saielaian_trickster_god_name: "Fortuna" #NT!
+ saielaian_trickster_god_name_possessive: "Fortuna's" #NT!
+ saielaian_night_god_name: "$saielaian_high_god_name$" #NT!
+ saielaian_night_god_name_possessive: "$saielaian_high_god_name_possessive$" #NT!
+ saielaian_water_god_name: "$saielaian_health_god_name$" #NT!
+ saielaian_water_god_name_possessive: "$saielaian_health_god_name_possessive$" #NT!
+ saielaian_witch_god_name: "Iohan" #NT!
+ saielaian_witch_god_name_possessive: "Iohan's" #NT!
+ bayn_huac: "Bayn Huac Driem" #NT!
+ bayn_huac_adj: "Bayn Huac Driem" #NT!
+ bayn_huac_adherent: "Worshipper" #NT!
+ bayn_huac_desc: "A faith found in the long-conquered but ever restive territory of Saielai, Bayn Huac Driem is fundamentally a form of matriarchal ancestor worship. Adherents are expected to keep shrines honoring the lineage of their mothers and grandmothers, with wealthier patrons being expected to produce more elaborate offerings. In particular, lifelike portraiture and sculpture are held in high esteem, and has resulted in the Saielai producing some of the east's most renowned portrait artists and sculptors. Their best work, of course, has always gone towards honoring their mothers' shrines." #NT!
+ bayn_huac_adherent_plural: "worshippers" #NT!

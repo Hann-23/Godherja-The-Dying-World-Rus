@@ -1,0 +1,77 @@
+﻿l_russian:
+  
+ #kakarataki Loc 
+ kakarataki_religion: "Kakarataki" #NT!
+ kakarataki_religion_adj: "Kakarataki" #NT!
+ kakarataki_religion_adjerent: "Kakarataki" #NT!
+ kakarataki_religion_adherent_plural: "Kakarataki" #NT!
+ kakarataki_religion_desc: "To the Kakarataki, originally an agrarian people, the Sun is the bringer of all things good. They consider it to be the avatar of the god Koru, creator of mankind. However, they consider the Moon, creator of all creatures of the night, to be the Sun's sworn enemy. The two are locked into a dualistic battle for control over the cosmos, and beneath, their creations fight for control of the world." #NT!
+ kakarataki_high_god_name: "The Sun" #NT!
+ kakarataki_high_god_name_possessive: "The Sun's" #NT!
+ kakarataki_high_god_name_alternate: "Koru" #NT!
+ kakarataki_high_god_name_alternate_possessive: "Koru's" #NT!
+ kakarataki_devil_name: "The Moon" #NT!
+ kakarataki_devil_name_possessive: "The Moon's" #NT!
+ kakarataki_death_deity_name: "$kakarataki_devil_name$" #NT!
+ kakarataki_death_deity_name_possessive: "$kakarataki_devil_name_possessive$" #NT!
+ kakarataki_house_of_worship: "Karam" #NT!
+ kakarataki_house_of_worship_plural: "Karami" #NT!
+ kakarataki_religious_symbol: "Radiant Sun" #NT!
+ kakarataki_religious_text: "Law of Koru" #NT!
+ kakarataki_religious_head_title: "Master Kyash" #NT!
+ kakarataki_religious_head_title_name: "Karam of the Sun" #NT!
+ kakarataki_devotee_male: "Kakarataki" #NT!
+ kakarataki_devotee_male_plural: "Kakarataki" #NT!
+ kakarataki_devotee_female: "Kakarataki" #NT!
+ kakarataki_devotee_female_plural: "Kakarataki" #NT!
+ kakarataki_devotee_neuter: "Kakarataki" #NT!
+ kakarataki_devotee_neuter_plural: "Kakarataki" #NT!
+ kakarataki_priest_male: "Kyash" #NT!
+ kakarataki_priest_male_plural: "Kyashi" #NT!
+ kakarataki_priest_female: "Kyash" #NT!
+ kakarataki_priest_female_plural: "Kyashi" #NT!
+ kakarataki_priest_alternate_plural: "Kyashari" #NT!
+ kakarataki_bishop: "High Kyash" #NT!
+ kakarataki_bishop_plural: "High Kyashi" #NT!
+ kakarataki_positive_afterlife: "Korushalla" #NT!
+ kakarataki_negative_afterlife: "Amnhalla" #NT!
+ kakarataki_creator_god_name: "$kakarataki_high_god_name$" #NT!
+ kakarataki_creator_god_name_possessive: "$kakarataki_high_god_name_possessive$" #NT!
+ kakarataki_health_god_name: "$kakarataki_high_god_name$" #NT!
+ kakarataki_health_god_name_possessive: "$kakarataki_high_god_name_possessive$" #NT!
+ kakarataki_fertility_god_name: "$kakarataki_devil_name$" #NT!
+ kakarataki_fertility_god_name_possessive: "$kakarataki_devil_name_possessive$" #NT!
+ kakarataki_wealth_god_name: "$kakarataki_devil_name$" #NT!
+ kakarataki_wealth_god_name_possessive: "$kakarataki_devil_name_possessive$" #NT!
+ kakarataki_household_god_name: "$kakarataki_high_god_name$" #NT!
+ kakarataki_household_god_name_possessive: "$kakarataki_high_god_name_possessive$" #NT!
+ kakarataki_fate_god_name: "$kakarataki_devil_name$" #NT!
+ kakarataki_fate_god_name_possessive: "$kakarataki_devil_name_possessive$" #NT!
+ kakarataki_knowledge_god_name: "$kakarataki_high_god_name$" #NT!
+ kakarataki_knowledge_god_name_possessive: "$kakarataki_high_god_name_possessive$" #NT!
+ kakarataki_war_god_name: "$kakarataki_devil_name$" #NT!
+ kakarataki_war_god_name_possessive: "$kakarataki_devil_name_possessive$" #NT!
+ kakarataki_trickster_god_name: "$kakarataki_devil_name$" #NT!
+ kakarataki_trickster_god_name_possessive: "$kakarataki_devil_name_possessive$" #NT!
+ kakarataki_night_god_name: "$kakarataki_devil_name$" #NT!
+ kakarataki_night_god_name_possessive: "$kakarataki_devil_name_possessive$" #NT!
+ kakarataki_water_god_name: "$kakarataki_devil_name$" #NT!
+ kakarataki_water_god_name_possessive: "$$kakarataki_devil_name_possessive$" #NT!
+ kakarataki_witch_god_name: "$kakarataki_devil_name$" #NT!
+ kakarataki_witch_god_name_possessive: "$kakarataki_devil_name_possessive$" #NT!
+  #kakarataki loc 
+ kakarataki: "Kakarataki" #NT!
+ kakarataki_adj: "Kakarataki" #NT!
+ kakarataki_adjerent: "Kakarataki" #NT!
+ kakarataki_adherent_plural: "Kakarataki" #NT!
+ kakarataki_desc: "The Kakarataki entered the known world with the Sjalvolki coalition. Due to the belief that the Sun and Moon are two gods locked into eternal struggle, they must favor the Sun and fight the Moon. Priests tend to gardens of sacred plants grown by the Sun's life-giving light, nocturnal creatures are to be hunted but never eaten, and animal sacrifices must frequently be performed to the Sun in order to sustain its strength in its eternal battle." #NT!
+ kakarataki_old: "Old Kakarataki" #NT!
+ kakarataki_old_adj: "Old Kakarataki" #NT!
+ kakarataki_old_adherent: "Old Kakarataki" #NT!
+ kakarataki_old_adherent_plural: "Old Kakarataki" #NT!
+  #akrolenaki loc 
+ akrolenaki: "Akrolenaki" #NT!
+ akrolenaki_adj: "Akrolenaki" #NT!
+ akrolenaki_adjerent: "Akrolenaki" #NT!
+ akrolenaki_adherent_plural: "Akrolenaki" #NT!
+ akrolenaki_desc: "The Akrolenaki believe that the war between the Sun and Moon will be unending, and that the victory of one over the other will mean the end of [aeras|E] forever, something that they strive to avoid. As a result, they follow a stricter creed than most, their warrior-priesthood unfalteringly devoting itself to the defense of Koru. The Akrolenaki are often rumoured to take joy in the sacrifice of Koru's 'enemies', dedicating much of their time to hunting the unfaithful. Their extremism has never truly become a driving force, but their ranks have never relented to the whims of the mortal world, and neither will they: it is their divine duty to keep the balance." #NT!

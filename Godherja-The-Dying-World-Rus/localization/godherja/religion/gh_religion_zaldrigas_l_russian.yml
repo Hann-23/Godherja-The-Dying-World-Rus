@@ -1,0 +1,40 @@
+﻿l_russian:
+  
+ #zaldrigas Loc 
+ zaldrigas_religion: "Zaldrigas" #NT!
+ zaldrigas_religion_adj: "Zaldrigas" #NT!
+ zaldrigas_religion_adjerent: "Zaldrigan" #NT!
+ zaldrigas_religion_adherent_plural: "Zaldrigans" #NT!
+ zaldrigas_religion_desc: "Sagadavians typically practice the native faith of Zaldrigas, or serpent worship. The belief that in the distant past the great winged serpent Balabalos consumed the old world and its people, only for the new world to burst free nine days later, now cleansed by Balabalos’s celestial grace. It is said that this traumatic event was but just one of many, and the cycle of rebirth shall continue for all eternity. In prayer Zaldrigan worshippers give thanks to Balabalos, but also recognize a whole host of spirits, gods, and lesser divinities birthed from the great serpent." #NT!
+ zaldrigas_high_god_name: "Balabalos" #NT!
+ zaldrigas_high_god_name_possessive: "Balabalos'" #NT!
+ zaldrigas_high_god_name_alternate: "Balabalos" #NT!
+ zaldrigas_high_god_name_alternate_possessive: "Balabalos'" #NT!
+ zaldrigas_devil_name: "Gebal" #NT!
+ zaldrigas_devil_name_possessive: "Gebal's" #NT!
+ zaldrigas_house_of_worship: "Temple" #NT!
+ zaldrigas_house_of_worship_plural: "Temples" #NT!
+ zaldrigas_religious_symbol: "The Winged Serpent" #NT!
+ zaldrigas_religious_text: "Scrolls of Pleisto" #NT!
+ zaldrigas_religious_head_title: "High Darzalan" #NT!
+ zaldrigas_religious_head_title_name: "High Darzalan" #NT!
+ zaldrigas_devotee_male: "shaman" #NT!
+ zaldrigas_devotee_male_plural: "shamans" #NT!
+ zaldrigas_devotee_female: "shaman" #NT!
+ zaldrigas_devotee_female_plural: "shamans" #NT!
+ zaldrigas_devotee_neuter: "shaman" #NT!
+ zaldrigas_devotee_neuter_plural: "shamans" #NT!
+ zaldrigas_priest_male: "High Shaman" #NT!
+ zaldrigas_priest_male_plural: "High Shamans" #NT!
+ zaldrigas_priest_female: "High Shaman" #NT!
+ zaldrigas_priest_female_plural: "High Shamans" #NT!
+ zaldrigas_priest_alternate_plural: "High Shaman" #NT!
+ zaldrigas_bishop: "Darzalan" #NT!
+ zaldrigas_bishop_plural: "Darzalan" #NT!
+ zaldrigas_positive_afterlife: "The Next World" #NT!
+ zaldrigas_negative_afterlife: "The Forgotten World" #NT!
+ zaldrigas: "Zaldrigas" #NT!
+ zaldrigas_adj: "Zaldrigas" #NT!
+ zaldrigas_adherent: "Zaldrigan" #NT!
+ zaldrigas_adherent_plural: "Zaldrigans" #NT!
+ zaldrigas_desc: "Sagadavians typically practice the native faith of Zaldrigas, or serpent worship. The belief that in the distant past the great winged serpent Balabalos consumed the old world and its people, only for the new world to burst free nine days later, now cleansed by Balabalos’s celestial grace. It is said that this traumatic event was but just one of many, and the cycle of rebirth shall continue for all eternity. In prayer Zaldrigan worshippers give thanks to Balabalos, but also recognize a whole host of spirits, gods, and lesser divinities birthed from the great serpent." #NT!

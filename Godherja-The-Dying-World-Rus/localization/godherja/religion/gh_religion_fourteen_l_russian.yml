@@ -1,0 +1,66 @@
+﻿l_russian:
+  
+ #China religion loc 
+ fourteen_heavenly_methods_religion: "Kai-jiao" #NT!
+ fourteen_heavenly_methods_religion_adj: "Kai-jiao" #NT!
+ fourteen_heavenly_methods_religion_adjerent: "Kai-jiao" #NT!
+ fourteen_heavenly_methods_religion_adherent_plural: "Kai-jiao" #NT!
+ fourteen_heavenly_methods_religion_desc: "Kai-jiao, or simply "god-worship," is the term used to describe the faiths derived from the indigenous folk religion of Kathun-Kai. All of these faiths center around the worship of a pantheon of gods, whose head and creator is Shenwang the Grand King of Heaven. Virtuous souls are believed to serve the gods in the divine realm of Guodi, while the wicked suffer in Guiyu for eternity." #NT!
+ fourteen_heavenly_methods_high_god_name: "Shenwang" #NT!
+ fourteen_heavenly_methods_high_god_name_possessive: "Shenwang's" #NT!
+ fourteen_heavenly_methods_high_god_name_alternate: "the Grand King" #NT!
+ fourteen_heavenly_methods_high_god_name_alternate_possessive: "the Grand King's" #NT!
+ fourteen_heavenly_methods_devil_name: "Xie'e" #NT!
+ fourteen_heavenly_methods_devil_name_possessive: "Xie'e" #NT!
+ fourteen_heavenly_methods_death_deity_name: "Wangsi" #NT!
+ fourteen_heavenly_methods_death_deity_name_possessive: "Wangsi's" #NT!
+ fourteen_heavenly_methods_house_of_worship: "miaosi" #NT!
+ fourteen_heavenly_methods_house_of_worship_plural: "miaosis" #NT!
+ fourteen_heavenly_methods_religious_symbol: "seal of the Dragon" #NT!
+ fourteen_heavenly_methods_religious_text: "tracts of the Dragon Empress" #NT!
+ fourteen_heavenly_methods_religious_head_title: "Lingwangdi" #NT!
+ fourteen_heavenly_methods_religious_head_title_name: "Grand Monastery" #NT!
+ fourteen_heavenly_methods_devotee_male: "tizley" #NT!
+ fourteen_heavenly_methods_devotee_male_plural: "tizleyi" #NT!
+ fourteen_heavenly_methods_devotee_female: "kezley" #NT!
+ fourteen_heavenly_methods_devotee_female_plural: "kezleyi" #NT!
+ fourteen_heavenly_methods_devotee_neuter: "ardic" #NT!
+ fourteen_heavenly_methods_devotee_neuter_plural: "ardici" #NT!
+ fourteen_heavenly_methods_priest_male: "suni" #NT!
+ fourteen_heavenly_methods_priest_male_plural: "suni" #NT!
+ fourteen_heavenly_methods_priest_female: "suni" #NT!
+ fourteen_heavenly_methods_priest_female_plural: "suni" #NT!
+ fourteen_heavenly_methods_priest_alternate_plural: "suni" #NT!
+ fourteen_heavenly_methods_bishop: "mo bi" #NT!
+ fourteen_heavenly_methods_bishop_plural: "mo bi" #NT!
+ fourteen_heavenly_methods_positive_afterlife: "Guodi" #NT!
+ fourteen_heavenly_methods_negative_afterlife: "Guiyu" #NT!
+ fourteen_heavenly_methods_creator_god_name: "$fourteen_heavenly_methods_high_god_name$" #NT!
+ fourteen_heavenly_methods_creator_god_name_possessive: "$fourteen_heavenly_methods_high_god_name_possessive$" #NT!
+ fourteen_heavenly_methods_health_god_name: "Guan Li" #NT!
+ fourteen_heavenly_methods_health_god_name_possessive: "Guan Li's" #NT!
+ fourteen_heavenly_methods_fertility_god_name: "Xin Jiao" #NT!
+ fourteen_heavenly_methods_fertility_god_name_possessive: "Xin Jiao's" #NT!
+ fourteen_heavenly_methods_wealth_god_name: "Kargec" #NT!
+ fourteen_heavenly_methods_wealth_god_name_possessive: "Kargec's" #NT!
+ fourteen_heavenly_methods_household_god_name: "Ni Re" #NT!
+ fourteen_heavenly_methods_household_god_name_possessive: "Ni Re's" #NT!
+ fourteen_heavenly_methods_fate_god_name: "Laojing" #NT!
+ fourteen_heavenly_methods_fate_god_name_possessive: "Laojing's" #NT!
+ fourteen_heavenly_methods_knowledge_god_name: "Shu Xy" #NT!
+ fourteen_heavenly_methods_knowledge_god_name_possessive: "Shu Xy's" #NT!
+ fourteen_heavenly_methods_war_god_name: "Ni Du" #NT!
+ fourteen_heavenly_methods_war_god_name_possessive: "Ni Du's" #NT!
+ fourteen_heavenly_methods_trickster_god_name: "Zi Zhu" #NT!
+ fourteen_heavenly_methods_trickster_god_name_possessive: "Zi Zhu's" #NT!
+ fourteen_heavenly_methods_night_god_name: "$fourteen_heavenly_methods_trickster_god_name$" #NT!
+ fourteen_heavenly_methods_night_god_name_possessive: "$fourteen_heavenly_methods_trickster_god_name_possessive$" #NT!
+ fourteen_heavenly_methods_water_god_name: "$fourteen_heavenly_methods_war_god_name$" #NT!
+ fourteen_heavenly_methods_water_god_name_possessive: "$fourteen_heavenly_methods_war_god_name_possessive$" #NT!
+ fourteen_heavenly_methods_witch_god_name: "Daode Tianzun" #NT!
+ fourteen_heavenly_methods_witch_god_name_possessive: "Daode Tianzun's" #NT!
+ fourteen_heavenly_methods: "Fourteen Heavenly Methods" #NT!
+ fourteen_heavenly_methods_adj: "Fourteen Heavenly Methods" #NT!
+ fourteen_heavenly_methods_adherent: "Method-keeper" #NT!
+ fourteen_heavenly_methods_adherent_plural: "Method-keepers" #NT!
+ fourteen_heavenly_methods_desc: "The Fourteen Heavenly Methods is the name given to the eponymous philosophical tracts attributed to the legendary Empress Ni Du, also known as the God-Empress or the Dragon Empress. She was a powerful magi, and credited with both unifying the cities of Kathun-Kai and fully subjugating the Miaosi monasteries under the state. During her two-century-long reign, she authored essays on how people of fourteen professions and lifestyles in Kathun-Kai can live virtuously and achieve passage to Heaven.\n\nAfter her death, Ni Du's soul was said to have merged with the seed of Shenwang to create the first dragon; alternate claims say that her soul possessed the very earth and sky to watch over her people in death.\n\nStarting with her son Ni Re, claimants to the throne of Kathun-Kai have claimed to be possessed by the spirit of the first dragon to bolster their legitimacy. Many of these possessed emperors are worshiped alongside Ni Du, and her Heavenly Methods are rigorously adhered to." #NT!

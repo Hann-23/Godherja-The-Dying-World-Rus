@@ -1,0 +1,16 @@
+﻿l_russian:
+  ##TO BE SORTED LATER## 
+ PIRATE_RELOCATION_WAR_NAME: "[ATTACKER.GetPrimaryTitle.GetAdjectiveNoTooltip] Relocation to [DEFENDER.GetPrimaryTitle.GetAdjectiveNoTooltip]" #NT!
+ PIRATE_RELOCATION_WAR_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!
+ PIRATE_RELOCATION_CB_NAME: "Relocation" #NT!
+  
+ antipiracy_cb: "Combat Piracy" #NT!
+ ANTIPIRACY_WAR_NAME: "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjectiveNoTooltip] Anti-Piracy action in [TITLE.GetBaseNameNoTooltip]" #NT!
+ ANTIPIRACY_CB_NAME: "Combat Piracy" #NT!
+ ANTIPIRACY_CB_SPECIFIC_NAME: "Combat the piracy in [TITLE.GetBaseName]" #NT!
+ ANTIPIRACY_WAR_NAME_FALLBACK: "Combat Piracy" #NT!
+ ducal_conquest_cb: "Ducal Conquest" #NT!
+ DUCAL_CONQUEST_CB_NAME: "[ducal_conquest|E] of [county|E]" #NT!
+ DUCAL_CONQUEST_CB_SPECIFIC_NAME: "Ducal Conquest of the [TITLE.GetBaseName]" #NT!
+ DUCAL_CONQUEST_WAR_NAME: "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjectiveNoTooltip] Ducal Conquest of the [TITLE.GetBaseNameNoTooltip]" #NT!
+ DUCAL_CONQUEST_WAR_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!

@@ -1,0 +1,178 @@
+﻿l_russian:
+ ## Arrival events 
+ # Normal Arrival 
+ sophocos_quest.4001.t: "Arrival Placeholder" #NT!
+ sophocos_quest.4001.desc: "Arrival Placeholder" #NT!
+ sophocos_quest.4001.a: "Let's climb!" #NT!
+ sophocos_quest.4001.b: "Actually, nevermind." #NT!
+  
+ ## Climbing Events 
+ # Tier 0 (Base) 
+ sophocos_quest.5001.t: "Arrival at the Holy Steps!" #NT!
+ sophocos_quest.5001.desc: "Finally, I have arrived at Blessed [GetBuilding('sophocos_01').GetName], the birthplace of the faith and the most sacred place on [aeras|E]; its one thousand and one steps stand defiantly, a lance thrust from base earth into the heavens. Pilgrims huddle in its cyclopean shadow, a gaggle of men and women from all walks of life and bearing the ritual signs of a hundred different cults. Some make preparations for their ascent, loading doomed pack mules with as many rations as the poor animals can carry, while other hawk wares to those departing and arriving.\n\nThe immense bulk of the tower looms over a sprawl of temples and pilgrim's inns. For those of greater means and lesser piety crude rope pulleys have been fashioned on some of the upper stairs, granting a shortcut to several hundred feet of enlightenment for a price in coin. Beyond that however the rich will have to ascend just like the poor: scrambling up steps twice the height of a man and hauling up after them whatever panicked pack animals they had the means to bring with them. Each stair is said to bring its own challenge to test and reward the faithful — though most are just empty.\n\nLaying my hand against the sun-warmed side of the tower's base I mull over the choices which lie before me.  I decide to..." #NT!
+ sophocos_quest.5001.a: "Buy supplies, I will be making the climb." #NT!
+ sophocos_quest.5001.a.tt: "Traveling alone has serious risks, but solitude may provide opportunities." #NT!
+ sophocos_quest.5001.b: "Looking upon it is enough. We return." #NT!
+ sophocos_quest_5001.c: "Hire a team, we climb." #NT!
+ sophocos_quest_5001.c.tt: "Traveling as a group is safer." #NT!
+ sophocos_quest_5001.d: "Hire a team and time on the pulleys." #NT!
+ sophocos_quest_5001.d.tt: "The easy way is not pious, but it is fast and safe." #NT!
+ sophocos_quest_5001.e: "Up I go—on the pulleys of course!" #NT!
+ sophocos_quest_5001.e.tt: "Traveling alone will have risks, but may provide opportunities." #NT!
+ sophocos_quest_5001.f: "No supplies, just a jaunt up on those pulleys." #NT!
+ sophocos_quest_5001.f.tt: "You don't need food for a quick visit to see the vista. Of course, best remember not to wander away..." #NT!
+ ## Global (Tier 1-4) 
+ # Ghost encounter 1 
+ sophocos_quest.5101.t: "Figments of the Journey" #NT!
+ sophocos_quest.5101.desc: "As I have ascended higher and higher up the steps, I have started to notice faint shadowy figures dancing around the edges of my vision.\n\nThe higher I climb, the clearer they become, and I can now look almost directly at them. Their form is appealing, almost human, but not quite.\n\nAs I try to catch a glimpse of a face or any other recognisable feature, I notice that the figure I am studying appears to be beckoning me with a shadowy finger..." #NT!
+ sophocos_quest.5101.a: "I could use some guidance, I suppose." #NT!
+ sophocos_quest.5101.b: "Something isn't right here..." #NT!
+ sophocos_quest.5101.c: "Run!" #NT!
+ sophocos_quest_abandon.tt: "This will prematurely end your climb!" #NT!
+ sophocos_climb_continues.tt: "The climb continues..." #NT!
+ sophocos_climb_continues_success: "You manage to keep climbing" #NT!
+ sophocos_climb_fails: "You give in to exhaustion and make your way back down" #NT!
+ sophocos_quest.5101.b.success: "I successfully shake off the shadowy figures and continue my climb alone" #NT!
+ sophocos_quest.5101.b.failure: "My escape attempt angers the ghostly beings, who wound me before I can escape" #NT!
+ sophocos_quest_ghost_follow.tt: "This may have unforseen consequences..." #NT!
+ sophocos_quest.5101.d: "I'm just tired, they'll disappear after a snack and nap." #NT!
+ sophocos_quest.5101.e: "Brothers! How did you escape the clutches of al-Khadidruj?" #NT!
+ sophocos_quest.5101.e.encouraged: "The ghosts enlighten you!" #NT!
+ sophocos_quest.5101.e.disappear: "The hallucination dissipates on interrogation..." #NT!
+ sophocos_quest.5101.e.slave: "The ghosts tell you reality is real..." #NT!
+ sophocos_quest.5101.tt: "Who knows what priceless knowledge these spirits possess!" #NT!
+ # Ghost Encounter 2 
+ sophocos_quest.5102.t: "Shadowy Intentions" #NT!
+ sophocos_quest.5102.desc: "As I climb another of the 1001 steps via the guidance of my ghostly companion, exhaustion finally grips me. I have followed this ghost feverishly for hours, and its breakneck pace has not let up even once.\n\nToo exhausted to stand, I fall to my knees. Now finally halting its progress, my shadowy companion turns to stare down at me with pinprick eyes, its gaze cold and acquisitive. Only now does it occur to me that I may have quite misjudged the helpful spectre's intentions. It begins to advance on me." #NT!
+ sophocos_quest.5102.a: "My body may be weak, but my mind can still banish this fiend!" #NT!
+ sophocos_quest.5102.a.success: "You successfully reject the ghost from entering you, and it disappears like the morning mist" #NT!
+ sophocos_quest.5102.a.failure: "The ghost enters you with force" #NT!
+ sophocos_quest_5102_extra.tt: "This may have deadly consequences!" #NT!
+ sophocos_quest.5102.b: "Demons are no match for my mystical might..." #NT!
+ sophocos_quest.5102.c: "A demon? I'm sure I can find room..." #NT!
+ # Ghost Encounter 3 
+ sophocos_quest.5103.t: "Grave Generosity" #NT!
+ sophocos_quest.5103.desc: "After climbing many steps in pursuit of my ghostly companion, it finally stops above what seems to be a quite ordinary slab of granite jutting from the nearest wall of the tower. By some mystical force, the ghost somehow slides the obstacle, unveiling a hidden cache with a regal, albeit dusty, crown inside!\n\nThe ghost appears to be signalling me to take the treasure. Perhaps it does not want its earthly belongings to go to waste...?" #NT!
+ sophocos_quest.5103.a: "How kind!" #NT!
+ sophocos_quest_5103_mysticsense.tt: "#X My third eye is warning me..." #NT!
+ sophocos_illusion_crown.t: "The supposed crown slips away between my fingers along with the ghost..." #NT!
+ sophocos_quest.5103.b: "Politely decline the gift." #NT!
+ sophocos_quest_5103_bmwarning.tt: "#X You notice that the ghost seems to be poised to attack..." #NT!
+ sophocos_ghost_unknown.tt: "You do not know how the ghost will react..." #NT!
+ sophocos_5103_attack.t: "The ghost does not take kindly to your refusal!" #NT!
+ sophocos_evil_ghost_attack.tt: "You are wounded by it before it dissappears." #NT!
+ sophocos_5103_pass.t: "The ghost seems confused, but lets you go on." #NT!
+ sophocos_5103_approval.t: "The ghost nods approvingly, and blesses you!" #NT!
+ sophocos_5103_hallucination.t: "Was the ghost even there to begin with?" #NT!
+ # Starvation 1 
+ sophocos_quest.5106.t: "Empty Stomach" #NT!
+ sophocos_quest.5106.desc: "Climbing is hard work, and our rations have dwindled with shocking rapidity. My pack is getting worryingly light, and our band has not encountered another pilgrim for quite some time.\n\nPerhaps now would be the time to turn back..." #NT!
+ sophocos_quest.5106.a: "Ration what's left, and deal with the hunger." #NT!
+ sophocos_quest.5106.b: "Hunger is an Illusion." #NT!
+ sophocos_quest.5106.c: "I'll just conjure some, no problem." #NT!
+ sophocos_quest.5106.c.tooltip: "You'll use your magical prowess to sustain yourself." #NT!
+ sophocos_quest.5106.f: "I miss home." #NT!
+ sophocos_quest.5106.g: "Good thing you acquired those extra rations..." #NT!
+ sophocos_quest.5106.h: "I can smell food from miles away..." #NT!
+ sophocos_quest.5106.h.valuables.tt: "You find and consume another climber, stealing their valuables" #NT!
+ sophocos_quest.5106.h.valuables: "You found and consumed another climber, and stole their valuables" #NT!
+ sophocos_quest.5106.h.injure.tt: "You find another climber, but they overpower and injure you" #NT!
+ sophocos_quest.5106.h.injure: "You found another climber, but they overpowered and injured you" #NT!
+ sophocos_quest.5106.h.nodice: "You fail to find another climber." #NT!
+ sophocos_quest.5106.h.nodice.tt: "You failed to find another climber." #NT!
+ # Placeholder Interim Event 
+ sophocos_quest.5107.t: "Uneventful Climb" #NT!
+ sophocos_quest.5107.desc: "We spend the day climbing the steps of [GetBuilding('sophocos_01').GetName], and while the ordeal is exhausting, not much really happens. I start to wonder if it's worth continuing." #NT!
+ sophocos_quest.5107.a: "Of course it is!" #NT!
+ sophocos_quest.5107.b: "This is silly." #NT!
+ # Climbing Friend 
+ sophocos_quest.5111.t: "Good Company" #NT!
+ sophocos_quest.5111.desc: "While climbing the many steps of the Holy Tower, Me and another climber have had the benefit of each others' assistance for quite a chunk of the journey. Suddenly, my climbing partner [SOPHOCOS_FRIEND.GetFirstName] stops me and says that [SOPHOCOS_FRIEND.GetSheHe] can't go on any more, and is going to climb back down." #NT!
+ sophocos_quest.5111.a: "Ask [SOPHOCOS_FRIEND.GetHerHim] to join you at court when you're done." #NT!
+ sophocos_quest.5111.b: "Try to get a last piece of 'action' before [SOPHOCOS_FRIEND.GetSheHe] leaves..."" #NT!
+ sophocos_quest.5111.b.lovers.tt: "You seduce [SOPHOCOS_FRIEND.GetFirstName]." #NT!
+ sophocos_quest.5111.b.lovers: "You seduced [SOPHOCOS_FRIEND.GetFirstName], and [SOPHOCOS_FRIEND.GetSheHe] will wait for you at the base." #NT!
+ sophocos_quest.5111.b.onetime.tt: "You fool around with [SOPHOCOS_FRIEND.GetFirstName]." #NT!
+ sophocos_quest.5111.b.onetime: "You fooled around with [SOPHOCOS_FRIEND.GetFirstName] before [SOPHOCOS_FRIEND.Char.GetSheHe] climbed back down." #NT!
+ sophocos_quest.5111.b.gracefail.tt: "[SOPHOCOS_FRIEND.GetSheHe|U] gracefully declines your advances." #NT!
+ sophocos_quest.5111.b.gracefail: "[SOPHOCOS_FRIEND.GetFirstName|U] gracefully declined your advances." #NT!
+ sophocos_quest.5111.b.blasphemy.tt: "[SOPHOCOS_FRIEND.GetSheHe|U] runs off and accuses you of blasphemy to the other pilgrims" #NT!
+ sophocos_quest.5111.b.blasphemy: "[SOPHOCOS_FRIEND.GetFirstName|U] ran off and accused you of blasphemy to the other pilgrims" #NT!
+ sophocos_quest.5111.c: "Adress [SOPHOCOS_FRIEND.GetHerHis] heretical beliefs before [SOPHOCOS_FRIEND.GetSheHe] leaves." #NT!
+ sophocos_quest.5111.c.conversion.tt: "You successfully persuade [SOPHOCOS_FRIEND.GetHerHim] of the error of [SOPHOCOS_FRIEND.GetHerHis] ways" #NT!
+ sophocos_quest.5111.c.conversion: "You successfully persuaded [SOPHOCOS_FRIEND.GetHerHim] of the error of [SOPHOCOS_FRIEND.GetHerHis] ways" #NT!
+ sophocos_quest.5111.c.unconvinced.tt: "[SOPHOCOS_FRIEND.GetFirstName] leaves unconvinced" #NT!
+ sophocos_quest.5111.c.unconvinced: "[SOPHOCOS_FRIEND.GetFirstName] left unconvinced" #NT!
+ sophocos_quest.5111.c.shake.tt: "[SOPHOCOS_FRIEND.GetFirstNamePossessive] arguments leave you shaken and doubtful of your faith" #NT!
+ sophocos_quest.5111.c.shake: "[SOPHOCOS_FRIEND.GetFirstNamePossessive] arguments have left you shaken and doubting your faith" #NT!
+ sophocos_quest.5111.d: "Ask [SOPHOCOS_FRIEND.GetHerHim] for their spare supplies, then wish them goodbye." #NT!
+ sophocos_quest.5111.e: "In their weakness, they can still offer their life" #NT!
+ # Great Worm 
+ sophocos_quest.5116.t: "The Great Devourer" #NT!
+ sophocos_quest.5116.desc: "As I ascend ever higher up the steps, a great trembling in the tower suddenly knocks you to your feet. Peering over the side, I am struck with rising terror at the sight of a massive worm snaking its way around and up the tower! The horrifying visage appears to be coming straight for me, and will surely arrive within mere moments.\n\nIts great black eyes seem to be gazing right at me, as it crawls ever closer, its great fanged mouth wide open." #NT!
+ sophocos_quest.5116.a: "Great Worm! You come to reward my faithfulness!" #NT!
+ sophocos_quest.5116.a.tt: "You are not found wanting! The Great Worm may even see it fit to bestow gifts upon you..." #NT!
+ sophocos_quest.5116.a.verypleased: "The Great Worm bestows great gifts before leaving!" #NT!
+ sophocos_quest.5116.a.pleased: "The Great Worm bestows gifts before leaving!" #NT!
+ sophocos_quest.5116.b: "Come then beast!" #NT!
+ sophocos_quest.5116.b.slayer.tt: "You strike down the foul creature" #NT!
+ sophocos_quest.5116.b.slayer: "The Worm was naught but a hallucination..." #NT!
+ sophocos_quest.5116.b.escape.tt: "You escape with your life" #NT!
+ sophocos_quest.5116.b.failure.tt: "The beast injures you" #NT!
+ sophocos_quest.5116.b.failure: "The beast injured you" #NT!
+ sophocos_quest.5116.b.failure.ctt: "You are maimed" #NT!
+ sophocos_quest.5116.b.death.tt: "You are devoured by the worm" #NT!
+ sophocos_quest.5116.c: "A mere hallucination. I shall ignore it." #NT!
+ sophocos_quest.5116.d: "Mercy!" #NT!
+ sophocos_quest.5116.d.tt: "You kneel and swear eternal loyalty to the Great Worm." #NT!
+ # Dead Relative Ghost 
+ sophocos_quest.5117.t: "A Familiar Sight" #NT!
+ sophocos_quest.5117.desc: "As we struggle our way up another of the countless steps of the Great Tower, I am suddenly approached by a ghostly figure. As it gets closer, I am shocked as I realize it is the late [dead_relative.GetTitledFirstName]. I am quite unsure as to whether or not I am hallucinating or if I am truly are being visited by my family from beyond the grave.\n\nEither way, [dead_relative.GetSheHe] seems to be opening [dead_relative.GetHerHis] ghostly mouth to speak to me..." #NT!
+ sophocos_quest.5117.a: "No company like family..." #NT!
+ sophocos_quest.5117.a.wincest.tt: "You successfully seduce and lay with your undead family member" #NT!
+ sophocos_quest.5117.a.wincestwin: "You had a great time, but feel drained after the ghostly affair" #NT!
+ sophocos_quest.5117.a.failcest: "You just tried to lay with a hallucination" #NT!
+ sophocos_quest.5117.a.wincestbusted: "Someone sees you lay with the ghost!" #NT!
+ sophocos_quest.5117.a.failcestbusted: "You're seen laying with what turns out to be a hallucination..." #NT!
+ sophocos_quest.5117.a.repulsed.tt: "[dead_relative.GetFirstName] is disgusted and disappears" #NT!
+ sophocos_quest.5117.a.repulsed: "[dead_relative.GetFirstName] was disgusted and dissapeared" #NT!
+ sophocos_quest.5117.a.attack.tt: "[dead_relative.GetFirstName] is outraged and attacks you!" #NT!
+ sophocos_quest.5117.a.attack: "[dead_relative.GetFirstName] was outraged and attacked you." #NT!
+ sophocos_quest.5117.a.divinewincest.tt: "This would be a holy union!" #NT!
+ sophocos_quest.5117.b: "My love, it's been so long!" #NT!
+ sophocos_quest.5117.b.success.tt: "You reunite passionately with your undead spouse" #NT!
+ sophocos_quest.5117.b.repulsed.tt: "Your spouse is disgusted by your advances" #NT!
+ sophocos_quest.5117.b.repulsed: "Your spouse was disgusted by your advances" #NT!
+ sophocos_quest.5117.b.attack.tt: "Your spouse is outraged and attacks you!" #NT!
+ sophocos_quest.5117.b.attack: "Your spouse was outraged and attacked you!" #NT!
+ sophocos_quest.5117.b.good.tt: "Such a union is viewed as blessed!" #NT!
+ sophocos_quest.5117.b.ok.tt: "Such a union is deemed acceptable at best." #NT!
+ sophocos_quest.5117.b.bad.tt: "Such a union is deemed deviant." #NT!
+ sophocos_quest.5117.c: "Engange them about ascending!" #NT!
+ sophocos_quest.5117.c.revelation: "[dead_relative.GetFirstName] revealed to you the secrets of life and death!" #NT!
+ sophocos_quest.5117.c.minorrevelation: "[dead_relative.GetFirstName] shared insights about life and death with you." #NT!
+ sophocos_quest.5117.c.overwhelmed: "Your mind was unable to handle the insights of [dead_relative.GetFirstName]!" #NT!
+ sophocos_quest.5117.c.normal: "The conversation was pleasant, but bland." #NT!
+ sophocos_quest.5117.d: "Small talk before climbing on" #NT!
+ sophocos_quest.5117.d.insane: "You spend some time talking before you realise you were hallucinating" #NT!
+ sophocos_quest.5117.e: "Ignore the phantom" #NT!
+ sophocos_quest.5117.f: "I didn't sign up for this" #NT!
+ sophocos_quest.5118.t: "Crossroads of Revelation" #NT!
+ sophocos_quest.5118.desc: "You have received great knowledge at the hands of the ghost... perhaps you have already reached enlightenment and need not climb further?" #NT!
+ sophocos_quest.5118.a: "Nonsense!" #NT!
+ sophocos_quest.5118.b: "Indeed, time to go back." #NT!
+ ## Peak Events 
+ sophocos_quest.6001.t: "The Top" #NT!
+ sophocos_quest.6001.desc.cynical: "After many days of climbing and pain I finally pull myself atop the final rise and find myself atop Holy [GetBuilding('sophocos_01').GetName]. It's said that every pilgrim experiences something different and magnificent when reaching the pinnacle of the tower, but all I see here is the scattered detritus, shrines, and mummified corpses left by over a thousand years worth of pilgrimages. From this vantage point all of Sarradon stretches out below me, with the jutting curve of the Kharadamat peninsula clearly visible, as is the sea beyond it.\n\nTaking a deep breath of the crisp, almost painfully cold air, I must admit I'm a bit disappointed by the lack of astounding spiritual revelation, but at least I can now say that I've performed a feat impossible for many, and survived the ordeal. The angels, however, fail to make their appearance." #NT!
+ sophocos_quest.6001.desc.zealous: "After many trials and tribulations, my companions and I finally achieve the summit. Here, so close to the heavens, I am struck dumb by the majesty, caught between the immensity which now sprawls around me, and the dazzling blaze of the sun above me. Overcome by the immensity of it all I suddenly feel short of breath, and drop to my knees as I am struck with a sudden and overwhelming sense of vertigo. Tiny pinpricks of light begin to blaze in the periphery of my vision and I realize that the Angels must be upon me. By [ROOT.Char.GetFaith.HighGodName] it's really happening!\n\n Alas, after a few moments the experience passes with no further phenomena. My faith it seems is not yet strong enough.\n\nI shall endeavor to be better when next I return." #NT!
+ sophocos_quest.6001.desc: "After many days of climbing and pain, I finally pull myself atop the peak of Holy [GetBuilding('sophocos_01').GetName]. It's said that every pilgrim experiences something different and magnificent when reaching the pinnacle of the tower, and indeed I am struck speechless from the majesty of the vision before me. From this vantage point all of Sarradon stretches out below me, with the jutting curve of the Kharadamat peninsula clearly visible, as is the even more distant sea beyond it.\n\nTaking a deep breath of the crisp and painfully cold air, I can't help but feel pride for my accomplishment. The angels, however, fail to make their appearance." #NT!
+ sophocos_quest.6001.a: "Aeras seems very small indeed." #NT!
+ ## Raze Events 
+ sophocos_quest.7001.t: "Sophocos Ablaze" #NT!
+ sophocos_quest.7001.desc: "I watch as it unfolds.\n\nHorsemen ride through the desolate streets of the ramshackle slum that has sprung up around Sophocos. Most of the Ritualist visitors fled well in advance when they saw the glow of heated brands and torches on the horizon, and only the handful of fools and fanatics who refuse to flee are left to burn alive inside the temples, pilgrim inns, and sacred chantries they dedicated their lives to maintaining. By the time the ring of fire burns to embers the following morning we've really set to work, looting shrines and toppling statues. Relic pits are filled in to dissuade magpies and vermin from sniffing around for treasure. An unlucky or unobservant caravan crests the hill only to be sacked, its unfortunate itinerants put to the sword\n\nI don't think the Ritualists will be coming back here for a long time. Now if only we could topple the tower itself..." #NT!
+ sophocos_quest.7001.a: "The glory is ours!" #NT!
+ sophocos_quest.7002.t: "Sophocos Ablaze" #NT!
+ sophocos_quest.7002.desc.continental: "News has arrived from [sarradon|E]. Year in and year out mendicants and holy men of the Ritualist faith have made their sacred journey to [sophocos|E], but evidently [sophocos_razer.GetFirstNameRegnal] has had enough of this heathenous rabble trespassing on [sophocos_razer.GetHerHis] territories and has finally taken decisive action. Though the tower itself may be impregnable, the considerable infrastructure built over the years by intrepid pilgrims is not, and countless shrines and other holy places were put to the torch. Ritualists across Sarradon are already baying for blood, but only time will tell if they have strength enough to bring [sophocos_razer.GetFirstName] to justice." #NT!
+ sophocos_quest.7002.desc.sarradonian: "Ill news News has arrived from [sophocos|E]. Year in and year out mendicants and holy men from across [sarradon|E] have made their sacred journey to [sophocos|E]. While the site is known to be of special importance to Ritualists it holds a special place for most faiths on Sarradon, and is one of the few locations where the [war_in_heaven|E] has abated in favor of an uneasy truce. Evidently for [sophocos_razer.GetFirstNameRegnal], this interfaith peace is not to [sophocos_razer.GetHerHis] liking. Though the tower itself may be indestructible, the veritable city built over the years by intrepid pilgrims is not, and countless shrines and other holy places were razed to the ground. Ritualists across Sarradon are already baying for blood, and even our own people are uneasy about the ramifications of this ill-omened act of unprovoked violence against the holiest place on our continent. Only time will tell if [sophocos_razer.GetFirstName] can be brought to justice." #NT!
+ sophocos_quest.7002.desc.ritualists: "Word of calamity has reached us from holy [sophocos|E]. [sophocos_razer.GetFirstNameRegnal] has taken action to burn out the faithful and deny us access to this most holy of holies. Whereas even the most heathenish kings are known to respect wisdom and virtue, [sophocos_razer.GetFirstName] has butchered the holy men and women residing there and put torch to their shrines. Though the holy tower itself is proof against the violence of any man on [aeras|E] naught else remains at its base, and we will surely be prevented from accessing it to seek wisdom. Truly [sophocos_razer.GetHerHis] wickedness knows no bounds!\n\nAlready the faithful are baying for righteous vengeance against this despoiler of virtue. May the Angels deliver us [sophocos_razer.GetHerHis] head!" #NT!
+ sophocos_quest.7002.a: "What will this mean for the future?" #NT!

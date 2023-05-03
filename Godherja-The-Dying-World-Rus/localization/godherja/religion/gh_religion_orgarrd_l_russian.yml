@@ -1,0 +1,71 @@
+﻿l_russian:
+  
+ #orgarrd Loc 
+ orgarrd_religion: "Orgarrd" #NT!
+ orgarrd_religion_adj: "Orgarrdian" #NT!
+ orgarrd_religion_adjerent: "Orgarrdian" #NT!
+ orgarrd_religion_adherent_plural: "Orgarrdians" #NT!
+ orgarrd_religion_desc: "Orgarrdians believe that humanity, which had long been confined to dark caverns and passages, rebelled against their gods in order to reach the surface. The land itself however, had been reduced to ash, scorched by its creators. Instead of freedom, humanity found themselves trapped in cycles of disease, death and grief, alien concepts to their subterranean lives. From that day on, Orgarrdians have sought to find the rock-hewn paradise they were birthed from, constructing underground temples and mining deeper into sacred stone so that the sinful surface does not corrupt their soul." #NT!
+ orgarrd_high_god_name: "Orras" #NT!
+ orgarrd_high_god_name_possessive: "Orras'" #NT!
+ orgarrd_high_god_name_alternate: "The Deep Dweller" #NT!
+ orgarrd_high_god_name_alternate_possessive: "The Deep Dweller's" #NT!
+ orgarrd_devil_name: "$orgarrd_death_deity_name$" #NT!
+ orgarrd_devil_name_possessive: "$orgarrd_death_deity_name_possessive$" #NT!
+ orgarrd_death_deity_name: "Ermatora" #NT!
+ orgarrd_death_deity_name_possessive: "Ermatora's" #NT!
+ orgarrd_house_of_worship: "Stone Temple" #NT!
+ orgarrd_house_of_worship_plural: "Stone Temples" #NT!
+ orgarrd_religious_symbol: "Womb of the World" #NT!
+ orgarrd_religious_text: "Old Rites" #NT!
+ orgarrd_religious_head_title: "Master Haniya" #NT!
+ orgarrd_religious_head_title_name: "The Stonehead" #NT!
+ orgarrd_devotee_male: "Orgarrdian" #NT!
+ orgarrd_devotee_male_plural: "Orgarrdian" #NT!
+ orgarrd_devotee_female: "Orgarrdian" #NT!
+ orgarrd_devotee_female_plural: "Orgarrdian" #NT!
+ orgarrd_devotee_neuter: "Orgarrdian" #NT!
+ orgarrd_devotee_neuter_plural: "Orgarrdian" #NT!
+ orgarrd_priest_male: "Haniyo" #NT!
+ orgarrd_priest_male_plural: "Haniyin" #NT!
+ orgarrd_priest_female: "Haniya" #NT!
+ orgarrd_priest_female_plural: "Haniyin" #NT!
+ orgarrd_priest_alternate_plural: "Haniyin" #NT!
+ orgarrd_bishop: "High Haniya" #NT!
+ orgarrd_bishop_plural: "High Haniyin" #NT!
+ orgarrd_positive_afterlife: "The Womb of the World" #NT!
+ orgarrd_negative_afterlife: "Razdulluth" #NT!
+ orgarrd_creator_god_name: "$orgarrd_high_god_name$" #NT!
+ orgarrd_creator_god_name_possessive: "$orgarrd_high_god_name_possessive$" #NT!
+ orgarrd_health_god_name: "$orgarrd_fertility_god_name$" #NT!
+ orgarrd_health_god_name_possessive: "$ogarrd_fertility_god_name_possessive$" #NT!
+ orgarrd_fertility_god_name: "Vema" #NT!
+ orgarrd_fertility_god_name_possessive: "Vema's" #NT!
+ orgarrd_wealth_god_name: "Elian" #NT!
+ orgarrd_wealth_god_name_possessive: "Eluian's" #NT!
+ orgarrd_household_god_name: "Guma" #NT!
+ orgarrd_household_god_name_possessive: "Guma's" #NT!
+ orgarrd_fate_god_name: "Koma" #NT!
+ orgarrd_fate_god_name_possessive: "Koma's" #NT!
+ orgarrd_knowledge_god_name: "Ullum" #NT!
+ orgarrd_knowledge_god_name_possessive: "Ullum's" #NT!
+ orgarrd_war_god_name: "Suptigo" #NT!
+ orgarrd_war_god_name_possessive: "Suptigo's" #NT!
+ orgarrd_trickster_god_name: "Nallu" #NT!
+ orgarrd_trickster_god_name_possessive: "Nallu's" #NT!
+ orgarrd_night_god_name: "$orgarrd_trickster_god_name$" #NT!
+ orgarrd_night_god_name_possessive: "$orgarrd_trickster_god_name_possessive$" #NT!
+ orgarrd_water_god_name: "Loma" #NT!
+ orgarrd_water_god_name_possessive: "Loma's" #NT!
+ orgarrd_witch_god_name: "$orgarrd_fate_god_name$" #NT!
+ orgarrd_witch_god_name_possessive: "$orgarrd_fate_god_name_possessive$" #NT!
+  #orgarrd loc 
+ orgarrd: "Orgarrd" #NT!
+ orgarrd_adj: "Orgarrdian" #NT!
+ orgarrd_adjerent: "Orgarrdian" #NT!
+ orgarrd_adherent_plural: "Orgarrdians" #NT!
+ orgarrd_desc: "Orgarrdians believe that humanity, which had long been confined to dark caverns and passages, rebelled against their gods in order to reach the surface. The land itself however, had been reduced to ash, scorched by its creators. Instead of freedom, humanity found themselves trapped in cycles of disease, death and grief, alien concepts to their subterranean lives. From that day on, Orgarrdians have sought to find the rock-hewn paradise they were birthed from, constructing underground temples and mining deeper into sacred stone so that the sinful surface does not corrupt their soul." #NT!
+ orgarrd_old: "Old Orgarrd" #NT!
+ orgarrd_old_adj: "Old Orgarrdian" #NT!
+ orgarrd_old_adherent: "Old Orgarrdian" #NT!
+ orgarrd_old_adherent_plural: "Old Orgarrdians" #NT!

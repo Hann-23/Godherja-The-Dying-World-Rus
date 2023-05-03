@@ -1,0 +1,13 @@
+﻿l_russian:
+  
+ game_concept_county_capital_possessive: "County Capital's" #NT!
+ game_concept_uncolonized_wasteland: "Wasteland" #NT!
+ game_concept_uncolonized_wasteland_no_waste: "Uncolonized" #NT!
+ game_concept_uncolonized_wastelands: "Wastelands" #NT!
+ game_concept_uncolonized_wasteland_desc: "$game_concept_wastelands$ are a [holding_type|E] that are not ruled by any Character either due to the region being devoid of life or organized governance. Most neighboring [rulers|E] can [colonize|E] $game_concept_wastelands$ by selecting the [barony|E] and clicking the $game_concept_colonize$ button. Coastal rulers can also $game_concept_colonize$ any coastal $game_concept_wasteland$ within their [diplomatic_range|E] if they own a [building|E] in the #V $building_type_common_tradeport_01$#! line." #NT!
+ game_concept_colonization: "Colonization" #NT!
+ game_concept_colonize: "Colonize" #NT!
+ game_concept_colonized: "Colonized" #NT!
+ game_concept_colonization_desc: "If a [ruler|E] wishes to add a [uncolonized_wasteland|E] to their [realm|E], they must first $game_concept_colonize$ it. $game_concept_colonization$ requires a large investment of [gold_i][gold|E], increasing the lower the $game_concept_wasteland$ [county_capital_possessive|E] [supply_limit|E] is.\n\nThe [Concept('colonization_progress','Colonization Progress Bar')|E] will then appear. Once the $game_concept_colonization_progress$ reaches maximum, the Colonizer will gain the $game_concept_wasteland$ [county|E]." #NT!
+ game_concept_colonization_progress: "Colonization Progress" #NT!
+ game_concept_colonization_progress_desc: "A [uncolonized_wasteland|E] can only be [colonized|E] once its $game_concept_colonization_progress$ reaches #V 100%#!. $game_concept_colonization_progress$ is gained every month based on the Colonizing [character_possessive|E] [stewardship|E] as well as various events." #NT!

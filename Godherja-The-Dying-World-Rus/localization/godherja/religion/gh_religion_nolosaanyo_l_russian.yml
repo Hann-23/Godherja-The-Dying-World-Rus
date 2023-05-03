@@ -1,0 +1,66 @@
+﻿l_russian:
+  
+ nolosaanyo_religion: "Nolosaanyo" #NT!
+ nolosaanyo_religion_adj: "Nolosaanyo" #NT!
+ nolosaanyo_religion_adherent: "Nolosaanyo" #NT!
+ nolosaanyo_religion_adherent_plural: "Nolosaanyo" #NT!
+ nolosaanyo_religion_desc: "The Nolosaanyo believe in the sanctity and preservation of life so that it may ebb and flow with the tides of the world. The only times of year that the faithful consume meat are during the seasonal feasts that guide the Nolosaanyo's spiritual cycle. It is not uncommon for the most devout of followers to take vows of pacificism, forever swearing off violence, even in the face of death." #NT!
+ nolosaanyo_high_god_name: "The Mother" #NT!
+ nolosaanyo_high_god_name_possessive: "The Mother'" #NT!
+ nolosaanyo_high_god_name_alternate: "The World Tide" #NT!
+ nolosaanyo_high_god_name_alternate_possessive: "The World Tide" #NT!
+ nolosaanyo_devil_name: "The Mother" #NT!
+ nolosaanyo_devil_name_possessive: "The Mother's" #NT!
+ nolosaanyo_death_deity_name: "Ba'alalt Gebak" #NT!
+ nolosaanyo_death_deity_name_possessive: "Ba'alalt Gebak's" #NT!
+ nolosaanyo_house_of_worship: "temple" #NT!
+ nolosaanyo_house_of_worship_plural: "temples" #NT!
+ nolosaanyo_religious_symbol: "The Oceans Tide" #NT!
+ nolosaanyo_religious_text: "The Will of Life and Death" #NT!
+ nolosaanyo_religious_head_title: "The Great Journey" #NT!
+ nolosaanyo_religious_head_title_name: "Tide Walker" #NT!
+ nolosaanyo_devotee_male: "Traveler" #NT!
+ nolosaanyo_devotee_male_plural: "Travelers" #NT!
+ nolosaanyo_devotee_female: "Traveler" #NT!
+ nolosaanyo_devotee_female_plural: "Travelers" #NT!
+ nolosaanyo_devotee_neuter: "Traveler" #NT!
+ nolosaanyo_devotee_neuter_plural: "Travelers" #NT!
+ nolosaanyo_priest_male: "High Priest" #NT!
+ nolosaanyo_priest_male_plural: "High Priests" #NT!
+ nolosaanyo_priest_female: "High Priestess" #NT!
+ nolosaanyo_priest_female_plural: "High Priestesses" #NT!
+ nolosaanyo_priest_alternate: "High Priest" #NT!
+ nolosaanyo_priest_alternate_plural: "High Priests" #NT!
+ nolosaanyo_bishop: "High Priest" #NT!
+ nolosaanyo_bishop_plural: "High Priests" #NT!
+ nolosaanyo_positive_afterlife: "The Divine Cycle" #NT!
+ nolosaanyo_negative_afterlife: "The Divine Cycle" #NT!
+ nolosaanyo_creator_god_name: "$nolosaanyo_high_god_name$" #NT!
+ nolosaanyo_creator_god_name_possessive: "$nolosaanyo_high_god_name_possessive$" #NT!
+ nolosaanyo_health_god_name: "The Mother" #NT!
+ nolosaanyo_health_god_name_possessive: "The Mother's" #NT!
+ nolosaanyo_fertility_god_name: "The Mother" #NT!
+ nolosaanyo_fertility_god_name_possessive: "The Mother's" #NT!
+ nolosaanyo_wealth_god_name: "The Mother" #NT!
+ nolosaanyo_wealth_god_name_possessive: "The Mother's" #NT!
+ nolosaanyo_household_god_name: "The Mother" #NT!
+ nolosaanyo_household_god_name_possessive: "The Mother's" #NT!
+ nolosaanyo_fate_god_name: "$nolosaanyo_high_god_name$" #NT!
+ nolosaanyo_fate_god_name_possessive: "$nolosaanyo_high_god_name_possessive$" #NT!
+ nolosaanyo_knowledge_god_name: "The Mother" #NT!
+ nolosaanyo_knowledge_god_name_possessive: "The Mother's" #NT!
+ nolosaanyo_war_god_name: "The Mother" #NT!
+ nolosaanyo_war_god_name_possessive: "The Mother's" #NT!
+ nolosaanyo_trickster_god_name: "The Mother" #NT!
+ nolosaanyo_trickster_god_name_possessive: "The Mother's" #NT!
+ nolosaanyo_night_god_name: "The Mother" #NT!
+ nolosaanyo_night_god_name_possessive: "The Mother's" #NT!
+ nolosaanyo_water_god_name: "$nolosaanyo_health_god_name$" #NT!
+ nolosaanyo_water_god_name_possessive: "$nolosaanyo_health_god_name_possessive$" #NT!
+ nolosaanyo_witch_god_name: "The Mother" #NT!
+ nolosaanyo_witch_god_name_possessive: "The Mother's" #NT!
+ nolosaanyo: "Nolosaanyo" #NT!
+ nolosaanyo_adj: "Nolosaanyo" #NT!
+ nolosaanyo_adherent: "Nolosaanyo" #NT!
+ nolosaanyo_adherent_plural: "Nolosaanyo" #NT!
+ nolosaanyo_desc: "The Nolosaanyo believe in the sanctity and preservation of life so that it may ebb and flow with the tides of the world. The only times of year that the faithful consume meat are during the seasonal feasts that guide the Nolosaanyo's spiritual cycle. It is not uncommon for the most devout of followers to take vows of pasificism, forever swearing off violence, even in the face of death." #NT!

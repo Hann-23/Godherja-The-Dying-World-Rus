@@ -1,0 +1,59 @@
+﻿l_russian:
+ aversarian_succession.0001.t: "A Contest for the Crown" #NT!
+ aversarian_succession.0001.desc: "As I know, after an [aversarian|E] ruler dies and an heir is needed, any with magic in their blood are allowed to contest other challengers for the title, to prove they are the purest of blood and therefore the most worthy of the throne. As I am a Doux or higher, and our Purest just died, I can choose to engage in this fight to the death or stay out." #NT!
+ aversarian_succession.0001.desc.inelegible: "My predecessor has passed away, and the throne falls into my hands - or at least, that would be the conventional wisdom. However, as per our ancient [aversarian|E] traditions, only those with the finest of arcane skillsets are fit to don the crown, skillsets proven in vicious magical duels to the death.\n\nSadly, either due to a complete lack of magical capability, youth or other factors, I am unable to actually compete in the [blood_senate|E]. Until such a time as a proper successor is chosen, though, I am the custodian of the throne. If no other candidate presents themselves, it passes to me by default, though this is a long shot unless I use... other means to encourage them to drop out." #NT!
+  
+ aversarian_succession.0001.a: "I shall defend my birthright, or die trying!" #NT!
+ aversarian_succession.0001.b: "I will not partake in this risky tournament." #NT!
+ aversarian_succession.0003.t: "The Blood Senate" #NT!
+ aversarian_succession.0003.desc: "I have been approached by the councillors of the late ruler of [primary_scope.GetName], who have informed me that I am on a shortlist of candidates for the throne. They say I, as the formal heir, shall host the tournament to decide the next ruler of the realm - however, whether I participate myself is up to me." #NT!
+ aversarian_succession.0003.a: "I shall become the Emperor, or die trying!" #NT!
+ aversarian_succession.0003.b: "I will not not partake in this risky tournament." #NT!
+ aversarian_succession.0004.t: "A Challenger Approaches" #NT!
+ aversarian_succession.0004.desc: "The letter sitting on my desk is quite unambigous - [new_challenger.GetFullName] has announced [new_challenger.GetHerHis] intention to take the throne by virtue of [new_challenger.GetHerHis] supreme [magical|E] ability. Already, they are making preparations to depart for the capital." #NT!
+ aversarian_succession.0004.desc.close_family_member: "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('new_challenger'))], [new_challenger.GetFullName], approaches me, something important clearly on [new_challenger.GetHerHis] mind. After some back and forth, [new_challenger.GetSheHe] spits out the truth - [new_challenger.GetSheHe] plans on fighting in the [blood_senate|E]!\n\nThough it is, of course, [new_challenger.GetHerHis] right, it still perturbs me that in a week or so of time, [new_challenger.GetFirstName] will likely not be alive anymore..." #NT!
+ aversarian_succession.0004.desc.formidable_magi: "\n\nWoe to any who end up in a fight with [new_challenger.GetHerHim]. They already have a reputation as a fearsome [magi|E], and will most certainly make short work of any but the most skilled of challengers. We are likely looking at the next ruler of the [primary_scope.GetName]." #NT!
+ aversarian_succession.0004.desc.skilled_magi: "\n\nBy the sound of things, [new_challenger.GetSheHe] is no pushover. While not the true cream of the crop, [new_challenger.GetSheHe]'s going to be a tough nut to crack and have a good shot at taking the throne." #NT!
+ aversarian_succession.0004.desc.decent_magi: "\n\nWhile [new_challenger.GetHerHis] magical abilities are nothing to write home about, they are still enough to hold their own in a fight, and [new_challenger.GetSheHe] might have a chance at taking the crown if the competition is sparse enough." #NT!
+ aversarian_succession.0004.desc.poor_magi: "\n\nOf [new_challenger.GetHerHis] magical abilities though, we have heard little. It seems that, while [new_challenger.GetFirstName] has some understanding of magical combat, [new_challenger.GetSheHe] may have overestimated [new_challenger.GetHerHis] ability." #NT!
+ aversarian_succession.0004.a: "We shall see what becomes of them." #NT!
+ aversarian_succession.0004.b: "They won't come, if they know what's good for them." #NT!
+ aversarian_succession.0004.b.unlock_text: "This option is available because you have a [strong_hook|E] on [new_challenger.GetHerHim]." #NT!
+ aversarian_succession.0004.b.tt: "They will be blocked from attending the [blood_senate|E]." #NT!
+ aversarian_succession.0009.t: "A Fight to the Death" #NT!
+ aversarian_succession.0009.desc: "The fight begins - we begin to cast and after only a couple of minutes, my opponent [THIS.Var('OTHER').Char.GetFullName] is a [THIS.Custom('SuccAvEnemyState')] on the ground as the crowd cheers around me and I am announced the victor of this match! What should I do with my vanquished foe?" #NT!
+ aversarian_succession.0009.a: "Let them go." #NT!
+ aversarian_succession.0009.b: "A fireball to the face should suffice." #NT!
+ aversarian_succession.0010.t: "The Failed Risk" #NT!
+ aversarian_succession.0010.desc: "The dirt and the mud covers my uniform as I lie on the ground, My side is bleeding, and I can feel my limbs grow heavy. I see through blood caked eyes my opponent, looking smug as he summons a fireball and prepares to throw it. I just close my eyes as I feel my doom approach..." #NT!
+ aversarian_succession.0010.a: "I am not the Purest." #NT!
+ aversarian_succession.0100.t: "A Threat with no Veil" #NT!
+ aversarian_succession.0100.desc: "Furious, I crumple the letter and throw it into the fire. That vile schemer, [blackmailer.GetFirstName], has threatened to bring about my ruin if I set one foot on the grounds of the [blood_senate|E], and all it would take is if the contents of the destroyed letter were to be leaked to the broader public." #NT!
+ aversarian_succession.0100.a: "They will regret this one day!" #NT!
+ aversarian_succession.0100.a.tt: "You will be unable to attend the [blood_senate|E] for the [primary_scope.GetName]." #NT!
+ aversarian_succession.0400.t: "An Empty Senate" #NT!
+ aversarian_succession.0400.desc.no_contestants_child: "The [magi|E] are coming! They're coming today to fight! I can't wait! My servants said they can shoot fireballs, and make the ground shake, and blow up entire castles from afar! I want to be one when I grow up!\n\nBut as the day passes, none of them come. Why aren't they coming!? I wanted to see them fight so badly. As I go to bed and cry into my pillow, my stupid advisors tell me that this is a good thing. They're just chickens afraid of the fireballs!" #NT!
+ aversarian_succession.0400.desc.no_contestants: "I await for the contestants to arrive, day by day. Most of the letters sent out to prospective challengers receive no response, few show a clear disinterest in the prize at stake, and even fewer give even the vaguest hints of interest.\n\nAs the day of the tournament finally comes, my servants prepare lodgings for the one or two guests that have indicated at least some chance of attending. And we wait.\n\nNo one comes.\n\nThe feast being prepared as a final, solemn meal before the deadly day afterwards quickly turns into a drunken celebration of my unexpected accession to the throne. To think that any one of these fools could have merely walked into the capital and sat on the throne if they had even a single inkling of a spine!" #NT!
+ aversarian_succession.0400.a.no_contestants_child: "I change my mind, I never want to be a stupid [magi|E]!" #NT!
+ aversarian_succession.0400.a.no_contestants: "I'm not going to complain, for sure!" #NT!
+ aversarian_succession.0401.t: "A Party of One" #NT!
+ aversarian_succession.0401.desc.no_contestants_child: "The [magi|E] are coming! They're coming today to fight! I can't wait! My servants said they can shoot fireballs, and make the ground shake, and blow up entire castles from afar! I want to be one when I grow up!\n\nBut as the day passes, only one of them comes. [champion_of_the_blood_senate.GetFirstName] is the only one that comes to my magical battle, and they have no one to fight. They seem to see how sad I am, and [champion_of_the_blood_senate.GetSheHe] shows me some tricks - [champion_of_the_blood_senate.GetSheHe] can make rings of fire, and made me float!" #NT!
+ aversarian_succession.0401.desc.no_contestants: "I await for the contestants to arrive, day by day. Most of the letters sent out to prospective challengers receive no response, few show a clear disinterest in the prize at stake, and even fewer give even the vaguest hints of interest.\n\nAs the day of the tournament finally comes, my servants prepare lodgings for the one or two guests that have indicated at least some chance of attending. And we wait.\n\nAfter some time, [champion_of_the_blood_senate.GetFirstName] arrives, alone, apparently as bewildered as myself as to the lack of other participants. We chit-chat over a fine, but somewhat awkward feast, and as it becomes apparent that truly no one else will come, I hand [champion_of_the_blood_senate.GetHerHim] over the trappings of power and effective rule of [primary_scope.GetName]." #NT!
+ aversarian_succession.0401.a.no_contestants_child: "[champion_of_the_blood_senate.GetFirstName] is awesome! I want to be just like [champion_of_the_blood_senate.GetHerHim] when I grow up!" #NT!
+ aversarian_succession.0401.a.no_contestants: "How anticlimactic." #NT!
+ aversarian_succession.0500.t: "Arrival" #NT!
+ aversarian_succession.0500.desc: "I have arrived at the site of the tournament, and am preparing for my first fight." #NT!
+ aversarian_succession.0500.desc.not_contestant: "The last challengers have arrived and been given their quarters. Tomorrow dawn, they will all make way for the tourney grounds, where they will either prove themselves to be the strongest [magi|E] and worthy ruler - or they will die trying.\n\nThankfully, I will not be taking part in this directly. Instead, I will safely be watching the spectacle from the rafters." #NT!
+ aversarian_succession.0500.a: "Let's win this." #NT!
+ aversarian_succession.0502.t: "Trial by Blood" #NT!
+ aversarian_succession.0502.desc: "I feel the ever slightest tensity as I hear the announcer read the list, and my name being called.\n\n"[ROOT.Char.GetFullName] shall face [opponent.GetFullName]! May the one with the purest blood remain standing!"" #NT!
+ aversarian_succession.0502.a: "May [ROOT.Char.GetFaith.HighGodName] be on my side." #NT!
+ aversarian_succession.0503.t: "A New Ruler" #NT!
+ aversarian_succession.0503.desc: "The tournament is over, and all those before me have died. I have proved myself to be the Purest and now shall rule the entirety of [aversaria|E]!" #NT!
+ aversarian_succession.0503.a: "Let my reign be long and bountiful." #NT!
+ aversarian_succession.0505.t: "The Purest Rises" #NT!
+ aversarian_succession.0505.desc: "With the death of the previous ruler, and the tournament of [magi|E] finished with many important men and women made into corpses, one stands on top - [champion_of_the_blood_senate.GetFullName]. Now [champion_of_the_blood_senate.GetSheHe] rules the entire realm, having proven themselves the purest of blood." #NT!
+ aversarian_succession.0505.a: "And with that, I cede the throne." #NT!
+ aversarian_succession.0600.t: "Trial by Blood" #NT!
+ aversarian_succession.0600.desc: "The announcer reads off the list, calling forth the next two challengers.\n\n"[first_ongoing_contestant.GetFullName] shall face [second_ongoing_contestant.GetFullName]! May the one with the purest blood remain standing!"\n\nAfter a bitter fight, [first_ongoing_contestant.GetFirstName] is declared the winner, [first_ongoing_contestant.GetHerHis] opponent reduced to a charred corpse." #NT!
+ aversarian_succession.0600.a: "A fine fight." #NT!

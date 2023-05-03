@@ -1,0 +1,6 @@
+﻿l_russian:
+ tradition_hereditary_hierarchy_desc: "It is ingrained in this culture that leadership in passed on by blood, nobility is bound by stone in castles, and that the control of the aristocrats is unshakable. They do not easily forget those who break the laws of nobility." #NT!
+ tradition_desert_nomads_name: "Sarradonian Desert Nomads" #NT!
+ tradition_desert_nomads_desc: "This culture is intimately accustomed with the Sarradonian desert, which it has traversed for centuries, connecting the Imperial Sea with the realms of central and southern Sarradon." #NT!
+ culture_in_camel_region_desc: "The [culture|E] is not present in [GetGeographicalRegion('world_es_desert').GetName]" #NT!
+ culture_in_camel_region_percentage_desc: "The [culture|E] does not have #V [EmptyScope.ScriptValue('camel_percentage_trigger_value_desc')|0]%#! of its [counties|E] in [GetGeographicalRegion('world_es_desert').GetName]" #NT!

@@ -1,0 +1,5 @@
+﻿l_russian:
+ greeting_supplimentary.negative.ritualism.1: "May you one day fall down every blessed step." #NT!
+ greeting_supplimentary.negative.ritualism.2: "I pray you are one day made to climb [GetBuilding('sophocos_01').GetName] with a game-piece on every step." #NT!
+ greeting_supplimentary.negative.aagiokratan.1: "I'm not quite sure if I am more disgusted by your impurity or your smell." #NT!
+ greeting_supplimentary.negative.lifepath.1: "You follow no [Concept('lifepath','Path')|E] and doubtless live within your mother's dungeon." #NT!

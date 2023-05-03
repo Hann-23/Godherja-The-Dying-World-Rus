@@ -1,0 +1,169 @@
+﻿l_russian:
+  
+  #koev Loc 
+ alau_koev_religion: "Alau Koev" #NT!
+ alau_koev_religion_adj: "Alau Koevac" #NT!
+ alau_koev_religion_adherent: "Alau Koevar" #NT!
+ alau_koev_religion_adherent_plural: "Alau Koevars" #NT!
+ alau_koev_religion_desc: "Alau Koev means '[fire_gate|E]' in the Tsetnera language of the Charchacs, and the faithful claim that a great gate of pure fire once connected the mortal realm to the burning home of the gods that holds the infernos that birthed [aeras|E]. It is believed that the last time the gate opened was possibly in the first century, and that the holy and the faithful walked through to this realm before the gate closed behind them, and it will not open again until the entire world finally enters the godly inferno anew and is burned away by the sun. Practitioners are generally described by foreigners as 'fire obsessed', the priestly caste interpreting the signs of the always-inevitable apocalypse in their flickering and rulers ritually burning themselves to prove their holiness (the more burned a body, the holier).\n\nTheir neighbours throughout history have often regarded them as mostly worthless, with burn victims generally making poor slaves. Despite their small size and poor reputation, however, they've attracted great interests from [aversarian|E] scholars who believed the tale of the fiery gate was actually a primitive memory of an ancient spell, the most notable amongst them being the Opakhasian [magi|E] [dethiclas_sun|E]. " #NT!
+ alau_koev_high_god_name: "Pleimao" #NT!
+ alau_koev_high_god_name_possessive: "Pleimao's" #NT!
+ alau_koev_high_god_name_alternate: "The Father of Fire" #NT!
+ alau_koev_high_god_name_alternate_possessive: "The Father of Fire's" #NT!
+ alau_koev_devil_name: "Khel Tvi" #NT!
+ alau_koev_devil_name_possessive: "Khel Tvi's" #NT!
+ alau_koev_death_deity_name: "Genjsa" #NT!
+ alau_koev_death_deity_name_possessive: "Genjsa's" #NT!
+ alau_koev_house_of_worship: "Adzat" #NT!
+ alau_koev_house_of_worship_plural: "Adzatom" #NT!
+ alau_koev_religious_symbol: "Flame of Pleimao" #NT!
+ alau_koev_religious_text: "Thousand Ballads of Fire" #NT!
+ alau_koev_religious_head_title: "Khandmas" #NT!
+ alau_koev_religious_head_title_name: "Adzatir Khandmasan" #NT!
+ alau_koev_devotee_male: "Tsetmi" #NT!
+ alau_koev_devotee_male_plural: "Tsetmim" #NT!
+ alau_koev_devotee_female: "Tsetma" #NT!
+ alau_koev_devotee_female_plural: "Tsetmam" #NT!
+ alau_koev_devotee_neuter: "Tsetmo" #NT!
+ alau_koev_devotee_neuter_plural: "Tsetmot" #NT!
+ alau_koev_priest_male: "Gotszit" #NT!
+ alau_koev_priest_male_plural: "Gotszitim" #NT!
+ alau_koev_priest_female: "Gotszita" #NT!
+ alau_koev_priest_female_plural: "Gotszitam" #NT!
+ alau_koev_priest: "Gotszito" #NT!
+ alau_koev_priest_plural: "Gotszitom" #NT!
+ alau_koev_priest_alternate_plural: "Gotszitarim" #NT!
+ alau_koev_priest_alt_priest_term: "Gotszito" #NT!
+ alau_koev_bishop: "Megimszot" #NT!
+ alau_koev_bishop_plural: "Megimszotim" #NT!
+ alau_koev_positive_afterlife: "Alau Sakmir" #NT!
+ alau_koev_negative_afterlife: "Ada Tvi" #NT!
+ alau_koev_creator_god_name: "Pleimao" #NT!
+ alau_koev_creator_god_name_possessive: "Pleimao's" #NT!
+ alau_koev_health_god_name: "$alau_koev_fertility_god_name$" #NT!
+ alau_koev_health_god_name_possessive: "$alau_koev_fertility_god_name_possessive$" #NT!
+ alau_koev_fertility_god_name: "Ukha" #NT!
+ alau_koev_fertility_god_name_possessive: "Ukha's" #NT!
+ alau_koev_wealth_god_name: "Szindarm" #NT!
+ alau_koev_wealth_god_name_possessive: "Szindarm's" #NT!
+ alau_koev_household_god_name: "Bod Kovnar" #NT!
+ alau_koev_household_god_name_possessive: "Bod Kovnar's" #NT!
+ alau_koev_fate_god_name: "Diszen" #NT!
+ alau_koev_fate_god_name_possessive: "Diszen's" #NT!
+ alau_koev_knowledge_god_name: "Tsokan" #NT!
+ alau_koev_knowledge_god_name_possessive: "Tsokan's" #NT!
+ alau_koev_war_god_name: "Osmira" #NT!
+ alau_koev_war_god_name_possessive: "Osmira's" #NT!
+ alau_koev_trickster_god_name: "Matuzar" #NT!
+ alau_koev_trickster_god_name_possessive: "Matuzar's" #NT!
+ alau_koev_night_god_name: "$alau_koev_knowledge_god_name$" #NT!
+ alau_koev_night_god_name_possessive: "$alau_koev_knowledge_god_name_possessive$" #NT!
+ alau_koev_water_god_name: "$alau_koev_devil_name$" #NT!
+ alau_koev_water_god_name_possessive: "$alau_koev_devil_name_possessive$" #NT!
+ alau_koev_witch_god_name: "Miszemag" #NT!
+ alau_koev_witch_god_name_possessive: "Miszemag's" #NT!
+ alau_koev: "Alau Koev" #NT!
+ alau_koev_adj: "Alau Koevac" #NT!
+ alau_koev_adherent: "Alau Koevar" #NT!
+ alau_koev_adherent_plural: "Alau Koevars" #NT!
+ alau_koev_desc: "Alau Koevars believe that the world of the gods was shut off from them, and that the passage will only open once again when the world is ready to be cleansed of its sins in fire. In preparation for the re-opening of the [fire_gate|E], pious adherents burn themselves ritualistically in preparation for the return of Pleimao to [aeras|E]. Alau Koevars enjoy the regular disgust of outsiders for their faith, and believe that their suffering through life is evidence of the divine fire within themselves." #NT!
+ osmirat: "Osmirat" #NT!
+ osmirat_adj: "Osmirati" #NT!
+ osmirat_adherent: "Osmirati" #NT!
+ osmirat_adherent_plural: "Osmiratim" #NT!
+ osmirat_desc: "Osmiratim worship the Goddess of War, Osmira, above all others. They see the spirits that inhabit the world as her fallen warriors, and spend much of their lives attempting to be possessed so that they might finish the old wars in her name. To them, [alau_koev|E] will only open when all the wars of the faithful have ended, a task that the Osmiratim believe themselves worthy of fulfilling." #NT!
+ osmirat_high_god_name: "Osmira" #NT!
+ osmirat_high_god_name_possessive: "Osmira's" #NT!
+ osmirat_high_god_name_alternate: "The Sister of Spears" #NT!
+ osmirat_high_god_name_alternate_possessive: "The Sister of Spears'" #NT!
+ mokmanur: "Mokmanur" #NT!
+ mokmanur_adj: "Mokmanuri" #NT!
+ mokmanur_adherent: "Mokmanurite" #NT!
+ mokmanur_adherent_plural: "Mokmanurites" #NT!
+ mokmanur_desc: "Mokmanurites insist that the doorway from Ada Tvi opened when Pleimao was cast out from the heavens, and that those who remained loyal to him were torn from Paradise as punishment. The Mokmanur tradition holds that Khel Tvi is in fact a more benevolent being, and that [alau_koev|E] will open when the world is free of his enemy's influence. Worshipping the waters of the Brass Sea, the Mokmanurites believe that they are destined to stop Pleimao's return, and that their reward will be eternity in the comforting embrace of the Eternal Night, Ada Tvi." #NT!
+ mokmanur_high_god_name: "Khel Tvi" #NT!
+ mokmanur_high_god_name_possessive: "Khel Tvi's" #NT!
+ mokmanur_high_god_name_alternate: "Father Night" #NT!
+ mokmanur_high_god_name_alternate_possessive: "Father Night's" #NT!
+ mokmanur_devil_name: "Pleimao" #NT!
+ mokmanur_devil_name_possessive: "Pleimao's" #NT!
+ mokmanur_death_deity_name: "$mokmanur_high_god_name$" #NT!
+ mokmanur_death_deity_name_possessive: "$mokmanur_high_god_name_possessive$" #NT!
+ mokmanur_religious_symbol: "Cold Flame" #NT!
+ mokmanur_religious_text: "Tvizedli" #NT!
+ mokmanur_positive_afterlife: "Ada Tvi" #NT!
+ mokmanur_negative_afterlife: "Alau Sakmir" #NT!
+ mokmanur_creator_god_name: "$mokmanur_high_god_name$" #NT!
+ mokmanur_creator_god_name_possessive: "$mokmanur_high_god_name_possessive$" #NT!
+ mokmanur_health_god_name: "$mokmanur_fertility_god_name$" #NT!
+ mokmanur_health_god_name_possessive: "$mokmanur_fertility_god_name_possessive$" #NT!
+ mokmanur_fertility_god_name: "$mokmanur_high_god_name$" #NT!
+ mokmanur_fertility_god_name_possessive: "$mokmanur_high_god_name_possessive$" #NT!
+ mokmanur_wealth_god_name: "$mokmanur_devil_name$" #NT!
+ mokmanur_wealth_god_name_possessive: "$mokmanur_devil_name_possessive$" #NT!
+ mokmanur_household_god_name: "$mokmanur_high_god_name$" #NT!
+ mokmanur_household_god_name_possessive: "$mokmanur_high_god_name_possessive$" #NT!
+ mokmanur_fate_god_name: "$mokmanur_high_god_name$"" #NT!
+ mokmanur_fate_god_name_possessive: "$mokmanur_high_god_name_possessive$" #NT!
+ mokmanur_knowledge_god_name: "$mokmanur_high_god_name$" #NT!
+ mokmanur_knowledge_god_name_possessive: "$mokmanur_high_god_name_possessive$" #NT!
+ mokmanur_war_god_name: "$mokmanur_high_god_name$" #NT!
+ mokmanur_war_god_name_possessive: "$mokmanur_high_god_name_possessive$" #NT!
+ mokmanur_trickster_god_name: "$mokmanur_devil_name$" #NT!
+ mokmanur_trickster_god_name_possessive: "$mokmanur_devil_name_possessive$" #NT!
+ mokmanur_night_god_name: "$mokmanur_knowledge_god_name$" #NT!
+ mokmanur_night_god_name_possessive: "$mokmanur_knowledge_god_name_possessive$" #NT!
+ mokmanur_water_god_name: "$mokmanur_high_god_name$" #NT!
+ mokmanur_water_god_name_possessive: "$mokmanur_high_god_name_possessive$" #NT!
+ mokmanur_witch_god_name: "$mokmanur_devil_name$" #NT!
+ mokmanur_witch_god_name_possessive: "$mokmanur_devil_name_possessive$" #NT!
+ tsokar: "Tsokar" #NT!
+ tsokar_adj: "Tsokari" #NT!
+ tsokar_adherent: "Tsokari" #NT!
+ tsokar_adherent_plural: "Tsokarim" #NT!
+ tsokar_desc: "The Tsokarim worship Tsokan, the God of Knowledge, as their chief deity. To them, there is nothing greater than the pursuit of the forbidden knowledge of the world, and donate much of their time travelling across Aironoi in search of answers to the most pressing questions. Whilst their charred skin may deter outsiders from conversing with the Tsokarim, they are often regarded as the most open-minded of all Alau Koevars." #NT!
+ tsokar_high_god_name: "Tsokan" #NT!
+ tsokar_high_god_name_possessive: "Tsokan's" #NT!
+ tsokar_high_god_name_alternate: "The Brother of the Thousand Books" #NT!
+ tsokar_high_god_name_alternate_possessive: "The Brother of the Thousand Books'" #NT!
+ daminkar: "Daminkar" #NT!
+ daminkar_adj: "Daminkari" #NT!
+ daminkar_adherent: "Daminkarite" #NT!
+ daminkar_adherent_plural: "Daminkarites" #NT!
+ daminkar_desc: "Daminkarites believe that [alau_koev|E] itself is God, a singular and mighty force that transported them into the mortal world from the dark prison known as Ada Tvi. They are known for their lavish festivals of fire, where the faithful feast upon charred meat and dance across long rows of flaming coals. To them, the mortal world is a blessing to be enjoyed, and the re-opening of the Fire Gate means fear, because it signals the return of the Cold Master Khel Tvi to claim their souls." #NT!
+ daminkar_high_god_name: "Alau Koev" #NT!
+ daminkar_high_god_name_possessive: "Alau Koev's" #NT!
+ daminkar_high_god_name_alternate: "The Fire Gate" #NT!
+ daminkar_high_god_name_alternate_possessive: "The Fire Gate's" #NT!
+ daminkar_devil_name: "Khel Tvi" #NT!
+ daminkar_devil_name_possessive: "Khel Tvi's" #NT!
+ daminkar_death_deity_name: "$daminkar_devil_name$" #NT!
+ daminkar_death_deity_name_possessive: "$daminkar_devil_name_possessive$" #NT!
+ daminkar_religious_symbol: "Flame of the Gate" #NT!
+ daminkar_religious_text: "Long Dance" #NT!
+ daminkar_positive_afterlife: "Alau Sakmir" #NT!
+ daminkar_negative_afterlife: "Ada Tvi" #NT!
+ daminkar_creator_god_name: "$daminkar_high_god_name$" #NT!
+ daminkar_creator_god_name_possessive: "$daminkar_high_god_name_possessive$" #NT!
+ daminkar_health_god_name: "$daminkar_fertility_god_name$" #NT!
+ daminkar_health_god_name_possessive: "$daminkar_fertility_god_name_possessive$" #NT!
+ daminkar_fertility_god_name: "$daminkar_high_god_name$" #NT!
+ daminkar_fertility_god_name_possessive: "$daminkar_high_god_name_possessive$" #NT!
+ daminkar_wealth_god_name: "$daminkar_high_god_name$" #NT!
+ daminkar_wealth_god_name_possessive: ""$daminkar_high_god_name_possessive$" #NT!
+ daminkar_household_god_name: "$daminkar_high_god_name$" #NT!
+ daminkar_household_god_name_possessive: "$daminkar_high_god_name_possessive$" #NT!
+ daminkar_fate_god_name: "$daminkar_high_god_name$" #NT!
+ daminkar_fate_god_name_possessive: "$daminkar_high_god_name_possessive$" #NT!
+ daminkar_knowledge_god_name: "$daminkar_devil_name$" #NT!
+ daminkar_knowledge_god_name_possessive: "$daminkar_devil_name_possessive$" #NT!
+ daminkar_war_god_name: "$daminkar_high_god_name$" #NT!
+ daminkar_war_god_name_possessive: "$daminkar_high_god_name_possessive$" #NT!
+ daminkar_trickster_god_name: "$daminkar_high_god_name$" #NT!
+ daminkar_trickster_god_name_possessive: "$daminkar_high_god_name_possessive$" #NT!
+ daminkar_night_god_name: "$daminkar_knowledge_god_name$" #NT!
+ daminkar_night_god_name_possessive: "$daminkar_knowledge_god_name_possessive$" #NT!
+ daminkar_water_god_name: "$daminkar_devil_name$" #NT!
+ daminkar_water_god_name_possessive: "$daminkar_devil_name_possessive$" #NT!
+ daminkar_witch_god_name: "$daminkar_high_god_name$" #NT!
+ daminkar_witch_god_name_possessive: "$daminkar_high_god_name_possessive$" #NT!

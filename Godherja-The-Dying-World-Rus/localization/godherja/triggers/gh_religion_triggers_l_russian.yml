@@ -1,0 +1,3 @@
+﻿l_russian:
+  
+ AHRIDAR_CANNOT_CREATE_HOF_TITLE_WITHOUT_DECISION_TRIGGER: "[faiths|E] with the [GetFaithDoctrine('tenet_veneration_of_ohrasik').GetBaseName] [core_tenet|E] can only create their [head_of_faith|E] through a [decision|E]" #NT!

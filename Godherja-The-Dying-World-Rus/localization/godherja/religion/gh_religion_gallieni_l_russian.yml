@@ -1,0 +1,70 @@
+﻿l_russian:
+  
+ #gallieni Loc 
+ gallieni_religion: "Gallieni" #NT!
+ gallieni_religion_adj: "Gallieni" #NT!
+ gallieni_religion_adjerent: "Gallieni" #NT!
+ gallieni_religion_adherent_plural: "Gallieni" #NT!
+ gallieni_religion_desc: "The Gallieni Faiths, less a single faith and more a loose collection of local religions that are united by culture more than any particular religious belief. The one tenet they all have in common is the belief that mankind is not the master of its own destiny, but rather buffeted about by capricious or callous supernatural forces." #NT!
+ gallicader_high_god_name: "Moon and Stars" #NT!
+ gallicader_high_god_name_possessive: "Moon and Stars'" #NT!
+ gallicader_high_god_name_alternate: "The Heavens" #NT!
+ gallicader_high_god_name_alternate_possessive: "The Heavens'" #NT!
+ gallicader_devil_name: "Tempters of Fate" #NT!
+ gallicader_devil_name_possessive: "The Betrayer's" #NT!
+ gallicader_death_deity_name: "Naustramo, the Northern Light" #NT!
+ gallicader_death_deity_name_possessive: "Naustramo's" #NT!
+ gallicader_house_of_worship: "Constellatrium" #NT!
+ gallicader_house_of_worship_plural: "Constellatrium" #NT!
+ gallicader_religious_symbol: "Stars Aligned" #NT!
+ gallicader_religious_text: "Whispers of Heaven" #NT!
+ gallicader_religious_head_title: "Chief Astrologer" #NT!
+ gallicader_religious_head_title_name: "Chief Astrologer" #NT!
+ gallicader_devotee_male: "Gallicader" #NT!
+ gallicader_devotee_male_plural: "Gallicader" #NT!
+ gallicader_devotee_female: "Gallicader" #NT!
+ gallicader_devotee_female_plural: "Gallicader" #NT!
+ gallicader_devotee_neuter: "Gallicader" #NT!
+ gallicader_devotee_neuter_plural: "Gallicader" #NT!
+ gallicader_priest_male: "Diviner" #NT!
+ gallicader_priest_male_plural: "Diviner" #NT!
+ gallicader_priest_female: "Diviner" #NT!
+ gallicader_priest_female_plural: "Diviner" #NT!
+ gallicader_priest_alternate_plural: "Diviner" #NT!
+ gallicader_bishop: "Astrologer" #NT!
+ gallicader_bishop_plural: "Astrologer" #NT!
+ gallicader_positive_afterlife: "The Heavens" #NT!
+ gallicader_negative_afterlife: "The Pit" #NT!
+ gallicader_creator_god_name: "$gallicader_high_god_name$" #NT!
+ gallicader_creator_god_name_possessive: "$gallicader_high_god_name_possessive$" #NT!
+ gallicader_health_god_name: "$gallicader_fertility_god_name$" #NT!
+ gallicader_health_god_name_possessive: "$gallicader_fertility_god_name_possessive$" #NT!
+ gallicader_fertility_god_name: "Rellosek, the Evening Star" #NT!
+ gallicader_fertility_god_name_possessive: "Rellosek's" #NT!
+ gallicader_wealth_god_name: "Florentaoc, the Light of the Morning" #NT!
+ gallicader_wealth_god_name_possessive: "Florentaoc's" #NT!
+ gallicader_household_god_name: "Maroveache" #NT!
+ gallicader_household_god_name_possessive: "Maroveache's" #NT!
+ gallicader_fate_god_name: "$gallicader_high_god_name$" #NT!
+ gallicader_fate_god_name_possessive: "$gallicader_high_god_name_possessive$" #NT!
+ gallicader_knowledge_god_name: "$gallicader_high_god_name$" #NT!
+ gallicader_knowledge_god_name_possessive: "$gallicader_high_god_name_possessive$" #NT!
+ gallicader_war_god_name: "Besinartha, the Brightest Star" #NT!
+ gallicader_war_god_name_possessive: "Besinartha's" #NT!
+ gallicader_trickster_god_name: "$gallicader_high_god_name$" #NT!
+ gallicader_trickster_god_name_possessive: "$gallicader_high_god_name_possessive$" #NT!
+ gallicader_night_god_name: "$gallicader_high_god_name$" #NT!
+ gallicader_night_god_name_possessive: "$gallicader_high_god_name_possessive$" #NT!
+ gallicader_water_god_name: "$gallicader_health_god_name$" #NT!
+ gallicader_water_god_name_possessive: "$gallicader_health_god_name_possessive$" #NT!
+ gallicader_witch_god_name: "The Magi" #NT!
+ gallicader_witch_god_name_possessive: "The Magi's" #NT!
+ gallicader: "Gallicader" #NT!
+ gallicader_adj: "Gallicader" #NT!
+ gallicader_adherent: "Gallicader" #NT!
+ gallicader_adherent_plural: "Gallicader" #NT!
+ gallicader_desc: "The Gallicader were once the dominant faith of [chevalie|E], having been displaced only relatively recently by the Pathtreaders. They believe that man has no free will of his own, and that all of life from birth to death is dictated by the movements of the stars. By observing the celestial orbits, one may begin to uncover the secrets of the future and the lost knowledge of the past." #NT!
+ gallicader_old: "Old Gallicader" #NT!
+ gallicader_old_adj: "Old Gallicader" #NT!
+ gallicader_old_adherent: "Old Gallicader" #NT!
+ gallicader_old_adherent_plural: "Old Gallicader" #NT!

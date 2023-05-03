@@ -1,0 +1,60 @@
+﻿l_russian:
+ INCOMPATIBLE_TENET_ARMED_PILGRIMAGES_TRIGGER: "Incompatible with the [core_tenet|E] Armed Pilgrimages" #NT!
+ INCOMPATIBLE_TENET_MONASTICISM_TRIGGER: "Incompatible with the [core_tenet|E] Monasticism" #NT!
+ INCOMPATIBLE_TENET_PACIFISM_TRIGGER: "Incompatible with the [core_tenet|E] Pacifism" #NT!
+ INCOMPATIBLE_TENET_HUMAN_SACRIFICE_TRIGGER: "Incompatible with the [core_tenet|E] Human Sacrifice" #NT!
+ INCOMPATIBLE_TENET_MENDICANT_PREACHERS_TRIGGER: "Incompatible with the [core_tenet|E] Mendicant Preachers" #NT!
+ INCOMPATIBLE_TENET_HEDONISTIC_TRIGGER: "Incompatible with the [core_tenet|E] Hedonistic" #NT!
+ INCOMPATIBLE_TENET_GNOSTICISM_TRIGGER: "Incompatible with the [core_tenet|E] Gnosticism" #NT!
+ INCOMPATIBLE_TENET_EASTERN_SYNCRETISM_TRIGGER: "Incompatible with the [core_tenet|E] Eastern Syncretism" #NT!
+ INCOMPATIBLE_TENET_OTHER_SYNCRETISM_TRIGGER: "You may only select one syncretic [core_tenet|E] for your [faith|E]" #NT!
+ INCOMPATIBLE_TENET_FALSE_CONVERSION_SANCTION_TRIGGER: "Incompatible with the [core_tenet|E] Sanctioned False Conversions" #NT!
+ INCOMPATIBLE_TENET_PENTARCHY_TRIGGER: "Incompatible with the [core_tenet|E] Pentarchy" #NT!
+ INCOMPABIBLE_TENET_ONLY_ONE_AGIONIST_TENET_TRIGGER: "You may only select one special Agionist [core_tenet|E] for your [faith|E]" #NT!
+ INCOMPATIBLE_TENET_BLOODRIGHT_TRIGGER: "Incompatible with the [core_tenet|E] Bloodright" #NT!
+ INCOMPATIBLE_TENET_CITIZENSHIP_TRIGGER: "Incompatible with the [core_tenet|E] Citizenship through Service" #NT!
+  
+ CANNOT_HAVE_KINSLAYING_AND_WARDENITE_MAINSTREAM: "A faith can not be a part of Mainstream [wardenism|E] and also accept [kinslayers|E]!" #NT!
+ CANNOT_HAVE_KINSLAYING_AND_WARDENITE_IDEALIST: "A faith can not be a part of Idealist [wardenism|E] and also accept [kinslayers|E]!" #NT!
+ CANNOT_HAVE_KINSLAYING_AND_WARDENITE_TRADITIONALIST: "A faith can not be a part of Traditionalist [wardenism|E] and also accept [kinslayers|E]!" #NT!
+ DOCTRINE_PLURALISM_FUNDAMENTALIST: "Incompatible with the [doctrine|E] Fundamentalist" #NT!
+ NOT_DOCTRINE_PLURALISM_FUNDAMENTALIST: "Requires the [doctrine|E] Fundamentalist" #NT!
+ DOCTRINE_PLURALISM_PLURALISTIC: "Incompatible with the [doctrine|E] Pluralistic" #NT!
+ NOT_DOCTRINE_PLURALISM_PLURALISTIC: "Requires the [doctrine|E] Pluralistic" #NT!
+ INCOMPATIBLE_DOCTRINE_MAGIC_ACCEPTED: "Incompatible with the [doctrine|E] [magic|E] Accepted" #NT!
+ INCOMPATIBLE_DOCTRINE_MAGIC_SUPREMACY: "Incompatible with the [doctrine|E] [magic|E] Supremacy" #NT!
+ INCOMPATIBLE_DOCTRINE_DEVIANCY_ACCEPTED: "Incompatible with the [doctrine|E] Deviancy Accepted" #NT!
+ INCOMPATIBLE_DOCTRINE_CONSANGUINITY_UNRESTRICTED: "Incompatible with the [doctrine|E] Unrestricted Marriage" #NT!
+ INCOMPATIBLE_DOCTRINE_ADULTERY_WOMEN_ACCEPTED: "Incompatible with the [doctrine|E] Female Adultery Accepted" #NT!
+ INCOMPATIBLE_DOCTRINE_ADULTERY_MEN_ACCEPTED: "Incompatible with the [doctrine|E] Male Adultery Accepted" #NT!
+ INCOMPATIBLE_TENET_CARNAL_EXALTATION: "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_carnal_exaltation').GetName( GetPlayer.GetFaith )]" #NT!
+ INCOMPATIBLE_TENET_DIVINE_MARRIAGE: "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_divine_marriage').GetName( GetPlayer.GetFaith )]" #NT!
+ INCOMPATIBLE_TENET_NATURAL_PRIMITIVISM: "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_natural_primitivism').GetName( GetPlayer.GetFaith )]" #NT!
+ INCOMPATIBLE_TENET_RITUAL_CANNIBALISM: "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_ritual_cannibalism').GetName( GetPlayer.GetFaith )]" #NT!
+ INCOMPATIBLE_TENET_GEDEORA_VENERATION: "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_gedeora_veneration').GetName( GetPlayer.GetFaith )]" #NT!
+ INCOMPATIBLE_TENET_AVERSARIAN_SYNCRETISM: "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_aversarian_syncretism').GetName( GetPlayer.GetFaith )]" #NT!
+ INCOMPATIBLE_TENET_RITUALIST_SYNCRETISM: "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_ritualist_syncretism').GetName( GetPlayer.GetFaith )]" #NT!
+ INCOMPATIBLE_TENET_WORSHIPS_DEATH: "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_worships_death').GetName( GetPlayer.GetFaith )]" #NT!
+ INCOMPATIBLE_TENET_GRUESOME_FESTIVALS: "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_gruesome_festivals').GetName( GetPlayer.GetFaith )]" #NT!
+ INCOMPATIBLE_TENET_BLOODRIGHT: "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_the_bloodright').GetName( GetPlayer.GetFaith )]" #NT!
+ INCOMPATIBLE_TENET_CITIZENSHIP: "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_citizenship_through_service').GetName( GetPlayer.GetFaith )]" #NT!
+ CANNOT_HAVE_TEMPORAL_HEAD_AND_THEOCRACY: "A Faith cannot have both [GetFaithDoctrine('doctrine_theocracy_temporal').GetBaseName] Clerical Tradition and a [GetFaithDoctrine('doctrine_temporal_head').GetBaseName] Head of Faith" #NT!
+ CANNOT_HAVE_TEMPORAL_HEAD_AND_SPIRITUAL_APPOINTMENT: "A Faith cannot have both [GetFaithDoctrine('doctrine_clerical_succession_spiritual_appointment').GetBaseName] Clerical Appointment and a [GetFaithDoctrine('doctrine_temporal_head').GetBaseName] Head of Faith" #NT!
+ NOT_DOCTRINE_NO_HEAD_OF_FAITH: "Requires the [doctrine|E] No [head_of_faith|E]" #NT!
+ DOCTRINE_REQUIRED_HEAD_OF_FAITH: "Requires any [head_of_faith|E] [doctrine|E]" #NT!
+ INCOMPATIBLE_WITH_ALL_CRIMINAL_DOCTRINES: "Incompatible with all [doctrines|E] that consider specific actions to be [criminal|E]" #NT!
+ ADULTERY_MUST_BE_FULLY_ACCEPTED: "Incompatible with any [doctrine|E] that makes adultery [shunned|E] or [criminal|E]" #NT!
+ HAS_DOCTRINE: "Has the [FAITH_DOCTRINE.GetName(FAITH.Self)] doctrine" #NT!
+ NOT_HAS_DOCTRINE: "Does #bold not#! have the [FAITH_DOCTRINE.GetName(FAITH.Self)] doctrine" #NT!
+ I_HAVE_DOCTRINE: "My [faith|E] has [FAITH_DOCTRINE.GetName(FAITH.Self)] doctrine" #NT!
+ NOT_I_HAVE_DOCTRINE: "My [faith|E] has #bold not#! [FAITH_DOCTRINE.GetName(FAITH.Self)] doctrine" #NT!
+ THEY_HAS_DOCTRINE: "[FAITH.GetName] has the [FAITH_DOCTRINE.GetName(FAITH.Self)] doctrine" #NT!
+ NOT_THEY_HAS_DOCTRINE: "[FAITH.GetName] does #bold not#! have the [FAITH_DOCTRINE.GetName(FAITH.Self)] doctrine" #NT!
+ I_HAVE_COURT_CHAPLAIN: "My [Concept('court_chaplain', CHARACTER.Custom('MyPriestTitle'))|E] is available to perform the ritual" #NT!
+ NOT_I_HAVE_COURT_CHAPLAIN: "My [Concept('court_chaplain', CHARACTER.Custom('MyPriestTitle'))|E] is #bold not#! available to perform the ritual" #NT!
+ I_HAVE_SOUGHT_AID: "I have sought the aid of the spirits within the past 5 years" #NT!
+ NOT_I_HAVE_SOUGHT_AID: "I have #bold not#! sought the aid of the spirits within the past 5 years" #NT!
+ MY_HEALTH_NEAR_DEATH: "My [health|E] state is Near Death" #NT!
+ NOT_MY_HEALTH_NEAR_DEATH: "My [health|E] state is #bold not#! Near Death" #NT!
+ COURT_CHAPLAIN_CANT_FIRE_DOCTRINES: "[CHARACTER.GetFaith.GetName] does #bold not#! have #V Revocable Clerical Appointment#! [doctrine|E].\n\nWithout such a $game_concept_doctrine$, there is always a [court_chaplain|E] or [realm_priest|E]." #NT!
+ COURT_CHAPLAIN_CANT_REASSIGN_DOCTRINES: "[CHARACTER.GetFaith.GetName] does #bold not#! have the [GetFaithDoctrine('doctrine_clerical_succession_temporal_appointment').GetBaseName] or [GetFaithDoctrine('doctrine_clerical_succession_spiritual_appointment').GetBaseName] #V Clerical Appointment#! [doctrines|E].\n\nWithout one of these $game_concept_doctrines$, clerical appointments are for life." #NT!

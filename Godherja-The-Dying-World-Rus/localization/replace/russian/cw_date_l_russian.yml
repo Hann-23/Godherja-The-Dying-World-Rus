@@ -1,0 +1,73 @@
+﻿l_russian:
+ CW_DATE_Monday: "Aedar (1)" #NT!
+ CW_DATE_Tuesday: "Otyndar (2)" #NT!
+ CW_DATE_Wednesday: "Kepadar (3)" #NT!
+ CW_DATE_Thursday: "Nikedar (4)" #NT!
+ CW_DATE_Friday: "Taloerdar (5)" #NT!
+ CW_DATE_Saturday: "Sebastdar (6)" #NT!
+ CW_DATE_Sunday: "Lychodarn (7)" #NT!
+  
+ CW_DATE_January: "Velde (1)" #NT!
+ CW_DATE_February: "Prohde (2)" #NT!
+ CW_DATE_March: "Urede (3)" #NT!
+ CW_DATE_April: "Varpalde (4)" #NT!
+ CW_DATE_May: "Vasade (5)" #NT!
+ CW_DATE_June: "Targade (6)" #NT!
+ CW_DATE_July: "Tyrgade (7)" #NT!
+ CW_DATE_August: "Broende (8)" #NT!
+ CW_DATE_September: "Brnade (9)" #NT!
+ CW_DATE_October: "Sverode (10)" #NT!
+ CW_DATE_November: "Zamistrade (11)" #NT!
+ CW_DATE_December: "Pekielde (12)" #NT!
+ WS_DAY_1: "$CW_DATE_Monday$" #NT!
+ WS_DAY_2: "$CW_DATE_Tuesday$" #NT!
+ WS_DAY_3: "$CW_DATE_Wednesday$" #NT!
+ WS_DAY_4: "$CW_DATE_Thursday$" #NT!
+ WS_DAY_5: "$CW_DATE_Friday$" #NT!
+ WS_DAY_6: "$CW_DATE_Saturday$" #NT!
+ WS_DAY_7: "$CW_DATE_Sunday$" #NT!
+ WS_MONTH_1: "$CW_DATE_January$" #NT!
+ WS_MONTH_2: "$CW_DATE_February$" #NT!
+ WS_MONTH_3: "$CW_DATE_March$" #NT!
+ WS_MONTH_4: "$CW_DATE_April$" #NT!
+ WS_MONTH_5: "$CW_DATE_May$" #NT!
+ WS_MONTH_6: "$CW_DATE_June$" #NT!
+ WS_MONTH_7: "$CW_DATE_July$" #NT!
+ WS_MONTH_8: "$CW_DATE_August$" #NT!
+ WS_MONTH_9: "$CW_DATE_September$" #NT!
+ WS_MONTH_10: "$CW_DATE_October$" #NT!
+ WS_MONTH_11: "$CW_DATE_November$" #NT!
+ WS_MONTH_12: "$CW_DATE_December$" #NT!
+ WS_MONTH_SHORT_1: "$CW_DATE_January$" #NT!
+ WS_MONTH_SHORT_2: "$CW_DATE_February$" #NT!
+ WS_MONTH_SHORT_3: "$CW_DATE_March$" #NT!
+ WS_MONTH_SHORT_4: "$CW_DATE_April$" #NT!
+ WS_MONTH_SHORT_5: "$CW_DATE_May_short$" #NT!
+ WS_MONTH_SHORT_6: "$CW_DATE_June$" #NT!
+ WS_MONTH_SHORT_7: "$CW_DATE_July$" #NT!
+ WS_MONTH_SHORT_8: "$CW_DATE_August$" #NT!
+ WS_MONTH_SHORT_9: "$CW_DATE_September$" #NT!
+ WS_MONTH_SHORT_10: "$CW_DATE_October$" #NT!
+ WS_MONTH_SHORT_11: "$CW_DATE_November$" #NT!
+ WS_MONTH_SHORT_12: "$CW_DATE_December$" #NT!
+ CW_DATE_Jan: "VEL (1)" #NT!
+ CW_DATE_Feb: "PRO (2)" #NT!
+ CW_DATE_Mar: "URE (3)" #NT!
+ CW_DATE_Apr: "VAR (4)" #NT!
+ CW_DATE_May_short: "VAS (5)" #NT!
+ CW_DATE_Jun: "TAR (6)" #NT!
+ CW_DATE_Jul: "TYR (7)" #NT!
+ CW_DATE_Aug: "BRO (8)" #NT!
+ CW_DATE_Sep: "BRN (9)" #NT!
+ CW_DATE_Oct: "SVE (10)" #NT!
+ CW_DATE_Nov: "ZAM (11)" #NT!
+ CW_DATE_Dec: "PEK (12)" #NT!
+ CW_DATE_Mon: "AED (1)" #NT!
+ CW_DATE_Tue: "OTY (2)" #NT!
+ CW_DATE_Wed: "KEP (3)" #NT!
+ CW_DATE_Thu: "NIK (4)" #NT!
+ CW_DATE_Fri: "TAL (5)" #NT!
+ CW_DATE_Sat: "SEB (6)" #NT!
+ CW_DATE_Sun: "LYC (7)" #NT!
+ DATE_AD_YEAR: "$YEAR$ IS" #NT!
+ DATE_BC_YEAR: "$YEAR$ BH" #NT!

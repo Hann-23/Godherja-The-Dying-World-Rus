@@ -1,0 +1,66 @@
+﻿l_russian:
+ title_succession_laws: "[succession_laws|E]" #NT!
+ title_succession_laws_singular: "[succession_law|E]" #NT!
+ sjalvolki_succession_law: "The Sjalvolki Dovatkning" #NT!
+ sjalvolki_succession_law_subname: "A Test of Strength, For All Vassals and Kin" #NT!
+ sjalvolki_succession_law_effects: "\n#V Under The Sjalvolki [dovatkning], all your [duchy] and lower [titles] will go to a designated [heir], but [kingdoms] and [empires] will go to the victor of the [dovatkning].#!\n\n#weak Upon succession, all of the late Ruler's [baronies|E], [counties|E] and [duchies|E] will be given to the [player_heir|E]. All [kingdoms|E] and [empires|E] will be given to whoever wins the [dovatkning|E], in which [dynasty|E] members, [direct_vassals|E] and [claimants|E] fight in ritual combat, sometimes lethal.#!" #NT!
+ rite_succession_law: "The Rite Dovatkning" #NT!
+ rite_succession_law_subname: "A Test of Strength, For All Kin" #NT!
+ rite_succession_law_effects: "\n#V Under the Rite [dovatkning], all your [duchy] and lower [titles] will go to a designated [heir], but [kingdoms] and [empires] will go to the victor of the [dovatkning].#!\n\n#weak Upon succession, all of the late Ruler's [baronies|E], [counties|E] and [duchies|E] will be given to the [player_heir|E]. All [kingdoms|E] and [empires|E] will be given to whoever wins the [dovatkning|E], in which [dynasty|E] members, [direct_vassals|E] and [claimants|E] fight in ritual combat, sometimes lethal.#!" #NT!
+ aversarian_succession_law: "Blood Senate" #NT!
+ aversarian_succession_law_subname: "Battle is the only way to reveal the purest blood" #NT!
+ aversarian_succession_law_effects: "Started by Aautokratir Akalionixos in the early days of modern [aversaria|E], a [blood_senate|E] is a congregation of high nobility in which each family sends one or multiple candidates to a formal tournament to reveal the most powerful [magi|E]. In this tournament, the last man (or woman) standing is by [aversarian|E] law the rightful Aautokratir by bloodright. Despite the magical implications, it is not actually a requirement to use spells to participate, though only a single Aautokratir has ever done so successfully." #NT!
+ lawless_succession_law: "Might Makes Right" #NT!
+ lawless_succession_law_subname: "Only the strongest and most ruthless shall rule" #NT!
+ lawless_succession_law_effects: "\n#V Under $lawless_succession_law$ [succession|E], the [heir|E] is manually designated and inherits all [titles|E], but this can be freely contested by [vassals|E] and [courtiers|E]. Children that have not come of age cannot inherit unless they possess an exceptional personality.#!" #NT!
+ amsari_succession_law: "Kardeslik" #NT!
+ amsari_succession_law_subname: "Earn the Throne through the Emperors favour" #NT!
+ amsari_succession_law_effects: "\n#V $amsari_succession_law$ [succession|E] has been around since the Prophet first envisioned the Amsari Empire. It allows the heir to be designated for the inheritance of all the [titles|E]. However it also allows the Emperor to 'deal with' a large family of potential pretenders.#!" #NT!
+ landed_order_elective_title_succession_law: "Landed Order Elective" #NT!
+ landed_order_elective_title_succession_law_effects: "The [ruler|E] and all direct same faith [vassals|E] can nominate a [title_heir|E] among among the Ordermasters and all same-faith councillors of the [ruler|E]. The [title_heir|E] will inherit all primary tier titles of the [ruler|E]. Vassals will heavily favor members of their own Clique." #NT!
+ landed_order_elective_candidates: "Councillors and Landed Order Vassals" #NT!
+ landed_order_elective_candidates_tooltip: "In order to be a valid Candidate under Landed Order Elective, a character must fulfill one of the following conditions:\n$EFFECT_LIST_BULLET$Be a same-faith councillor of the current ruler \n$EFFECT_LIST_BULLET$Be a direct same-faith Landed Order vassal of the current ruler" #NT!
+ landed_order_elective_electors: "Ruler and same-faith Vassals" #NT!
+ landed_order_elective_electors_tooltip: "In order to be a valid [elector|E] under Landed Order Elective, a vassal must fulfill all the following conditions:\n$EFFECT_LIST_BULLET$Be a direct vassal of the current ruler\n$EFFECT_LIST_BULLET$Follow the same [faith|E] as the current ruler" #NT!
+ clique_military_unit_elective_title_succession_law: "Military Unit Elective" #NT!
+ clique_military_unit_elective_title_succession_law_effects: "The [ruler|E] and all direct [vassals|E] can nominate a [title_heir|E] from all direct Military Unit vassals, as well as the [ruler|E]'s councillors and close family members of the same culture group. The [title_heir|E] will inherit all primary tier titles of the [ruler|E]. Vassals will heavily favor members of their own Clique." #NT!
+ clique_military_unit_elective_candidates: "Councillors, Close Family and Military Unit Vassals" #NT!
+ clique_military_unit_elective: "In order to be a valid Candidate under Military Unit Elective, a character must fulfill one of the following conditions:\n$EFFECT_LIST_BULLET$Be a councillor of the current ruler \n$EFFECT_LIST_BULLET$ Be a close family member of the current ruler \n$EFFECT_LIST_BULLET$Be a direct Military Order vassal of the current ruler" #NT!
+ clique_military_unit_elective_electors: "Ruler and Vassals" #NT!
+ clique_military_unit_elective_electors_tooltip: "In order to be a valid [elector|E] under Military Unit Elective, a vassal must fulfill the following condition:\n$EFFECT_LIST_BULLET$Be a direct vassal of the current holder" #NT!
+ clique_theocracy_elective_title_succession_law: "Theocratic Elective" #NT!
+ clique_theocracy_elective_title_succession_law_effects: "The [ruler|E] and all same-faith direct [vassals|E] can nominate a [title_heir|E] from all direct same-faith Theocratic vassals, as well as the [ruler|E]'s councillors of the same faith. The [title_heir|E] will inherit all primary tier titles of the [ruler|E]. Candidates must fulfill the faiths criteria for priesthood, and vassals will heavily favor members of their own Clique." #NT!
+ clique_theocracy_elective_candidates: "Councillors and Theocratic Vassals" #NT!
+ clique_theocracy_elective_candidates_tooltip: "In order to be a valid Candidate under Theocratic Elective, a character must fulfill one of the following conditions:\n$EFFECT_LIST_BULLET$Be a same-[faith|E] councillor of the current ruler who qualifies for priesthood in the ruler's [faith|E] \n$EFFECT_LIST_BULLET$Be a direct same-[faith|E] Theocratic vassal of the current ruler" #NT!
+ clique_theocracy_elective_electors: "Ruler and same-faith Vassals" #NT!
+ clique_theocracy_elective_electors_tooltip: "In order to be a valid [elector|E] under Theocratic Elective, a vassal must fulfill all the following conditions:\n$EFFECT_LIST_BULLET$Be a direct vassal of the current ruler\n$EFFECT_LIST_BULLET$Follow the same [faith|E] as the current ruler" #NT!
+ clique_republic_elective_title_succession_law: "Republic Elective" #NT!
+ clique_republic_elective_title_succession_law_effects: "The [ruler|E] and all direct [vassals|E] can nominate a [title_heir|E] from all direct vassals, as well as the [ruler|E]'s councillors and close family. The [title_heir|E] will inherit all primary tier titles of the [ruler|E]. Vassals will heavily favor members of their own Clique." #NT!
+ clique_republic_elective_candidates: "Councillors, Close Family and direct Vassals" #NT!
+ clique_republic_elective_candidates_tooltip: "In order to be a valid Candidate under Republic Elective, a character must fulfill one of the following conditions:\n$EFFECT_LIST_BULLET$Be a councillor of the current ruler \n$EFFECT_LIST_BULLET$ Be a close family member of the current ruler  \n$EFFECT_LIST_BULLET$Be a direct vassal of the current ruler" #NT!
+ clique_republic_elective_electors: "Ruler and direct Vassals" #NT!
+ clique_republic_elective_electors_tooltip: "In order to be a valid [elector|E] under Republic  Elective, a vassal must fulfill the following condition:\n$EFFECT_LIST_BULLET$Be a direct vassal of the current ruler" #NT!
+ clique_magocratic_republic_elective_title_succession_law: "Magocratic Republic Elective" #NT!
+ clique_magocratic_republic_elective_title_succession_law_effects: "The [ruler|E] and all direct [vassals|E] can nominate a [title_heir|E] from all direct [magi|E] vassals, as well as the [ruler|E]'s magically capable councillors and close family. The [title_heir|E] will inherit all primary tier titles of the [ruler|E]. Vassals will heavily favor members of their own Clique as well as powerful [magi|E]." #NT!
+ clique_magocratic_republic_elective_candidates: "Magi Councillors, Close Family and direct Vassals" #NT!
+ clique_magocratic_republic_elective_candidates_tooltip: "In order to be a valid Candidate under Magocratic Republic Elective, a character must be a [magi|E] and fulfill one of the following conditions:\n$EFFECT_LIST_BULLET$Be a councillor of the current ruler \n$EFFECT_LIST_BULLET$ Be a close family member of the current ruler  \n$EFFECT_LIST_BULLET$Be a direct vassal of the current ruler" #NT!
+ clique_magocratic_republic_elective_electors: "Ruler and direct Vassals" #NT!
+ clique_magocratic_republic_elective_electors_tooltip: "In order to be a valid [elector|E] under Magocratic Republic  Elective, a vassal must fulfill the following condition:\n$EFFECT_LIST_BULLET$Be a direct vassal of the current ruler" #NT!
+ magocratic_elective_succession_law: "Magocratic Elective" #NT!
+ magocratic_elective_succession_law_effects: "The [ruler|E] and all direct [vassals|E] can nominate a [title_heir|E] from among Magocratic vassals and [magi|E] [close_family|E] members of the ruler. Vassals heavily prefer powerful [magi|E]" #NT!
+ magocratic_elective_candidates: "Close Family [magi|E], Magi Claimants, and Magocratic Vassals" #NT!
+ magocratic_elective_candidates_tooltip: "In order to be a valid Candidate under Magocratic Elective, a character must be a [magi|E] and fulfill one of the following conditions:\n$EFFECT_LIST_BULLET$Be a legitimate [close_family|E] member of the current ruler, who is not in line to inherit a Theocracy or Republic\n$EFFECT_LIST_BULLET$Be a [claimant|E] to the title, who is not in line to inherit a Theocracy or Republic\n$EFFECT_LIST_BULLET$Be a direct Magocratic vassal to the title" #NT!
+ magocratic_elective_electors: "Ruler and Vassals" #NT!
+ magocratic_elective_electors_tooltip: "In order to be a valid [elector|E] under Magocratic Elective, a vassal must fulfill the following condition:\n$EFFECT_LIST_BULLET$Be a direct vassal of the title" #NT!
+ succession_laws_must_be_sjalvolki_tooltip: "[GetPlayer.GetCulture.GetName] is not of Sjalvolki [heritage|E] and my [faith|E] is not part of or syncretic with the Sjalvolki [religion|E]" #NT!
+ succession_laws_must_be_aversarian_tooltip: "[GetPlayer.GetCulture.GetName] is not of [aversarian|E] [heritage|E] and my [faith|E] is not part of or syncretic with the [aversarian|E] [religion|E]" #NT!
+ succession_laws_must_have_magic_supremacy_tooltip: "[GetPlayer.GetFaith.GetName] does not have the Magic Supremacy [doctrine|E]" #NT!
+ succession_laws_must_be_amsari_tooltip: "[GetPlayer.GetCulture.GetName] is not of Amsari [heritage|E] and my [faith|E] is not part of or syncretic with the Amsari [religion|E]" #NT!
+  # Lonely Note: Make a pirate authority cooldown so we can use the better version of the below loc (and remove NOT_ from the trigger loc) 
+ has_pirate_authority_cooldown: "You recently changed Pirate Authority. Can be changed again after [GetCurrentDateWithDiff( GetVarTimeRemaining( CHARACTER.MakeScope, 'crown_authority_cooldown') )]" #NT!
+ NOT_has_pirate_authority_cooldown: "You have not recently changed Pirate Authority." #NT!
+ succession_laws_must_have_innovation_or_marcher_tooltip: "I do not have a [magocracy|E], [feudal|E] or [clan|E] [government|E]" #NT!
+ chevalie_allows_heir_designation: "Your culture does not have the Chevalien Legacy Tradition" #NT!
+ scandinavian_elective_succession_law: "Katraddian Elective" #NT!
+ scandinavian_elective_succession_law_subname: "Tribes Meet" #NT!
+  

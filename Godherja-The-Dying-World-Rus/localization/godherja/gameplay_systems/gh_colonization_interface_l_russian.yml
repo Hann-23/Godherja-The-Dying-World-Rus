@@ -1,0 +1,21 @@
+﻿l_russian:
+ colonize_wasteland_interaction: "[colonize|E] Wasteland" #NT!
+ colonize_wasteland_interaction_desc: "Try to reclaim a piece of barren land." #NT!
+ colonize_wasteland_interaction_title: "Wasteland Reclaimed" #NT!
+ gh_colonize_wasteland_title: "Wasteland Reclaimed" #NT!
+ colonize_holding_interaction_title_not_county_or_below: "Select a [county|E] or [barony|E]" #NT!
+ abandon_colony_interaction: "Abandon Colony" #NT!
+ abandon_colony_interaction_desc: "Abandon your efforts at colonizing this [county|E]." #NT!
+ COLONISATION_STEP: "Phase:" #NT!
+ COLONISATION_STEP_VALUE: "[HoldingView.GetProvince.Custom('gh_colonisation_phase')]" #NT!
+ COLONISATION_POLICY: "Policy:" #NT!
+ COLONISATION_POLICY_VALUE: " Man vs Nature" #NT!
+ COLONIZE_BUTTON_TEXT: "[colonize|E] [county|E]" #NT!
+ ABANDON_COLONY_BUTTON_TEXT: "Abandon Colony" #NT!
+ GH_COLONISATION_PHASE_INITIAL: "Initial" #NT!
+ GH_COLONISATION_PHASE_MAIN: "Main" #NT!
+ GH_COLONISATION_PHASE_MAIN_NONE: "None" #NT!
+  
+ wasteland_kingdom_title_name: "[temporary_kingdom_scope.GetAdjectiveNoTooltip] Waste" #NT!
+ RED_WASTE_NAME: "The Red Waste" #NT!
+ BLANK_KINGDOM_NAME: 

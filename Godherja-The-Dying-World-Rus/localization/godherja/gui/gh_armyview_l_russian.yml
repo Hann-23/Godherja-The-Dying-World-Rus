@@ -1,0 +1,4 @@
+﻿l_russian:
+ TOGGLE_REDISTRIBUTION_STANCE: "#T [Select_CString( Army.MakeScope.Var('raiding_redistribution_disabled').IsSet, 'Do Not Redistribute Loot', 'Redistribute Loot' )]#!\n[SelectLocalization( Army.HasLooterStance, 'TOGGLE_REDISTRIBUTION_STANCE_DESC_ON', 'TOGGLE_REDISTRIBUTION_STANCE_DESC_OFF' )]" #NT!
+ TOGGLE_REDISTRIBUTION_STANCE_DESC_ON: "This [army|E] will automatically redistribute half of its loot at the conclusion of a [raid|E]" #NT!
+ TOGGLE_REDISTRIBUTION_STANCE_DESC_OFF: "This [army|E] will not redistribute any of its loot at the conclusion of a [raid|E]" #NT!

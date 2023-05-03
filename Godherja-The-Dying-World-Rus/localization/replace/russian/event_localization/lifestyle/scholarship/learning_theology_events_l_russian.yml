@@ -1,0 +1,3 @@
+﻿l_russian:
+ learning_theology.3021.desc_opening: "My recent endeavors within the realm of theology have given me a greater appreciation for [ROOT.Char.GetFaith.HighGodNamePossessive] representatives on [aeras|E]. Trying to express some of these feelings, I will draft a letter to the [compliment_receiver.GetTitleAsName], [compliment_receiver.GetFirstName].\n\n" #NT!
+ learning_theology.3003.b: "You are right, I should focus on more mundane matters." #NT!

@@ -1,0 +1,12 @@
+﻿l_russian:
+ harthah_war.0100.t: "Against the Agionists" #NT!
+ harthah_war.0100.desc: "At long last our campaign to drive the Agionists from [sarradon|E] has begun, and my soldiers now muster in great numbers. As news of our drive against these monsters in human form spreads across the land, eager recruits flock to our banner. For too long have the people of Sarradon been oppressed by these tyrants and their heathen Saints, and our ranks of recruits swell to even include [ritualists|E] and other non-[wardenites|E], desperate for freedom from the yoke of [aversarian|E] slavery. If I but say the word, the populace will rise up in insurrection to support my invasion." #NT!
+ harthah_war.0100.a: "All of Sarradon marches with me!" #NT!
+ harthah_war.0100.a.tt: "You will gain massive support for your campaign, both from Agionist-held provinces and from non-Agionist vassals of the Orders." #NT!
+ harthah_war.0100.b: "I have no need for this rabble." #NT!
+ harthah_war.0100.b.tt: "You will gain no extra troops for this war." #NT!
+ harthah_war.0101.t: "Ḥārthah Marches" #NT!
+ harthah_war.0101.desc: "At long last Ḥārthah, the so-called father of [sarradon|E], marches to liberate us. The panic among the Agionists, once so smug in their superiority, is plain to see as they hurridly hurriedly their levies. Behind their sneers I now detect a chilled terror, and their once self-assured commands have been replaced with hoarse shrieks demanding loyalty and service. I have long labored as a puppet and vassal under these cruel tyrants, but now? Perhaps it is time to rise and take back Sarradon." #NT!
+ harthah_war.0101.a: "To Arms!" #NT!
+ harthah_war.0101.a.tt: "You will join Ḥārthah against your liege." #NT!
+ harthah_war.0101.b: "Ḥārthah is doomed. I will not sink with him." #NT!

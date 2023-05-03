@@ -1,0 +1,35 @@
+﻿l_russian:
+  
+ notable.0001.t: "Search for a Courtier" #NT!
+ notable.0001.desc: "The best talent scouts in the realm have gathered before me and wait to hear the skill set I am looking for. I tell them that I want. . ." #NT!
+ notable.0001.a: "A commander." #NT!
+ notable.0001.b: "A diplomat." #NT!
+ notable.0001.c: "A steward." #NT!
+ notable.0001.d: "A spymaster." #NT!
+ notable.0001.f: "A debutante." #NT!
+ notable.0001.g: "I've changed my mind, I don't want anyone." #NT!
+ notable.0002.t: "The Military Candidates" #NT!
+ notable.0002.desc: "Having scoured the training fields and armies of the realm, the talent seekers return with a list of military candidates. Each, they assure me, are competent in the field and suited to the tasks I will assign them." #NT!
+ notable.0002.a: "I am told [excellent_martial_skill_option.GetFirstNameNoTooltip] is quite skilled in military matters." #NT!
+ notable.0002.b: "[high_martial_skill_option.GetFirstNameNoTooltip] is said to be a competent strategist." #NT!
+ notable.0002.c: "[low_martial_skill_option.GetFirstNameNoTooltip] will do." #NT!
+ notable.0003.t: "The Diplomatic Candidates" #NT!
+ notable.0003.desc: "Having searched the settlements of the land, the talent seekers have returned with a list of diplomats. They are all skilled in their work and, the talent seekers tell me, are well-suited to whatever tasks I have for them." #NT!
+ notable.0003.a: "[excellent_diplomacy_skill_option.GetFirstNameNoTooltip]'s eloquence is well known." #NT!
+ notable.0003.b: "[high_diplomacy_skill_option.GetFirstNameNoTooltip] is quite the mediator." #NT!
+ notable.0003.c: "[low_diplomacy_skill_option.GetFirstNameNoTooltip] is good enough." #NT!
+ notable.0004.t: "The Administrative Candidates" #NT!
+ notable.0004.desc: "Having inquired into the cities of the land, the talent seekers arrive with a list of administrators. All of them are literate and learned in mathematics, so, I am told, they will be suitable for the tasks ahead of them." #NT!
+ notable.0004.a: "[excellent_stewardship_skill_option.GetFirstNameNoTooltip] has saved several failing enterprises from bankruptcy." #NT!
+ notable.0004.b: "[high_stewardship_skill_option.GetFirstNameNoTooltip] has a firm grasp of administration." #NT!
+ notable.0004.c: "[low_stewardship_skill_option.GetFirstNameNoTooltip] knows how to use an abacus, at least." #NT!
+ notable.0005.t: "The Intriguing Candidates" #NT!
+ notable.0005.desc: "Having conferred with less than savory parts of the realm, the talent seekers return with a list of ne'er-do-wells, each one well-versed in skulduggery and prepared to undergo any task I give them." #NT!
+ notable.0005.a: "Men whisper of [excellent_intrigue_skill_option.GetFirstNameNoTooltip]'s ability to collect secrets." #NT!
+ notable.0005.b: "[high_intrigue_skill_option.GetFirstNameNoTooltip] is rumored to be an effective spymaster." #NT!
+ notable.0005.c: "[low_intrigue_skill_option.GetFirstNameNoTooltip] is a good thug, if nothing else." #NT!
+ notable.0006.t: "The Debutante Candidates" #NT!
+ notable.0006.desc: "Having scoured hither and thither across the land, the talent seekers have returned with a list of debutantes. Each is cultured and will not be too much of an insult in my court." #NT!
+ notable.0006.a: "[excellent_debutante_skill_option.GetFirstNameNoTooltip] is said to be beautiful and well bred." #NT!
+ notable.0006.b: "I am told [high_debutante_skill_option.GetFirstNameNoTooltip] is very courteous." #NT!
+ notable.0006.c: "[low_debutante_skill_option.GetFirstNameNoTooltip] can do with improvement, but [low_debutante_skill_option.GetSheHe] will suffice." #NT!

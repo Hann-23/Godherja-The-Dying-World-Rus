@@ -1,0 +1,8 @@
+﻿l_russian:
+ rayakuux_title: "Rayakuux" #NT!
+ qabuux_title: "Qabuux" #NT!
+ karavuux_title: "Karavuux" #NT!
+ waranuux_title: "Waranuux" #NT!
+  
+  # Trigger localization 
+ caste_must_not_be_on_cooldown_trigger: "Lodge influence can only be raised or lowered once every 10 years per [county]" #NT!

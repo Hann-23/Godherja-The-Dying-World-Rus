@@ -1,0 +1,78 @@
+﻿l_russian:
+  
+ #salacad Loc 
+ salacad_religion: "Salacad" #NT!
+ salacad_religion_adj: "Salacad" #NT!
+ salacad_religion_adjerent: "Salacad" #NT!
+ salacad_religion_adherent_plural: "Salacad" #NT!
+ salacad_religion_desc: "Like many other ancient faiths, the Salacad claim that there were two primordial creator-deities: Mother Sky and Father Earth. But unlike others, they claim that the two gods were constantly at war, with Father Earth being the violent instigator. Mother Sky led a valiant defense, and ultimately triumphed against her cruel enemy. She then swore to look after her daughters and sons, especially humanity." #NT!
+ salacad_high_god_name: "Mother Sky" #NT!
+ salacad_high_god_name_possessive: "Mother Sky's" #NT!
+ salacad_high_god_name_alternate: "Skyanya" #NT!
+ salacad_high_god_name_alternate_possessive: "Skyanya's" #NT!
+ salacad_devil_name: "$salacad_religion_death_deity_name$" #NT!
+ salacad_devil_name_possessive: "$salacad_religion_death_deity_name_possessive$" #NT!
+ salacad_death_deity_name: "Father Earth" #NT!
+ salacad_death_deity_name_possessive: "Father Earth" #NT!
+ salacad_house_of_worship: "Skyabid" #NT!
+ salacad_house_of_worship_plural: "Skyabids" #NT!
+ salacad_religious_symbol: "eagle" #NT!
+ salacad_religious_text: "Epics of Skyanya" #NT!
+ salacad_religious_head_title: "Highest Damavand" #NT!
+ salacad_religious_head_title_name: "The High Skyabid" #NT!
+ salacad_devotee_male: "Salacad" #NT!
+ salacad_devotee_male_plural: "Salacad" #NT!
+ salacad_devotee_female: "Salacad" #NT!
+ salacad_devotee_female_plural: "Salacad" #NT!
+ salacad_devotee_neuter: "Salacad" #NT!
+ salacad_devotee_neuter_plural: "Salacad" #NT!
+ salacad_priest_male: "Damavand" #NT!
+ salacad_priest_male_plural: "Damavand" #NT!
+ salacad_priest_female: "Damavand" #NT!
+ salacad_priest_female_plural: "Damavand" #NT!
+ salacad_priest_alternate_plural: "Damavand" #NT!
+ salacad_bishop: "High Damavand" #NT!
+ salacad_bishop_plural: "High Damavand" #NT!
+ salacad_bishop_possessive: "High Damavand's" #NT!
+ salacad_positive_afterlife: "Agbhalla" #NT!
+ salacad_negative_afterlife: "Ishtar" #NT!
+ salacad_creator_god_name: "$salacad_high_god_name$" #NT!
+ salacad_creator_god_name_possessive: "$salacad_high_god_name_possessive$" #NT!
+ salacad_health_god_name: "$salacad_fertility_god_name$" #NT!
+ salacad_health_god_name_possessive: "$salacad_fertility_god_name_possessive$" #NT!
+ salacad_fertility_god_name: "$salacad_high_god_name$" #NT!
+ salacad_fertility_god_name_possessive: "$salacad_high_god_name_possessive$" #NT!
+ salacad_wealth_god_name: "Kapzsi" #NT!
+ salacad_wealth_god_name_possessive: "Kapzsi's" #NT!
+ salacad_household_god_name: "Haz" #NT!
+ salacad_household_god_name_possessive: "Haz's" #NT!
+ salacad_fate_god_name: "Sors" #NT!
+ salacad_fate_god_name_possessive: "Sors'" #NT!
+ salacad_knowledge_god_name: "Tudas" #NT!
+ salacad_knowledge_god_name_possessive: "Tudas'" #NT!
+ salacad_war_god_name: "Haboru" #NT!
+ salacad_war_god_name_possessive: "Haboru's" #NT!
+ salacad_trickster_god_name: "Csalo" #NT!
+ salacad_trickster_god_name_possessive: "Csalo's" #NT!
+ salacad_night_god_name: "$salacad_trickster_god_name$" #NT!
+ salacad_night_god_name_possessive: "$salacad_trickster_god_name_possessive$" #NT!
+ salacad_water_god_name: "$salacad_trickster_god_name$" #NT!
+ salacad_water_god_name_possessive: "$salacad_trickster_god_name_possessive$" #NT!
+ salacad_witch_god_name: "$salacad_fate_god_name$" #NT!
+ salacad_witch_god_name_possessive: "$salacad_fate_god_name_possessive$" #NT!
+  #Salacad loc 
+ salacad: "Salacad" #NT!
+ salacad_adj: "Salacad" #NT!
+ salacad_adherent: "Salacad" #NT!
+ salacad_adherent_plural: "Salacad" #NT!
+ salacad_desc: "The Salacad faith is native to the Sarminians of the Sjalvolki coalition. Due to their belief that Mother Sky is their leader and guardian, they place a particular importance on women in their society. Women serve as shamans, communing with Mother Sky and divining her will in order to steer the faithful to glory beneath the gaze of her blue eyes." #NT!
+ salacad_old: "Old Salacad" #NT!
+ salacad_old_adj: "Old Salacad" #NT!
+ salacad_old_adherent: "Old Salacad" #NT!
+ salacad_old_adherent_plural: "Old Salacad" #NT!
+  #Segyetes loc 
+ segyetes: "Segyetes" #NT!
+ segyetes_adj: "Segyetes" #NT!
+ segyetes_adherent: "Segyetes" #NT!
+ segyetes_adherent_plural: "Segyetes" #NT!
+ segyetes_desc: "The Segyetes faith believe that Mother Sky and Father Earth were once lovers who created the sky and earth together as one. However, Father Earth grew jealous of Mother Sky's beautiful creation, humanity. He wanted to bring his own beings into existence to compete with hers, so he formed demons out of the dirt. The demons terrorized the world, leading Mother Sky to wage war on her lover's creations. The ensuing battles led to Mother Sky tearfully plunging her spear into Father Earth, splitting the earth and sky asunder and separating humanity from their creator. The Segyetes believe that the way to salvation is to reconcile their relationship so that the two can finally be whole again. Both men and women serve as shamans communing with the sky and earth to mend the bonds that were broken." #NT!

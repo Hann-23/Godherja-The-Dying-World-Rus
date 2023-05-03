@@ -1,0 +1,49 @@
+﻿l_russian:
+ reunite_chevalie_decision: "Reunite Chevalie" #NT!
+ reunite_chevalie_decision_desc: "[chevalie|E] lays disunited, and such conflict in its borders have not been since the War of the Black-Gold League. If Chevalie is to become united once more, it will require a strong ruler with equally strong claim to the throne, and for their enemies to have been brought to heel." #NT!
+ reunite_chevalie_decision_confirm: "Unite the Marches" #NT!
+ reunite_chevalie_decision_tooltip: "The crown, long shattered, must unite" #NT!
+  
+ forge_a_claim_on_chevalie_decision: "Forge a Claim on the Marcher Throne" #NT!
+ forge_a_claim_on_chevalie_decision_desc: "[chevalie|E] lays disunited, and the heirs to its throne bicker and fight over the remains. It is the right and just cause of any true ruler to aspire to sit at its head, and surely there are avenues for one without a 'birthright' to forge a claim to the High Kingdom?" #NT!
+ forge_a_claim_on_chevalie_decision_confirm: "Forge a Claim" #NT!
+ forge_a_claim_on_chevalie_decision_tooltip: "By rights, the throne may only belong the one able to seize it themselves" #NT!
+ codify_the_freedom_of_lifepaths_decision: "Codify the Freedom of Lifepaths" #NT!
+ codify_the_freedom_of_lifepaths_decision_desc: "For too long has it become the way of the nobility to hamper the Waychoice of the lower classes. The Waysaints and the founders of our faith knew that it is up to each man and woman to choose their own destiny, no matter what their rulers think. It is time the line was drawn. By calling a council of Wayfathers and enshrining into law the true path, we will ensure that nobody is ever steered from their rightful Path again!" #NT!
+ codify_the_freedom_of_lifepaths_decision_confirm: "Call the council!" #NT!
+ codify_the_freedom_of_lifepaths_decision_tooltip: "Codify Freedom" #NT!
+ enforce_the_exclusivity_of_lifepaths_decision: "Enforce the Exclusivity of Lifepaths" #NT!
+ enforce_the_exclusivity_of_lifepaths_decision_desc: "What right do the peasants have, when they work on our land and serve at our whim, to name their fate that of rulers or warriors? It is the rightful place of the nobility to choose this for them, to ensure that they happily toil in the Way of Harvests and only take another Path at our own discretion. It's time to enshrine into law the true way of things, no matter what some mumbling Wayfather says." #NT!
+ enforce_the_exclusivity_of_lifepaths_decision_confirm: "Enforce serfdom!" #NT!
+ enforce_the_exclusivity_of_lifepaths_decision_tooltip: "Enforce Exclusivity" #NT!
+ reforge_the_crown_decision: "Reforge the Crown" #NT!
+ reforge_the_crown_decision_desc: "After High King Gardfrei split the crown, he stated that whomever could gather the pieces would be worthy to wear it. In wresting all of them from the clutches of pretenders, I have proven myself to be the legitimate successor. Let Chevalie stand united once more!" #NT!
+ reforge_the_crown_decision_valid_condition: "All four pieces of the Broken Crown are in your possession" #NT!
+ reforge_the_crown_decision_effect: "All pieces of the Broken Crown are destroyed." #NT!
+ reforge_the_crown_decision_confirm: "An end to family squabbles" #NT!
+ reforge_the_crown_decision_tooltip: "Reforge the Crown" #NT!
+ reclaim_the_crown_decision: "Reclaim Parts of the Broken Crown" #NT!
+ reclaim_the_crown_decision_desc: "As a claimant to the High Kingdom, the broken crown is mine by right!" #NT!
+ reclaim_the_crown_decision_confirm: "They shall all be mine" #NT!
+ reclaim_the_crown_decision_tooltip: "Reclaim Parts of the Broken Crown" #NT!
+ revert_to_gestanwoder_decision: "Revert to Gestanwoder" #NT!
+ revert_to_gestanwoder_decision_desc: "The Life Path ways have proven to be a mistake to follow. One must only look over our canals at the constant collapse of the neighbouring kingdoms to prove this true. We must stop the persecution of the old Gestanwoder adherents, they are our countrymen. We must stand together to whether the chaos around us." #NT!
+ revert_to_gestanwoder_decision_confirm: "A renewal of a brighter time" #NT!
+ revert_to_gestanwoder_decision_tooltip: "Return to the Gestanwoder faith" #NT!
+ reintegrate_ziemojycz_decision: "Reintegrate Ziemojycz" #NT!
+ reintegrate_ziemojycz_decision_desc: "The continued existence of what remains of the Oejeynica sits on a blade's edge, their proximity to the [lichdoms|E] a perpetual axe hanging over their heads. We must return them to the fold - for their own good." #NT!
+ reintegrate_ziemojycz_decision_valid_condition: "Ziemojycz is independent, and you haven't requested fealty recently." #NT!
+ reintegrate_ziemojycz_decision_effect: "A messenger will be sent to Ziemojycz, requesting their fealty." #NT!
+ reintegrate_ziemojycz_decision_confirm: "Let's hope they pick wisely" #NT!
+ reintegrate_ziemojycz_decision_tooltip: "Reintegrate Ziemojycz" #NT!
+ demand_independent_lords_swear_fealty_decision: "Demand the Fealty of the Independents" #NT!
+ demand_independent_lords_swear_fealty_decision_desc: "There are those in [chevalie|E] that have not yet properly paid homage to me. Let's remedy that." #NT!
+ demand_independent_lords_swear_fealty_decision_tooltip: "Time for everyone in the Marches to submit to me" #NT!
+ demand_independent_lords_swear_fealty_decision_confirm: "Prepare the Envoys" #NT!
+ demand_independent_lords_swear_fealty_decision_cooldown_tt: "It has been at least five years since you last demanded fealty." #NT!
+ strike_at_the_partic_decision: "Strike at the Partic" #NT!
+ strike_at_the_partic_decision_desc: 
+ strike_at_the_partic_decision_confirm: 
+ negotiate_with_the_partic_decision: "Negotiate with the Partic" #NT!
+ negotiate_with_the_partic_decision_desc: 
+ negotiate_with_the_partic_decision_confirm: 

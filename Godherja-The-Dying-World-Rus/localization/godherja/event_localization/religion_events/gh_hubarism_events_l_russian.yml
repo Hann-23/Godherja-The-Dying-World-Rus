@@ -1,0 +1,14 @@
+﻿l_russian:
+ hubarite.0001.t: "Writing a Codex" #NT!
+ hubarite.0001.desc: "As I set to work on my legal codex, laying pen to paper as I outline my personal philosophy, legal experience, and advice for governance, I have to make an important decision. I must choose how complicated to make my great work, whether to aim for only legal masterminds, or the common man. A more advanced codex, should I possess the skill to write one, will undoubtably be more useful later, but only for those who can competently use it, while a more simplified version, though accessible, will be less capable of breaking new ground." #NT!
+ hubarite.0001.a: "Write a Trivial codex." #NT!
+ hubarite.0001.b: "Write an Uncomplicated codex." #NT!
+ hubarite.0001.c: "Write an Intermediate codex." #NT!
+ hubarite.0001.d: "Write an Advanced codex." #NT!
+  
+ hubarite.0002.t: "A New Empire of Shamsah" #NT!
+ hubarite.0002.desc: "For so long has the reign of tyrannical invaders blotted out our people's glory, for untold ages has the ancient greatness of our civilization been eclipsed by heathen upstarts. But today, that is no more. I now stand as the ruler of the greatest Hubarite realm in recorded history, reigning as an enlightened judge over the lands once ruled by my distant, near-forgotten ancestors. I have avenged the countless conquests and subjugations of my people. I have righted the world to what it should always have been, as unlikely as it might have seemed to those unaware of the true history of my people. For, by the grace of the Great Sun, the order which was so long lost has finally been found." #NT!
+ hubarite.0002.a: "And never again shall the sun set." #NT!
+ hubarite.0003.t: "A Hubarite Empire" #NT!
+ hubarite.0003.desc: "In Central [sarradon|E], a faith long confined to the backwaters of inland Kharadamat has risen, and suddenly encompassed vast swathes of territory, proclaiming the restoration of an ancient empire whom none, save a handful of specialized scholars, have ever heard of. Proclaiming their new borders to be the ancient extent of this lost Hubarite civilization, they are now in control of territories that most likely have not seen a Hubarist ruler in centuries, if not millenia. It will be up to the fickle winds of history, however, to see if their newfound empire will vanish into oblivion, like the forgotten state it claims to succeed." #NT!
+ hubarite.0003.a: "How strange." #NT!

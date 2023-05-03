@@ -1,0 +1,104 @@
+﻿l_russian:
+ marcher_decision.0001.t: "Chevalie Reunited!" #NT!
+ marcher_decision.0001.desc.benouet: "I've done it! Thanks to the nice nobles who helped me so much with their smarts and armies, father's throne is now mine! My brothers were wrong when they said I could not be a High King like father.\n\nI don't know what to do now, but the Council will help me, and they keep telling me I have to give them their due for helping me so much. That's alright, I'm the High King! I can do anything now! Just like father!" #NT!
+ marcher_decision.0001.a: "You want land? We have tons of land!" #NT!
+ marcher_decision.0001.desc.rene: "It is over. The wars of reunification are done, and good men from both sides now serve as fuel for the pyres as I sit on my father's throne. The land is scarred and fractured still, just as my family remains, and I can even now hear the whispering of nobles who think they are more silent than they are, or safer in their position, that the Bastard King deserves not to sit on so high a throne.\n\nThey are wrong. Through fire and fury I took back my father's throne from those who did not deserve to sit it, and through fire and fury I will ensure the realm united and the [liches|E] kept from our borders. If my brothers can never recognize this then it shall stay so, but I am the High King, and my rule begins now." #NT!
+ marcher_decision.0001.b: "Now begins a time of healing, and an age of war." #NT!
+ marcher_decision.0001.desc.cliement.adult: "My father's throne is mine.\n\nWhile I was but a boy when he left, and lived out my childhood cloistered by my court as men died in my name, I now ascend my throne a man. While my brothers thought themselves deserving thanks to age, they can no longer pretend their right is any greater than mine, as I sit on a throne and they prostrate themselves before me.\n\nHowever I rule is up to me alone, but I no doubt have to keep in mind those who got me here. Namely mother, and the mercenary she beds..." #NT!
+ marcher_decision.0001.c: "The future is mine. I have much to learn." #NT!
+ marcher_decision.0001.desc.cliement.boy: "I'm the High King! Mother told me that it's now my place to rule our people, just like my tutors said I would! She told me I could do anything I wanted, whenever I want! I'm excited, and I have so many nice people who tell me they will help me in being a High King.\n\nMother is so proud, but Engelmar scares me. He still insists I call him uncle, but I know we don't share blood, and when he smiles he doesn't look nice..." #NT!
+ marcher_decision.0001.d: "I hope I'm a good High King!" #NT!
+ marcher_decision.0001.desc.ansfrei.noheir: "By the grace of the Waysaints and those brave men and women who did such evil in the name of good, I am now the High King of Chevalie. By all rights and laws, I am a shepherd to my people, to both ensure the wellness of their being and their safety against the blighted hordes of the dead north.\n\nStill, there are more... personal... matters... to attend to. They tell me I need an heir, everyone does, even the peasants whisper it. If I can reunite Chevalie, I can do that too. Right? Of course. Yes. Easy." #NT!
+ marcher_decision.0001.e: "Waysaints help me." #NT!
+ marcher_decision.0001.desc.ansfrei.heir: "By the grace of the Waysaints and those brave men and women who did such evil in the name of good, I am now the High King of Chevalie. By all rights and laws, I am a shepherd to my people, to both ensure the wellness of their being and their safety against the blighted hordes of the dead north.\n\nAlready my greatest challenge is done. Not only do I rule, but I have an heir. The greatest fears of my family and my court proven unsound. I pray I never have to do such a thing again..." #NT!
+ marcher_decision.0001.f: "The good work begins." #NT!
+ marcher_decision.0001.desc.mathilde: "Who am I?\n\nAm I the little girl stabbing a husband three times my age, tears in my eyes? The whisper in Gardfrei's ear, agreeing to do every little evil he needed done while ensuring each one was planted in his little brain by myself? Or am I the good High Queen of Chevalie, sitting on my throne as the groveling scycophants and whispering plotters bow before me both?\n\nThe truth is I am all of them. While nobody expected that I would ever sit on my throne, nobody besides myself, all now recognize me as the rightful ruler of Chevalie. If they do not, then they will go to the grave with their doubts." #NT!
+ marcher_decision.0001.g: "I am finally at the top, but there is so much further to go..." #NT!
+ marcher_decision.0001.desc.regular: "I now sit upon the throne, my name enshrined in the annals of history. By all rights and laws the High Kingdom of Chevalie is mine, and those who yet claim my throne will have no choice but to pledge their loyalty in the days to come. The land remains scarred and battered from the years of bloody conflict, but in time Chevalie will prosper once again." #NT!
+  
+ marcher_decision.0002.t: "Chevalie Reunited!" #NT!
+ marcher_decision.0002.desc.marchers: "The wars of reunification have finally come to a close as [chevalie_uniter.GetTitledFirstName] takes the High Kingdom's throne. Perhaps now the deep scars across Chevalie can finally begin to heal, but only time will tell if [chevalie_uniter.GetTitledFirstName]'s peace will last." #NT!
+ marcher_decision.0002.desc.regular: "After years of bloody conflict, the High Kingdom of Chevalie has been reformed. [chevalie_uniter.GetTitledFirstName] has risen as the victor, but who knows how long they will last. For now, the Marchers stand united." #NT!
+ marcher_decision.0002.a: "The winds of change blow once again." #NT!
+ marcher_decision.0002.b: "A new day rises for Marchers everywhere" #NT!
+ marcher_decision.0100.t: "The Grand Duchy of Ziemojycz" #NT!
+ marcher_decision.0100.desc: "Straddling our border with the [lichdoms|E] is the last vestige of the Oejeynica - the duchy of Ziemojycz. Traditionally, their Grand Duke has given fealty to the ruler of Chevalie - a reasonable courtesy, considering the fact that the only reason their people hold the land in the first place is the generosity of one of our forebears.\n\nAs of now, however, we have not yet received the honors we are due. We should remedy this." #NT!
+ marcher_decision.0100.a: "Send the messenger." #NT!
+ marcher_decision.0100.b: "Shouldn't be visible." #NT!
+ marcher_decision.0101.t: "The Grand Duchy of Ziemojycz" #NT!
+ marcher_decision.0101.desc: "We have received an envoy from the court of [chevalie_ruler.GetTitledFirstName], apparently seeking our submission. The messenger has made sure to recite all the seemingly endless acts of goodwill Chevalie has provided our people, and stressed that we should get these formalities out of the way as soon as possible - for our own good, of course." #NT!
+ marcher_decision.0101.a: "Very well." #NT!
+ marcher_decision.0101.b: "We do not need their 'protection'!" #NT!
+ marcher_decision.0110.t: "The Grand Duchy of Ziemojycz" #NT!
+ marcher_decision.0110.desc: "Our envoy has arrived back from Ziemojycz. Their Grand Duke, now formally invested with the title, has accepted our offer and is travelling to our lands to give homage immediately." #NT!
+ marcher_decision.0110.a: "They show wisdom." #NT!
+ marcher_decision.0111.t: "The Grand Duchy of Ziemojycz" #NT!
+ marcher_decision.0111.desc: "Our envoy has arrived back from Ziemojycz. The arrogant buffons have spurned our request, seemingly intent on becoming carrion for the liches." #NT!
+ marcher_decision.0111.a: "If they will not see reason, we will show it to them." #NT!
+ marcher_decision.0200.t: "Reverting to the Old Ways" #NT!
+ marcher_decision.0200.desc: "The Life Paths was a way of life pushed onto us from the conquerers of old. The Marchers sought to change our ways, our minds, but look at them now, warring amongst themselves with constant collapses. But there are plenty of followers of the old Gestanwoder religion inside of the deep swamps and overgrown forests inside our lands. No longer will they have to live in fear of persecution and distrust from their peers. Today we bring the Gestandwoder into the light and push out the perfidious Life Pathers." #NT!
+ marcher_decision.0200.a: "A new day for the Konijkmener." #NT!
+ marcher_decision.0500.t: "The United High Kingdom" #NT!
+ marcher_decision.0500.desc: "The worst vagaries of war are over, as the broken pieces of Chevalie have been mended by my hand. The last major pretenders to the throne are either dead or browbeaten into submission, and my legitimacy is now almost undisputed. Almost.\n\nCertain lords and ladies throughout the Marches have not yet come to [capital.GetNameNoTier] to pay their proper dues and swear fealty to me. While not necessarily a sign of actual hostility, I will send envoys to receive the allegiance of those that have simply not yet given it due to circumstances beyond their control, and determine those that have more insidious motives." #NT!
+ marcher_decision.0500.a: "Let's see who will bend, and who will have to be broken." #NT!
+ marcher_decision.0500.b: "Perhaps it would be prudent to send gifts?" #NT!
+ will_receive_summons_tt: "[THIS.Char.GetTitledFirstName] will receive your demand of vassalization." #NT!
+ marcher_decision.0510.t: "The United High Kingdom" #NT!
+ marcher_decision.0510.desc: "Envoys have arrived from numerous major lords that were effectively independent from the crown, assuring us of their lieges' loyalties and that they will be travelling to [capital.GetNameNoTier] to pay homage in person. No additional stipulations were asked for - whether due to the fact that they felt they weren't in a bargaining position, or are actually content to be under my rule is a question that might be interesting, but doesn't hold much relevance.\n\nNow, for those whose responses weren't nearly as clear cut..." #NT!
+ marcher_decision.0510.a: "Why can't everyone be like this?" #NT!
+ marcher_decision.0511.t: "The United High Kingdom" #NT!
+ marcher_decision.0511.desc: "As expected, not everyone has decided to affirm their legal duties to me voluntarily - at least, not without strings attached. Several letters sit on my desk, bearing platitudes intermixed with subtle requests for royal favor between the lines. Accepting would, of course, leave me somewhat indebted, but it would avert the bloodshed of having to bring these rulers to heel at swordpoint." #NT!
+ marcher_decision.0511.a: "If it means their submission, so be it." #NT!
+ marcher_decision.0511.b: "Some of these terms are more acceptable than others..." #NT!
+ marcher_decision.0511.c: "They will either submit, or they will be made to submit." #NT!
+ will_decide_weak_hook_on_case_by_case_basis_tt: "You will decide whether to accept the compromises on a case-by-case basis." #NT!
+ total_tax_exemption_tt: "[THIS.Char.GetTitledFirstName] will be exempt from paying taxes." #NT!
+ total_levy_exemption_tt: "[THIS.Char.GetTitledFirstName] will be exempt from providing levies." #NT!
+ will_have_dynamic_duchy_created_tt: "[THIS.Char.GetTitledFirstName] will have a new titular [duchy|E] created for them." #NT!
+ will_refuse_all_weak_hook_compromises_tt: "You refuse all compromises, and will gain a casus belli to forcefully reintegrate disloyal lords into the realm." #NT!
+ refused_submission_tt: "[THIS.Char.GetTitledFirstName] has refused to submit. You will be allowed to wage war against them, and their rebellious tendencies are grounds for punishment if you win." #NT!
+ GENERATED_DUCHY_NAME: "[capital.GetNameNoTierNoTooltip]" #NT!
+ marcher_decision.0501.t: "The United High Kingdom" #NT!
+ marcher_decision.0501.desc: "We have received an envoy from the court of [chevalie_ruler.GetTitledFirstName], apparently seeking our submission. The messenger has made sure to recite all the seemingly endless acts of goodwill Chevalie has provided our people, and stressed that we should get these formalities out of the way as soon as possible - for our own good, of course." #NT!
+ marcher_decision.0501.a: "Very well." #NT!
+ marcher_decision.0501.b: "Maybe in exchange for a favor..." #NT!
+ marcher_decision.0501.c: "Well my pockets are a little light..." #NT!
+ marcher_decision.0501.d: "Only if we do not pay taxes." #NT!
+ marcher_decision.0501.e: "Only if my levies are mine." #NT!
+ marcher_decision.0501.f: "Perhaps there is something I want..." #NT!
+ marcher_decision.0501.j: "We do not need their protection!" #NT!
+ marcher_decision.0512.t: "The United High Kingdom" #NT!
+ marcher_decision.0512.desc.taxes: "[lord_asking_for_a_concession.GetTitledFirstName] is blunt and quick to get to the point in [lord_asking_for_a_concession.GetHerHis] letter. They ask for an exemption from any tax obligations that I would normally have the right to impose, but are otherwise content to accept my rule." #NT!
+ marcher_decision.0512.a: "These terms are acceptable." #NT!
+ marcher_decision.0512.b: "This is not something I'm willing to give away." #NT!
+ marcher_decision.0513.t: "The United High Kingdom" #NT!
+ marcher_decision.0513.desc: "Despite all that we have offered, several lords and ladies outright balked at my proposition, some going so far as to spit on my envoy and send back boastful threats. These petty fiefs show no loyalty to their rightful ruler, and no loyalty to the High Kingdom of Chevalie." #NT!
+ marcher_decision.0513.a: "We shall decide their fate one day." #NT!
+ marcher_decision.0550.t: "A Rebellion Crushed" #NT!
+ marcher_decision.0550.desc: "[defender.GetTitledFirstName]'s resistance to my rule, naturally, proved utterly futile, and now the rebel is soon to be at my mercy. Though I am within my rights to punish [defender.GetHerHim] to some degree, leniency could also have political benefits. On the other hand, I could choose to be even more harsh than expected, though it is not likely to be seen in a good light." #NT!
+ marcher_decision.0550.a: "So long as [defender.GetSheHe] stays loyal, I see no reason to punish [defender.GetHerHim]." #NT!
+ marcher_decision.0550.b: "A demotion in rank is in order." #NT!
+ marcher_decision.0550.c: "Have all of [defender.GetHerHis] lands and titles seized!" #NT!
+ flees_abroad_tt: "[defender.GetTitledFirstName] successfully flees." #NT!
+ marcher_decision.0560.t: "Recruiting a Waymaster" #NT!
+ marcher_decision.0560.desc: "We have two options for recruiting a Waymaster, either send out our servants to bring back any Wayfather, although they may not be of the highest quality. Or search for and bring back a skilled Waymaster from each path to chose from, although this is seen as slightly impious in our faith." #NT!
+ marcher_decision.0560.a: "Bring whoever you can find!" #NT!
+ marcher_decision.0560.b: "I would prefer a Waymaster from a certain path" #NT!
+ marcher_decision.0560.c: "Nevermind..." #NT!
+ wayfather_recruit_tt: "A Waymaster with a random path will join our court" #NT!
+ marcher_decision.0561.t: "A Series of Candidates" #NT!
+ marcher_decision.0561.desc: "I have my servants bring before me a series of candidates each a respected Waymaster in their chosen path. It is my choice as to which Waymaster and through them what lifepath will be venerated in my court and I chose..." #NT!
+ marcher_decision.0561.a: "A Waymaster of Swords" #NT!
+ marcher_decision.0561.b: "A Waymaster of Family" #NT!
+ marcher_decision.0561.c: "A Waymaster of Coins" #NT!
+ marcher_decision.0561.d: "A Waymaster of Crowns" #NT!
+ marcher_decision.0561.e: "Show me more" #NT!
+ marcher_decision.0561.f: "I have changed my mind" #NT!
+ marcher_decision.0562.t: "A Series of Candidates" #NT!
+ marcher_decision.0562.desc: "I have my servants bring before me a series of candidates each a respected Waymaster in their chosen path. It is my choice as to which Waymaster and through them what lifepath will be venerated in my court." #NT!
+ marcher_decision.0562.a: "A Waymaster of Harvests" #NT!
+ marcher_decision.0562.b: "A Waymaster of Justice" #NT!
+ marcher_decision.0562.c: "A Waymaster of Knowledge" #NT!
+ marcher_decision.0562.d: "A Waymaster of Crows" #NT!
+ marcher_decision.0562.e: "A Waymaster of Nullification" #NT!
+ marcher_decision.0562.f: "Go back" #NT!

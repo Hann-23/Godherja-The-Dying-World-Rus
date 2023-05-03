@@ -1,0 +1,67 @@
+﻿l_russian:
+  
+ #rejection Loc 
+ rejection_religion: "Rejection" #NT!
+ rejection_religion_adj: "Rejection" #NT!
+ rejection_religion_adherent: "Unbeliever" #NT!
+ rejection_religion_adherent_plural: "Unbelievers" #NT!
+ rejection_religion_desc: "Rejection is the catch-all term for the various 'beliefs' of the [liches|E] of the [lichdoms|E]. Unsurprisingly, they tend to eschew all prior organized faiths, though what they replace it with may vary. Some declare themselves to be walking gods, creators of life and death who have come to reshape the world in their image. Others denounce all religions, reasoning that there is nothing in heaven or earth greater than themselves." #NT!
+ rejection_religion_high_god_name: "[ROOT.GetCharacter.GetFullNameNoTooltip]" #NT!
+ rejection_religion_high_god_name_possessive: "[ROOT.GetCharacter.GetFullNameNoTooltip]'s" #NT!
+ rejection_religion_high_god_name_alternate: "[ROOT.GetCharacter.GetFirstNameNoTooltip]" #NT!
+ rejection_religion_high_god_name_alternate_possessive: "[ROOT.GetCharacter.GetFirstNameNoTooltip]'s" #NT!
+ rejection_religion_devil_name: "$rejection_religion_death_deity_name$" #NT!
+ rejection_religion_devil_name_possessive: "$rejection_religion_death_deity_name_possessive$" #NT!
+ rejection_religion_death_deity_name: "$rejection_religion_high_god_name$" #NT!
+ rejection_religion_death_deity_name_possessive: "$rejection_religion_high_god_name_possessive$" #NT!
+ rejection_religion_house_of_worship: "Temple" #NT!
+ rejection_religion_house_of_worship_plural: "Temples" #NT!
+ rejection_religion_religious_symbol: "lich's skull" #NT!
+ rejection_religion_religious_text: "my orders" #NT!
+ rejection_religion_religious_head_title: "Arch-Lich" #NT!
+ rejection_religion_religious_head_title_name: "Arch-Lichery" #NT!
+ rejection_religion_devotee_male: "acolyte" #NT!
+ rejection_religion_devotee_male_plural: "acolytes" #NT!
+ rejection_religion_devotee_female: "acolyte" #NT!
+ rejection_religion_devotee_female_plural: "acolytes" #NT!
+ rejection_religion_devotee_neuter: "Apti" #NT!
+ rejection_religion_devotee_neuter_plural: "Apti" #NT!
+ rejection_religion_priest_male: "High Acolyte" #NT!
+ rejection_religion_priest_male_plural: "High Acolytes" #NT!
+ rejection_religion_priest_female: "High Acolyte" #NT!
+ rejection_religion_priest_female_plural: "high Acolytes" #NT!
+ rejection_religion_priest_alternate_plural: "High Acolytes" #NT!
+ rejection_religion_bishop: "Highest Acolyte" #NT!
+ rejection_religion_bishop_plural: "Highest Acolytes" #NT!
+ rejection_religion_positive_afterlife: "my realm" #NT!
+ rejection_religion_negative_afterlife: "the lesser realms" #NT!
+ rejection_religion_creator_god_name: "$rejection_religion_high_god_name$" #NT!
+ rejection_religion_creator_god_name_possessive: "$rejection_religion_high_god_name_possessive$" #NT!
+ rejection_religion_health_god_name: "$rejection_religion_high_god_name$" #NT!
+ rejection_religion_health_god_name_possessive: "$rejection_religion_high_god_name_possessive$" #NT!
+ rejection_religion_fertility_god_name: "$rejection_religion_high_god_name$" #NT!
+ rejection_religion_fertility_god_name_possessive: "$rejection_religion_high_god_name_possessive$" #NT!
+ rejection_religion_wealth_god_name: "$rejection_religion_high_god_name$" #NT!
+ rejection_religion_wealth_god_name_possessive: "$rejection_religion_high_god_name_possessive$" #NT!
+ rejection_religion_household_god_name: "$rejection_religion_high_god_name$" #NT!
+ rejection_religion_household_god_name_possessive: "$rejection_religion_high_god_name_possessive$" #NT!
+ rejection_religion_fate_god_name: "$rejection_religion_high_god_name$" #NT!
+ rejection_religion_fate_god_name_possessive: "$rejection_religion_high_god_name_possessive$" #NT!
+ rejection_religion_knowledge_god_name: "$rejection_religion_high_god_name$" #NT!
+ rejection_religion_knowledge_god_name_possessive: "$rejection_religion_high_god_name_possessive$" #NT!
+ rejection_religion_war_god_name: "$rejection_religion_high_god_name$" #NT!
+ rejection_religion_war_god_name_possessive: "$rejection_religion_high_god_name_possessive$" #NT!
+ rejection_religion_trickster_god_name: "$rejection_religion_high_god_name$" #NT!
+ rejection_religion_trickster_god_name_possessive: "$rejection_religion_high_god_name_possessive$" #NT!
+ rejection_religion_night_god_name: "$rejection_religion_high_god_name$" #NT!
+ rejection_religion_night_god_name_possessive: "$rejection_religion_high_god_name_possessive$" #NT!
+ rejection_religion_water_god_name: "$rejection_religion_high_god_name$" #NT!
+ rejection_religion_water_god_name_possessive: "$rejection_religion_high_god_name_possessive$" #NT!
+ rejection_religion_witch_god_name: "$rejection_religion_high_god_name$" #NT!
+ rejection_religion_witch_god_name_possessive: "$rejection_religion_high_god_name_possessive$" #NT!
+  #rejection loc 
+ rejection: "Rejection" #NT!
+ rejection_adj: "Rejection" #NT!
+ rejection_adherent: "Unbeliever" #NT!
+ rejection_adherent_plural: "Unbelievers" #NT!
+ rejection_desc: "Far from a codified religion, cults centered around Rejection tend to only have two traits in common. The first is the refusal to acknowledge any higher power other than the [lich|E] who leads it. The second is that the number of adherents tends to be approximately one—assuming one does not count occasions where legions of mindless [gh_general_undead|E] thralls are ordered to worship their masters, that is." #NT!

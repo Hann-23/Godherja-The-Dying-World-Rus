@@ -1,0 +1,413 @@
+﻿l_russian:
+ fogeater_invasion_leader_modifier: "The Garformdaer" #NT!
+ fogeater_invasion_leader_modifier_desc: "This character has been proclaimed the Garformdaer, the war speaker of the [fogeater|E] Clans." #NT!
+ claimant_to_the_high_kingdom: "Claimant to the High Kingdom" #NT!
+ claimant_to_the_high_kingdom_desc: "This character has, through pedigree, intrigue, or financial transaction, gained a [piece_of_the_broken_crown_concept|E]." #NT!
+  
+ adabyss_invasion_leader_modifier: "Lelmand" #NT!
+ adabyss_invasion_leader_modifier_desc: "This character has been proclaimed the Lelmand, commander of the Amber Corps." #NT!
+ champion_of_the_first_ring: "Champion of the First Ring" #NT!
+ champion_of_the_second_ring: "Champion of the Second Ring" #NT!
+ champion_of_the_third_ring: "Champion of the Third Ring" #NT!
+ champion_of_the_fourth_ring: "Champion of the Fourth Ring" #NT!
+ champion_of_the_fifth_ring: "Champion of the Fifth Ring" #NT!
+ legacy_of_elysia: "Legacy of Elysia" #NT!
+ legacy_of_elysia_desc: "The catastrophe at the Elysian Pass has left what remains of the Aautokrata berefit of fighting men for decades to come.\n\n#N Will disappear entirely if held by a non-Aversarian or after the year 1304 IS#!" #NT!
+ legacy_of_icw: "Legacy of the [imperial_civil_war|E]" #NT!
+ legacy_of_icw_desc: "Though it has been decades since the [imperial_civil_war|E] was brought to an end, its effects can still be felt throughout what remains of the Aautokrata.\n\n#N Will disappear entirely if held by a non-Aversarian or after the year 1286 IS#!" #NT!
+ malcoisiac_anarchy: "Anarchy" #NT!
+ malcoisiac_anarchy_desc: "Once the mining and logistical hub of Aversaria, the death of Aversaria and the collapse of the region's Governorial institutions has led to the Malcoisiac Governorial Legions—once the only remaining ones in Aversaria—to be nearly completely wiped out. In there place, the slaves have completely taken much of the Governorate, and the once productive region now sits in economic freefall.\n\n#N Will only disappear from non-Aversarian [counties|E]#!" #NT!
+ ruined_by_ulfirx: "Raided by Ulfirx" #NT!
+ ruined_by_ulfirx_desc: "When Ulfirx and his merry drunk band came through these islands, they were undefeated and have drained the islands of many of its able men." #NT!
+ freed_slaves: "Freed Slaves" #NT!
+ freed_slaves_desc: "This character has earned a reputation as a liberator, earning the love of the despised and downtrodden, but also the ire of their former masters." #NT!
+ cenware_cheat_modifier: "Favored by the Gods" #NT!
+ cenware_cheat_modifier_desc: "Whether it be luck, destiny or matchless ability, this character seems to have the aid of the divine itself when working towards their goals." #NT!
+ father_of_sarradon: "Father of Sarradon" #NT!
+ father_of_sarradon_desc: "Through wit and skill on the battlefield Ḥārthah has been able to unite the people of Sarradon against the invaders." #NT!
+ sarradonian_rebel_desertions: "Sarradonian Rebellion" #NT!
+ sarradonian_rebel_desertions_desc: "The attack of the Father of Sarradon has sparked mass popular uprising in this province, directing their arms and money to fight against their foreign occupiers." #NT!
+ adabyss_opinion_modifier: "Awestruck Subjects" #NT!
+ adabyss_opinion_modifier_desc: "Those conquered by the Adabyssian advance are struck by awe upon seeing their grand army and advanced technologies, and are unlikely to revolt against such a seemingly unstoppable force." #NT!
+ gh_debased_currency_modifier: "Debased Currency" #NT!
+ gh_debased_currency_modifier_desc: "By lowering the quality of their realms currency, and thus its value, this ruler has caused long term economic problems for their realm." #NT!
+ gh_debased_currency_modifier_2: "Debased Quality Currency" #NT!
+ gh_debased_currency_modifier_2_desc: "Despite enjoying a high quality and respected currency, this ruler has chosen to now reduce the quality, and thus its value, for short term gain." #NT!
+ gh_strengthen_currency_modifier: "Strong Currency" #NT!
+ gh_strengthen_currency_modifier_desc: "By introducing new economic measures, this ruler has improved the standing of their currency." #NT!
+ gh_strengthen_currency_modifier_2: "Powerful Currency" #NT!
+ gh_strengthen_currency_modifier_2_desc: "The introduction of new measures and quality coinage has significantly boosted this rulers economic power." #NT!
+ gh_sjalvolki_resettlement_modifier: "Sjalvolki Resettlement" #NT!
+ gh_sjalvolki_resettlement_modifier_desc: "A vast influx of migrants has invigorated the ailing prosperity of this county." #NT!
+ gh_imperrech_debuff_modifier: "Coalition" #NT!
+ gh_imperrech_debuff_modifier_desc: "The Imperrech is less of a proper realm and more a coalition of wildly disparate tribes and peoples, and hence does not field a 'levy' in the classical sense of the word. The High King must instead rely on the voluntary contributions of his underlings." #NT!
+ gh_sound_of_body: "Sound of Body" #NT!
+ gh_sound_of_body_desc: "This character is unusually stubborn to the normal ravages of the world upon the body, either due to natural predisposition or an excellent daily routine." #NT!
+ survived_dovatkning: "Patched up after the [dovatkning]" #NT!
+ survived_dovatkning_desc: "After losing a round and being spared, you were hastily brought to a nearby healer who patched up the scrapes and wounds you have sustained." #NT!
+ INQUISITOR_CONVERSION_PERK_BONUS_VALUE: "Inquisitors uprooting heresy" #NT!
+ conquered_by_the_sjalvolki: "Increasing Sjalvolki military business" #NT!
+ aaoyuotaa_opinion: "#E Aaoyuot'aa#! Opinion" #NT!
+ abdexorn_opinion: "#E Abdêxorn#! Opinion" #NT!
+ adabyann_opinion: "#E Adabyann#! Opinion" #NT!
+ adani_opinion: "#E Adani#! Opinion" #NT!
+ adnanari_opinion: "#E Adnanari#! Opinion" #NT!
+ adrakamp_opinion: "#E Adrakamp#! Opinion" #NT!
+ aelarvisian_opinion: "#E Aelarvisian#! Opinion" #NT!
+ aersodiaxian_islander_opinion: "#E Phaelaxian#! Opinion" #NT!
+ aeulikain_opinion: "#E Aeulikain#! Opinion" #NT!
+ aeviaxian_opinion: "#E Aeviaxian#! Opinion" #NT!
+ aezentiam_opinion: "#E Aezentiam#! Opinion" #NT!
+ agiopadis_opinion: "#E Agiopadis#! Opinion" #NT!
+ aguadosian_opinion: "#E Aguadosian#! Opinion" #NT!
+ agunaha_opinion: "#E Agunaha#! Opinion" #NT!
+ aiyqarbkhiyl_opinion: "#E Aiyqar-B'khiyl#! Opinion" #NT!
+ akhtarfi_opinion: "#E Akhtarfi#! Opinion" #NT!
+ alewui_kemsari_opinion: "#E Alewui Kemsari#! Opinion" #NT!
+ aljibal_kemsari_opinion: "#E Aljibal Kemsari#! Opinion" #NT!
+ almajun_kemsari_opinion: "#E Almajun Kemsari#! Opinion" #NT!
+ amaghean_opinion: "#E Amaghean#! Opinion" #NT!
+ amsari_opinion: "#E Amsari#! Opinion" #NT!
+ amuaad_opinion: "#E Amuaad#! Opinion" #NT!
+ anorlori_opinion: "#E Anorlori#! Opinion" #NT!
+ apokiakas_opinion: "#E Apokiakas#! Opinion" #NT!
+ ardothanes_opinion: "#E Ardothane#! Opinion" #NT!
+ armanas_opinion: "#E Armanas#! Opinion" #NT!
+ arolyan_opinion: "#E Arolyan#! Opinion" #NT!
+ asarey_opinion: "#E Asarey#! Opinion" #NT!
+ ashital_opinion: "#E Ashital#! Opinion" #NT!
+ aslalti_opinion: "#E Aslalti#! Opinion" #NT!
+ astilik_opinion: "#E Astilik#! Opinion" #NT!
+ atrakar_opinion: "#E Atrakar#! Opinion" #NT!
+ auteonic_opinion: "#E Auteonic#! Opinion" #NT!
+ auzangeb_opinion: "#E Auzangeb#! Opinion" #NT!
+ averkathuni_opinion: "#E Axeizu#! Opinion" #NT!
+ avihana_opinion: "#E Avihana#! Opinion" #NT!
+ aygaen_opinion: "#E Aygaen#! Opinion" #NT!
+ babura_opinion: "#E Babura#! Opinion" #NT!
+ balauri_opinion: "#E Balauri#! Opinion" #NT!
+ barki_opinion: "#E Barki#! Opinion" #NT!
+ barzawa_opinion: "#E Barzawa#! Opinion" #NT!
+ beduleno_opinion: "#E Beduleno#! Opinion" #NT!
+ bricotaves_opinion: "#E Bricotave#! Opinion" #NT!
+ brigandines_opinion: "#E Brigandine#! Opinion" #NT!
+ caemansi_opinion: "#E Caemansi#! Opinion" #NT!
+ carkarain_opinion: "#E Carkarain#! Opinion" #NT!
+ carsavisians_opinion: "#E Carsavisian#! Opinion" #NT!
+ cautocoi_opinion: "#E Cautocoi#! Opinion" #NT!
+ centralimperial_opinion: "#E Central Aversarian#! Opinion" #NT!
+ centralislander_opinion: "#E Central Aversarian Islander#! Opinion" #NT!
+ cerussiai_opinion: "#E Cerussiai#! Opinion" #NT!
+ charchac_opinion: "#E Charchac#! Opinion" #NT!
+ chevalies_opinion: "#E Chevalies#! Opinion" #NT!
+ coldcoaster_opinion: "#E Coldcoaster#! Opinion" #NT!
+ corvosnari_opinion: "#E Corvosnari#! Opinion" #NT!
+ csorsca_opinion: "#E Csorsca#! Opinion" #NT!
+ curgerski_opinion: "#E Curgerski#! Opinion" #NT!
+ dadkawji_opinion: "#E Dadkawji#! Opinion" #NT!
+ darinic_opinion: "#E Darinic#! Opinion" #NT!
+ daronid_opinion: "#E Daronid#! Opinion" #NT!
+ dasulanoi_opinion: "#E Dasulanoi#! Opinion" #NT!
+ daukeni_opinion: "#E Daukeni#! Opinion" #NT!
+ dawasid_opinion: "#E Dawasid#! Opinion" #NT!
+ deraani_opinion: "#E Deraani#! Opinion" #NT!
+ deresstae_opinion: "#E Deresstae#! Opinion" #NT!
+ dergi_opinion: "#E Dergi#! Opinion" #NT!
+ dialecender_opinion: "#E Dialecender#! Opinion" #NT!
+ diorenic_opinion: "#E Diorenic#! Opinion" #NT!
+ doffore_opinion: "#E Doffore#! Opinion" #NT!
+ draneti_opinion: "#E Draneti#! Opinion" #NT!
+ drothacny_opinion: "#E Drothacny#! Opinion" #NT!
+ dubadin_opinion: "#E Dubadin#! Opinion" #NT!
+ easternimperial_opinion: "#E Eastern Aversarian#! Opinion" #NT!
+ easternislander_opinion: "#E Eastern Aversarian Islander#! Opinion" #NT!
+ ekaachi_opinion: "#E Ekaachi#! Opinion" #NT!
+ elekraya_opinion: "#E Elekraya#! Opinion" #NT!
+ enisaloi_opinion: "#E Enisaloi#! Opinion" #NT!
+ envokander_opinion: "#E Envokander#! Opinion" #NT!
+ enynanthari_opinion: "#E Enynanthari#! Opinion" #NT!
+ erimatos_opinion: "#E Erimatos#! Opinion" #NT!
+ erkalgani_opinion: "#E Erkalgani#! Opinion" #NT!
+ erridai_opinion: "#E Erridai#! Opinion" #NT!
+ etrandanexi_opinion: "#E Étrandanexi#! Opinion" #NT!
+ fedagesh_opinion: "#E Fedagesh#! Opinion" #NT!
+ fenvir_opinion: "#E Fenvir#! Opinion" #NT!
+ fog_eaters_opinion: "#E Fogeater#! Opinion" #NT!
+ gallicads_opinion: "#E Gallicad#! Opinion" #NT!
+ garami_opinion: "#E Garami#! Opinion" #NT!
+ garbariz_opinion: "#E Garbariz#! Opinion" #NT!
+ ghudiyy_opinion: "#E Ghudiyy#! Opinion" #NT!
+ gisreddean_opinion: "#E Gisreddean#! Opinion" #NT!
+ goans_opinion: "#E Goan#! Opinion" #NT!
+ greulokin_opinion: "#E Greulokin#! Opinion" #NT!
+ guillater_aversarian_opinion: "#E Neophretitan#! Opinion" #NT!
+ guillater_opinion: "#E Guillater#! Opinion" #NT!
+ gwasillikh_opinion: "#E Gwasillikh#! Opinion" #NT!
+ gwenuyos_opinion: "#E Gwenuyos#! Opinion" #NT!
+ hadaxma_opinion: "#E Hadaxma#! Opinion" #NT!
+ hamaxindi_opinion: "#E Hamaxindi#! Opinion" #NT!
+ hixartii_opinion: "#E Hixartii#! Opinion" #NT!
+ hmaceak_opinion: "#E Hmacèak#! Opinion" #NT!
+ hokanta_opinion: "#E Hokanta#! Opinion" #NT!
+ holganud_opinion: "#E Holganud#! Opinion" #NT!
+ hudi_opinion: "#E Hudi#! Opinion" #NT!
+ huegodocs_opinion: "#E Huegodoc#! Opinion" #NT!
+ hunawi_opinion: "#E Hunawi#! Opinion" #NT!
+ huxayakha_opinion: "#E Huxayakha#! Opinion" #NT!
+ iafarana_opinion: "#E Iafarana#! Opinion" #NT!
+ ikanita_opinion: "#E Ikanita#! Opinion" #NT!
+ ilahanai_opinion: "#E Ilahanai#! Opinion" #NT!
+ imperialislander_opinion: "#E Imperial Islander#! Opinion" #NT!
+ irmionoth_opinion: "#E Irmionoth#! Opinion" #NT!
+ iseni_opinion: "#E Iseñi#! Opinion" #NT!
+ islander_opinion: "#E Aversarian Islander#! Opinion" #NT!
+ ivernic_opinion: "#E Ivernic#! Opinion" #NT!
+ iyronisti_opinion: "#E Iyronisti#! Opinion" #NT!
+ izikalek_opinion: "#E Izikalek#! Opinion" #NT!
+ jaduyada_opinion: "#E Jaduyada#! Opinion" #NT!
+ jakana_opinion: "#E Jakana#! Opinion" #NT!
+ jalanka_opinion: "#E Jalanka#! Opinion" #NT!
+ jangkar_opinion: "#E Jangkar#! Opinion" #NT!
+ jankalo_opinion: "#E Jankalo#! Opinion" #NT!
+ jarakmar_opinion: "#E Ja'Rakmar#! Opinion" #NT!
+ jaravad_opinion: "#E Jaravad#! Opinion" #NT!
+ jassi_opinion: "#E Jassi#! Opinion" #NT!
+ jayakayin_opinion: "#E Jayakayin#! Opinion" #NT!
+ kadamana_opinion: "#E Kadamana#! Opinion" #NT!
+ kadwana_opinion: "#E Kadwana#! Opinion" #NT!
+ karadamos_opinion: "#E Karadamos#! Opinion" #NT!
+ karana_opinion: "#E Karana#! Opinion" #NT!
+ karannin_opinion: "#E Karannin#! Opinion" #NT!
+ kardwens_opinion: "#E Kardwen#! Opinion" #NT!
+ karkit_opinion: "#E Karkit#! Opinion" #NT!
+ karzarads_opinion: "#E Karzarad#! Opinion" #NT!
+ kasanti_opinion: "#E Kasanti#! Opinion" #NT!
+ kathunian_opinion: "#E Kathunian#! Opinion" #NT!
+ kathunians_opinion: "#E Kathunian#! Opinion" #NT!
+ Kawoch_opinion: "#E Kawoch#! Opinion" #NT!
+ kawoch_opinion: "#E Kawoch#! Opinion" #NT!
+ khadaleg_opinion: "#E Khadaleg#! Opinion" #NT!
+ khansaides_opinion: "#E Khansaides#! Opinion" #NT!
+ khodomi_opinion: "#E Khódomi#! Opinion" #NT!
+ khorinot_opinion: "#E Khorinot#! Opinion" #NT!
+ kinambrosti_opinion: "#E Kinambrosti#! Opinion" #NT!
+ kirinarth_opinion: "#E Kirinarth#! Opinion" #NT!
+ konijkmener_opinion: "#E Konijkmener#! Opinion" #NT!
+ korlona_opinion: "#E Korlona#! Opinion" #NT!
+ kunsag_opinion: "#E Kunsag#! Opinion" #NT!
+ kuridorig_opinion: "#E Kuridorig#! Opinion" #NT!
+ kutma_opinion: "#E Kutma#! Opinion" #NT!
+ lainar_opinion: "#E Lainar#! Opinion" #NT!
+ lakaloi_opinion: "#E Lakaloi#! Opinion" #NT!
+ lattani_opinion: "#E Lattani#! Opinion" #NT!
+ latur_opinion: "#E Latur#! Opinion" #NT!
+ lawgiri_opinion: "#E Lawgiri#! Opinion" #NT!
+ leegenders_opinion: "#E Leegender#! Opinion" #NT!
+ leriseb_opinion: "#E Leriseb#! Opinion" #NT!
+ leviden_opinion: "#E Leviden#! Opinion" #NT!
+ lomonios_opinion: "#E Lomonios#! Opinion" #NT!
+ lorodegi_opinion: "#E Lorodegi#! Opinion" #NT!
+ madikirib_opinion: "#E Madikirib#! Opinion" #NT!
+ madugi_opinion: "#E Madugi#! Opinion" #NT!
+ maebalah_opinion: "#E Maebalah#! Opinion" #NT!
+ mahatha_opinion: "#E Mahatha#! Opinion" #NT!
+ mahratian_opinion: "#E Mahratian#! Opinion" #NT!
+ majanta_opinion: "#E Majanta#! Opinion" #NT!
+ makryenis_opinion: "#E Makryenis#! Opinion" #NT!
+ makulawti_opinion: "#E Makulawti#! Opinion" #NT!
+ marakje_opinion: "#E Marakje#! Opinion" #NT!
+ marndeoticeni_opinion: "#E Marndeoticeni#! Opinion" #NT!
+ mascatic_opinion: "#E Mascatic#! Opinion" #NT!
+ mastikigni_opinion: "#E Mastikigni#! Opinion" #NT!
+ mazunic_opinion: "#E Mazunic#! Opinion" #NT!
+ meistras_opinion: "#E Meistras#! Opinion" #NT!
+ merdelavi_opinion: "#E Merdelavi#! Opinion" #NT!
+ mineris_opinion: "#E Mineris#! Opinion" #NT!
+ mirzana_jahar_opinion: "#E Mirzana Jahar#! Opinion" #NT!
+ mithaista_opinion: "#E Mithaista#! Opinion" #NT!
+ mondecny_opinion: "#E Mondecny#! Opinion" #NT!
+ mtuwe_opinion: "#E Mtuwê#! Opinion" #NT!
+ muhadamd_opinion: "#E Muhadam'd#! Opinion" #NT!
+ murarut_opinion: "#E Mur'ar'ut#! Opinion" #NT!
+ musar_opinion: "#E Müsar#! Opinion" #NT!
+ mutsartan_opinion: "#E Mutsartan#! Opinion" #NT!
+ nagandines_opinion: "#E Nagandine#! Opinion" #NT!
+ nargul_opinion: "#E Nargul#! Opinion" #NT!
+ ndoufre_opinion: "#E Ndoufra#! Opinion" #NT!
+ neshalar_opinion: "#E Neshalar#! Opinion" #NT!
+ nevtanei_opinion: "#E Nevtanei#! Opinion" #NT!
+ nimakiroi_opinion: "#E Nimakiroi#! Opinion" #NT!
+ nizhbata_opinion: "#E Nizhbata#! Opinion" #NT!
+ northernimperial_opinion: "#E Northern Aversarian#! Opinion" #NT!
+ oejeynica_opinion: "#E Oejeynica#! Opinion" #NT!
+ ogantaa_opinion: "#E Organtaa#! Opinion" #NT!
+ ogantea_opinion: "#E Ogantea#! Opinion" #NT!
+ ojyczaynz_opinion: "#E Ojyczaynz#! Opinion" #NT!
+ ordikin_opinion: "#E Ordikin#! Opinion" #NT!
+ orshinid_opinion: "#E Orshinid#! Opinion" #NT!
+ outerislander_opinion: "#E Outer Aversarian Islander#! Opinion" #NT!
+ ouwabadin_opinion: "#E Ouwabadin#! Opinion" #NT!
+ oxalanti_opinion: "#E Oxalanti#! Opinion" #NT!
+ paidem_opinion: "#E Paidem#! Opinion" #NT!
+ paradila_opinion: "#E Paradila#! Opinion" #NT!
+ parakh_opinion: "#E Parakh#! Opinion" #NT!
+ penetworin_opinion: "#E Penetworin#! Opinion" #NT!
+ practitioner_opinion: "#E Practitioner#! Opinion" #NT!
+ prakaani_opinion: "#E Prakaani#! Opinion" #NT!
+ prapataro_opinion: "#E Prapataro#! Opinion" #NT!
+ pyanaki_opinion: "#E Pyanaki#! Opinion" #NT!
+ qaanhai_opinion: "#E Qaanhai#! Opinion" #NT!
+ qahsarides_opinion: "#E Qahsarides#! Opinion" #NT!
+ qoltaam_opinion: "#E Qoltaam#! Opinion" #NT!
+ qushyed_opinion: "#E Qushyed#! Opinion" #NT!
+ raakiani_opinion: "#E Raakiani#! Opinion" #NT!
+ rahikaya_opinion: "#E Rahikaya#! Opinion" #NT!
+ rakosakai_opinion: "#E Rakosakai#! Opinion" #NT!
+ ran_kemsari_opinion: "#E Ran Kemsari#! Opinion" #NT!
+ rathzemi_opinion: "#E Rathzemi#! Opinion" #NT!
+ redlander_opinion: "#E Redlander#! Opinion" #NT!
+ redrunner_opinion: "#E Redrunner#! Opinion" #NT!
+ rethara_opinion: "#E Rethara#! Opinion" #NT!
+ rivarisians_opinion: "#E Rivarisian#! Opinion" #NT!
+ rokgana_opinion: "#E Rokgana#! Opinion" #NT!
+ saielaian_opinion: "#E Saielaian#! Opinion" #NT!
+ sakankra_opinion: "#E Sakankra#! Opinion" #NT!
+ salisians_opinion: "#E Salisians#! Opinion" #NT!
+ samayani_opinion: "#E Samayani#! Opinion" #NT!
+ samojitian_opinion: "#E Samojitian#! Opinion" #NT!
+ samorihya_opinion: "#E Samorihya#! Opinion" #NT!
+ saradoixa_opinion: "#E Saradoixa#! Opinion" #NT!
+ sarishta_opinion: "#E Sarishta#! Opinion" #NT!
+ sarminians_opinion: "#E Sarminian#! Opinion" #NT!
+ sarridians_opinion: "#E Sarridian#! Opinion" #NT!
+ sarthian_opinion: "#E Sarthian#! Opinion" #NT!
+ saruta_opinion: "#E Saruta#! Opinion" #NT!
+ saruyad_opinion: "#E Saruyad#! Opinion" #NT!
+ savorna_opinion: "#E Savorna#! Opinion" #NT!
+ sceyfig_lighter_opinion: "#E Scæyfig Lighter#! Opinion" #NT!
+ scusstari_opinion: "#E Scusstari#! Opinion" #NT!
+ shayuni_opinion: "#E Shayuni#! Opinion" #NT!
+ shewigad_opinion: "#E Shewigad#! Opinion" #NT!
+ siklasa_opinion: "#E Siklasa#! Opinion" #NT!
+ siltwalker_opinion: "#E Siltwalker#! Opinion" #NT!
+ simevian_opinion: "#E Simevian#! Opinion" #NT!
+ sinasan_opinion: "#E Sinasan#! Opinion" #NT!
+ sindaara_opinion: "#E Sindaara#! Opinion" #NT!
+ siralagi_opinion: "#E Siralagi#! Opinion" #NT!
+ skausmas_opinion: "#E Skausmas#! Opinion" #NT!
+ skoronyk_opinion: "#E Skoronyk#! Opinion" #NT!
+ southernimperial_opinion: "#E Southern Aversarian#! Opinion" #NT!
+ southislander_opinion: "#E Southern Aversarian Islander#! Opinion" #NT!
+ surugin_opinion: "#E Suru'gin#! Opinion" #NT!
+ swabani_opinion: "#E Swabani#! Opinion" #NT!
+ sycharcegs_opinion: "#E Sycharcegs#! Opinion" #NT!
+ symvolix_opinion: "#E Symvolix#! Opinion" #NT!
+ tafara_opinion: "#E Tafara#! Opinion" #NT!
+ tagrodar_opinion: "#E Tagrodar#! Opinion" #NT!
+ tahanati_opinion: "#E Tahanati#! Opinion" #NT!
+ takopara_opinion: "#E Takopara#! Opinion" #NT!
+ taminiai_opinion: "#E Taminiai#! Opinion" #NT!
+ tanumarei_opinion: "#E Tanumarei#! Opinion" #NT!
+ tapuso_opinion: "#E Tapuso#! Opinion" #NT!
+ tasurmad_opinion: "#E Tasurmad#! Opinion" #NT!
+ tehaina_opinion: "#E Tehaina#! Opinion" #NT!
+ telukor_opinion: "#E Telukor#! Opinion" #NT!
+ temala_opinion: "#E Temala#! Opinion" #NT!
+ theugombrians_opinion: "#E Theugombrian#! Opinion" #NT!
+ theygundarope_aversarian_opinion: "#E Theisklavoi#! Opinion" #NT!
+ theygundarope_opinion: "#E Theygundarope#! Opinion" #NT!
+ thyssae_opinion: "#E Thyssae#! Opinion" #NT!
+ tlakalak_opinion: "#E Tlakalak#! Opinion" #NT!
+ tretosai_opinion: "#E Tretosai#! Opinion" #NT!
+ tribocicai_opinion: "#E Tribocicai#! Opinion" #NT!
+ trustians_opinion: "#E Trustians#! Opinion" #NT!
+ ualeren_opinion: "#E Ualêrên#! Opinion" #NT!
+ ukininkas_opinion: "#E Ukininkas#! Opinion" #NT!
+ ulakada_opinion: "#E Ulakada#! Opinion" #NT!
+ urdermantern_opinion: "#E Urdermantern#! Opinion" #NT!
+ uthanata_opinion: "#E Uthanata#! Opinion" #NT!
+ utyalid_opinion: "#E Utyalid#! Opinion" #NT!
+ vanaarik_opinion: "#E Vanaarik#! Opinion" #NT!
+ vargenis_opinion: "#E Vargenis#! Opinion" #NT!
+ vastarnai_opinion: "#E Vastarnai#! Opinion" #NT!
+ vaxanaka_opinion: "#E Vaxanaka#! Opinion" #NT!
+ velabronic_opinion: "#E Velabronic#! Opinion" #NT!
+ velrika_opinion: "#E Velrika#! Opinion" #NT!
+ virlani_opinion: "#E Virlani#! Opinion" #NT!
+ voluntic_opinion: "#E Voluntic#! Opinion" #NT!
+ vonatolis_opinion: "#E Vonatolis#! Opinion" #NT!
+ voyagen_opinion: "#E Voyagen#! Opinion" #NT!
+ vrodkin_opinion: "#E Vrodkin#! Opinion" #NT!
+ vyatari_opinion: "#E Vyatari#! Opinion" #NT!
+ wafrakat_opinion: "#E Wafrakat#! Opinion" #NT!
+ walakon_opinion: "#E Walakon#! Opinion" #NT!
+ warisnik_opinion: "#E Warisnik#! Opinion" #NT!
+ wasteland_opinion: "#E Wasteland(?)#! Opinion - REPORT THIS AS A BUG!" #NT!
+ watumimba_opinion: "#E Watumimba#! Opinion" #NT!
+ westernimperial_opinion: "#E Western Aversarian#! Opinion" #NT!
+ xasamdaas_opinion: "#E Xasamdaas#! Opinion" #NT!
+ xokola_opinion: "#E Xokola#! Opinion" #NT!
+ xrahantiia_opinion: "#E Xrahantiia#! Opinion" #NT!
+ yaarnami_opinion: "#E Yaar'nami#! Opinion" #NT!
+ yadaniya_opinion: "#E Yadaniya#! Opinion" #NT!
+ yaknha_opinion: "#E Yaknha#! Opinion" #NT!
+ yayanka_opinion: "#E Yayanka#! Opinion" #NT!
+ yevamarai_opinion: "#E Yevamarai#! Opinion" #NT!
+ yevanya_opinion: "#E Yevanya#! Opinion" #NT!
+ yonata_opinion: "#E Yonata#! Opinion" #NT!
+ ypsikenai_opinion: "#E Ypsikenai#! Opinion" #NT!
+ yylaxxaz_opinion: "#E Yylaxxaz#! Opinion" #NT!
+ zabari_opinion: "#E Zabari#! Opinion" #NT!
+ zakhirun_opinion: "#E Zakhirün#! Opinion" #NT!
+ zalaka_opinion: "#E Zalaka#! Opinion" #NT!
+ zelkavani_opinion: "#E Zelkavani#! Opinion" #NT!
+ zharran_opinion: "#E Zharran#! Opinion" #NT!
+ zhenayi_opinion: "#E Zhenayi#! Opinion" #NT!
+ zyawtas_opinion: "#E Zyawtas#! Opinion" #NT!
+ shadow_port: "Shadow Port" #NT!
+ shadow_port_desc: "A [shadow_port|E] has been established here, bringing in crime and stolen goods" #NT!
+ traderoute_modifier: "Trade Route" #NT!
+ traderoute_modifier_desc: "This province lies along a major trade route, bringing goods to and fro." #NT!
+ harbour_modifier: "Major Harbour" #NT!
+ harbour_modifier_desc: "This province hosts a major world harbour in which goods from all over the world enter the bustling port. This brings in considerable income, ideas and people from all over [aeras|E]." #NT!
+ entrepot_modifier: "Major Commerce Hub" #NT!
+ entrepot_modifier_desc: "This territory is a hub of commerce. Here merchants can be found bringing precious cargo from as far afield as distant and mythical Kathun-Kai, and the tongues of over a hundred nations can be heard in its teeming markets and crowded ports. Nearly anything can be bought and sold — for the right price." #NT!
+ stapleport_modifier: "Port brings Prosperity" #NT!
+ pirate_king: "Pirate King" #NT!
+ pirate_king_desc: "This character is known as the bane of the land, the taker of gold, the sinker of ships, and is feared wherever people live on the coast" #NT!
+ scourge_of_rovarska: "Scourge of Rovarska" #NT!
+ scourge_of_rovarska_desc: "This character is known as the greatest evil to reave the seas of the Pirate Coast, and has claimed more lives and gold than the sea itself" #NT!
+ magi_toughness_mult: "[magi|E] [toughness|E]" #NT!
+ magi_damage_mult: "[magi|E] [damage|E]" #NT!
+ heavy_infantry_screen_mult: "[heavy_infantry|E] [screen|E]" #NT!
+ heavy_cavalry_siege_value_mult: "[griffon|E] Effectiveness" #NT!
+ low_food: "Low Food" #NT!
+ low_food_desc: "Due to poor planning, or bad luck, this character has lost provisions while hunting." #NT!
+ surplus_food: "Surplus Food" #NT!
+ surplus_food_desc: "Due to good planning or better luck, this character has provisions that will last far longer than expected." #NT!
+ tribal_settlement_target: "Tribal Settlement Ongoing" #NT!
+ tribal_settlement_target_desc: "This [county|E] is the destination of an influx of tribal settlers aligned with its overlord, to the chagrin of the local populace." #NT!
+ small_island: "Small Islands" #NT!
+ small_island_desc: "This county is an archipelago of many small islands." #NT!
+ large_island: "Large Islands" #NT!
+ large_island_desc: "This county is a small archipelago of many large islands." #NT!
+ cyrat_hell_modifier: "Verdant Hellscape" #NT!
+ cyrat_hell_modifier_desc: "The jungle of [cyrat|E] itself seems to actively resist humanity, and is home to countless horrifying monsters. It is nearly impossible to survive in this place, much less build a civilization." #NT!
+ cyrat_maa_modifier: "Impossible Logistics" #NT!
+ cyrat_maa_modifier_desc: "In the jungle of [cyrat|E], is is practically impossible to field any form of professional army." #NT!
+ fools_curse_modifier: "Fool's Gold" #NT!
+ fools_curse_modifier_desc: "The [fools_coast|E] is well known for the seemingly unending sources of gold found on its shores, as well as the deadly diseases that seem to follow the region's wealth wherever it goes." #NT!
+ opakasijan_highkingdom_modifier: "Opakasijan Capital" #NT!
+ opakasijan_highkingdom_modifier_desc: "Once devastated, the golden hills of Opakasija bloom once more, and people flock in droves to this mighty capital." #NT!
+ high_tide_modifier: "High Tide" #NT!
+ high_tide_modifier_desc: "This county is currently experiencing a [high_tide|E], flooding the wilderness." #NT!
+ low_tide_modifier: "Low Tide" #NT!
+ low_tide_modifier_desc: "This county is currently experiencing a [low_tide|E], exposing the soil." #NT!
+ religious_turmoil: "Religious Turmoil" #NT!
+ religious_turmoil_desc: "This county is beset with religious turmoil." #NT!
+ krikatama_purges_modifier: "Krikatama Purges" #NT!
+ krikatama_purges_modifier_desc: "The merciless purges inflicted by the Scourge upon his people in his relentless crusade has severely compromised his capabilities in maintaining and launching further campaigns." #NT!
+ banner_of_the_champion_modifier: "Banner of the Champion" #NT!
+ banner_of_the_champion_modifier_desc: "The last bastion of Daramarjaratan in the region, Shahu valiantly rallies his people and those who fled the wrath of the Scourge against the Scourge himself." #NT!
+ razed_sophocos_modifier: "Flame of Sophocos" #NT!
+ razed_sophocos_modifier_desc: "This character is both revered and feared across [sarradon|E] for their brutal razing of the tower of Sophocos." #NT!

@@ -1,0 +1,48 @@
+﻿l_russian:
+  
+  ################################################## 
+  # #Misc 
+  # #Ordinary Events 
+ fp1_yearly.0001.t: "Escaped Slave" #NT!
+ fp1_yearly.0001.desc: "Slaves are a fact of life in [ROOT.Char.GetCulture.GetNameNoTooltip] culture. Lower humans, captured from abroad or born of slaves themselves, they work our fields and care for our hearths.\n\nIn theory.\n\nLast night, one such slave decided [dummy_gender.GetSheHe] had had enough, and fled, taking an armful of valuable jewelry with [dummy_gender.GetHerHim]! What's worse, [scapegoat.Custom2('MyCharacterIntroduction',ROOT.Char)] #EMP saw#! the slave rushing into the dark, and didn't think to tell anyone till the morning." #NT!
+ fp1_yearly.0001.gold_stays_lost.tt: "Your silver stays lost" #NT!
+ fp1_yearly.0001.a: "Send a description to every village!" #NT!
+ fp1_yearly.0001.a.tt_success: "The slave is spotted and captured" #NT!
+ fp1_yearly.0001.a.tt_failure: "The slave slips the net with your silver" #NT!
+ fp1_yearly.0001.b: "Get my cloak, I'll hunt [dummy_gender.GetHerHim] down myself." #NT!
+ fp1_yearly.0001.b.tt_success: "You catch the slave before they can get far" #NT!
+ fp1_yearly.0001.b.tt_failure: "$fp1_yearly.0001.a.tt_failure$" #NT!
+ fp1_yearly.0001.c: "[scapegoat.GetFirstNameNoTooltip], this is your fault, so you can pay!" #NT!
+ fp1_yearly.0001.d: "You are forgiven, [scapegoat.GetFirstNameNoTooltip]. These things happen." #NT!
+ fp1_yearly.0031.desc.sunk_longboat: ""... so there I was, in the middle of the Sea of Empires, longboat sinking from too much bloody plunder. Well, I couldn't take it with me, so I jumped into the water and swam back to Sgrad!"" #NT!
+ fp1_yearly.0031.t: "Tall Tales at the Table" #NT!
+ fp1_yearly.0031.desc.intro: "It's been a long, long evening in the company of [lying_warrior.GetFirstName]. The wanderer stopped in [capital_barony.GetBaseNameNoTierNoTooltip] for the night, paying for [lying_warrior.GetHerHis] stay with tales of [lying_warrior.GetHerHis] exploits that have lasted #EMP hours#!.\n\n" #NT!
+ fp1_yearly.0031.desc.wrestled_fogbeast: ""... knew that I either had to abandon my men, or fight the [fogbeast|E] myself. Grabbed my knife, lunged at the thing, and wrestled it into submission with one hand!"" #NT!
+ fp1_yearly.0031.desc.charged_city: ""... charged right up to the city walls, free-climbed inside, and hacked my way into the royal palace. Melted the aautokratir's crown down to pay for a new pair of boots."" #NT!
+ fp1_yearly.0031.desc.slew_lich: ""... and there I am, bloody [lich|E] staring right at me with its glowing green eyes... that is, until I hacked its skull off with my sword and took the thing home as a mantelpiece!"" #NT!
+ fp1_yearly.0031.desc.wooed_heir: ""... [disparaged_king.GetTitledFirstNamePossessive] [invented_heir.Custom('GetDaughterSon')], now #EMP that#! is the best I've ever had. [disparaged_king.GetTitledFirstNameNoTooltip] wasn't such a fan of me after that, though, and I fled [disparaged_king.GetHerHis] court sharpish, I'll tell you that!"" #NT!
+ fp1_yearly.0031.desc.hunted_troll: ""... 'course, this most recent wound is from the troll itself. Big as a house, quiet as a mouse, claws like the bastard spawn of [lying_warrior.GetFaith.DevilName]. Still, stab anything long enough, and it dies."" #NT!
+ fp1_yearly.0031.desc.outro: "\n\nTale after tale, the saga continues, each anecdote longer and larger than the last." #NT!
+ fp1_yearly.0031.a: "You simply #EMP must#! stay at court, [lying_warrior.GetFirstNameNoTooltip]!" #NT!
+ fp1_yearly.0031.b: "These sound... far-fetched." #NT!
+ fp1_yearly.0031.b.tt_success: "[lying_warrior.GetFirstNamePossessiveNoTooltip] lies are exposed" #NT!
+ fp1_yearly.0031.b.tt_failure: "[lying_warrior.GetFirstNameNoTooltip] runs verbal rings around you" #NT!
+ fp1_yearly.0031.c: "Do speak well of our hospitality at your next stop!" #NT!
+  # #Flavour Events 
+ fp1_yearly.0501.desc: "There are many reasons for me to ply the waters near [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTier] in times of peace: to show power, to dissuade pirates, even simply to fish or enjoy the sea breeze.\n\nWe are on such a petty voyage when I spot a local vessel floundering in the distance.\n\nEven from here, it's clear that it's taken damage while out raiding, its crew just barely keeping it afloat as they pail out water with silver goblets and ceramic bowls. The sight would be comical if it wasn't so serious." #NT!
+ fp1_yearly.0511.b: "By [ROOT.Char.GetFaith.HighGodName], [ROOT.Char.GetFaith.HealthGodName], and [ROOT.Char.GetFaith.HouseholdGodName] too, get #EMP rid#! of it!" #NT!
+ fp1_yearly.0591.desc: "Ting-meets are a necessary chore for any decent [ROOT.Char.GetTitleAsNameNoTooltip], with all the free [dummy_gender.GetWomenMen] in the area turning up to discuss local affairs, market, and jostle for this privilege or that.\n\nAs to be expected with such large gatherings, they have a way of turning heated, and this Ting is no exception.\n\nI struggle to follow the details through all the yelling, but it seems as though [dummy_gender.GetWomenMen] from [county_a.GetNameNoTier]" #NT!
+ fp1_yearly.0591.desc.border_dispute: "are squabbling over a village along the border with [county_b.GetNameNoTier], with both groups claiming the land." #NT!
+ fp1_yearly.0591.desc.stolen_flocks: "accuse a prominent magnate from [county_b.GetNameNoTier] of stealing their flocks." #NT!
+ fp1_yearly.0591.desc.kidnapped_child: "are screaming at their counterparts from [county_b.GetNameNoTier] for allegedly kidnapping a child." #NT!
+ fp1_yearly.0591.desc.drunken_arson: "are protesting their innocence in a spate of drunken arsons in [county_b.GetNameNoTier]." #NT!
+ fp1_yearly.0591.desc.lost_dog: "claim a village's iconic dog has been stolen by jealous [county_b.GetNameNoTier] louts." #NT!
+ fp1_yearly.0591.desc.disrupted_wedding: "demand restitution for a wedding thrown into chaos by sozzled guests from [county_b.GetNameNoTier]." #NT!
+ fp1_yearly.0591.desc.suspicious_will: "are insisting on the validity of a will that leaves them large strips of land in [county_b.GetNameNoTier]." #NT!
+ fp1_yearly.0591.desc.sheltered_criminal: "have given shelter to a criminal from [county_b.GetNameNoTier]." #NT!
+ fp1_yearly.0591.desc.bad_luck: "are crying that they've been bewitched and cursed by spellcasters from [county_b.GetNameNoTier]." #NT!
+ fp1_yearly.0591.desc.fly_tipping: "being stubborn about fly-tipping the rubbish of a town along the border with [county_b.GetNameNoTier]." #NT!
+ fp1_yearly.0691.desc: "The hour is late when [knight.GetTitledFirstName] approaches me, a packed satchel slung over [knight.GetHerHis] back.\n\n"[ROOT.Char.GetTitledFirstNameNoTooltip], I'm sorry to have to tell you this, but I cannot continue in your service.\n\n"Ever since the raid on [county.GetNameNoTier], I have been consumed with guilt over my deeds, and my [knight.GetFaith.GetAdherentName] thralls tell me that only by accepting [knight.GetFaith.HighGodName] into my heart can my soul be saved.\n\n"It is with a heavy heart that I must leave your sinful court and the awful things I do in your employ."" #NT!
+ fp1_yearly.1081.t: "Explorer from far Shores" #NT!
+ fp1_yearly.1081.desc.intro: "My evening has been consumed by an aged explorer, [norse_explorer.GetFirstName], wishing to tell me the exotic stories of their exploits and adventurs across Aeras.\n\nDespite [norse_explorer.GetHerHis] age, [norse_explorer.GetFirstNamePossessiveNoTooltip] eyes remain sharp as [norse_explorer.GetSheHe] tells me of" #NT!
+ fp1_yearly.1081.desc.india: "a rich land divided between almost a dozen republics and twice that many kingdoms situated in the far east of Sarradon, known as Kashmiya. Its peoples are renowned for their unique magical traditions and their highly literate culture. [norse_explorer.GetFirstName] claims that [norse_explorer.GetSheHe] saw even peasants in possession of simple books and manuscripts. Of their faith, [norse_explorer.GetSheHe] says there are too many to count, with it being popular among some of the region's diverse peoples to even make the claim that there are no gods at all." #NT!

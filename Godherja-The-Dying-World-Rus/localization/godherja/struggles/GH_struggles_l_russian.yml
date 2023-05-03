@@ -1,0 +1,28 @@
+﻿l_russian:
+  
+ game_concept_rite_wars_south_struggle: "Southern Rite Wars" #NT!
+ game_concept_rite_wars_south_struggle_desc: "The $game_concept_rite_wars_south_struggle$ depicts the conflicts and schisms of the Sjalvolki living in Opakasija following the death of Cenware Witch-Breaker. Born from the great migration into the Shattered Coast, the [struggle|E] shifts between [struggle_phase_phases|E] of violence, wary truces, and pragmatic cooperation. There are few permanent allies and [rulers|E] should be wary of relying purely on a shared [faith|E] or [culture|E]." #NT!
+ game_concept_rite_wars_south: "Southern Rite Wars" #NT!
+ game_concept_rite_wars_south_desc: "The $game_concept_rite_wars_south_struggle$ depicts the conflicts and schisms of the Sjalvolki living in Opakasija following the death of Cenware Witch-Breaker. Born from the great migration into the Shattered Coast, the [struggle|E] shifts between [struggle_phase_phases|E] of violence, wary truces, and pragmatic cooperation. There are few permanent allies and [rulers|E] should be wary of relying purely on a shared [faith|E] or [culture|E]." #NT!
+ game_concept_struggle_phase_rite_wars_south_opportunity: "Opportunity Phase" #NT!
+ game_concept_struggle_phase_rite_wars_south_opportunity_desc: "After a long period of relatively peaceful coexistence during the [struggle_phase_rite_wars_south_conciliation|E], complacency begins to set in. Peasantry and nobility alike are comfortable that things just #EMP work#!, allowing more shrewd [characters|E] to take advantage of their naivety.\n\nEventually, fresh abuses will either cause an escalation into the [struggle_phase_rite_wars_south_hostility|E], or else savvy politicking reaches an uneasy equilibrium through the [struggle_phase_rite_wars_south_conciliation|E]." #NT!
+ game_concept_struggle_phase_rite_wars_south_hostility: "Hostility Phase" #NT!
+ game_concept_struggle_phase_rite_wars_south_hostility_desc: "Tensions flare and tempers fray in this $game_concept_struggle_phase_phase$. Repeated acts of malice and escalated misunderstandings during  the [struggle_phase_rite_wars_south_opportunity|E] have lead to rising hatred of [characters|E] with differing [cultures|E], [faiths|E], or #EMP worse#!: both.\n\nSuch bloodshed cannot persist forever, though. Eventually, either cooler heads or simple exhaustion bring the peninsula to the [struggle_phase_rite_wars_south_compromise|E]." #NT!
+ game_concept_struggle_phase_rite_wars_south_compromise: "Compromise Phase" #NT!
+ game_concept_struggle_phase_rite_wars_south_compromise_desc: "Whether through sickness with the strife of the [struggle_phase_rite_wars_south_hostility|E] or deft escalation during the [struggle_phase_rite_wars_south_conciliation|E], the $game_concept_struggle_phase_rite_wars_south_compromise$ represents a growing accommodation between the peoples of Opakasija. Differences fall by the wayside and shared history and heritage binds former foes together.\n\nThe peninsula stands at a cross-roads: if conflicts reappear, then the [struggle_phase_rite_wars_south_opportunity|E] awaits." #NT!
+ game_concept_struggle_phase_rite_wars_south_conciliation: "Conciliation Phase" #NT!
+ game_concept_struggle_phase_rite_wars_south_conciliation_desc: "The product of a notable [struggle_phase_rite_wars_south_compromise|E], during this $game_concept_struggle_phase_phase$, relations between the peoples of Opakasija grow so cordial that outsiders find their permissiveness difficult to parse. Inter-[faith|E] [marriages|E] are particularly common.\n\nThis can't last forever, though, and abuses of trust will eventually bring the [rite_wars_south_struggle|E] back around to the [struggle_phase_rite_wars_south_compromise|E]." #NT!
+ rite_wars_south_struggle: "Southern Rite Wars" #NT!
+ rite_wars_south_struggle_desc: "$game_concept_rite_wars_south_struggle$" #NT!
+ struggle_rite_wars_south_phase_opportunity: "Opportunity" #NT!
+ struggle_rite_wars_south_phase_opportunity_desc: "$game_concept_struggle_phase_rite_wars_south_opportunity_desc$" #NT!
+ struggle_rite_wars_south_phase_hostility: "Hostility" #NT!
+ struggle_rite_wars_south_phase_hostility_desc: "$game_concept_struggle_phase_rite_wars_south_hostility_desc$" #NT!
+ #struggle_rite_wars_south_phase_tension: "Tension" #NT!
+ struggle_rite_wars_south_phase_compromise: "Compromise" #NT!
+ struggle_rite_wars_south_phase_compromise_desc: "$game_concept_struggle_phase_rite_wars_south_compromise_desc$" #NT!
+ struggle_rite_wars_south_phase_conciliation: "Conciliation" #NT!
+ struggle_rite_wars_south_phase_conciliation_desc: "$game_concept_struggle_phase_rite_wars_south_conciliation_desc$" #NT!
+ controls_rite_wars_holy_sites_all: "You control at least 5 [holy_sites|E]" #NT!
+ controls_rite_wars_holy_sites_one: "You control at least 1 [holy_site|E]" #NT!
+ controls_rite_wars_holy_sites_some: "You control at least 3 [holy_sites|E]" #NT!

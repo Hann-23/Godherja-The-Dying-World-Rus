@@ -1,0 +1,718 @@
+﻿l_russian:
+ ####GENERAL 
+  
+ game_concept_aeras: "Aeras" #NT!
+ game_concept_aeras_desc: "Aeras is the name for the sole inhabited planet around which revolves the sun and the cosmos. Although many religions ascribe its creation to a multitude of gods, or to one god, its was in truth made by an [ancient_god|E] who longed for company. Scarred by ancient wars, disasters, and an [Concept('aelfir','alien')|E] race, Aeras has a long and forgotten history and has faced more dooms than anyone can really know." #NT!
+ ###LORE 
+ ##UNIVERSAL 
+ #EVENTS 
+ game_concept_prehistory: "Prehistory" #NT!
+ game_concept_prehistory_long_forgotten: "Long Forgotten" #NT!
+ game_concept_prehistory_desc: "Prehistory is considred any time not on the modern [imperial|E] calendar. Aversarians believe the world was founded at 24,000 BE by the 'Purest'.\n\nIn actuality, the [Concept('aeras','world')|E] was formed anywhere from 20,000 to 400,000 years before this. As hundreds of different ways to track time have passed, and time as modern humans know it has not always existed (possibly only truly starting after the Godherja) it is impossible to accurately date most of human history.\n\nRoughly, [aersanon|E] created the world after several aeons in the void, and then created humanity to attempt to make beings to converse with. Humanity was allowed to create its own kingdoms, all which worshipped Aersanon, but Aersanon grew tired of humanity's imperfections and created the [aelfir|E]. The Aelfir conquered and enslaved humanity and formed their own empires, and after several hundred thousand years, humanity rose up and destroyed the Aelfir and Aersanon both in the Godherja." #NT!
+ game_concept_marcher_aversarian_wars: "Marcher-Aversarian Wars" #NT!
+ game_concept_marcher_aversarian_wars_desc: "The Marcher-Aversarians Wars were a series of conflicts between the [marchers|E] of [chevalie|E] and the [aversarians|E] roughly between 344 IS to 631 IS, though skirmishes and border wars have been common before and after.\n\nThe Wars began in earnest in 344 IS with the invasion of [black_emperor|E] Yakub 'Illspeaker' Yakovad into Chevalie, which brought most Chevalien forces in the Marcher colonies in what is now Kalathipsomi back to the homelands to resist the invasion. Rebuffed from Aironoi by the Astliks and recovering from the Last Dragon Rebellion, the Aversarians invaded the Marcher colonies in their ever-growing desire to dominate more lands.\n\nThe initial war was hard fought, with Yakub 'Illspeaker' eventually defeated, Marcher [antimagi|E] wreaked havoc upon the Aversarians using guerilla tactics against the rugged outlands of Kalathipsomi. The initial series of wars only ended in 569 IS, when both sides, thoroughly exhausted and struggling to resist outside threats while dealing with the other agreeing to draw a new border. Aversaria would gain the majority of Kalathipsomi with the Chevaliens retaining the Black Mountains and all lands west of them.\n\nSeveral smaller wars would be fought for the mountains themselves until 631 IS when the [bloodblight|E] wiped out much of Chevalie's nobility and the Marchers withdrew west, Aversarian settlers soon filling their former holdings. The modern border between de-jure Chevalie and Aversaria has remained since." #NT!
+ game_concept_chaos_of_the_seventh_century: "Chaos of the Seventh Century" #NT!
+ game_concept_chaos_of_the_seventh_century_desc: "The Chaos of the Seventh Century was a series of disastrous series of events that began in the late 5th century and ended around 760 IS. While the chaos primarily struck [aversaria|E], it nevertheless also struck much of [chevalie|E] and [sarradon|E]. While many scholars believe that it was simply poor luck, others have suggested that it was in fact a powerful [gedeora|E] which inflicted poor luck upon [the_continent|E]\n\nThe Chaos began with the invasion of the [arch_lich|E] Adwaga Adwakampy into Chevalie and the rise of the Aversarian [lich|E] Count Themos in eastern Opakhasia. As the two Liches wreaked havoc, especially due to a collapse in Marcher authority and the Aversarian throne being sat on by a mere child, a powerful series of Gederða began tearing Aversarian cities back and forth through the timeline seemingly at random. Further exacerbating this was a large civil war that quickly broke out between the governors of Kalathipsomi and Malcois in the midst of the invasions.\n\nNot long after, the [bloodblight|E] began its rampage across the world from Aversaria. With the southwest weakened from these calamities, the [kartharadd_imperium|E] launched a massive invasion into Aversaria and conquered most of Malcois, only being beaten back after a brutal near fifty years of war which ended with the defeat of the last Kartharaddi army at the Battle of the Riduvian Barrows in 760 IS, marking the end of the Chaos." #NT!
+ game_concept_frodbrokna_desc: "Frodbrokna is the name given to a series of cataclysmic events that transpired on 1.3.1200 after the Aautokratir Aeschraes unleashed Self Replicating Blood [magic|E] onto [the_continent|E]. This wreaked wide spread havoc and devastation across [aeras|E], killing nearly half of the [aversarian|E] population, untold numbers in the wider world, and stripping many survivors of their control over magic. While his target, Axiaothea, was killed in the blast, it is unclear whether that was due to the spell's success, or the mass devastation.\n\nThe sheer power and horror brought into being was so great, that reality shattered—cracking [aervalr|E] and bringing forth the [fog|E]." #NT!
+ game_concept_frodbrokna: "Frodbrokna" #NT!
+ #CHARACTERS 
+ game_concept_aersanon: "Aersanon" #NT!
+ game_concept_ancient_gods: "Ancient Gods" #NT!
+ game_concept_god: "God" #NT!
+ game_concept_gods: "Gods" #NT!
+ game_concept_ancient_god: "Ancient God" #NT!
+ game_concept_ancient_being: "Ancient Being" #NT!
+ game_concept_creator: "Creator" #NT!
+ game_concept_purest: "Purest" #NT!
+ game_concept_aersanon_desc: "\"They woke in the void, alone and cold.\nThey dreamed of friendship, and found dead stone.\nThey cried a thousand years, and filled the seas.\nThey gave their blood, and made the plants.\nThey gave their soul, and brought the animals.\nThey gave their love, and made us.\"\n\nAersanon was the creator of [aeras|E] and all living things. One of many 'Gods', Aersanon was the only one even comprehendible to humans in any form, for Aersanon made humans in Their image and the bounds of their mind are drawn by the limits of their perception of Aersanon.\n\nAersanon created humanity out of a desire to find companionship, but was disappointed when humanity proved to be unable to meet them at their level. Despite humanity worshipping Aersanon as a god, Aersanon cast them aside and created the [aelfir|E]. Happy at the improvements made, Aersanon was nevertheless disappointed with the inherent cruelty and insanity in their blood, and began a third project when They were struck down during the Godherja.\n\nThe dead mind of Aersanon, or at least of Aersanon's image on [aeras|E], is the source of [gedeora|E], [odrstund|E], and [frodbrokna|E]. Their blood is the source of [living_magic|E], their body the source of [dead_magic|E], and their mind the source of [mixed_magic|E]. [magic|E] is more powerful around the [towers|E] from which They ruled, and along the paths upon which They tread.\n\nTens to hundreds of thousands of years since their 'death' (insofar as such a concept applies to a God), Aersanon has been forgotten by all besides the most childish or esoteric of fairytales and religious lore." #NT!
+ game_concept_arthenax: "Arthenax" #NT!
+ game_concept_arthenax_desc: "Arthenax was a [dragon|E] that lived from an unknown date until 439 IS when she was killed at the hands of Aautokratia Aeliadias, she is commonly accepted to have been the last of her kind.\n\nArthenax invaded [aversaria|E] from the northeast in 421 IS, over 200 years after dragons had thought to have been exterminated by the Aversarians. She, along with her four children (the dragons Iluthunax, Parthagad, Olaxanat and Kutharax) proceeded to scour much of Aversaria, exacting tribute from local lords of wantonly slaughtering entire cities as they saw fit.\n\nArthenax slew the entirety of over six Aversarian Legions and over two hundred [magi|E] who attempted to stop her before finally being confronted by Aautokratia Aeliadias in a legendary duel in southern Opakhasia. Aeliadias proved herself the strongest Magi of a generation in killing the beast and her children. The magical flames conjured by Aeliadias were so powerful that Arthenax was burned away until her bones turned into blackened stone, and her remains still remain where they fell so long ago. While Arthenax is considered the last living dragon, it is unknown from where she came from, and the believed extinction is only due to the lack of verifiable reports of other dragons since." #NT!
+ #GROUPS AND ORGANIZATIONS 
+ game_concept_fogeaters: "Fogeaters" #NT!
+ game_concept_fog_eater: "Fogeater" #NT!
+ game_concept_fog-eater: "Fogeater" #NT!
+ game_concept_fogeater: "Fogeater" #NT!
+ game_concept_fog_eaters: "Fogeaters" #NT!
+ game_concept_fog-eaters: "Fogeaters"" #NT!
+ game_concept_fogeaters_desc: "Fogeaters are the [mutated|E] remains of humans who were left trapped in the [foglands|E] after [frodbrokna|E]. Whether they can still be considered human, mutated human, or a form of [fogbeast|E] is hotly debated, and little is known about the particulars of their 'culture' or beliefs.\n\nWhat is known is that they were once a series of tribes scattered across the far northeast, and unlike most who die when trapped within the [fog|E], they instead adapted to it and changed into something different. They now uniformly worship what they call the 'Mistmother', a personification of the fog, who they believe speaks to them through it.\n\nFogeaters themselves have little remains of human sentience, generally little more than gibbering wrecks who have only retained enough sentience to perform raids and ambushes out of the foglands and kill themselves upon capture. Physically, they possess an unnaturally pale skin from which many of their veins and sometimes even organs can be seen through, and unnaturally spindly and ill-proportioned limbs. Their eyes retain multiple colors not seen in other humans as well, including reds, purples, whites and blacks. Blindness is prevalent, though they seem unnaturally immune to most known sicknesses, and have far less need for food or water in comparison to humans. Despite this, cannibalism is extremely common, somehow connected to their odd religious beliefs." #NT!
+ game_concept_aelfir: "Aelfir" #NT!
+ game_concept_aelfir_alien: "Alien" #NT!
+ game_concept_first_men: "First Men" #NT!
+ game_concept_aelfir_desc: "The Aelfir were the second project of [aersanon|E], created in Aersanon's continued quest to make a being They could consider Themselves equal to.\n\nThe Aelfir were considered an improvement over humans. They were far superior at [magic|E], bred less, lived longer, and were generally considered far smarter and stronger. While looking similar to humans, they possessed long pointed ears, alien yet exceptionally striking facial features, and shades of skin going from ivory to black to blue.\n\nThe Aelfir's greatest flaw was in their cruelty. Obsessing over their own image and power, the Aelfir regularly brutalized one another and especially humans in attempts to further their own power. Aersanon saw this as a weakness and strove to fix it with a third project, but was stopped by the Godherja and Their apparent death.\n\nThe Aelfir formed multiple empires across the planet before their destruction in the Godherja, from which they reigned for several thousand years with humanity toiling as a brutalized slave caste. After humanity stole their magic and wiped out the race, they have been almost completely forgotten from history. The closest to memory of the Aelfir is from the [aversarians|E] who worship a pantheon of 'First Men', and the Sjalvolki whose tales of [creatures|E] from the 'Gods Above' contain mentions to Aelfir, though they are considred minor demons and little more than monsters." #NT!
+ #LOCATIONS 
+ game_concept_the_continent: "The Continent" #NT!
+ game_concept_continent: "Continent" #NT!
+ game_concept_continental: "Continental" #NT!
+ game_concept_greater_aversaria: "Greater Aversaria" #NT!
+ game_concept_the_continent_desc: "'The Continent' or 'Greater Aversaria' is the generally accepted name for the western region of [aeras|E] that contains the realms of [aversaria|E] and [chevalie|E]. Dominated by Aversaria for much of its history, the continent in the western vernacular has gradually been named after them, though many cultures retain their own terms for the area.\n\nThe generally accepted boundaries of Greater Aversaria are the lands north of the [lichdoms|E], the eastern border of Aironoi, and the mass expanses of wilderness and mountains to the far northeast." #NT!
+ game_concept_the_towers: "The Towers" #NT!
+ game_concept_towers: "Towers" #NT!
+ game_concept_tower: "Tower" #NT!
+ game_concept_the_towers_desc: "The Towers are a series of strange and mysterious obelisks erected at some point in the forgotten past all across [aeras|E]. Almost identical in design, each are made of a strange and alien black stone and generally stand taller than any other buildings in human imagination. Religions and cults have often risen up around these towers, their beliefs reinforced by the powerful [magics|E] radiating off them.\n\nDespite the massive interest in the towers, nobody is known to have ever seen the interior of one, as each is surrounded by a deadly magical field.\n\nThe most famous of the Towers is the [sea_tower|E] (or the "Imperial Tower" to [aversarians|E]), which is claimed to have once been the throne of the 'Purest'. Some cults claim that it was actually the seat of the worlds [creator|E]." #NT!
+ game_concept_sea_tower: "Sea Tower" #NT!
+ game_concept_imperial_tower: "Imperial Tower" #NT!
+ game_concept_sea_tower_desc: "The Sea Tower (or the Imperial Tower) is one of several [towers|E] across [aeras|E]. The Sea Tower is unique in that it stands taller than its sibling towers, and that the [magical|E] power radiating from it is at such a level that the Sea Tower is considered the most powerful magical site on Aeras. So powerful that it is the source of the [tower_wayline|E]\n\nDespite this, none have ever stepped foot inside. The sheer amount of magical power has killed any that have attempted to approach it, and the scattered husks of shipwrecks ride up against its edges like barnacles.\n\n[aversarians|E] claim the Sea Tower (or as they call it, the Imperial Tower) was once the throne of the 'Purest', and the flag of the Imperial province of Etepezea proudly carries it in its center. Some cults claim that it was actually the seat of the world's [creator|E]." #NT!
+ #MONSTERS 
+ game_concept_dragons: "Dragons" #NT!
+ game_concept_dragon: "Dragon" #NT!
+ game_concept_dragons_desc: "Dragons were [godtouched_creatures|E] that primarily resides in [aversaria|E] and parts of northeastern [sarradon|E] from an unknown period until roughly the the mid 200s. Ferocious and massive reptilian beasts, dragons could breath fire, ice, or poison upon their foes, fly with massive wings, and showed an intelligence at or above a human level. They were capable of complex speech, though only the one(s) they spoke to could seemingly hear their voice. Dragons would come in a variety of colors based on the contents of their breath, and would normally travel in packs of up to six-a mother and father couple and their children, normally splitting once the children either found mates or created their own packs.\n\nDragons were rare but not entirely uncommon in their homelands along the [shattered_coast|E] and it was considered a high honor in Aversarian society to be declared a Dragon Rider upon taming one of the creatures, normally through forming something akin to a friendship with it. The rise of Aversaria coincided—partially due to Aversarian breeding programs—with a marked increase in the dragon population, and by the War of the Thousand Dragons there would be over 800 recorded Dragon Riders belonging to various cliques and fraternities across Aversaria.\n\nDragons were seemingly wiped out during and after the war, first from battle and then later after Aautokratir Aexionarax deemed the remaining dragons too dangerous and had them slaughtered.\n\nThe most famous dragon in history was [arthenax|E], commonly believed to be the last living dragon." #NT!
+ game_concept_griffons: "Griffons" #NT!
+ game_concept_griffon: "Griffon" #NT!
+ game_concept_griffons_desc: "Griffons are [godtouched_creatures|E] that traditionally roost in the mountains of [chevalie|E]. Griffons possess the body and back legs of a lion, with the head, wings and talon of an eagle. Considered highly respectable [creatures|E] in the Marcher mythos, many Marcher folk heroes are griffon riders, and knights riding griffons is a traditional image representing the [antimagic_orders|E].\n\nIt is unknown if Griffons have become more rare due to the growth of human settlement in Chevalie of if ancient tales simply overstate their population, but older Marcher sagas tell tales of armies of Griffon riders. In the modern era, Griffon riders are considered somewhat rare, normally limited to royalty and elite units fielded by the Anti-Magic Orders, several of which maintain stables of Griffons and take great pride in breeding the animals. It is tradition for each of the major Anti-Magic Orders to offer a griffon to a newly coronated monarch. The monarch choose the griffon themselves, and then train with the Anti-Magic Order that raised it to learn how to ride the creature and do battle from its back.\n\nGriffons are considered highly intelligent, Griffons more exposed to humans normally seeming to be able to understand spoken language and able to respond to complex sentences, though they are unable to actually speak any human tongue.\n\nHippogrifs are considered a kindred beast to Griffons, native to the Black Mountains to the east of Chevalie, but are believed to have gone extinct from overuse by Marcher knights during the [marcher_aversarian_wars|E]." #NT!
+ game_concept_mutated: "Mutated" #NT!
+ game_concept_mutate: "Mutate" #NT!
+ game_concept_mutants: "Mutated" #NT!
+ game_concept_mutant: "Mutant" #NT!
+ game_concept_mutation: "Mutation" #NT!
+ game_concept_mutations: "Mutations" #NT!
+ game_concept_mutant_creatures: "Mutant Creatures" #NT!
+ game_concept_mutant_creature: "Mutant Creature" #NT!
+ game_concept_mutations_desc: "Mutations are a result of an exposure to massive amounts of [magic|E] that do not end in death. While the exposure is common for people near large battlefields between [magi|E], places of power, or sometimes on villages along Waylines, the survival is not. Sometimes, Magi will create mutations through experimentation, normally to horrifying and eldritch results.\n\nMutations can manifest as everything from glowing eyes to extra limbs to complete transformations. Many mutations created by ancient Magi or long forgotten civilizations still roam [aeras|E], sustained by magical power. There has been no verifiable evidence of these beasts being tamed by anyone besides the one who forms them, and far more evidence for these beasts devouring their creators.\n\nLuckily for most, exposure to excess energies normally leads to [exposure_sickness|E] before it leads to outright death or transformation, and most people can avoid it if they recognize the symptoms." #NT!
+ game_concept_fogbeasts: "Fogbeasts" #NT!
+ game_concept_fogbeast: "Fogbeast" #NT!
+ game_concept_fogbeasts_desc:0 "A Fogbeast is any [creature|E] that was summoned by or [mutated|E] in the [fog|E]. [aversarian|E] scholars generally separate them into two groups:\n\n-Fogbeasts of Mutation:\nCreatures twisted by exposure to the Fog in shape and mind. Wolves, bears, and elk are common, though there have been reports of even things as innocuous as trees and the ground itself acting as if sentient. [fogeaters|E] can also be considered a kind of Fogbeast.\n\n-Fogbeasts of Thought:\nCreatures spawned by basic human fears and thought while exposed to the Fog. Contrary to common belief, these fears are not active ones, and Fogbeasts of Thought can not simply be prevented by thinking 'happy thoughts'. Instead the Fog will often find deeply held worries and beliefs, and manifest them into nightmarish creatures vaguely inspired by this. An often held saying of the Fog goes: "A Fogbeast is any [creature|E] that was summoned by or [mutated|E] in the [fog|E]. [aversarian|E] scholars generally separate them into two groups:\n\n-Fogbeasts of Mutation:\nCreatures twisted by exposure to the Fog in shape and mind. Wolves, bears, and elk are common, though there have been reports of even things as innocuous as trees and the ground itself acting as if sentient. [fogeaters|E] can also be considered a kind of Fogbeast.\n\n-Fogbeasts of Thought:\nCreatures spawned by basic human fears and thought while exposed to the Fog. Contrary to common belief, these fears are not active ones, and Fogbeasts of Thought can not simply be prevented by thinking 'happy thoughts'. Instead the Fog will often find deeply held worries and beliefs, and manifest them into nightmarish creatures vaguely inspired by this. An often held saying of the Fog goes: "In the Fog, if you hear a monster, you've already made it."" #NT!
+ game_concept_creature: "Creature" #NT!
+ game_concept_creatures: "Creatures" #NT!
+ game_concept_creature_desc: "Creatures, when not used as an insult, are any non-human living beings within [aeras|E]. They are generally sorted into three categories:\n\n[natural_creatures|E]: Any creature seen as a natural part of the world. Normally this refers to any creatures that do not show higher capacity for thought such as dogs, fish, and horses.\n\n[godtouched_creatures|E]: Godtouched normally refers to any creature that shows a higher degree of intelligence or has the physiology of multiple other animals. [griffons|E], [dragons|E] and even [the_worldeater|E] are or were considered Godtouched.\n\n[mutant_creatures|E]: Mutant Creatures are any beings that have been formed by magical [mutation|E] either purposefully or naturally. As most of them are entirely unique from one another, they are generally not classified by species. The most unifying trait of them is their tendency to live for extremely long periods of time - possibly even forever, seemingly sustained by magic. [fogbeasts|E] can be considered a type of Mutant Creature, though most mutants are simply referred to as [monsters|E]." #NT!
+ game_concept_natural_creatures: "Natural Creatures" #NT!
+ game_concept_natural_creatures_desc: "Natural Creatures, as defined by [magi|E] Kalatharcicos' 'Wondrous Creatures of the World' bestiary (the commonly accepted standard for the natural sciences), are any [creatures|E] that show no sign of higher intelligence and retain no physical characteristics seemingly from other animals. Examples of this can be most livestock, dogs and cats, horses and camels, and most other animals found in the wild. By far the most plentiful of beasts, Natural Creatures can be found in nearly all regions of [aeras|E] and [the_continent|E].\n\nDespite the claims of several Aversarian anthropologists, non-Aversarians are not considered any form of creature." #NT!
+ game_concept_godtouched_creatures: "Godtouched Creatures" #NT!
+ game_concept_godtouched_creature: "Godtouched Creature" #NT!
+ game_concept_godtouched_creatures_desc: "Godtouched Creatures, as defined by [magi|E] Kalatharcicos' 'Wondrous Creatures of the World' bestiary (the commonly accepted standard for the natural sciences), are any [creatures|E] that show heightened intelligence anywhere from near-human to post-human levels and/or has physical characteristics seemingly gained from multiple other animals. Examples of Godtouched Creatures are [griffons|E], [dragons|E] and Hippogriffs. The line between Godtouched and Natural can be fairly blurry, and many newly discovered animals have their classifications hotly disputed in scientific circles.\n\nWhile [mutants|E] can show traits from multiple animals, the singularity of their existence and horrifying visage normally precludes them from this category." #NT!
+ ##COSMOLOGY 
+ #COSMOS 
+ game_concept_aervalr: "Aervalr" #NT!
+ game_concept_aervalr_desc: "Aervalr is the sole moon of [aeras|E], created from a fragment of [aersanon|E]'s mind to comfort Their children through the dark of the night. In the countless ages since, it has continued its path nearly unchanging, lending power to [dead_magi|E], who are known as Moon [magi|E] in some regions as a result. The shifting of its phases have a profound effect on these Magi, and their power waxes and wanes with the moon's phases.\n\nMany would assume that something as distant as Aervalr would be unaffected by the affairs of humankind, but [frodbrokna|E] has proven otherwise. As reality once more shook, the moon shattered, and its pieces now rain down upon Aeras, causing devastation wherever they land." #NT!
+ #FOG 
+ game_concept_the_fog_encyclopedia: "The Fog" #NT!
+ game_concept_the_fog_encyclopedia_desc: "$FOG_APPEARED_CONCEPT$" #NT!
+ game_concept_the_fog: "The Fog" #NT!
+ game_concept_fog: "Fog" #NT!
+ game_concept_the_fog_desc: "[GetPlayer.Custom('DynamicConceptFog')]" #NT!
+ FOG_APPEARED_CONCEPT: "The Fog is a strange [magical|E] phenomenon emanating from a source of disputed nature and even precise location in the far north of the [continent|E]'s inland, widely referred to as [the_rift|E]. While the exact cause and circumstances of its emergence have remained almost completely obscure, the first known sightings by remote colonies, frontier legions and tribals coincide with the immediate aftermath of [frodbrokna|E] and the end of the [imperial_civil_war|E], leading many to believe that the mass chaos and evils of the conflict somehow drew it forth.\n\nNothing lives in the [foglands|E], at least nothing natural. Those few who have visited its cold interior and lived to tell the tale describe an immense feeling of dread, of constantly being watched and surrounded by a relentless litany of panicked whispers and unnatural sounds. Whatever one fears can be manifested in the Foglands, monsters of man's own creation taking corporeal form and attacking them as they wander, and living on to persist to another day. These [fogbeasts|E], along with other strange [creatures|E], wander the Foglands and attack any trapped inside. And that is not to mention the [fogeaters|E].\n\n[mixed_magic|E] is claimed to draw its power from the Fog. Many cults and esoteric religions have been created in an attempt to rationalize where exactly it comes from, the most esoteric of which claim the Fog is somehow connected to the corpses of [ancient_gods|E].\n\nThe Fog is slowly spreading, and will likely consume the entire world if not stopped." #NT!
+ FOG_NOT_APPEARED_CONCEPT: "In the words of the most deranged of prophets, the most obscure of oracles, comes a dire warning - one day, pale death will come to visit [aeras|E], and when it does, its thirst will not be quenched until all the world has been consumed.\n\nLuckily, that day has not yet come." #NT!
+ game_concept_foglands: "Foglands" #NT!
+ game_concept_fogland: "Fogland" #NT!
+ game_concept_fogswept: "Fogswept" #NT!
+ game_concept_fog_swept: "Fog Swept" #NT!
+ game_concept_fogland_forsaken: "Forsaken" #NT!
+ game_concept_foglands_desc: "The Foglands are the remains of lands that have been consumed by the [fog|E]. Much of them were once the northeastern colonies of [aversaria|E], but the Fog has since seemingly swept north, and many theorize it has long destroyed the far eastern realms of Kathun-Kai. The only [creatures|E] remaining in the Fog are [fogeaters|E] and [fogbeasts|E], and few have ever journeyed even close to Fogswept lands and returned.\n\nWhile nobody knows its exact location, it is generally accepted that the Foglands contains [the_rift|E], from which the Fog emerges." #NT!
+ game_concept_the_rift: "The Rift" #NT!
+ game_concept_rift: "Rift" #NT!
+ game_concept_the_rift_desc: "The Rift is a massive tear in [aeras|E] and what seems like the very fabric of reality itself, deep within the [foglands|E] of the [greater_aversaria|E]. It is from the Rift that the [fog|E] seems to pour from, though none have lived to see it since the very beginning of the Fog shortly after [frodbrokna|E]. [mixed_magi|E] are said to draw power from the Rift and the Fog, and those few who practice it publically claim that they feel an eternal draw towards the Rift. Many of them claim that the 'other side' they interact with can be crossed into physically through it.\n\nSome of the more obscure and doubtless insane cults of the world claim the Rift to actually be a hole in the mind of an [ancient_god|E]." #NT!
+ ##MAGIC 
+ #SCHOOLS 
+ game_concept_living_magic: "Living Magic" #NT!
+ game_concept_living_magics: "Living Magics" #NT!
+ game_concept_living_magic_desc: "Living Magic is the [magic_type|E] arising from 'living' materials, namely from the combined life force found in the blood of humans but also in plants and through the soil. Living Magic relies on either the leaching of life from other sources, the use of one's own blood, or the full sacrifice of another soul to be used. It is also the most common form of [magic|E], and widely accepted in much of the world.\n\nMasters of Living Magic can extend their life force beyond natural means, control fire by burning still-living wood, and can even kill with a simple flick of their hand. Practitioners are normally called [living_magi|E], though Blood Magi, Life Magi and Fire Magi also refer to them." #NT!
+ game_concept_dead_magic: "Dead Magic" #NT!
+ game_concept_dead_magics: "Dead Magics" #NT!
+ game_concept_dead_magic_desc: "Dead Magic is the [magic_type|E] arising from 'dead' materials, namely any object without inherent [magical|E] blood flowing through it. This means the earth, the moon [aervalr|E], and the long-deceased. Most of Dead Magic's power comes from the power of Aervalr, and the entire school has been thrown into chaos with its shattering. Dead [magi|E] rely on Aervalrian Cycles for their strongest power, and on any given night or day can go from essentially powerless to godlike with a single shift of the moon-phase. Dead Magic is very rare, but is an established school and generally accepted in most of the world.\n\nMasters of Dead Magic can shape the earth into constructs both living and not, predict the future by the phases of the moon, or raise skeletons and bring forth [gh_general_undead|E] legions, possibly even achieving [lichdom|E]. Practitioners are normally called [dead_magi|E], though Earth Magi, Moon Magi and Dark Magi also refer to them." #NT!
+ game_concept_mixed_magic: "Mixed Magic" #NT!
+ game_concept_mixed_magics: "Mixed Magics" #NT!
+ game_concept_fog_magics: "Fog Magics" #NT!
+ game_concept_fog_magic: "Fog Magic" #NT!
+ game_concept_bending_the_will_of_the_fog: "bending the will of the Fog itself" #NT!
+ game_concept_mixed_magic_desc: "Mixed Magic is the new and mysterious [magic_type|E] arising from the [frodbrokna|E] and taking its powers from a mix of both Living and Dead sources or from the [fog|E] itself. Seemingly becoming more powerful the more chaotic and damaged the world becomes, Mixed Magic is exceedingly rare and dangerous, and seems to have near limitless potential in the dying world. [mixed_magi|E] are subjects of both fear and fascination, and other [magic|E] users (and most living [creatures|E]) feel a natural repulsion that radiates off of Mixed Magi. They are often killed on sight, being associated with the Fog, though doing so is far easier said than done.\n\nMasters of Mixed Magic can interact with and alter or even destroy human minds, manipulate and maneuver through the [foglands|E], and can interact with and commune with spirits from the other side of [the_rift|E]. Other names for for [mixed_magi|E] include Fog Magi, Ethereal Magi, Dream Magi or Grey Magi." #NT!
+ GAME_CONCEPT_MIXED_MAGIC_APPEARED_TITLE: "Mixed Magic" #NT!
+ GAME_CONCEPT_MIXED_MAGIC_APPEARED: "Mixed Magic is the new and mysterious [magic_type|E] arising from the [frodbrokna|E] and taking its powers from a mix of both Living and Dead sources or from the [fog|E] itself. Seemingly becoming more powerful the more chaotic and damaged the world becomes, Mixed Magic is exceedingly rare and dangerous, and seems to have near limitless potential in the dying world. [mixed_magi|E] are subjects of both fear and fascination, and other [magic|E] users (and most living [creatures|E]) feel a natural repulsion that radiates off of Mixed Magi. They are often killed on sight, being associated with the Fog, though doing so is far easier said than done.\n\nMasters of Mixed Magic can interact with and alter or even destroy human minds, manipulate and maneuver through the [foglands|E], and can interact with and commune with spirits from the other side of [the_rift|E]. Other names for for [mixed_magi|E] include Fog Magi, Ethereal Magi, Dream Magi or Grey Magi." #NT!
+ GAME_CONCEPT_MIXED_MAGIC_NOT_APPEARED_TITLE: "Other Schools of Magic" #NT!
+ GAME_CONCEPT_MIXED_MAGIC_NOT_APPEARED: "Many a [magi|E] has been enamoured by the idea of uncovering a third, unknown [magic_type|E]. Certainly, such a discovery would rock the world, but thousands of years of attempts have all yielded nothing but failure. Whenever a phenomenon was thought to not have roots in either of the two Schools, it would eventually come to surface that it was either the result of fraud, or misinterpretation.\n\nIt is safe to assume that [living_magic|E] and [dead_magic|E] are the only two true forms of [magic|E]." #NT!
+ game_concept_mixed_magic_encyclopedia: "$GAME_CONCEPT_MIXED_MAGIC_APPEARED_TITLE$" #NT!
+ game_concept_mixed_magic_encyclopedia_desc: "$GAME_CONCEPT_MIXED_MAGIC_APPEARED$" #NT!
+ #MAGI 
+ game_concept_blood_magi: "Blood Magi" #NT!
+ game_concept_life_magi: "Life Magi" #NT!
+ game_concept_fire_magi: "Fire Magi" #NT!
+ game_concept_living_magi: "Living Magi" #NT!
+ game_concept_living_magi_desc: "Living [magi|E] (also known as Blood Magi, Life Magi or sometimes Fire Magi) is a description for any [magic|E] users specializing in the use and manipulation of [living_magic|E]. Different from [dead_magi|E] who draw power from dead things and [mixed_magi|E] who draw power from the immaterial, Living Magi draw their power from living things. This can be animals, blood, plants and more. While Living Magi can technically get by simply on non-sentient means, casting at any proper level traditionally requires the blood of a human.\n\nThe most common of Magi, Living Magi are a wide ranging lot who can use their magic to do anything from heal the sick to launching great fireballs or causing the human body to literally explode. The most famous Living Magi in history is perhaps Aeschraes, who cast the [selfreplicating_blood_magic|E] that ended the world and caused [frodbrokna|E]." #NT!
+ game_concept_earth_magi: "Earth Magi" #NT!
+ game_concept_moon_magi: "Moon Magi" #NT!
+ game_concept_dark_magi: "Dark Magi" #NT!
+ game_concept_dead_magi: "Dead Magi" #NT!
+ game_concept_dead_magi_desc: "Dead [magi|E] (also known as Earth Magi, Moon Magi or Dark Magi) is a description for any Magi that primarily draws their power from dead things. While traditionally associated with necromancy and, even worse, [lichdom|E], in actuality the vast majority of Dead Magi never even bother learning these arts.\n\n'Dead' things to be drawn upon by Dead Magi are varied. The bones of long-dead [creatures|E] or the dried husks of trees, dried earth, and most of all the shattered moon of [aervalr|E]. Dead Magi often see their powers wax and wane along with the moon above. At its dimmest, Dead Magi may struggle to cast even basic spells, while at the full moon they can become the most terrifying of spellcasters.\n\nLichdom is only achievable by Dead Magi, and the [sorrowing_of_oejeynica|E] long caused repression of Dead Magi through [continental|E] society, though this has largely faded away over the centuries." #NT!
+ game_concept_mixed_magi: "Mixed Magi" #NT!
+ game_concept_fog_magi: "Fog Magi" #NT!
+ game_concept_ethereal_magi: "Ethereal Magi" #NT!
+ game_concept_grey_magi: "Grey Magi" #NT!
+ game_concept_dream_magi: "Dream Magi" #NT!
+ game_concept_wielders_of_the_fog: "wielders of the Fog" #NT!
+ game_concept_mixed_magi_desc: "Mixed [magi|E] (also known as Fog Magi, Grey Magi, Ethereal Magi or Dream Magi) are practitioners of the strange art of [mixed_magic|E], a [magic_type|E] that entered the history books with [frodbrokna|E] and the arrival of the [fog|E]. As opposed to [living_magi|E] who draw power from living things and [dead_magi|E] who draw from the unliving, Mixed Magi draw their power from the otherside of the veil. More accurately, they seem to draw from [the_rift|E], and all the emotions and suffering of the world.\n\nMixed Magi are generally associated with blindness, an affliction common among their kind as they see less of the material and more of the ephemeral, as well as crows. Despite most cultures seeing them as an evil 'other', Mixed Magi have no strong inclination towards any morality, and their methods of generating [magic|E] are generally far less harmful to others than Living Magi." #NT!
+ #EFFECTS AND SPELLS 
+ game_concept_exposure_sickness: "Exposure Sickness" #NT!
+ game_concept_exposure_sickness_desc: "Exposure Sickness is a catchall term for a variety of ailments arising to excess exposure to [magical|E] energies. Generally this happens due to proximity to magical places of power such as ancient temples, wayline crossings or magical battlefields, but is also found in [magi|E] who gather excess power. It is not to be confused with ailments resulting from casting spells requiring an excess of power than what the caster possesses, which is normally called [overwhelmation|E].\n\nExposure Sickness normally begins with headaches, fevers, dizziness and vomiting. At higher levels of exposure it can manifest in the bleeding of the eyes and nose, vomiting of blood, hair and skin loss, and the sloughing of skin. [mutations|E] are common at heightened levels, and at the highest levels of exposure, it has been reported that the afflicted can disintegrate, spontaneously combust, melt, or quite literally explode, assuming they do not simply expire." #NT!
+ game_concept_overwhelmation: "Overwhelmation" #NT!
+ game_concept_overwhelmation_desc: "Overwhelmation is the result of [magi|E] attempting to cast spells in excess of what their bodies are physically capable of. Normally the result of rookie Magi unsure of their own limits, or Magi in moments of life or death desperation, Overwhelmation normally results in painful death. Combustion, disintegration or explosion are the most common results, other times the spell they are attempting to cast may backfire upon them or those around them. A blast of fire may simply ignite the Magi, attempting to crush an enemy's blood may lead to an explosion of the arms, or attempting to heal a grievous wound to the melting of the Magi's nervous system.\n\n[aversarian|E] researchers in the [mayikprolollans|E] predicted that approximately up to a third or more of Magi not from a magically gifted family or of unknown birth will die of Overwhelmation after casting a spell by accident or in trying to discover their powers." #NT!
+ game_concept_bloodblight: "Bloodblight" #NT!
+ game_concept_the_bloodblight: "The Bloodblight" #NT!
+ game_concept_bloodblight_desc: "The Bloodblight was a disease that rocked most of [the_continent|E] and [sarradon|E] during a period known as the [chaos_of_the_seventh_century|E], though the disease has had smaller outbreaks since. The disease is generally agreed to be magical in nature, though its origins are unknown. Victims normally show traits similar to [exposure_sickness|E], most likely due to the disease itself rapidly increasing the levels of magic within the victim. Victims normally show glowing, pulsing red veins, bleed from the nose, eyes and ears, and will normally expire from blood loss after rapid skin loss. If they survive this, then they normally die from the lining of the lungs collapsing, and their chests filling with blood. Bloodblight spreads most rapidly to Magi, though mundane humans are still prone to it.\n\nThe effects of the Bloodblight outbreak of the Seventh Century were massive and longreaching. In [chevalie|E], the first High King in a generation along with his entire extended family were wiped out and the Chevaliens forced to withdraw from their last colonies in the Black Mountains. In Aversaria, an entire generation of the nobility were destroyed, leading to mass societal collapse and a near dissolution of the Aautokrata. In Sarradon, the structured and elite magic class, the Sirhad, were almost entirely destroyed. Without the Sirhad to direct and control magic on the continent, the following generation would throw out most established norms and standards from their predecessors, and begin a rapid arms race to discover new horrifying and powerful spells for war. This would eventually lead to the discovery of [selfreplicating_blood_magic|E], and by extension, [frodbrokna|E]." #NT!
+ game_concept_selfreplicating_blood_magic: "Self-Replicating Blood Magic" #NT!
+ game_concept_selfreplicating_blood_magic_desc: "Self-Replicating Blood Magic is a name for a series of rituals and a spell which is commonly believed to be the most powerful and dangerous spell known to humans. An exceptionally complicated spell, Self-Replicating Blood Magic is only castable by the most powerful of [magi|E] and normally requires numerous others to assist them.\n\nThe spell detonates the target in a massive pillar of flame, and quickly does the same to anyone within the blast radius and beyond, spreading even further to Magi or others with magical properties. While theoretically it can be contained to a specific radius or group, the spell is extremely difficult to control, and there has never been casted in recorded history without the caster rapidly losing control.\n\nThe spell was thought lost after its discovery and use by the competing [sarradonian|E] Qurati and Almadi Magi cabals, who wiped themselves and nearly all of the continent's Magi out in the blast and brought anarchy across Sarradon for nearly a century after. It was later discovered by Legon-Aautokratir Aeschraes and Aautokratia Axiaothea during the [aversarian_civil_war|E]. While both prepared to cast it, only Aeschraes managed to in time, and ended up killing 80% of Aversaria's Magi, nearly half of the population otherwise, and wiped out millions otherwise across the entirety of the world. The pure magical power of the spell and the suffering it caused would open [the_rift|E] and bring forth [frodbrokna|E]." #NT!
+ #MISC 
+ game_concept_bloodcrystal: "Bloodcrystal" #NT!
+ game_concept_bloodcrystal_desc: "Named for both its striking crimson hue as well as the incredible amounts of human losses needed to mine even trivial amounts, Bloodcrystal has consistently been one of the most expensive, rarest and sought after commodities known to man. With the number of locations harboring deposits countable on the fingers of one's hand, and staggering casualty rates among those unfortunate souls sent to extract it (usually slaves), even lesser mines of the mineral have had wars fought over them.\n\nIncredibly magically potent, they are usually most desired by and effective in the hands of [living_magi|E], though no [magi|E] of another school would turn down the opportunity to obtain one, either. In [aversaria|E], the chief source were the mines of the northern fringes of the Empire, taken from the [chevalien|E] centuries ago.\n\nThe locations where it has been found are, without exception, extraordinarily hazardous. The chief killer in these wretched deathtraps is the powerful background [magic|E] that rapidly causes [exposure_sickness|E] and death. Efforts to locate the source of this phenomenon have all met failure." #NT!
+ game_concept_alchemy: "Alchemy" #NT!
+ game_concept_potion: "Potion" #NT!
+ game_concept_alchemy_desc: "Perhaps the most underestimated arcane art on the Shattered Coast, alchemy nevertheless occupies an important niche in the [magical|E] needs of society across the world. Though normally associated with poisons by the average layperson, a variety of beneficial potions and poultices can usually be found in the apothecaries of well-off nobles, though they rarely come cheap.\n\nIn [aversaria|E], the Konijkmener were the most important supplier of alchemical products, produced from the waters of their fetid, magically-potent swamps. However, while their concoctions may be abundant and affordable, they rarely do true justice to the potential power of alchemy. The potent vials of pure, liquid force from Kathun-Kai, on the other hand, are often able to rival powerful conventional magic, and fetch an accordingly high price.\n\nIt is well known in the west that in the mysterious far-eastern lands of Kathun-Kai that the reverse is true, with Alchemy being seen as the most important of the magical arts. For this reason, Kathuni potions and inventions are often highly desired in the west, though extremely rare due to Imperial concerns of their arts being stolen." #NT!
+ game_concept_waylines: "Waylines" #NT!
+ game_concept_wayline: "Wayline" #NT!
+ game_concept_waylines_desc: "Waylines are lines criss-crossing [aeras|E] that radiate extreme amounts of [magical|E] power. [magi|E] often travel from afar to these lines to generate power rapidly, and many of the strongest sites of magical power in the world lay along them.\n\nThe two sources for the Waylines are the [tower_wayline|E], coming from the [sea_tower|E], and the [northern_wayline|E], coming from an unknown location deep in the north. The intersections of these two lines are commonly the most magically powerful locations in the world, and are often places of strange phenomena.\n\nWhile modern Magi are mostly in agreement that the two Waylines are indistinguishable in power, many folk tales claim that the Northern Wayline is one of dark magic while the Tower Wayline is one of neutral or good magics." #NT!
+ game_concept_northern_wayline: "Northern Wayline" #NT!
+ game_concept_northern_wayline_desc: "The Northern Wayline is one of two [waylines|E] criss-crossing [aeras|E] in existence. Coming from an unknown place deep in the north, the Northern Wayline is commonly associated with the dark side of [magic|E]. Legends say that it is along the Northern Wayline that spirits walk to the afterlife, and that all evil [magi|E]'s power goes along its roots when they die. This is in opposition to the [tower_wayline|E], which is often claimed to be a source of good." #NT!
+ game_concept_tower_wayline: "Tower Wayline" #NT!
+ game_concept_imperial_wayline: "Imperial Wayline" #NT!
+ game_concept_tower_wayline_desc: "The Tower Wayline is one of two [waylines|E] criss-crossing [aeras|E] in existence. Coming from the greatest of the [towers|E], the [sea_tower|E]; the Tower Wayline crosses across most of the 'civilized' world more consistently than the [northern_wayline|E], and is generally the historical source for [aversarian|E] power.\n\nWhile most [magi|E] agree it is generally indestinguishable from the Northern Wayline, tales say that the Tower Wayline is the source of light while the Northern one is the source of darkness. Many Magi, while agreeing that the two are identical, often speak of the Northern line being 'cold' while the Southern is 'warm'.\n\nIn Aversaria, the Tower Wayline is sometimes called the 'Imperial Wayline' or the 'Wayline of Aversaria'." #NT!
+ game_concept_magical: "Magical" #NT!
+ game_concept_magic: "Magic" #NT!
+ game_concept_magics: "Magics" #NT!
+ game_concept_the_gift: "the Gift" #NT!
+ game_concept_magic_desc: "Magic is generally agreed to be the power of creation and destruction of matter. An ethereal force, most cultures and religions have their own beliefs of where it comes from and how it is drawn, and scientific and theological communities have had little agreement on its origin.\n\nThe generally accepted [magic_types|E] on [the_continent|E] are [living_magic|E], [dead_magic|E] and [mixed_magic|E]; which are practiced by [living_magi|E], [dead_magi|E] and [mixed_magi|E] respectively. While most magic fits within these lines, they are simply attempts to explain a nature not understood by humanity's brightest minds, and thus the lines between certain spells and methods of generation are often blurry, and some cultures have forms of magic considered entirely alien to continental minds." #NT!
+ game_concept_magic_type: "School of Magic" #NT!
+ game_concept_magic_types: "Schools of Magic" #NT!
+ game_concept_magic_type_desc: "A School of Magic is a unified class in which [magi|E] generally identify themselves. While they are not truly formal and it is possible for Magi to experiment with other forms of [magic|E], most generally stick to one due to the difficulty in learning a single art.\n\nThe three accepted Schools are [living_magic|E], [dead_magic|E], and [mixed_magic|E]. Living Magic primarily deals with living things, Dead Magic unliving, and Mixed Magic both or those things that truly can't be considered either.\n\nAll forms of Magic have their own forms of [necromancy|E]: [blood_necromancy|E], [dark_necromancy|E], and [ethereal_necromancy|E] respectively; though only [dead_magi|E] can achieve [lichdom|E]." #NT!
+ game_concept_magic_power_i: "@magic_icon!" #NT!
+ game_concept_magic_power: "Magic Power" #NT!
+ game_concept_magical_power_i: "@magic_icon!" #NT!
+ game_concept_magical_power: "Magic Power" #NT!
+ game_concept_magic_power_desc: "[magi|E] use magic power to cast spells. Magic power is accumulated several different ways, depending on the [magic_type|E]. [living_magic|E] power is derived from living material, [dead_magic|E] power is taken from dead material, and [mixed_magic|E] power is sourced from more eldritch and strange sources, or from the [fog|E] itself. Characters can generate magic power in the magic menu using a variety of methods. Characters also accumulate magic power passively through their traits. A character must store the requisite amount of magic power for a spell to be cast." #NT!
+ game_concept_blood_magic_blood: "Blood" #NT!
+ game_concept_blood_magic: "Blood Magic" #NT!
+ game_concept_blood_magic_desc: "Blood Magic is a nickname for many spells and methods of power generation from within the [living_magic|E] umbrella. [blood_magi|E] are defined by their use of blood and lifeforce to fuel their spells and interact with the world. This can take the form of using sacrifices of humans or animals or the ritualistic cutting of oneself.\n\nWhile the [magical|E] energy gained from draining plantlife is generally accepted to be deriving power from the plant's lifeblood, it is generally not considered a form of Blood Magic." #NT!
+ game_concept_necromancy: "Necromancy" #NT!
+ game_concept_necromancer: "Necromancer" #NT!
+ game_concept_necromancers: "Necromancers" #NT!
+ game_concept_necromancy_desc: "Necromancy is any form of [magic|E] that interacts with (and often controls) the dead. It comes in three forms: [blood_necromancy|E], [dark_necromancy|E], and [ethereal_necromancy|E]. Each type of Necromancy is associated with different [magic_type|E].\n\nNecromancy is generally looked down upon in parts of the world, though how exactly it is treated depends on the individual culture. [lichdom|E] is detested in most of the living world however, mostly because of the insane amounts of power a [lich|E] can gather over a life, and the threat they pose to all around them." #NT!
+ game_concept_blood_necromancy: "Blood Necromancy" #NT!
+ game_concept_blood_necromancy_desc: "Blood Necromancy is a type of [necromancy|E] associated with [living_magics|E]. Blood Necromancy generally revolves around Vampirism and Thralldom. Blood Necromancers can drain the life force from other humans, animals, or even plants, to strengthen themselves or extend their lives. They can also manipulate the blood in a subject to force them to follow their will. If supplied with a fresh corpse, Blood Necromancers can even control the dead, though only as long as the body still contains blood." #NT!
+ game_concept_dark_necromancy: "Dark Necromancy" #NT!
+ game_concept_dark_necromancy_desc: "Dark Necromancy is a type of [necromancy|E] associated with [dead_magics|E]. Dark Necromancy is the control of the ancient dead, generally meaning skeletons or bodies preserved long enough to survive desiccation. Dark Necromancy is normally done through the bonding of souls to the long dead - this is most easily done through the same soul that once belonged to the body, but if need be any will do. Dark Necromancers can command legions of the [gh_general_undead|E] using their own life force to bond them to service, and the greatest among Dead Necromancers can even achieve [lichdom|E], a state of eternal life where a [magi|E] bonds their soul to their own body - and then kills themselves. Living forever with full power and sentience." #NT!
+ game_concept_ethereal_necromancy: "Ethereal Necromancy" #NT!
+ game_concept_ethereal_necromancy_desc: "Ethereal Necromancy is a type of [necromancy|E] associated with [mixed_magics|E]. Ethereal Necromancy is the most obscure and mysterious of the three. While Dark Necromancers can bind spirits to the long dead and control them, Ethereal Necromancers can manipulate the powers of the other side in much more advanced ways. With Ethereal Necromancy, one can commune and speak with all of history's ancient dead, bring them forth into a physical form in the realm of the living, and even bind them to their will or request them to carry out actions on their behalf." #NT!
+ game_concept_gedeora: "Gederða" #NT!
+ game_concept_gedeora_desc: "Gederða are a strange metaphysical anomaly that strikes the world seemingly random at random times. Wide ranging magical waves of unknown origin, Gederða have done everything from altering human mental states to tearing down mountains to sinking entire continents depending on their severity. The most important one to modern history was [odrstund|E] which struck [aversaria|E] in 1168 IS and greatly heightened the vice's of the realm's [magi|E]. This matches a trend of most Gederða effecting Magi more than mundane humans.\n\nWhile their cause is unknown, several scholars have noted they seem to be getting more severe and more frequent as history has continued, their rate growing rapidly since [frodbrokna|E]." #NT!
+ ###GAMEPLAY 
+ game_concept_shadow_port: "Shadow Port" #NT!
+ game_concept_shadow_ports: "Shadow Ports" #NT!
+ game_concept_shadow_port_desc: "Shadow Ports are smuggling ports and black markets created by [pirates|E] to offload their stolen cargo. They increase a pirates [shadow_trade_capacity|E], allowing them to earn more from commerce raiding. A Shadow Port is removed when either the county reaches 100 control or the pirate is no longer in range of it." #NT!
+ game_concept_straits_and_channels: "Trade Confluences" #NT!
+ game_concept_strait: "Strait" #NT!
+ game_concept_straits: "Straits" #NT!
+ game_concept_channel: "channel" #NT!
+ game_concept_channels: "Channels" #NT!
+ game_concept_straits_and_channels_desc: "Trade Confluences are landforms through which overseas trade is funneled. This makes them excellent hunting grounds for [pirates|E]. Controlling trade confluences will give a pirate a boost to their commerce raiding. However, if multiple pirates control the same strait, the value of the strait will be split between them." #NT!
+ game_concept_raiding_balance: "Commerce Raiding Balance" #NT!
+ game_concept_raiding_balance_income: "[GetPlayer.MakeScope.ScriptValue('quartermaster_commerce_raid_income')]" #NT!
+ game_concept_raiding_balance_cap: "[GetPlayer.MakeScope.ScriptValue('quartermaster_commerce_shadow_trade_cap')]" #NT!
+ game_concept_raiding_balance_desc: "Commerce Raid From Nearby Counties: @gold_icon!#P [GetPlayer.MakeScope.ScriptValue('quartermaster_commerce_raid_nearby_counties')]#!\n Commerce Raid From Controlled [straits_and_channels|E]:\n[GetScriptedGui('commerce_raiding_straits_income_scripted_gui').BuildTooltip(GuiScope.SetRoot(GetPlayer.MakeScope).End)]\nTotal Commerce Raid: @gold_icon!#P [GetPlayer.MakeScope.ScriptValue('quartermaster_commerce_raid_income')]#!\n Base Shadow Trade: #V [GetPlayer.MakeScope.ScriptValue('quartermaster_base_shadow_trade')]#!\n Shadow Trade From Controlled Territory: #V [GetPlayer.MakeScope.ScriptValue('quartermaster_shadow_trade_controlled_territories')]#!\n Shadow Trade From Shadow Ports: #V [GetPlayer.MakeScope.ScriptValue('quartermaster_shadow_trade_shadow_ports')]#!\nTotal #V [shadow_trade_capacity|E]: [GetPlayer.MakeScope.ScriptValue('quartermaster_commerce_shadow_trade_cap')]#!" #NT!
+ game_concept_shadow_trade: "Shadow Trade" #NT!
+ game_concept_shadow_trade_capacity: "Shadow Trade Capacity" #NT!
+ game_concept_shadow_trade_desc: "Shadow Trade represents a pirate's network of friendly ports, willing to take cargo and patch up holes in a hull without too many questions. The Shadow Trade Capacity is the maximum amount of gold a [pirates|E] can earn from commerce raiding. A pirate's Shadow Trade Capacity can be increased by growing the size of their [realm|E] and by establishing new [shadow_ports|E]." #NT!
+ ##GOVERNMENTS 
+ #DESCRIPTIONS 
+ game_concept_magocracy_concept: "Magocracy" #NT!
+ game_concept_magocracy_concept_desc: "$game_concept_magocracy_concept$ is a [government_form|E] where an elite class of [magi|E] rule — the $game_concept_government_form$ of realms cycling around the [magic|E] arts.\n\n$game_concept_magocracy_concept$ can come in two forms, autocratic and republican, deciding whether Magi are chosen from a bloodline or elected by their peers." #NT!
+ game_concept_peasant_republic_concept: "Peasant Republic" #NT!
+ game_concept_peasant_republic_concept_desc: "$game_concept_peasant_republic_concept$ is a [government_form|E] where the peasantry rule themselves — the $game_concept_government_form$ of rebellions possibly gone too far." #NT!
+ game_concept_pirate: "Pirate" #NT!
+ game_concept_pirates: "Pirates" #NT!
+ game_concept_piracy: "Piracy" #NT!
+ game_concept_pirate_desc: "Pirate realms rely on raiding their surroundings for [income|E] and [prestige|E]. They run the gamut from completely anarchic communes subject to the rule of the strongest and most ruthless, to organized, formidable cartels, to normal [feudal|E] or [tribal|E] realms that merely rely on [raiding|E] for a large part of their income.\n\nTo a pirate, reputation is almost as important as gold, and they hence use [prestige|E] to hire [men_at_arms|E]. They also have access to numerous [casus_belli|E] unavailable to normal realms, and the ability to relocate to different areas at lower authority levels." #NT!
+ game_concept_magocracy_desc: "$game_concept_magocracy_concept$ is a [government_form|E] where an elite class of [magi|E] rule — the $game_concept_government_form$ of realms cycling around the [magic|E] arts.\n\n$game_concept_magocracy_concept$ can come in two forms, autocratic and republican, deciding whether Magi are chosen from a bloodline or elected by their peers." #NT!
+ game_concept_magocratic_republic_desc: "$game_concept_magocracy_concept$ is a [government_form|E] where an elite class of [magi|E] rule — the $game_concept_government_form$ of realms cycling around the [magic|E] arts.\n\n$game_concept_magocracy_concept$ can come in two forms, autocratic and republican, deciding whether Magi are chosen from a bloodline or elected by their peers." #NT!
+ game_concept_peasant_republic_desc: "$game_concept_peasant_republic_concept$ is a [government_form|E] where the peasantry rule themselves — the $game_concept_government_form$ of rebellions possibly gone too far." #NT!
+ ##MEN AT ARMS 
+ #MAGICAL / MONSTERS 
+ game_concept_monsters: "Monsters" #NT!
+ game_concept_monster: "Monster" #NT!
+ game_concept_monsters_desc: "Monsters are ferocious beasts found in the wilds.\n\nThis includes not only benign [creatures|E] like [griffons|E], but also rare and powerful monsters like [dragons|E]." #NT!
+ game_concept_gh_general_undead: "Undead" #NT!
+ game_concept_gh_general_undead_desc: "The bones of countless men that died in ages past, risen to carry out the nefarious will of their lords." #NT!
+ #CULTURAL 
+ #MUNDANE 
+ game_concept_magi: "Magi" #NT!
+ game_concept_magi_desc: "[magi|E] are individuals with the blessing—and curse—of [magic|E]. Employed as [men_at_arms|E] within armies of all types across [aeras|E], their spells can wreak havoc on battlefields and bring down even the mightiest walls." #NT!
+ game_concept_flying: "Flying" #NT!
+ game_concept_flying_desc: "Flying beasts and creatures of all sorts. These aerial combatants can easily harrass enemy troops." #NT!
+ ##HUNTING 
+ #GENERAL 
+ game_concept_adventure_lifestyle: "Adventure Lifestyle" #NT!
+ game_concept_adventure_lifestyle_desc: "The $game_concept_adventure_lifestyle$ is suitable for Characters who want to explore the world beyond their [domain|E] and appease their personal interests over that of their [liege|E] or [vassals|E]." #NT!
+ game_concept_monster_hunt: "Monster Hunt" #NT!
+ game_concept_monster_hunts: "Monster Hunts" #NT!
+ game_concept_monster_hunter: "Monster Slayer" #NT!
+ game_concept_monster_hunters: "Monster Slayers" #NT!
+ game_concept_monster_hunt_desc: "A Monster Hunt is any [hunt|E] against game not considered #E Mundane#!. Unlike normal hunts, they are not considered a regular pastime, and are hence unavailable by default without the correct cultural, religious or lifestyle prerequisites. They almost invariably carry significant dangers, but also yield far more [prestige|E] and more mighty trophies." #NT!
+ #BIOZONES 
+ game_concept_ambient_danger: "Ambient Danger" #NT!
+ game_concept_ambient_danger_desc: "Ambient Danger describes the overall level of environmental and ecological hazards present in a hunting zone. Higher levels of ambient danger usually indicate concrete factors like extreme weather, challenging terrain, or a hostile fauna or even flora, and very high levels of ambient danger will increase the level of risk from these factors themselves." #NT!
+ game_concept_woodland_biozone: "Woodland Biozone" #NT!
+ game_concept_woodland: "Woodland" #NT!
+ game_concept_woodlands: "Woodlands" #NT!
+ game_concept_woodland_formatted: "#difficulty_easy WOODLAND#!" #NT!
+ game_concept_woodland_biozone_desc: "Woodlands are temperate biomes characterised by dense vegetation and rich wildlife. On average, they tend to have a wider variety of game than most other zones, are easier to forage in, and are unlikely to suffer from extreme weather, but also tend to be difficult to navigate and may have numerous predators." #NT!
+ game_concept_chaparral_biozone: "Chaparral Biozone" #NT!
+ game_concept_chaparral: "Chaparral" #NT!
+ game_concept_chaparral_formatted: "#difficulty_medium CHAPARRAL#!" #NT!
+ game_concept_chaparral_biozone_desc: "Chaparral zones are characterised by long, dry summers and short, wet winters. They most often take the form of dense shrubland or maquis with abundant small fauna, but with good conditions can also represent [idyllic|E], evergreen forests with year-round pleasantly warm weather." #NT!
+ game_concept_savannah_biozone: "Savannah Biozone" #NT!
+ game_concept_savannah: "Savannah" #NT!
+ game_concept_savannah_formatted: "#difficulty_medium SAVANNAH#!" #NT!
+ game_concept_savannah_biozone_desc: "Savannah zones are tropical grasslands characterised by long dry winters and long wet summers. Often there are remnant forests, isolated trees, or fields of shrubbery that permeate throughout the region. While not heavily forested, it is not uncommon to find savannahs with dense [woodland|E] further in, though by no means comparable." #NT!
+ game_concept_mountainous_biozone: "Mountain Biozone" #NT!
+ game_concept_mountainous: "Mountains" #NT!
+ game_concept_mountainous_formatted: "#color_light_blue #BOL MOUNTAINOUS#!#!" #NT!
+ game_concept_mountainous_biozone_desc: "Mountains are universally characterised by [challenging_terrain|E] and are very often [barren|E] and [cold|E] as well. Their wildlife tends to be sparse and weighted toward higher levels, making them a poor choice for casual hunters, but a point of interest to more experienced [monster_hunters|E]." #NT!
+ game_concept_flat_terrain_biozone: "Flat Terrain Biozone" #NT!
+ game_concept_flat_terrain: "Flat Terrain" #NT!
+ game_concept_flat_terrain_formatted: "#difficulty_medium STEPPE#!" #NT!
+ game_concept_flat_terrain_biozone_desc: "Steppes are vast seas of grass, stretching as far as the eye can see. They tend to be easy traverse due to no natural obstacles and are usually host to a diverse, if numerically sparse, population of wildlife." #NT!
+ game_concept_arid_biozone: "Arid Biozone" #NT!
+ game_concept_arid: "Desert" #NT!
+ game_concept_arid_formatted: "#difficulty_hard ARID#!" #NT!
+ game_concept_arid_biozone_desc: "Arid zones are often [barren|E] and [hot|E], with virtually no precipitation and incredibly sparse ecosystems. Due to rarely having major landmarks, they are often [labyrinthine|E]. Game of all tiers is difficult to find, and tracking it across the vast, parched expanses is frequently more hazardous than the fight itself." #NT!
+ game_concept_wasteland_biozone: "Wasteland Biozone" #NT!
+ game_concept_wasteland: "Wasteland" #NT!
+ game_concept_wastelands: "Wastelands" #NT!
+ game_concept_wasteland_formatted: "#difficulty_hard WASTELAND#!" #NT!
+ game_concept_wasteland_biozone_desc: "Wastelands are some of the most miserable places on [aeras|E], even outdoing [arid|E]s. Usually the result of a [magical|E] catastrophe, recent or ancient, they usually have virtually no low tier game, are universally [barren|E], and usually come with a whole plethora of environmental hazards. A casual hunter will not find anything of interest here, and even most [monster_hunters|E] shun these places, but the existence of some of the most dangerous quarry in the world still attracts the most experienced and foolhardy..." #NT!
+ game_concept_biozone: "Biozone" #NT!
+ game_concept_biozones: "Biozones" #NT!
+ game_concept_biozone_formatted: "Biozone" #NT!
+ game_concept_biozone_desc: "Biozones are large regions defined by the communities of flora and fauna that occupy the habitat, and the geography of that region. Scholars often use them to differentiate between regions by comparing their ecology." #NT!
+ game_concept_idyllic_biozone: "Idyllic Biozone" #NT!
+ game_concept_idyllic: "Idyllic" #NT!
+ game_concept_idyllic_formatted: "#difficulty_easy IDYLLIC#!" #NT!
+ game_concept_idyllic_biozone_desc: "Idyllic zones possess little to no [ambient_danger|E], abundant forage and small game, perpetually pleasant weather, and intense natural beauty. They are popular locations for recreational hunting, and always give a [stress|E] loss bonus upon the conclusion of a successful hunt." #NT!
+ game_concept_verdant_biozone: "Verdant Biozone" #NT!
+ game_concept_verdant: "Verdant" #NT!
+ game_concept_verdant_formatted: "#difficulty_easy VERDANT#!" #NT!
+ game_concept_verdant_biozone_desc: "Verdant zones, though not necessarily tame like an [idyllic_biozone|E], nevertheless possess abundant forage and small game, and food will hence rarely be an issue to a hunter of any reasonable skill level." #NT!
+ game_concept_monsoon_biozone: "Monsoon Biozone" #NT!
+ game_concept_monsoon: "Monsoon" #NT!
+ game_concept_monsoon_formatted: "#difficulty_medium MONSOON#!" #NT!
+ game_concept_monsoon_biozone_desc: "Monsoon zones can be relatively tame depending on the time of year, though there is no guarantee. The winds shift annually, causing weather to change in drastic ways. During a monsoon season, zones can often be harder to hunt through due to the intensity of the weather." #NT!
+ game_concept_barren_biozone: "Barren Biozone" #NT!
+ game_concept_barren: "Barren" #NT!
+ game_concept_barren_formatted: "#difficulty_hard BARREN#!" #NT!
+ game_concept_barren_biozone_desc: "Barren biomes possess virtually no natural food sources. Not only are they impossible to forage in, but wildlife will also tend to be drastically more sparse and less diverse." #NT!
+ game_concept_labyrinthine_biozone: "Labyrinthine Biozone" #NT!
+ game_concept_labyrinthine: "Labyrinthine" #NT!
+ game_concept_labyrinthine_formatted: "#difficulty_hard LABYRINTHINE#!" #NT!
+ game_concept_labyrinthine_biozone_desc: "Labyrinthine zones possess a confusing or repetitive layout with little to no natural landmarks and are exceptionally difficult to navigate. Not only will tracking take more time, but completely getting lost is a very real danger." #NT!
+ game_concept_hot_biozone: "Hot Biozone" #NT!
+ game_concept_hot: "Hot" #NT!
+ game_concept_hot_formatted: "#difficulty_hard HOT#!" #NT!
+ game_concept_hot_biozone_desc: "Not all biomes with a high temperature are necessarily treated as #Bol Hot#! for the purposes of calculating [ambient_danger|E]. Usually, it is heat compounded with intense dryness and lack of natural water sources that turns the characteristic from a mild annoyance to a mortal danger." #NT!
+ game_concept_cold_biozone: "Cold Biozone" #NT!
+ game_concept_cold: "Cold" #NT!
+ game_concept_cold_formatted: "#difficulty_hard COLD#!" #NT!
+ game_concept_cold_biozone_desc: "Freezing temperatures, often combined with frequent snowfall (though not necessarily), make #BOL Cold#! biomes a hazard to spend any protracted amount of time in - especially in winter months." #NT!
+ game_concept_hostile_natives_biozone: "Hostile Natives Biozone" #NT!
+ game_concept_hostile_natives: "Hostile Natives" #NT!
+ game_concept_hostile_natives_formatted: "#difficulty_hard HOSTILE NATIVES#!" #NT!
+ game_concept_hostile_natives_biozone_desc: "Some areas may be home to particularly unsavory humanoid denizens. Whether due to [magical|E] or cultural reasons, they are extremely likely to attack any intruders on sight, and diplomacy is almost certainly futile." #NT!
+ game_concept_challenging_terrain_biozone: "Challenging Terrain Biozone" #NT!
+ game_concept_challenging_terrain: "Challenging Terrain" #NT!
+ game_concept_challenging_terrain_formatted: "#difficulty_hard CHALLENGING TERRAIN#!" #NT!
+ game_concept_challenging_terrain_biozone_desc: "Biomes with challenging terrain are inherently difficult to traverse due to natural obstacles. Often, this is the result of mountains, extremely dense foliage, unstable ground, or a mixture of the previous." #NT!
+ game_concept_abyssal_sea_biozone: "Abyssal Sea Biozone" #NT!
+ game_concept_abyssal_sea: "Abyssal Sea" #NT!
+ game_concept_abyssal_sea_formatted: "#difficulty_hard ABYSSAL SEA#!" #NT!
+ game_concept_abyssal_sea_biozone_desc: "Biomes with an Abyssal Sea support a vast and deep ecosystem of sea monsters. The sea is thought to reach deep below and bring these beasts to the surface during storms." #NT!
+ game_concept_mutants_biozone: "Mutated Biozone" #NT!
+ game_concept_mutants_formatted: "#difficulty_hard MUTATED#!" #NT!
+ game_concept_mutants_biozone_desc: "Mutated Biozones are known to hold horrifying mutations. While some are benign, others are far reaching, as are the tales of their horrors." #NT!
+ game_concept_poisonous_wildlife_biozone: "Poisonous Wildlife Biozone" #NT!
+ game_concept_poisonous_wildlife: "Poisonous Wildlife" #NT!
+ game_concept_poisonous_wildlife_formatted: "#difficulty_hard POISONOUS WILDLIFE#!" #NT!
+ game_concept_poisonous_wildlife_biozone_desc: "Some biomes possess an incredible abundance and diversity of poisonous flora and fauna. Not only is the chance of injury significantly higher, but any injuries carry a significant risk of being immediately deadly, and foraging is dangerous for those that lack experience or a high enough [learning|E] level." #NT!
+ #GAME TYPES 
+ game_concept_skittish_game: "Skittish Game" #NT!
+ game_concept_skittish: "Skittish" #NT!
+ game_concept_skittish_uppercase: "SKITTISH" #NT!
+ game_concept_skittish_game_desc: "Skittish creatures are easily scared and will flee at the first sign of trouble. Though this means they are nearly completely safe and will not fight back if attacked, they are more difficult to hunt down due to their constantly high alertness. They will also never start ambushes." #NT!
+ game_concept_cautious_game: "Cautious Game" #NT!
+ game_concept_cautious: "Cautious" #NT!
+ game_concept_cautious_uppercase: "CAUTIOUS" #NT!
+ game_concept_cautious_game_desc: "Cautious game is more acutely concerned with self-preservation than most, and will usually avoid fights unless cornered. Though they might retaliate if given no other out, they will rarely bother to finish a fight, even if it is going in their favor, and instead merely make their escape as soon as possible. They will almost never start ambushes, unless as pre-emptive self defense in rare cases." #NT!
+ game_concept_aggressive_game: "Aggressive Game" #NT!
+ game_concept_aggressive: "Aggressive" #NT!
+ game_concept_aggressive_uppercase: "AGGRESSIVE" #NT!
+ game_concept_aggressive_game_desc: "Aggressive creatures have a vested interest in winning a fight once one is started, and will actively start combat with other creatures - either due to predation or intense territoriality. Though possible to scare off if sufficiently wounded, they will not back down easily." #NT!
+ game_concept_unyielding_game: "Unyielding Game" #NT!
+ game_concept_unyielding: "Unyielding" #NT!
+ game_concept_unyielding_uppercase: "UNYIELDING" #NT!
+ game_concept_unyielding_game_desc: "Either due to a complete lack of self-preservation instincts, extreme arrogance, or simply the actual inability to flee, unyielding creatures will never try to flee a fight. Though this means that there is no risk of one escaping once tracked down, it also means that the ensuing fight will always be to the death." #NT!
+ game_concept_sedentary_game: "Sedentary Game" #NT!
+ game_concept_sedentary: "Sedentary" #NT!
+ game_concept_sedentary_uppercase: "SEDENTARY" #NT!
+ game_concept_sedentary_game_desc: "Sedentary creatures practically never leave a small territory that they consider home. Though this means that they are unlikely to chase after attackers after they retreat, it also makes it significantly harder to track them." #NT!
+ game_concept_fast_game: "Fast Game" #NT!
+ game_concept_fast: "Fast" #NT!
+ game_concept_fast_uppercase: "FAST" #NT!
+ game_concept_fast_game_desc: "Fast creatures are capable of notable agility and speed, and are hence more likely to be able to flee once push comes to shove - and are nearly impossible to escape from if they are aggravated. Additionally, due to the vast distances they can usually travel, tracking them takes longer than normal." #NT!
+ game_concept_slow_game: "Slow Game" #NT!
+ game_concept_slow: "Slow" #NT!
+ game_concept_slow_uppercase: "SLOW" #NT!
+ game_concept_slow_game_desc: "Some creatures are especially slow or even outright immobile, and hence have a vastly more difficult time making an escape, and cannot pursue their enemies. However, this usually indicates that they have other ways to defend themselves from predation." #NT!
+ game_concept_intelligent_game: "Intelligent Game" #NT!
+ game_concept_intelligent: "Intelligent" #NT!
+ game_concept_intelligent_uppercase: "INTELLIGENT" #NT!
+ game_concept_intelligent_game_desc: "Some creatures go well beyond being merely intelligent for an animal, and are simply intelligent - period. They are very possibly sapient and at the intellectual level of a human, or in rare cases, perhaps even higher. Some may even be capable of speech, if they have any interest in dialogue.\n\nWhat this means in practise is that the game is exceptionally difficult to ambush, is far more proficient at ambushing itself, and is far more likely to retreat if it is at a disadvantage compared to the hunter." #NT!
+ game_concept_cunning_game: "Cunning Game" #NT!
+ game_concept_cunning: "Cunning" #NT!
+ game_concept_cunning_uppercase: "CUNNING" #NT!
+ game_concept_cunning_game_desc: "Cunning creatures possess remarkable wit and forethrought, and are more difficult to deceive than the average beast. This means that they are far harder to successfully ambush, are more adept at pulling off ambushes themselves, and will actively take into account the strength of a potential hunter when determining whether to fight or flee." #NT!
+ game_concept_stupid_game: "Stupid Game" #NT!
+ game_concept_stupid: "Stupid" #NT!
+ game_concept_stupid_uppercase: "STUPID" #NT!
+ game_concept_stupid_game_desc: "Some creatures are exceptionally dim-witted and naive, even for a wild beast. They will blunder into ambushes blissfully unaware, and are incapable of ambushing themselves." #NT!
+ game_concept_huge_game: "Huge Game" #NT!
+ game_concept_huge: "Huge" #NT!
+ game_concept_huge_uppercase: "HUGE" #NT!
+ game_concept_huge_game_desc: "Huge game towers over humans, and is likely able to kill with a well placed stomp if need be - presuming they are able to do so, of course. Even if not overtly aggressive, creatures of this size are formidable, but this also means that they are vastly easier to track than normal. Elephants are a good example of game in this category." #NT!
+ game_concept_large_game: "Large Game" #NT!
+ game_concept_large: "Large" #NT!
+ game_concept_large_uppercase: "LARGE" #NT!
+ game_concept_large_game_desc: "Large creatures are those that are significantly larger and more massive than the average human, but not to a point where they could be considered truly huge. Bears are a good example of a mundane animal of this size category. Large game is easier to track, but is also usually more formidable in combat." #NT!
+ game_concept_elusive_game: "Elusive Game" #NT!
+ game_concept_elusive: "Elusive" #NT!
+ game_concept_elusive_uppercase: "ELUSIVE" #NT!
+ game_concept_elusive_game_desc: "Elusive creatures are not only rare, but difficult to track - their trail can seemingly vanish into nothing in a matter of moments, either as a result of generally leaving little in the way of evidence of their activity, or due to their movement being highly erratic and unpredictable." #NT!
+ game_concept_brazen_game: "Brazen Game" #NT!
+ game_concept_brazen: "Brazen" #NT!
+ game_concept_brazen_uppercase: "BRAZEN" #NT!
+ game_concept_brazen_game_desc: "Brazen creatures navigate their environment with utter carelessness and make no effort to conceal their presence. The trails they leave behind are so obvious that even the most novice of hunters can track them with ease." #NT!
+ game_concept_poisonous_game: "Poisonous Game" #NT!
+ game_concept_poisonous: "Poisonous" #NT!
+ game_concept_poisonous_uppercase: "POISONOUS" #NT!
+ game_concept_poisonous_game_desc: "Some creatures are able to inflict poisons well beyond what the average human can conceivably survive. They are especially dangerous to hunt, as even what initially seems like a superficial flesh wound can end up killing in a matter of minutes as poison consumes the hapless victim's body." #NT!
+ game_concept_social_game: "Social Game" #NT!
+ game_concept_social: "Social" #NT!
+ game_concept_social_uppercase: "SOCIAL" #NT!
+ game_concept_social_game_desc: "Social creatures tend to live in groups, making them generally easier to track at the cost of combat being far more risky - if they are not ambushed, there is a chance that the hunter will be pursued at the conclusion of a fight, regardless of success. [skittish|E] creatures will never pursue, and [cautious|E] will only pursue if [intelligent|E] to retaliate in the event of one of their own being killed." #NT!
+ game_concept_emanates_magic_game: "Magic-Emanating Game" #NT!
+ game_concept_emanates_magic: "Emanates [magic|E]" #NT!
+ game_concept_emanates_magic_uppercase: "EMANATES MAGIC" #NT!
+ game_concept_emanates_magic_game_desc: "Some creatures emanate dangerous amounts of ambient [magic|E] into their surroundings. Though this means they are almost trivial to track for [magi|E], scaling with their skill, it also means that there is a reasonable risk of [exposure_sickness|E] when fighting one." #NT!
+ game_concept_moonbound_game: "Aervalr-Bound Game" #NT!
+ game_concept_moonbound: "Aervalr-Bound" #NT!
+ game_concept_moonbound_uppercase: "AERVALR-BOUND" #NT!
+ game_concept_moonbound_game_desc: "The phases of [aervalr|E] are a potent source of [dead_magic|E] across the world, and it is unsurprising that some creatures' strength waxes and wanes together with [aeras|E]' moon. When the moon is dim, these creatures are more likely to be reclusive and weaker, while conversely being more aggressive and stronger when Aervalr shines bright." #NT!
+ ##REGIONAL FEATURES 
+ #CHEVALIE 
+ game_concept_merit: "Merit" #NT!
+ game_concept_merit_desc: "The [marchers|E], though ostensibly ruled by feudal aristocrats, are rarely keen to follow those deemed unfit to rule. Historically, those exceptionally skilled in the arts of warfare and politics were often able to displace elder heirs from the line of succession and take the throne from themselves, especially if the heir in question was weak. If a High King has no worthy heirs, or on the contrary, an abundance of children in close contention, [chevalie|E] is likely to fragment, as was the case countless times in its past." #NT!
+ game_concept_legitimacy: "Legitimacy" #NT!
+ game_concept_legitimacy_desc: 
+ ##MISC FEATURES 
+ game_concept_magic_tutor_desc: "A learned [magi|E] of supposed great talent, the Court Magi is responsible for answering all of the arcane needs of the Court they are in.\n\nThey will educate those with innate [magical|E] ability, training them in the ways of their respective [magic_type|E]. They can also be summoned to assist a ruler with their own magical spells, or cast them at their master's command.\n\nEach Ruler can employ only one Court Magi." #NT!
+ game_concept_magic_tutor: "Court Magi" #NT!
+ game_concept_magic_tutors: "Court Magi" #NT!
+ #ACTIVITIES 
+ game_concept_journey: "Journey" #NT!
+ game_concept_journeys: "Journeys" #NT!
+ game_concept_journey_desc: "A #BOL Journey#! represents a great personal undertaking, most often for [prestige|E], [gold|E] or the honing of [skills|E]. They include [monster_hunts|E], #E Adventures#!, and #E Smithing#!" #NT!
+ #METROPOLI 
+ game_concept_military_district_holding: "Military District Holding" #NT!
+ game_concept_military_district: "Military District" #NT!
+ game_concept_military_districts: "Military Districts" #NT!
+ game_concept_military_district_holdings: "Military District Holdings" #NT!
+ game_concept_military_district_holding_desc: "Soldier's marching, drill sergeants yelling, wooden swords clashing, these are the sounds of a District dedicated to matters of war. Be it on the field of battle or under siege, Military Districts enable military buffs." #NT!
+ game_concept_palatial_district_holding: "Palatial District Holding" #NT!
+ game_concept_palatial_district: "Palatial District" #NT!
+ game_concept_palatial_districts: "Palatial Districts" #NT!
+ game_concept_palatial_district_holdings: "Palatial District Holdings" #NT!
+ game_concept_palatial_district_holding_desc: "A hotbed of scheming nobles and court scandals, Palatial Districts are the centre of power in any Metropolis. Home to the realm's elite, Palatial Districts can enable buffs to [prestige|E], [dynasty_prestige|E] and more." #NT!
+ game_concept_maritime_district_holding: "Maritime District Holding" #NT!
+ game_concept_maritime_district: "Maritime District" #NT!
+ game_concept_maritime_districts: "Maritime Districts" #NT!
+ game_concept_maritime_district_holdings: "Maritime District Holdings" #NT!
+ game_concept_maritime_district_holding_desc: "A major gateway into a Metropolis, Maritime Districts serve as home to fish markets, warehouses and shipyards. Often populated by just the lower classes, Maritime Districts enable buffs to [income|E], [county_development|E] and more." #NT!
+ game_concept_academic_district_holding: "Academic District Holding" #NT!
+ game_concept_academic_district: "Academic District" #NT!
+ game_concept_academic_districts: "Academic Districts" #NT!
+ game_concept_academic_district_holdings: "Academic District Holdings" #NT!
+ game_concept_academic_district_holding_desc: "Stuffy libraries, eager students and wisened elders are the bread and butter of an Academic District. Hubs of endless debate, research and the occasional fist fight, Academic Districts enable buffs to [county_development|E], [health|E] and more." #NT!
+ game_concept_trade_district_holding: "Trade District Holding" #NT!
+ game_concept_trade_district: "Trade District" #NT!
+ game_concept_trade_districts: "Trade Districts" #NT!
+ game_concept_trade_district_holdings: "Trade District Holdings" #NT!
+ game_concept_trade_district_holding_desc: "Populated by some of the wealthiest men and women in the realm, Trade Districts are filled with marketplaces, warehouses and the occasional honest merchant. The center of trade and prosperity within a Metropolis, Trade Districts enable buffs to [income|E], [prestige|E] and more." #NT!
+ game_concept_temple_district_holding: "Temple District Holding" #NT!
+ game_concept_temple_district: "Temple District" #NT!
+ game_concept_temple_districts: "Temple Districts" #NT!
+ game_concept_temple_district_holdings: "Temple District Holdings" #NT!
+ game_concept_temple_district_holding_desc: "Often home to some of the most powerful religious institutions in the realm, Temple Districts serve as home to all levels of clergy operating various temples, clinics and workshops. The spiritual heart of a Metropolis, Temple Districts enable buffs to [health|E], [piety|E] and more" #NT!
+ game_concept_urban_district_holding: "Urban District Holding" #NT!
+ game_concept_urban_district: "Urban District" #NT!
+ game_concept_urban_districts: "Urban Districts" #NT!
+ game_concept_urban_district_holdings: "Urban District Holdings" #NT!
+ game_concept_urban_district_holding_desc: "Population centres, Urban Districts serve as home to citizens of all social standings, ranging from overcrowded slums to luxurious manors. One of the most integral parts of any Metropolis, Urban Districts enable buffs to [income|E], [county_development|E] and more." #NT!
+ game_concept_workshop_district_holding: "Workshop District Holding" #NT!
+ game_concept_workshop_district: "Workshop District" #NT!
+ game_concept_workshop_districts: "Workshop Districts" #NT!
+ game_concept_workshop_district_holdings: "Workshop District Holdings" #NT!
+ game_concept_workshop_district_holding_desc: "From hammer and chisel to burning forges, Workshop Districts are industrial centers home to the craftsmen and artisans calling the Metropolis home. A key player in any economy, Workshop Districts enable buffs to [income|E], [prestige|E] and more." #NT!
+ game_concept_ruined_district_holding: "Ruined District Holding" #NT!
+ game_concept_ruined_district: "Ruined District" #NT!
+ game_concept_ruined_districts: "Ruined Districts" #NT!
+ game_concept_ruined_district_holdings: "Ruined District Holdings" #NT!
+ game_concept_ruined_district_holding_desc: "Abandoned homes, overgrown streets, whispers in the shadows, Ruined Districts are the eyesore of any Metropolis. Whatever it may have once been, calamity has reduced this District to nothing but a home for the desperate and the criminal." #NT!
+ game_concept_ruined_military_district_holding: "Ruined Military District Holding" #NT!
+ game_concept_ruined_military_district: "Ruined Military District" #NT!
+ game_concept_ruined_military_districts: "Ruined Military Districts" #NT!
+ game_concept_ruined_military_district_holdings: "Ruined Military District Holdings" #NT!
+ game_concept_ruined_military_district_holding_desc: "Whilst the air was once filled with the clashing of wooden swords and marching boots, whatever calamity struck this District has led to its abandonment by the military, its ramparts unmanned and fort ungarrissoned." #NT!
+ game_concept_ruined_palatial_district_holding: "Ruined Palatial District Holding" #NT!
+ game_concept_ruined_palatial_district: "Ruined Palatial District" #NT!
+ game_concept_ruined_palatial_districts: "Ruined Palatial Districts" #NT!
+ game_concept_ruined_palatial_district_holdings: "Ruined Palatial District Holdings" #NT!
+ game_concept_ruined_palatial_district_holding_desc: "Once a mighty seat of power, this District has been abandoned by the nobility and courtiers following whatever calamity occurred. Looted of its riches, this District is now just the specter of the previous regime." #NT!
+ game_concept_ruined_maritime_district_holding: "Ruined Maritime District Holding" #NT!
+ game_concept_ruined_maritime_district: "Ruined Maritime District" #NT!
+ game_concept_ruined_maritime_districts: "Ruined Maritime Districts" #NT!
+ game_concept_ruined_maritime_district_holdings: "Ruined Maritime District Holdings" #NT!
+ game_concept_ruined_maritime_district_holding_desc: "Formerly a hub of traders, importers, exporters, fishermen and visitors this District has been reduced to ruin as a result of whatever calamity occured. The stench of rot fills the air, and the water is void of seaworthy vessels." #NT!
+ game_concept_ruined_trade_district_holding: "Ruined Trade District Holding" #NT!
+ game_concept_ruined_trade_district: "Ruined Trade District" #NT!
+ game_concept_ruined_trade_districts: "Ruined Trade Districts" #NT!
+ game_concept_ruined_trade_district_holdings: "Ruined Trade District Holdings" #NT!
+ game_concept_ruined_trade_district_holding_desc: "Whilst this District was once filled with the deafening noise of vast markets and defined by back room deals, calamity has reduced this economic hub to near total ruin. The markets now lay empty, and any coin still moving through the District is far from legitimate." #NT!
+ game_concept_ruined_temple_district_holding: "Ruined Temple District Holding" #NT!
+ game_concept_ruined_temple_district: "Ruined Temple District" #NT!
+ game_concept_ruined_temple_districts: "Ruined Temple Districts" #NT!
+ game_concept_ruined_temple_district_holdings: "Ruined Temple District Holdings" #NT!
+ game_concept_ruined_temple_district_holding_desc: "Abandoned by both the gods and their clergy, the temples, gardens and workshops of this District are now collapsed, desecrated ruins following whatever calamity struck this Metropolis." #NT!
+ game_concept_ruined_urban_district_holding: "Ruined Urban District Holding" #NT!
+ game_concept_ruined_urban_district: "Ruined Urban District" #NT!
+ game_concept_ruined_urban_districts: "Ruined Urban Districts" #NT!
+ game_concept_ruined_urban_district_holdings: "Ruined Urban District Holdings" #NT!
+ game_concept_ruined_urban_district_holding_desc: "Urban Districts are the heart and soul of any Metropolis, but calamity has reduced this once heavily populated District to abandonment. Now the homes of peasants and nobility both face collapse and ruin, only scattered squatters calling this District home anymore." #NT!
+ game_concept_ruined_workshop_district_holding: "Ruined Workshop District Holding" #NT!
+ game_concept_ruined_workshop_district: "Ruined Workshop District" #NT!
+ game_concept_ruined_workshop_districts: "Ruined Workshop Districts" #NT!
+ game_concept_ruined_workshop_district_holdings: "Ruined Workshop District Holdings" #NT!
+ game_concept_ruined_workshop_district_holding_desc: "What was once an industrial hub to a previous regime has been reduced to wreck and ruin by some calamity, the furnaces cold and the tools rusted. What little life still exists in these Districts is merely scavengers seeking whatever scrap they can find." #NT!
+ # Encyclopedia Entries as GCs 
+ game_concept_kalath_old_growth_biozone: "The Heartwood" #NT!
+ game_concept_kalath_old_growth_biozone_desc: "A dense, ancient forest permeated by significant arcane influences. Many of its deeper reaches have remained essentially untouched by human hands." #NT!
+ game_concept_pathos_delta_biozone: "Pathos Delta" #NT!
+ game_concept_pathos_delta_biozone_desc: "A region of temperate rainforests and scattered bogs that straddles the Pathos River." #NT!
+ game_concept_sulzegg_basin_biozone: "Kepyran Basin" #NT!
+ game_concept_sulzegg_basin_biozone_desc: "A basin centered in the Kalathipsomi mountains known for its beautiful lakes and overabundant beavers." #NT!
+ game_concept_kalath_redwoods_biozone: "Laodantine Forests" #NT!
+ game_concept_kalath_redwoods_biozone_desc: "Coastal redwood forests that stand tall in northern Kalathipsomi, south of the Aloysian Sea." #NT!
+ game_concept_southern_kalath_biozone: "Dreaming Hills" #NT!
+ game_concept_southern_kalath_biozone_desc: "A slumbering reach of cascades and geysers that follow the Waking Coast northward." #NT!
+ game_concept_knokidbes_biozone: "Knokidbes Valley" #NT!
+ game_concept_knokidbes_biozone_desc: "A region wellknown for its treacherous soil betwixt the Eramasic and Zarrignian Rivers." #NT!
+ game_concept_migraddar_biozone: "Psychrassan Highlands" #NT!
+ game_concept_migraddar_biozone_desc: "The #BOL Psychrassan Highlands#! are a rugged series of heavily forested foothills that cut across the landscape toward the Black Pass and the Iron Spires further north." #NT!
+ game_concept_mayikprolollan_biozone: "Mayikrata" #NT!
+ game_concept_mayikprolollan_biozone_desc: "The mountains atop which the [mayikrata|E] is perched are some of the tallest and most inaccessible in the world." #NT!
+ game_concept_etepezea_biozone: "Etepezea" #NT!
+ game_concept_etepezea_biozone_desc: "An arid, rocky peninsula covered in macquis and noted for its diverse serpentine and draconic fauna." #NT!
+ game_concept_imperial_isle_biozone: "Imperial Isle" #NT!
+ game_concept_imperial_isle_biozone_desc: "#BOL The Imperial Isle#! is widely considered one of the most beautiful regions of the Shattered Coast, and has been a popular hunting location for [aversarian|E] nobility since the earliest days of the empire." #NT!
+ game_concept_the_isles_biozone: "The Western Isles" #NT!
+ game_concept_the_isles_biozone_desc: "The westernmost isles of the [shattered_coast|E] are well known for their treacherous, black waters and stories of monstrous sea creatures," #NT!
+ game_concept_tower_isles_biozone: "The Tower Isles" #NT!
+ game_concept_tower_isles_biozone_desc: "The Tower Isles are a large, ring shaped archipelago centered on the [sea_tower|E], with a long history tying it to the origins of [aversaria|E]." #NT!
+ game_concept_central_isles_biozone: "The Central Isles" #NT!
+ game_concept_central_isles_biozone_desc: "The Central Isles is an archipelago found at the heart of the  [shattered_coast|E]. While the climate is generally mild and dry, scholars have long considered it impossible to generalize the natural environment of the islands due to their wide range in both geography and ecology." #NT!
+ game_concept_guillate_rocks_biozone: "Rocks of Guillate" #NT!
+ game_concept_guillate_rocks_biozone_desc: "The jagged #BOL Rocks of Guillate#! snake from the Aloysian Sea to the Waking Coast. These isles are characterized commonly for their crystal reefs that border much of the region." #NT!
+ game_concept_chevalie_biozone: "Chevalie" #NT!
+ game_concept_chevalie_biozone_desc: "[chevalie|E] is most commonly associated with the Anti-Magic Field that blankets the region and shields it from the harrowed [lichdoms_biozone|E] further north." #NT!
+ game_concept_konijkmener_biozone: "Granmaar Moor" #NT!
+ game_concept_konijkmener_biozone_desc: "The BOL Granmaar Moor#! sits to the south of [chevalie_biozone|E] and has been commonly associated with the Konijkmener for centuries." #NT!
+ game_concept_black_mountains_biozone: "Black Mountains" #NT!
+ game_concept_black_mountains_biozone_desc: " The #BOL Black Mountains#! stand above the rugged hinterlands of Vyshtanka and the rolling fields of Chevalie. Ashfall and blood have blanketed the region, the former providing the mountain's their namesake." #NT!
+ game_concept_redlands_biozone: "Redlands" #NT!
+ game_concept_redlands_biozone_desc: "The #BOL Redlands#! are considered one of the most dangerous regions on [aeras|E] and can be found on the southern coasts of Aironoi" #NT!
+ game_concept_vyshtanka_biozone: "Vyshtanka" #NT!
+ game_concept_vyshtanka_biozone_desc: "A region of rugged hinterlands that lay between the surrounding Black Mountains and Iron Spines. It is best known for sheltering some of the last mammoth herds on the [shattered_coast|E]." #NT!
+ game_concept_foglands_biozone: "Foglands" #NT!
+ game_concept_foglands_biozone_desc: "The Foglands were once the vast, almost untamed wilderness of the contenintal interior. It's far reaching forests and vales were a sight to behold for any hunter, but no longer. Now a thick, whispering fog blankets the earth. Feral natives and dark creatures lurk through the mists, and any souls brave enough to travel into these haunting forests must be prepared for the fate that awaits them." #NT!
+ game_concept_malcois_biozone: "Malcois" #NT!
+ game_concept_malcois_biozone_desc: "Malcois' interior is most well known for the rugged cliffs and mountains that dominate and shield the region on all sides. The interior is cut by deep ravines and rolling hills that give the otherwise temperate land an incredibly rugged feel." #NT!
+ game_concept_northern_opakhasia_biozone: "Northern Opakhasia" #NT!
+ game_concept_northern_opakhasia_biozone_desc: "Northern Opakhasia is a mild coastal region on the Partharian Sea known more for its history than its natural beauty." #NT!
+ game_concept_western_opakhasia_biozone: "Western Opakhasia" #NT!
+ game_concept_western_opakhasia_biozone_desc: "Western Opakhasia is characterized primarily by its rocky, jagged coasts that stretch out toward the sea as peninsulas. It's vibrant, opulent coastal cities are rich in soil with relatively tame, and often sparse, fauna to be found in its wilds." #NT!
+ game_concept_hyrea_biozone: "Hyrean Divide" #NT!
+ game_concept_hyrea_biozone_desc: "A narrow reach of grassland stretches and forest stands buffered on either side by the craggy, Bölkut Mountains to its north, and the Partharian Sea to the south." #NT!
+ game_concept_western_aironoi_biozone: "Western Aironoi" #NT!
+ game_concept_western_aironoi_biozone_desc: "A region dominated by vast wheat fields and bountiful orchards, Western Aironoi has long been considered one of the most fertile areas on [aeras|E]." #NT!
+ game_concept_great_steppe_biozone: "Öltenic Steppe" #NT!
+ game_concept_great_steppe_biozone_desc: "A vast expanse of open land stretching from the Aironoian Mountains in Western Aironoi to the Kasiryat River in the far east." #NT!
+ game_concept_aironoian_southeast_biozone: "Aironoian Southeast" #NT!
+ game_concept_aironoian_southeast_biozone_desc: "A region of deep canyons and towering mesas that ride Aironoi's southern coast eastward from the Redlands." #NT!
+ game_concept_fools_coast_biozone: "Fool's Coast" #NT!
+ game_concept_fools_coast_biozone_desc: ""The Fool's Coast is a surprisingly peaceful and sparsely populated land tucked between the Kashiyrat river to the east, Valdrick's Paths to the north, and the Redlands to the west. It is incredibly hospitable despite its surroundings, with pleasant ocean breezes from the south cooling the otherwise humid and hot sands of southern Aironoi, and with a great variety of wildlife and greenery that remains sparse enough as to not intrude upon human habitation. Were this not tempting enough for would-be settlers, the area is also considered one of the richest in gold in the world, and nearly all writings by explorers visiting the region have endlessly obsessed over the unique sheen and hue of the regions rivers, which take on a green and gold hint thanks to a seemingly endless supply of gold flakes." #NT!
+ game_concept_amaghea_mountains_biozone: "Amaghea" #NT!
+ game_concept_amaghea_mountains_biozone_desc: "Nestled between the Brass Sea and Armazli Mountains, Amaghea is known best for its majestic forests and towering mountains that cut across the reigon." #NT!
+ game_concept_brass_sea_coasts_biozone: "Coasts of the Brass Sea" #NT!
+ game_concept_brass_sea_coasts_biozone_desc: "The lowland Coasts of the Brass Sea support a diverse ecosystem of barrier islands along the coast, salt grass marshes surrounding bays and remnant prairies." #NT!
+ game_concept_krehejad_biozone: "Krehejad" #NT!
+ game_concept_krehejad_biozone_desc: "One of the most volcanically active areas on all of Aeras, the Krehejad archipelago is a land famed for its black beaches, hot springs, sulphuric pools, fumaroles and geysers." #NT!
+ game_concept_continental_interior_biozone: "Continental Interior" #NT!
+ game_concept_continental_interior_biozone_desc: "The Continental Interior is a term used to describe the vast swathes of land that have been swallowed whole by the [fog|E]. Once, beautiful forests, rolling valleys, and sweeping vistas were easily findable across the Continent, but all has been lost to the [fog|E] and can never be reclaimed." #NT!
+ game_concept_kharadamat_biozone: "Kharadamat" #NT!
+ game_concept_kharadamat_biozone_desc: "Apart from being the location of [GetBuilding('sophocos_01').GetName] and the birthplace of Ritualism, the Kharadamat peninsula is perhaps most famous for its vast, thick cedar forests." #NT!
+ game_concept_sinhamiyah_biozone: "Sihnamiyah" #NT!
+ game_concept_sinhamiyah_biozone_desc: "The site of urban civilization since the beginning of recorded history, Sinhamiyahis also sometimes dubbed "the garden of [sarradon|E]" due to its fertility and easy access to fresh water." #NT!
+ game_concept_sirwali_coast_biozone: "Sirwali Coast" #NT!
+ game_concept_sirwali_coast_biozone_desc: "A stretch of coast where the otherwise desolate Sarradonian Desert meets the Imperial Sea, iconic for its pearl-white beaches and extraordinarily rich marine life." #NT!
+ game_concept_al_ghazir_biozone: "Al-Ghazir" #NT!
+ game_concept_al_ghazir_biozone_desc: "Al-Ghazir—or simply, "the Island" in Sarradonian (or sometimes the "Eastern Island") is one of the largest islands of the Sea of Empires, and holds religious significance to both [ritualists|E] and [wardenites|E] alike." #NT!
+ game_concept_khenemhat_biozone: "Khenemhat" #NT!
+ game_concept_khenemhat_biozone_desc: "Khenemhat is a parched and rocky region that straddles the Gonan Road, connecting northern [sarradon|E] to the lands of [damota_biozone|E]." #NT!
+ game_concept_sarradonian_desert_biozone: "Sarradonian Desert" #NT!
+ game_concept_sarradonian_desert_biozone_desc: "The vast sea of sand covering the north of Sarradon's interior is one of the most inhospitable areas of the world. Very few mundane [creatures|E] call this place home, but the lack of virtually any human habitation means that spirits and other [magical|E] creatures are present in unusually high numbers." #NT!
+ game_concept_sarradonian_mountains_biozone: "Sarradonian Mountains" #NT!
+ game_concept_sarradonian_mountains_biozone_desc: "The Sarradonian Mountains are  vast, interconnected series of mountain ranges across northern [sarradon|E] that support similar flora and fauna." #NT!
+ game_concept_boneyard_biozone: "Boneyard" #NT!
+ game_concept_boneyard_biozone_desc: "The Boneyard is best known for being the rest place of the [the_worldeater|E]." #NT!
+ game_concept_ayyar_coast_biozone: "Ayyar Coast" #NT!
+ game_concept_ayyar_coast_biozone_desc: "The Ayyar Coast describes the scrublands and subtropical, broadleaf forests stretching from the Lahkorini River to the western faces of the Tarsanides." #NT!
+ game_concept_damota_biozone: "Damota" #NT!
+ game_concept_damota_biozone_desc: "The isolated land of Damota sits to the south of [khenemhat_biozone|E] and is walled in all sides by mountains that keep its unique and inexplicable inhabitants contained within its dense jungles." #NT!
+ game_concept_cyrat_biozone: "Cyrat" #NT!
+ game_concept_cyrat_biozone_desc: "Located on the eastern arm of [sarradon|E], Cyrat is a vast jungle infamous for being completely inimical to any life not adapted to its extreme conditions. Although its huge, ferocious flora and fauna are its most storied danger, the jagged terrain atop which the rainforest lies and the tropical diseases festering beneath its canopy are potent killers in their own right." #NT!
+ game_concept_crater_biozone: "Crater" #NT!
+ game_concept_crater_biozone_desc: "A shallow, circular inland sea rimmed by a narrow stretch of light rainforest. The colossal saratans that wander its waters are its most famous inhabitants" #NT!
+ game_concept_rojihlat_biozone: "Rojihlat Mangroves" #NT!
+ game_concept_rojihlat_biozone_desc: "The Rohijlat Mangroves stretch from the southern edge of [crater_biozone|E] to the Bay of Stone. Reefs and sand barges protect much of the coastline, providing ample safety for the bountiful forests, mud flats and scattered mangrove isolas." #NT!
+ game_concept_aekershaan_biozone: "Aekershaan" #NT!
+ game_concept_aekershaan_biozone_desc: "Aekershaan is the name for the crater west of [crater_biozone|E]. The region is well known for the drastic contrasts in ecology as the elevation changes." #NT!
+ game_concept_amsar_biozone: "Amsar" #NT!
+ game_concept_amsar_biozone_desc: " Amsar is a land of immense ecological diversity, and over the long ages has seen drastic changes to both its human and animal inhabitants." #NT!
+ game_concept_kemsar_biozone: "Kemsar" #NT!
+ game_concept_kemsar_biozone_desc: "Located in western [sarradon|E], Kemsar is a land of vast dunes and arid badlands with  few scattered oases. It was once the cradle of the Kemsari empire of which only ruins remain, and despite the passage of time, they still stand as monuments throughout the desert." #NT!
+ game_concept_kasiryat_biozone: "The Kasiryat" #NT!
+ game_concept_kasiryat_biozone_desc: "The Kasiryat is the large river that separates the lands of Aironoi from [kashirya|E] in the east. Large swathes of fertile plain and swamp buffer the river against the steppe further west, and the [north_kharadan_biozone|E] to the east." #NT!
+ game_concept_north_kharadan_biozone: "Northern Kharadan Mountains" #NT!
+ game_concept_north_kharadan_biozone_desc: "The North Kharadan Mountains are home to some of the tallest peaks on Aeras, with even most of the "lesser" ones making otherwise impressive mountains in the rest of the world seem like paltry hillocks in comparison." #NT!
+ game_concept_hyratan_biozone: "Hyratan" #NT!
+ game_concept_hyratan_biozone_desc: "Located among some of the tallest mountains in the world, the great valleys of Hyratan are a land of mystic wonders in Kashiryan folktale." #NT!
+ game_concept_darmirat_plain_biozone: "Darmirat Plain" #NT!
+ game_concept_darmirat_plain_biozone_desc: "The Darmirat Plain is a large, alluvial plain that straddles the interior of northern [kashirya|E] against the [magiyor_biozone|E] further south." #NT!
+ game_concept_kashti_flats_biozone: "Kashti Flats" #NT!
+ game_concept_kashti_flats_biozone_desc: "The Kashti Flats were once a major delta that has long since dried as sea levels changed over the preceding millenia, leaving behind a vast network of salt marshes that straddle northern [kashirya|E]'s coastlines." #NT!
+ game_concept_magiyor_biozone: "Magiyor Plateau" #NT!
+ game_concept_magiyor_biozone_desc: "The montane meadows of the Magiyor Plateau stand in the shadow of the [north_kharadan_biozone|E], it is most well known for the Magiyati Fire Daisy." #NT!
+ game_concept_kafasali_biozone: "Kafasali Foothills" #NT!
+ game_concept_kafasali_biozone_desc: "Kafasali is the name given to the dry fields, forests, and rocky hills separated from northern [kashirya|E] by the [magiyor_biozone|E]." #NT!
+ game_concept_vichacil_biozone: "Vichacil Forests" #NT!
+ game_concept_vichacil_biozone_desc: "The dense tropical rainforests roll across the southern edge of [kashirya|E] eastward, toward the soft cool peaks of the Southern Kharadan Mountains. " #NT!
+ game_concept_katuppilan_biozone: "Katuppilan" #NT!
+ game_concept_katuppilan_biozone_desc: " The Katuppilan is the name given to the dense mangrove forests and mud flats along the Kashiryan coasts. This massive forest fills much of the waterways and river systems of the south, making travel difficult into the interior." #NT!
+ game_concept_rovarska_biozone: "Rovarska" #NT!
+ game_concept_rovarska_biozone_desc: "Rovarska, or as it is more commonly known, the [pirate_coast|E] is an archipelago that straddles the edge of the Sea of Empires, and the Eastern Ocean." #NT!
+ game_concept_nightcoast_biozone: "Night Coast" #NT!
+ game_concept_nightcoast_biozone_desc: "The Night Coast is a region that spans much of eastern Sudhrat Mudraskaya, so named for its exceptional night-time properties." #NT!
+ game_concept_eripomvuno_biozone: "Eripomvuno" #NT!
+ game_concept_eripomvuno_biozone_desc: " Eripomvuno is an island chain off the southern coast of [etepezea_biozone|E] that has remained unsettled for millennia despite its boundless beauty." #NT!
+ game_concept_lichdoms_biozone: "The Lichdoms" #NT!
+ game_concept_lichdoms_biozone_desc: "A dead wasteland far to the north of [chevalie_biozone|E] where no life has lived for a millenia." #NT!
+ game_concept_whisperveil_biozone: "Whisperveil" #NT!
+ game_concept_whisperveil_biozone_desc: "The Whisperveil is an untamed expanse of dense pine and spruce forests far to the north of the [shattered_coast|E]." #NT!
+ game_concept_red_waste_biozone: "The Red Waste" #NT!
+ game_concept_red_waste_biozone_desc: "The Red Wastes are a blasted wasteland stricken with potent, magical energy that once devastated the land." #NT!
+ game_concept_kalath_old_growth: "The Heartwood" #NT!
+ game_concept_pathos_delta: "Pathos Delta" #NT!
+ game_concept_sulzegg_basin: "Kepyran Basin" #NT!
+ game_concept_kalath_redwoods: "Laodantine Forests" #NT!
+ game_concept_southern_kalath: "Dreaming Hills" #NT!
+ game_concept_knokidbes: "Knokidbes Valley" #NT!
+ game_concept_migraddar: "Psychrassan Highlands" #NT!
+ game_concept_mayikprolollan: "Mayikrata" #NT!
+ game_concept_etepezea: "Etepezea" #NT!
+ game_concept_imperial_isle: "Imperial Isle" #NT!
+ game_concept_the_isles: "The Western Isles" #NT!
+ game_concept_tower_isles: "The Tower Isles" #NT!
+ game_concept_central_isles: "The Central Isles" #NT!
+ game_concept_guillate_rocks: "Rocks of Guillate" #NT!
+ game_concept_chevalie: "Chevalie" #NT!
+ game_concept_konijkmener: "Granmaar Moor" #NT!
+ game_concept_black_mountains: "Black Mountains" #NT!
+ game_concept_redlands: "Redlands" #NT!
+ game_concept_vyshtanka: "Vyshtanka" #NT!
+ game_concept_malcois: "Malcois" #NT!
+ game_concept_northern_opakhasia: "Northern Opakhasia" #NT!
+ game_concept_western_opakhasia: "Western Opakhasia" #NT!
+ game_concept_hyrea: "Hyrean Divide" #NT!
+ game_concept_western_aironoi: "Western Aironoi" #NT!
+ game_concept_great_steppe: "Öltenic Steppe" #NT!
+ game_concept_fools_coast: "Fools Coast" #NT!
+ game_concept_aironoian_southeast: "Aironoian Southeast" #NT!
+ game_concept_amaghea_mountains: "Amaghea" #NT!
+ game_concept_brass_sea_coasts: "Coasts of the Brass Sea" #NT!
+ game_concept_krehejad: "Krehejad" #NT!
+ game_concept_continental_interior: "Continental Interior" #NT!
+ game_concept_kharadamat: "Kharadamat" #NT!
+ game_concept_sinhamiyah: "Sihnamiyah" #NT!
+ game_concept_sirwali_coast: "Sirwali Coast" #NT!
+ game_concept_al_ghazir: "Al-Ghazir" #NT!
+ game_concept_khenemhat: "Khenemhat" #NT!
+ game_concept_sarradonian_desert: "Sarradonian Desert" #NT!
+ game_concept_sarradonian_mountains: "Sarradonian Mountains" #NT!
+ game_concept_boneyard: "Boneyard" #NT!
+ game_concept_ayyar_coast: "Ayyar Coast" #NT!
+ game_concept_damota: "Damota" #NT!
+ game_concept_cyrat: "Cyrat" #NT!
+ game_concept_crater: "Crater" #NT!
+ game_concept_kratemezin: "Kratemezin" #NT!
+ game_concept_rojihlat: "Rojihlat Mangroves" #NT!
+ game_concept_aekershaan: "Aekershaan" #NT!
+ game_concept_amsar: "Amsar" #NT!
+ game_concept_kemsar: "Kemsar" #NT!
+ game_concept_kasiryat: "The Kasiryat" #NT!
+ game_concept_north_kharadan: "Northern Kharadan Mountains" #NT!
+ game_concept_hyratan: "Hyratan" #NT!
+ game_concept_darmirat_plain: "Darmirat Plain" #NT!
+ game_concept_kashti_flats: "Kashti Flats" #NT!
+ game_concept_magiyor: "Magiyor Plateau" #NT!
+ game_concept_magiyor_plateau: "Magiyor Plateau" #NT!
+ game_concept_kafasali: "Kafasali Foothills" #NT!
+ game_concept_vichacil: "Vichacil Forests" #NT!
+ game_concept_katuppilan: "Katuppilan" #NT!
+ game_concept_rovarska: "Rovarska" #NT!
+ game_concept_nightcoast: "Night Coast" #NT!
+ game_concept_eripomvuno: "Eripomvuno" #NT!
+ game_concept_lichdoms: "The Lichdoms" #NT!
+ game_concept_whisperveil: "Whisperveil" #NT!
+ game_concept_red_waste: "The Red Waste" #NT!
+ ###Religion and Mythology 
+ game_concept_ebohephai_mythology: "Ebohephai Mythology" #NT!
+ game_concept_ebohephai_mythology_desc: "A divergent Öltenic faith from the further east, the Ebohephai worship a vastly different pantheon than the Ölteni, even if there mythologies remain similar. In the Ēboheph-Ölgon (White Ölgon) mythology, the god Arlikhaan was slain by the jealous goddess Aru-men, who desired to usurp the throne of Ēboheph-Ölgon. As he descended to [aeras|E] however, Arlikhaan fought Aru-men and her five thousand demon-spirits, subduing them and banishing her to the Mountain of Pain. Due to this, the Ebohephai do not hate the land; instead considering it sacred and burying their people in a type of burial mound known as Kurgans. They give worship to Arlikhaan and his five thousand demon-spirits and one hundred fire gods. His brother, Kogonhay, was given dominion of all under the sky and from him issued forth the race of man." #NT!
+ game_concept_pantheon_of_death: "Pantheon Of Death" #NT!
+ game_concept_pantheon_of_death_desc: "The main pillar of Daramarjaratan theology is the $game_concept_pantheon_of_death$, the belief that not only does Daramarjaratan rule the underworld of human souls, but they also rule over an underworld of fallen gods (possibly at the most controversial, all of the gods). In the Pantheon of Death, the souls of the other divines remain trapped after their apparent death, and their will can only be known through Daramarjaratan, the interpreter of the dead. Thus, Daramarjaratan is in essense a regent for the throne of the gods, and all claimed interactions with them are actually through Daramarjaratan relaying their messages at her own leisure." #NT!
+ game_concept_avastya_mahani_history: "Avastya Mahani Origins" #NT!
+ game_concept_avastya_mahani_history_desc: "One of [aeras|E]'s oldest faiths and most likely the oldest organized religion in Kashirya, the Avastya Mahani faith is a polytheistic faith that, at least two thousand years before the formation of [aversaria|E], either migrated west from the lands of Dahangon or was inspired by pagan migrants entering Kashirya from the region. While most Avastya Mahani choose one or a handful of gods to focus their worship upon, many cults to specific deities have split from the faith and formed their own offshoot faiths (especially after Kashirya's conquest by Otached's [iorne_horde|E]) such as Saravarawat, god of knowledge whose followers formed Vidvaookeyatranism; and Karhikala, god of war, death and justice whose followers would form Karitkamaicism" #NT!
+ game_concept_paerasjatan_old_myth: "Oldest Myth of Paerasjaratan" #NT!
+ game_concept_paerasjatan_old_myth_desc: "The oldest myths of the Avastya Mahani, though belief in them is extremely rare, claims that the infinite gods are reflections of Paerasjatan who forged all of them." #NT!
+ game_concept_pethyka: "Pethyka" #NT!
+ game_concept_pethyka_desc: "Pethyka was a Kashiryan guru who, in 4th Century IS, discovered and read each of the ninety-one holy books that were believed to be written by the God Sarvat and Their six equal brothers and sisters, and then supposedly ascended after his martyrdom by superstitious warlords who killed him and burned the books." #NT!
+ game_concept_varodist_creation_myth: "Varodist Creation Myth" #NT!
+ game_concept_varodist_creation_myth_desc: "Varodaists believe that the creation of the world was done through the shifting of water that slowly carved land from rock, and that the holy oceans and seas can portray prophecies within the movement of their waves. They see time as cyclical, believing that the world is in an unending series of being consumed by the sea and destroyed, only for the seas to recede and for the sea creatures to once again wander onto land to repopulate the reformed land.\n\nVarodaists also worship Varoda's children, the aquatic creatures of the sea which they maintain all land creatures descended from; ancient beasts slowly walking on land and shedding their scales." #NT!
+ game_concept_aruvas_myth: "Myth of Aruvas" #NT!
+ game_concept_aruvas_myth_desc: "Adherents of Aruvasue believe that the world was born when Aruvas, He-Who-Is-One-But-Is-Three, became disunited under the strain of His own power. Aruva Tsere became the sun, Aruva Nilud the moon, and Aruva Agat became the spirit of humankind. They consider each honored guest to be inhabited by the spirit of Aruva Agat, who will speak on their behalf during [oskinjer|E]." #NT!
+ game_concept_oskinjer: "Os Kinjer" #NT!
+ game_concept_oskinjer_desc: "Os Kinjer (The Last Test) is conducted during death, when the three aspects of Aruvas judge and decide the fate of the deceased; whether they shall meet Aruva Tsere in paradise or be damned to toil in the eternal prison of Aruva Nilud. This ritual also extends to their everyday life when honoring a guest with a great feast." #NT!
+ game_concept_rutbay_prophesy: "Prophesy of the Ruth'bay Creed" #NT!
+ game_concept_rutbay_prophesy_desc: "The Rut'Bayan creed prophesizes that one day, when the world needs them most, the twelve dissenters will return from Paradise and save the faithful from their sins. Whilst initially a large movement, a lack of support amongst the richest Aruvasueni towns meant that the faith was suppressed quickly. However, while the faith has often been mocked by foreign powers, its influence over the early religion cannot be overstated." #NT!
+ game_concept_sword_mother: "Sword Mother of the Sar'muyr" #NT!
+ game_concept_sword_mother_desc: "The Sword Mother is said to to be the angelic right hand of Aruva Nilud. It is said that she is the one who is encounters when Os Kinjer is failed, taking the fallen faithful to the realm of her lunar master. Revered across all aruvasuen faiths for her strength and wisdom, she is respected most by the Sar'muyr. They believe that the Sword Mother is Queen of the Dead as Aruva Agat is King of the Living, and are deeply protective of their ability to trace their bloodlines to the original Sar'muyr." #NT!
+ game_concept_fate_of_ertomaxism: "Fate of Ertomaxism" #NT!
+ game_concept_fate_of_ertomaxism_desc: "While the death of [ertomax|E] at the hands of a nameless assassin was a tragic blow to his bestial followers, it did not outright end the cult-like faith that reigned terror across non-believers in southern Aironoi. Remaining a powerful influence within the overarching Aruvasue fold, his supporters continue to await the day that he will return to resume the purification of the world. Many have been claimed to be the beloved Ertomax, but few have survived long enough to fulfil his legacy." #NT!
+ game_concept_armazli_mountains: "Armazli Mountains" #NT!
+ game_concept_armazli_mountains_desc: "The Arnazni faithful believe that the Armazli Mountains that protect them from the northern barbarians were made by their ancestors who held godlike magical powers; however, as time went on, these beings started to lose their might due to becoming content and soft. An exception to this were the three brothers; [arnaz_azot_zalden|E]. Disgusted by their peers' new habits, the three of them made a new mountain. Arnaz, being eldest and wisest, was crowned High king. After Parnaz slew Azot in a duel for the high kingship, the  great mountain where his father was crowned would be renamed in his honor, and no foul man or beast may step foot on it." #NT!
+ game_concept_arnaz_azot_zalden: "The Arnaz Brothers" #NT!
+ game_concept_arnaz_azot_zalden_desc: "Arnaz, Azot and Zalden were three brothers and were said to be one of the many ancestors of the Amagheans that held godlike powers. Disgusted by the increasingly lax and content nature of their fellow peers', the three set out to build a new mountain. Arnaz the Eldest and Wisest was crowned High King and set out on a conquest to unify the land. However, during the wars, his brother Azot became jealous at his success and betrayed him, slaying Arnaz and claiming his throne for himself. Before his death, however, Arnaz cursed everyone leading to a great reduction in magical capabilities. Furthermore, Arnaz proclaimed that his son would kill Azot and reclaim the high kingship\n\nAnd so it was that after many years, a young man named Parnaz, with aid from Zalden, would slay Azot in a duel and reclaim the throne. The great mountain on which his father was crowned would be renamed in his honor, and no foul man or beast may step foot on it. Parnaz would reign for many centuries, and many in Amaghea today would be related to him." #NT!
+ game_concept_xaxbaxakanax_esotericism: "Xaxbaxakanax Esotericism" #NT!
+ game_concept_xaxbaxakanax_esotericism_desc: "Due to their exceptionally simple set of beliefs compared to other contemporaries, many find their faith extremely esoteric. As such, it is believed(by the Aversarians at least) to be most likely caused by them having been exceptionally primitive and disparate when their few historical realms were consumed by their neighbors. Very few realms have held power over them.\n\nAnd so, when their homelands were conquered by the Aversarians, they saw it as just yet another in a series of petty despots that would always come and always go, and as such, the faithful largely avoided harsh treatment by being too minor to achieve notice" #NT!
+ game_concept_evil_lore: "Evil Lore" #NT!
+ game_concept_evil_lore_desc: "Askevaryaans describe 'Evil Lore' as the knowledge that entered the world against Sarvat's wishes thanks to the efforts of evil demons and gods. To please Sarvat's wishes and ensure that the world is as they wished, 'Evil Lore' is to be destroyed and wiped out. This has naturally led to Askevaryaans regularly burning down libraries across Kashirya in an attempt to erase remnants of ancient and dark rituals." #NT!

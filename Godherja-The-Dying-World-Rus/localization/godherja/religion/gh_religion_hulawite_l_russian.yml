@@ -1,0 +1,61 @@
+﻿l_russian:
+  
+ #hulawite Loc 
+ hulawite_religion: "Hulawitism" #NT!
+ hulawite_religion_adj: "Hulawite" #NT!
+ hulawite_religion_adherent: "Hulawite" #NT!
+ hulawite_religion_adherent_plural: "Hulawites" #NT!
+ hulawite_religion_desc: "While other religions encourage mysticism and belief in worlds other than one's own, the Hulawites wholly reject such claims and call them humbug. They are what foreign scholars would call empiricists, people who doubt anything that cannot be verified with the senses. They deny the existence of an afterlife, for it has never been witnessed, as well as the existence of a soul, for it cannot be found within the body. However, they do not encourage blind rejection of all unknowns, and instead encourage followers to investigate these mysteries.\n\nAlthough they are often dismissed as atheists and apostates, the Hulawites simply consider themselves to be rationalists. After all, how can you claim certainty of something which you have no proof? Their faith's emphasis on study of the empirical has led to a rich tradition of scientists, philosophers, and other thinkers, who probe the unknowns of both the mind and the world around them in order to better understand existence. Only when they know as much about something as possible, they reason, can they truly judge it." #NT!
+ hulawite_high_god_name: "The Philosophers of Man" #NT!
+ hulawite_high_god_name_possessive: "The Philosophers'" #NT!
+ hulawite_high_god_name_alternate: "The Scholars of Man" #NT!
+ hulawite_high_god_name_alternate_possessive: "The Scholars'" #NT!
+ hulawite_devil_name: "$hulawite_death_deity_name$" #NT!
+ hulawite_devil_name_possessive: "$hulawite_death_deity_name_possessive$" #NT!
+ hulawite_death_deity_name: "$hulawite_creator_god_name$" #NT!
+ hulawite_death_deity_name_possessive: "$hulawite_creator_god_name_possessive$" #NT!
+ hulawite_house_of_worship: "Forum" #NT!
+ hulawite_house_of_worship_plural: "Forums" #NT!
+ hulawite_religious_symbol: "Two Eyes, Two Hands" #NT!
+ hulawite_religious_text: "Philosophical Compendium" #NT!
+ hulawite_religious_head_title: "Master Philosopher" #NT!
+ hulawite_religious_head_title_name: "Greatest Forum" #NT!
+ hulawite_devotee: "Hulawite" #NT!
+ hulawite_devotee_plural: "Hulawites" #NT!
+ hulawite_priest: "Philosopher" #NT!
+ hulawite_priest_plural: "Philosophers" #NT!
+ hulawite_priest_alternate_plural: "Philosophers" #NT!
+ hulawite_bishop: "High Philosopher" #NT!
+ hulawite_bishop_plural: "High Philosophers" #NT!
+ hulawite_positive_afterlife: "Oblivion" #NT!
+ hulawite_negative_afterlife: "Oblivion" #NT!
+ hulawite_creator_god_name: "False Gods" #NT!
+ hulawite_creator_god_name_possessive: "False Gods'" #NT!
+ hulawite_health_god_name: "$hulawite_fertility_god_name$" #NT!
+ hulawite_health_god_name_possessive: "$hulawite_fertility_god_name_possessive$" #NT!
+ hulawite_fertility_god_name: "Doctor Tabib" #NT!
+ hulawite_fertility_god_name_possessive: "Doctor Tabib's" #NT!
+ hulawite_wealth_god_name: "$hulawite_creator_god_name$" #NT!
+ hulawite_wealth_god_name_possessive: "$hulawite_creator_god_name_possessive$" #NT!
+ hulawite_household_god_name: "$hulawite_creator_god_name$" #NT!
+ hulawite_household_god_name_possessive: "$hulawite_creator_god_name_possessive$" #NT!
+ hulawite_fate_god_name: "$hulawite_creator_god_name$" #NT!
+ hulawite_fate_god_name_possessive: "$hulawite_creator_god_name_possessive$" #NT!
+ hulawite_knowledge_god_name: "$hulawite_high_god_name$" #NT!
+ hulawite_knowledge_god_name_possessive: "$hulawite_high_god_name_possessive$" #NT!
+ hulawite_war_god_name: "$hulawite_creator_god_name$" #NT!
+ hulawite_war_god_name_possessive: "$hulawite_creator_god_name_possessive$" #NT!
+ hulawite_trickster_god_name: "$hulawite_creator_god_name$" #NT!
+ hulawite_trickster_god_name_possessive: "$hulawite_creator_god_name_possessive$" #NT!
+ hulawite_night_god_name: "$hulawite_trickster_god_name$" #NT!
+ hulawite_night_god_name_possessive: "$hulawite_trickster_god_name$" #NT!
+ hulawite_water_god_name: "$hulawite_creator_god_name$" #NT!
+ hulawite_water_god_name_possessive: "$hulawite_creator_god_name_possessive$" #NT!
+ hulawite_witch_god_name: "$hulawite_fate_god_name$" #NT!
+ hulawite_witch_god_name_possessive: "$hulawite_fate_god_name_possessive$" #NT!
+ #hulawite loc 
+ hulawite: "Jalhayliyya" #NT!
+ hulawite_adj: "Jalhaylite" #NT!
+ hulawite_adherent: "Jalhaylite" #NT!
+ hulawite_adherent_plural: "Jalhaylites" #NT!
+ hulawite_desc: "Literally meaning 'Wilderness', Jalhayliyya is a catchall term for a series of rationalist and phylosophical movements which arose from the courts and intellectual life of 8th century [sarradon|E]. They are based around a strict rationalist understanding of [aeras|E], an unshakable belief in the potency of human logic and reason, and an explicit rejection of both Wardenism and Ritualism. Some Jalhayliyya sects have gone so far as to espouse true atheism, courting continent-wide scandal and disrepute. Others have taken to worshipping saints or divinities associated with illumination and reason." #NT!

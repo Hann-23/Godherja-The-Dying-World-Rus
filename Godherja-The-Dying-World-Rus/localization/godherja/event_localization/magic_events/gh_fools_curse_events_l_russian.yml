@@ -1,0 +1,4 @@
+﻿l_russian:
+ fools_curse.0001.t: "Cursed by Gold" #NT!
+ fools_curse.0001.desc: "For days now [cursed_fool.GetFirstNamenoTooltip] has grown weaker and weaker. Now, the blood [cursed_fool.GetSheHe] coughes up seems tinged with flakes of gold. I thought we might escape the [fools_curse|E] but it seems this deadly land will not let us leave its grasp. I can only hope now that the pain is bearable, and if not, that death comes quickly." #NT!
+ fools_curse.0001.a: "Oh what a fool I was." #NT!

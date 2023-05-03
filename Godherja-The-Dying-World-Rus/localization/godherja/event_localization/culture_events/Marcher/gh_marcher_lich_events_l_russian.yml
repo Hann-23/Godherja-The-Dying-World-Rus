@@ -1,0 +1,6 @@
+﻿l_russian:
+ marcher_lich.0001.t: "Liches Raid Sevrenex!" #NT!
+ marcher_lich.0001.desc: "I received word today that a [lich|E] has recently raided the area of Sevrenex, burning down several towns and capturing dozens of innocents to drag back for their uses in the [lichdoms|E]. The province is devastated, and the string of fortifications along it were burned attempting to hold off the attack.\n\nThe Lich, or at least their forces, is gone now. But the ruins remain." #NT!
+ marcher_lich.0001.a: "That's too bad." #NT!
+ marcher_lich.0001.b: "Organize a relief effort!" #NT!
+ marcher_lich.0001.c: "Rally my forces! Today, we take back our people!" #NT!

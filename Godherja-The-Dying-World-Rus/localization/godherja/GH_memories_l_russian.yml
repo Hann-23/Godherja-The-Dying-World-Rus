@@ -1,0 +1,38 @@
+﻿l_russian:
+  #Descs 
+ enrolled_at_mayikprolollan_desc: "I began my [mayikprolollan|E] education at the [ROOT.Var('landed_title').Title.GetNameNoTier]" #NT!
+ enrolled_at_mayikprolollan_desc_second_perspective: "you began your [mayikprolollan|E] education at the [ROOT.Var('landed_title').Title.GetNameNoTier]" #NT!
+ enrolled_at_mayikprolollan_desc_third_perspective: "[owner.GetName] began their [mayikprolollan|E] education at the [ROOT.Var('landed_title').Title.GetNameNoTier]" #NT!
+ joined_legion_desc: "I joined [ROOT.Var('landed_title').Title.GetNameNoTier]" #NT!
+ joined_legion_desc_second_perspective: "you joined [ROOT.Var('landed_title').Title.GetNameNoTier]" #NT!
+ joined_legion_desc_third_perspective: "[owner.GetName] joined [ROOT.Var('landed_title').Title.GetNameNoTier]" #NT!
+ sacrificed_family_for_spell_desc: "I sacrificed [sacrificed_family_member_1.GetFirstName], [sacrificed_family_member_2.GetFirstName], [sacrificed_family_member_3.GetFirstName] and [sacrificed_family_member_4.GetFirstName] in a [magical|E] ritual" #NT!
+ sacrificed_family_for_spell_desc_second_perspective: "you sacrificed [sacrificed_family_member_1.GetFirstName], [sacrificed_family_member_2.GetFirstName], [sacrificed_family_member_3.GetFirstName] and [sacrificed_family_member_4.GetFirstName] in a [magical|E] ritual" #NT!
+ sacrificed_family_for_spell_desc_third_perspective: "[owner.GetName] sacrificed [sacrificed_family_member_1.GetFirstName], [sacrificed_family_member_2.GetFirstName], [sacrificed_family_member_3.GetFirstName] and [sacrificed_family_member_4.GetFirstName] in a [magical|E] ritual" #NT!
+ casted_srbm_desc: "I cast [selfreplicating_blood_magic|E]" #NT!
+ casted_srbm_desc_second_perspective: "you cast [selfreplicating_blood_magic|E]" #NT!
+ casted_srbm_desc_third_perspective: "[owner.GetName] cast [selfreplicating_blood_magic|E]" #NT!
+ casted_srbm: "cast [selfreplicating_blood_magic|E]" #NT!
+ launched_palace_coup_desc: "I successfully launched a palace coup for [ROOT.Var('landed_title').Title.GetNameNoTier] against [couped_character.GetTitledFirstName]" #NT!
+ launched_palace_coup_desc_second_perspective: "You successfully launched a palace coup for [ROOT.Var('landed_title').Title.GetNameNoTier] against [couped_character.GetTitledFirstName]" #NT!
+ launched_palace_coup_desc_third_perspective: "[owner.GetName] successfully launched a palace coup for [ROOT.Var('landed_title').Title.GetNameNoTier] against [couped_character.GetTitledFirstName]" #NT!
+ lost_title_to_palace_coup_desc: "I lost [ROOT.Var('landed_title').Title.GetNameNoTier] in a palace coup against the treacherous [couping_character.GetTitledFirstName]" #NT!
+ lost_title_to_palace_coup_desc_second_perspective: "You lost [ROOT.Var('landed_title').Title.GetNameNoTier] in a palace coup against the treacherous [couping_character.GetTitledFirstName]" #NT!
+ lost_title_to_palace_coup_desc_third_perspective: "[owner.GetName] lost [ROOT.Var('landed_title').Title.GetNameNoTier] in a palace coup against the treacherous [couping_character.GetTitledFirstName]" #NT!
+ friend_died_known_killer_desc_1: "my friend [dead_relation.GetName] [dead_relation.GetDeathReason]" #NT!
+ friend_died_known_killer_desc_2: "I lost my friend, [dead_relation.GetName], [dead_relation.GetDeathReason]" #NT!
+ friend_died_known_killer_desc_3: "[dead_relation.GetName], my friend, [dead_relation.GetDeathReason]" #NT!
+ friend_died_known_killer_desc_second_perspective_1: "your friend [dead_relation.GetName] [dead_relation.GetDeathReason]" #NT!
+ friend_died_known_killer_desc_second_perspective_2: "you lost my friend, [dead_relation.GetName], [dead_relation.GetDeathReason]" #NT!
+ friend_died_known_killer_desc_second_perspective_3: "[dead_relation.GetName], your friend, [dead_relation.GetDeathReason]" #NT!
+ friend_died_known_killer_desc_third_perspective_1: "[owner.GetNamePossessive] friend [dead_relation.GetName] [dead_relation.GetDeathReason]" #NT!
+ friend_died_known_killer_desc_third_perspective_2: "[owner.GetNamePossessive] lost my friend, [dead_relation.GetName], [dead_relation.GetDeathReason]" #NT!
+ friend_died_known_killer_desc_third_perspective_3: "[dead_relation.GetName], [owner.GetNamePossessive] friend, [dead_relation.GetDeathReason]" #NT!
+  
+  #Titles 
+ enrolled_at_mayikprolollan: "began studying at the [ROOT.Var('landed_title').Title.GetNameNoTier]" #NT!
+ joined_legion: "joined [ROOT.Var('landed_title').Title.GetNameNoTier]" #NT!
+ sacrificed_family_for_spell: "sacrificed family for a [magical|E] ritual" #NT!
+ launched_palace_coup: "casted [selfreplicating_blood_magic|E]" #NT!
+ lost_title_to_palace_coup: "casted [selfreplicating_blood_magic|E]" #NT!
+ friend_died_known_killer: "friend death" #NT!

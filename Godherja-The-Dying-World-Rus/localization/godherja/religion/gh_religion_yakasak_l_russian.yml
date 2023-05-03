@@ -1,0 +1,60 @@
+﻿l_russian:
+  
+ viyagaric_religion: "Viyagaric" #NT!
+ viyagaric_religion_adj: "Viyagaric" #NT!
+ viyagaric_religion_desc: "Viyagaric is a catch-all term for the numerous faiths, cults, and practices spread throughout Rovarska, better known as the Pirate Coast. While extremely diverse most faiths classified as Viyagaric are polytheistic and have a cyclical cosmology. Due to the chaotic and harsh lifestyle of those living in the Pirate Coast, many Viyagaric faiths such as the Yakasak celebrate ambition and individualism in their adherents as well." #NT!
+ viyagaric_religion_adjerent: "Viyagaric" #NT!
+ viyagaric_religion_adherent_plural: "Viyagaric" #NT!
+ viyagaric_high_god_name: "The Ascendant" #NT!
+ viyagaric_high_god_name_possessive: "The Ascendant's" #NT!
+ viyagaric_high_god_name_alternate: "Paernirmātṛ" #NT!
+ viyagaric_high_god_name_alternate_possessive: "Paernirmātṛ's" #NT!
+ viyagaric_devil_name: "Iyā Vaṭuṇu" #NT!
+ viyagaric_devil_name_possessive: "Iyā Vaṭuṇu's" #NT!
+ viyagaric_death_deity_name: "Ava Aduruṇaya" #NT!
+ viyagaric_death_deity_name_possessive: "Ava Aduruṇaya's" #NT!
+ viyagaric_house_of_worship: "Oppukar" #NT!
+ viyagaric_house_of_worship_plural: "Oppukara" #NT!
+ viyagaric_religious_symbol: "The Gendered Ascension" #NT!
+ viyagaric_religious_text: "Scrolls of Paernirmātṛ" #NT!
+ viyagaric_religious_head_title: "Avasāna Mārgōpa" #NT!
+ viyagaric_religious_head_title_name: "Svāmivarungē Sabhāva" #NT!
+ viyagaric_devotee: "Tarangā" #NT!
+ viyagaric_devotee_plural: "Tarangān" #NT!
+ viyagaric_priest: "Tanaradari" #NT!
+ viyagaric_priest_plural: "Tanaradari" #NT!
+ viyagaric_priest_alternate_plural: "Tanaradari" #NT!
+ viyagaric_bishop: "Haḷa Isuru" #NT!
+ viyagaric_bishop_plural: "Haḷa Isurus" #NT!
+ viyagaric_positive_afterlife: "Ekamutu Deviyanē" #NT!
+ viyagaric_negative_afterlife: "Nidāganavā" #NT!
+ viyagaric_creator_god_name: "$viyagaric_high_god_name$" #NT!
+ viyagaric_creator_god_name_possessive: "$viyagaric_high_god_name_possessive$" #NT!
+ viyagaric_health_god_name: "Iyā Sirur" #NT!
+ viyagaric_health_god_name_possessive: "Iyā Sirur's" #NT!
+ viyagaric_fertility_god_name: "Ava Emvatā" #NT!
+ viyagaric_fertility_god_name_possessive: "Ava Emvatā's" #NT!
+ viyagaric_wealth_god_name: "Iyā Ohō Māḷ" #NT!
+ viyagaric_wealth_god_name_possessive: "Iyā Ohō Māḷ's" #NT!
+ viyagaric_household_god_name: "Ava Lakayā" #NT!
+ viyagaric_household_god_name_possessive: "Ava Lakayā's" #NT!
+ viyagaric_fate_god_name: "Iyā Neṇ" #NT!
+ viyagaric_fate_god_name_possessive: "Iyā Neṇ's" #NT!
+ viyagaric_knowledge_god_name: "Ava Haḍaviśāra" #NT!
+ viyagaric_knowledge_god_name_possessive: "Ava Haḍaviśāra's" #NT!
+ viyagaric_war_god_name: "Iyā Kaeḷal Val Raṇa" #NT!
+ viyagaric_war_god_name_possessive: "Iyā Kaeḷal Val Raṇa's" #NT!
+ viyagaric_trickster_god_name: "Ava Nariyā" #NT!
+ viyagaric_trickster_god_name_possessive: "Ava Nariyā's" #NT!
+ viyagaric_night_god_name: "Iyā Dākālika" #NT!
+ viyagaric_night_god_name_possessive: "Iyā Dākālika's" #NT!
+ viyagaric_water_god_name: "Ava Tuṭaya" #NT!
+ viyagaric_water_god_name_possessive: "Ava Tuṭaya's" #NT!
+ viyagaric_witch_god_name: "Iyā Nakayinirīk" #NT!
+ viyagaric_witch_god_name_possessive: "Iyā Nakayinirīk's" #NT!
+ #Iyā is male/father Ava is female/mother- to show the roles that are usurped in the gender split pantheon-these could be deities one could hope to "ascend" to "ascend" #NT!
+ yakasak: "Yakasak" #NT!
+ yakasak_adj: "Yakasaka" #NT!
+ yakasak_adherent: "Yakasakan" #NT!
+ yakasak_adherent_plural: "Yakasakans" #NT!
+ yakasak_desc: "A southern Kashiryan faith possibly as old as the Dravadari, Yakasaka is the belief in the endless cycle of 'Gendered Ascension'. Every hundred years the Yakasakans maintain that the greatest man and the greatest woman interned in the spiritual afterlife are risen to godhood where they usurp the gender-split pantheon that guides the stars through the sky and the world around the sun, becoming a greater being together and with all those who led before.\n\nThe Yakasak faith is perhaps most known for being intensely competitive, every believer technically having the ability to be the one to ascend if they manage to prove themselves greater than their peers. To this end, Yakasakan priests attempt to guide followers along paths of inner perfection, often becoming 'tanaradam' to aid their fellows, the southern-Kashiryan word for 'forbidden', accepting failure in the competition so that they are not biased in their guidance.\n\nDue to the dual-gendered nature of divinity, Yakasakan rulers reign equally alongside their spouse. Only men may rule men, and women over women, so each takes on the onus of ruling over citizens of their respective gender." #NT!

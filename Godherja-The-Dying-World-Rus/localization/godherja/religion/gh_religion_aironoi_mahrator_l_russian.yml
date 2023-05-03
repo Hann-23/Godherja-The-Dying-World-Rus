@@ -1,0 +1,78 @@
+﻿l_russian:
+  
+ #Mahrator Loc 
+ mahrator_religion: "Mahrator" #NT!
+ mahrator_religion_adj: "Mahratoran" #NT!
+ mahrator_religion_adherent: "Mahratoran" #NT!
+ mahrator_religion_adherent_plural: "Mahratorans" #NT!
+ mahrator_religion_desc: "The Mahrator religion is descended from Töragei Khatan and his clan, himself being a son of the great warlord Otached's concubine, Urgu. Seeking glory greater than that which he gained in the [bayyuralar|E], he led some of the clans north into Amaghea during the [aironoian_migration|E], carving out his own realm there. It has since evolved into a religion almost unrecognizable from its Öltenic forebears, worshiping the God of Men, Kaigan, as Kaegan, God of Horses and King of Heaven." #NT!
+ mahrator_high_god_name: "Kaegan" #NT!
+ mahrator_high_god_name_possessive: "Kaegan's" #NT!
+ mahrator_high_god_name_alternate: "Kaegan-den" #NT!
+ mahrator_high_god_name_alternate_possessive: "Kaegan-den's" #NT!
+ mahrator_devil_name: "Ur-mai" #NT!
+ mahrator_devil_name_possessive: "Ur-mai's" #NT!
+ mahrator_death_deity_name: "Törik" #NT!
+ mahrator_death_deity_name_possessive: "Törik's" #NT!
+ mahrator_house_of_worship: "Kaedaen-den" #NT!
+ mahrator_house_of_worship_plural: "Kaedaen-deni" #NT!
+ mahrator_religious_symbol: "Heavenly Horse" #NT!
+ mahrator_religious_text: "Ik-Töragei" #NT!
+ mahrator_religious_head_title: "Kaegan-török" #NT!
+ mahrator_religious_head_title_name: "Kaegan-kudhaan" #NT!
+ mahrator_devotee_male: "Aygur-ok" #NT!
+ mahrator_devotee_male_plural: "Aygur-oks" #NT!
+ mahrator_devotee_female: "Ayga-üg" #NT!
+ mahrator_devotee_female_plural: "Ayga-ügs" #NT!
+ mahrator_devotee_neuter: "Aygur-üg" #NT!
+ mahrator_devotee_neuter_plural: "Aygur-ügs" #NT!
+ mahrator_priest_male: "Aygur-török" #NT!
+ mahrator_priest_male_plural: "Aygur-töröks" #NT!
+ mahrator_priest_female: "Ayga-türüg" #NT!
+ mahrator_priest_female_plural: "Ayga-türügs" #NT!
+ mahrator_priest_alternate_plural: "Aygur-töröks" #NT!
+ mahrator_bishop: "Kaegan-ok" #NT!
+ mahrator_bishop_plural: "Kaegan-oks" #NT!
+ mahrator_positive_afterlife: "Kegger-den" #NT!
+ mahrator_negative_afterlife: "Arüs" #NT!
+  #Good gods 
+ mahrator_creator_god_name: "Ökon-kegger" #NT!
+ mahrator_creator_god_name_possessive: "Ökon-kegger's" #NT!
+ mahrator_health_god_name: "Akaalhan" #NT!
+ mahrator_health_god_name_possessive: "Akaalhan's" #NT!
+ mahrator_fertility_god_name: "Horsemother" #NT!
+ mahrator_fertility_god_possessive: "Horsemother's" #NT!
+ mahrator_wealth_god_name: "Golden Horse" #NT!
+ mahrator_wealth_god_name_possessive: "Golden Horse's" #NT!
+ mahrator_household_god_name: "Horse of the Hearth" #NT!
+ mahrator_household_god_name_possessive: "Horse of the Hearth's" #NT!
+ mahrator_fate_god_name: "Horse of the Stars" #NT!
+ mahrator_fate_god_name_possessive: "Horse of the Stars'" #NT!
+ mahrator_knowledge_god_name: "Korgon, Steed of Kaegan" #NT!
+ mahrator_knowledge_god_name_possessive: "Korgon's" #NT!
+ mahrator_war_god_name: "Utaked" #NT!
+ mahrator_war_god_name_possessive: "Utaked's" #NT!
+ mahrator_trickster_god_name: "Raven-horse" #NT!
+ mahrator_trickster_god_name_possessive: "Raven-horse's" #NT!
+ mahrator_night_god_name: "Horse of the Night" #NT!
+ mahrator_night_god_name_possessive: "Horse of the Night's" #NT!
+ mahrator_water_god_name: "Seahorse" #NT!
+ mahrator_water_god_name_possessive: "Seahorse's" #NT!
+  #Evil gods 
+ mahrator_witch_god_name: "Horse-eater" #NT!
+ mahrator_witch_god_name_possessive: "Horse-eater's" #NT!
+ mahrator: "Mahrator" #NT!
+ mahrator_adj: "Mahratoran" #NT!
+ mahrator_adherent: "Mahratoran" #NT!
+ mahrator_adherent_plural: "Mahratorans" #NT!
+ mahrator_desc: "The Mahrator religion is mostly animistic, worshiping a large host of horse-spirits hailed as being almost equivalent to the gods. Kaegan, God of Horses and King of Heaven, is said to have taught the first men how to ride horses with the aid of Horsemother, who once rode across the sky until the horse-hating goddess Ur-mai threw her down to the earth\n\nHorses are revered as being quasidivine, and are given lavish funerals upon death. To harm a horse is a grievous sin punishable by death. The Mahratorans also believe that a man's worth is proven only through combat, and so they conduct ritual raids against their enemies. Both horses and men are given sky burials so that Ur-mai cannot steal their souls." #NT!
+ omrayytor: "Omrayytor" #NT!
+ omrayytor_adj: "Omrayytoran" #NT!
+ omrayytor_adherent: "Omrayytoran" #NT!
+ omrayytor_adherent_plural: "Omrayytorans" #NT!
+ omrayytor_desc: "The Omrayytorans believe that Kaegan gifted their Khatan the power to conquer Amaghea, a debt in blood that must be paid. They see war as the foremost display of their loyalty to the gods, unable to contemplate a host settling down when it can raze the fields of heathens. However, they find themselves with few friends amongst the lands of the Mahrator for their boastful slaughter, and have struggled to gain more than small footholds throughout their history." #NT!
+ mshvirat: "Mshvirat" #NT!
+ mshvirat_adj: "Mshviratan" #NT!
+ mshvirat_adherent: "Mshviratan" #NT!
+ mshvirat_adherent_plural: "Mshviratans" #NT!
+ mshvirat_desc: "Born of a belief that horses are too sacred to waste in war, the strict rites of the Mshvirat restrict the use of the holy animals to races and long-distance travel. Their warrior rites instead follow a slower pace on foot, appearing more a dance than a raid in how carefully each step is executed. In peace, however, few can match the joyous atmosphere of their equestrian games." #NT!

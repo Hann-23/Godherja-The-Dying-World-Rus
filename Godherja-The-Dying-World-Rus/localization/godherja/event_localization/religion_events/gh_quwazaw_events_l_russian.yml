@@ -1,0 +1,12 @@
+﻿l_russian:
+ quwazaw.0001.t: "Foreigner Insults our Traditions" #NT!
+ quwazaw.0001.desc: "Recently, a foreign merchant passing through our lamds has insulated our polishing of our gods, calling it a pointless superstition. While it is not uncommon for outsiders to question our beleifs, this offender has not shown even a minimum of discretion, publicly insulting our statues as mere hunks of rock. While this offense obviously must be punished, the law in this matter leaves judgement to the local lord. Shall we execute the man and be done with it, place a special tax upon his wares, or force him to polish the "useless hunks of rock"?" #NT!
+ quwazaw.0001.a: "Execute him" #NT!
+ quwazaw.0001.b: "Levy a special tax upon his goods" #NT!
+ quwazaw.0001.c: "Force him to polish statues as penance" #NT!
+ quwazaw.0002.t: "Statues or Trinkets?" #NT!
+ quwazaw.0002.desc: "In the Quwazaw religion, statues are seen as vessels of godly power, leading to craftsmen sculpting them into beautiful works of art. They are admired throughout Sarradon for their beauty, but have been traditionally been restricted to religious uses. That is until recently, where an enterprising craftsman has begun seling statues of his own making to foreign merchants. While there is nothing technically illegal about this, many still consider it a great sacrilege, and his case has been brough before you for judgement. What shall be done?" #NT!
+ quwazaw.0002.a: "To the dungeons with him!" #NT!
+ quwazaw.0002.b: "Maybe some time polishing the statues will teach him to respect them" #NT!
+ quwazaw.0002.c: "Where's MY cut?" #NT!
+ quwazaw.0002.d: "Tax him as just another craftsman" #NT!

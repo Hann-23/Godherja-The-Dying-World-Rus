@@ -1,0 +1,4 @@
+﻿l_russian:
+  
+ hoodwink_interaction: "Hoodwink" #NT!
+ hoodwink_interaction_desc: "Attempt to fleece [recipient.GetShortUINameNoTooltip] out of a portion of [recipient.GetHerHis] [gold|E]" #NT!

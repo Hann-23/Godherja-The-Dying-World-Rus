@@ -1,0 +1,68 @@
+﻿l_russian:
+ opening_event_sarradon.2.t: "A Year of Little Consequence" #NT!
+ opening_event_sarradon.2.desc: "Qanamsar Pejman has reigned for seventy years, Seventy one now that another Longest Night has passed and ushered in the new year. He is a good man, and a just ruler. Certainly wiser than some who have ruled in his place before, and some who could have done so in his stead - on this fact everyone in the Hiklahn can agree.\n\nIt must, however, be admitted that there may have been some serious lapses in judgement on his part.\n\nHis forefathers did not hesitate to see the line pruned of pretenders before their death. A brutal task to be sure, and not one which I envy, but history has proven it a necessity for the good of the Hiklahn. Pejman, however, is a good, and kind man. He has compassion for a world which is often so quick to punish the compassionate. For his virtue he may have doomed us to the fires of a full civil war, a horror not seen for generations.\n\nBut these are concerns for another time. Pejman slows with age, but he has lived for ninety years and is sure to live for at least few more. So for the time being, the chroniclers shall likely mark this year as another year of little consequence in the Hiklahn." #NT!
+ opening_event_sarradon.2.a: "Long may he reign!" #NT!
+ amsari.0002.t: "The Hiklahn Mourns" #NT!
+ amsari.0002.desc: "My father, Pejman, is dead. Of this I am certain. A horse messenger from the palace arrived yesterday bearing the news, but word reached the public at large less than a day later from the mouths of riverboat sailors and merchants. I am also certain that my brothers will be marshaling their forces, preparing to take the vacant throne by force. Though our father urged us all to peacefully accept only the eldest among us as our leader, I know many - most, perhaps - of my brothers have no intention of following this directive. And so I am left with a choice. Do I march? Or do I try to stay out of the war to come." #NT!
+ amsari.0002.a: "It is mine by right!" #NT!
+ amsari.0002.a.tt: "#W This will cause you to declare war#!, involving you directly in the civil war that is beginning #W now#!" #NT!
+ amsari.0002.b: "This is not my fight." #NT!
+ amsari.0002.b.tt: "#W This will mean you are not at war#!,as you sit out the fratricidal civil war that is beginning #W now#!" #NT!
+ amsari.0004.t: "A Prince Falls" #NT!
+ amsari.0004.desc: "After quite a struggle, my victorious armies have brought prince [loser.GetName] to his knees, scattering his armies and storming his citadels. Now, as he is dragged before me I am presented with a dilemma: how shall the rebellious brother be dealt with?" #NT!
+ amsari.0004.a: "Seize everything but leave him his life." #NT!
+ amsari.0004.a.tt: "You will gain every all titles held by [loser.GetName] and their vassals" #NT!
+ amsari.0004.b: "Seize everything and have him strangled." #NT!
+ amsari.0004.b.tt: "You will seize [loser.GetName]'s demneze, execute them and vassalize the rest" #NT!
+ amsari.0004.c: "Have him strangled and just let the locals administer his territories." #NT!
+ amsari.0004.c.tt: "You will execute [loser.GetName] and vassalize all the remaining lands" #NT!
+ amsari.0005.t: "The Hiklahn Mourns" #NT!
+ amsari.0005.desc: "A dark day for the Empire dawns. The last Prophet never envisioned the death of Pejman, and he never told us of what was to come next. But one thing I do know, war is coming. The Princes have been plotting against one another for years, this was an open secret, but everyone ignored that this day would come.\n\nNow my mind prickles with the idea of my own Empire...do I have the strengh to claim the Hiklahn as my own? Should I march against the other unworthy Princes? Or stay my blade and armies and ride out the death and destruction to come?" #NT!
+ amsari.0005.a: "It is time for a new Emperor!" #NT!
+ amsari.0005.a.tt: "#W This will cause you to declare war#!, involving you directly in the civil war that is beginning #W now#!" #NT!
+ amsari.0006.t: "The March into Tchouran" #NT!
+ amsari.0006.desc: "As my armies approached the capital, a sense of elation hit me. Is this the beginning of a new Empire? Without the capital, I wouldn't be seen as a true successor to the Hiklahn without this magnificent Metropolis. Now, none may doubt my prowess and will to reunite the Empire against these other unworthy pretenders. It may take days or years but I will continue this war until there is no one who stands against me!" #NT!
+ amsari.0006.a: "The Capital must be mine!" #NT!
+ amsari.0007.t: "The War Goes On" #NT!
+ amsari.0007.desc: "My inheritance is nothing if not bittersweet. Titles, land, money - and a desperate war to the death for my family's ancestral throne. Shall I continue in my predecessor's footsteps? Already my retinue has gathered at [ROOT.Char.GetCapitalLocation.GetCounty.GetTitle.GetNameNoTierNoTooltip], to defend my person against dishonor. Or perhaps it is time to lay down my weapons and seek peace?\n\nWhatever happens now, it all falls to me." #NT!
+ amsari.0007.a: "A heavy burden..." #NT!
+ amsari.0008.t: "Victory at Last! Glory Everlasting!" #NT!
+ amsari.0008.desc: "The pretenders have fallen, their citadels have been pulled down, and their ambitions dashed against the ground! The sacred lands of our forefathers, the sacrosanct duty to guide and protect the Amsari, by Right of the Sword they are both my responsibilities now. Those princes who wisely chose to refrain from taking up arms against me have again chosen wisely and now swear fealty to me as their rightful liege, though it would be wise for me to keep a close watch on their ambitions.\n\nAs I stand in the palace of my ancestors contemplating where to go from here, I can hear the wailing of women from the streets outside heralding yet another funeral. The Civil War has taken a heavy toll upon the Amsari, and it will take many years for us to recover. But we have risen from worse tragedies. There is naught that fate can inflict upon a people such as us, who have risen from abject slavery to mastery of the greatest Empire on Aeras, that we are not sure to overcome." #NT!
+ amsari.0008.tt: "Every dejure Amsari title that is currently independent shall swear fealty to me" #NT!
+ amsari.0008.a: "The dawn of a new Qanamsar." #NT!
+ amsari.0009.t: "The War Everlasting" #NT!
+ amsari.0009.desc: "#N "The fools, in their arrogance, will take up arms against their brothers and sisters. Never shall they see a triumph, but instead an eternity of war widows and orphans. The Sacred river shall burst its banks, overflowing the land with clots of blood. Zaoran and his Sons shall turn their face from you in shame. Devils shall cavort upon the burnt earth, and foul magics will wrack your children's forms. An age of darkness will descend like a morning fog, and even the most virtuous among you will be rendered blind."#!\n-The Prophet Anaphernes\n\nYears of war, years of death and deprivation. Our homeland, the birthright granted to us by the Prophet himself and won for us by the suffering of our ancestors, it bleeds! [ROOT.GetCharacter.GetFaith.HighGodName] forgive us for what we have squandered. Fifty long years this conflict has raged - an unprecedented occurrence in the Hiklahn. We have had civil wars aplenty, but nothing like this! An entire generation who have never known unity now reach middle age, and only a handful of elders yet remain who have clear memories of the time before the shattering of the Amsari people.\n\nPerhaps this is not the end of the Hiklahn. Perhaps one day another shall come to reunite our squabbling people, and bring order where there is now only chaos. But for now, the throne of the Qanamsars is naught but a thing of memory. The crown is no more." #NT!
+ amsari.0009.a: "Darker days ahead..." #NT!
+ amsari.0010.t: "The Rot has grown too Large" #NT!
+ amsari.0010.desc: "Without someone leading the Empire from the original royal line, and the inability to reform the Empire, the corruption has finally eaten away at its heart. However, the rot has grown too large, too pervasive. The dissolution of the Empire is inevitable as holding the Empire together becomes impossible." #NT!
+ amsari.0010.a: "The Empire must be broken." #NT!
+ amsari.0011.t: "War in the West" #NT!
+ amsari.0011.desc: "The fragile unity that was grafted together by Pejman has finally been brought to ruin by his death. Now his children and vassals all vie for the throne against one another. The nearby West Royal Trading Company will surely profit from this conflict, or even take advantage of it for themselves...\n\nThankfully, the war shouldn't spill over into nearby realms but should there be no resolution to the conflict, the landscape of Western Sarradon will be forever changed." #NT!
+ amsari.0011.a: "A worrying time." #NT!
+  
+ reform_the_shattered_empire: "Reunite the Shattered Empire" #NT!
+ reform_the_shattered_empire_desc: "The death and suffering of the Amsari people can finally be stopped. I have done it. Finally, the Civil War is over, and the throne is mine." #NT!
+ reform_the_shattered_empire_confirm: "Reunite the Empire" #NT!
+ reform_the_shattered_empire_tt: "The Empire will be reunited, and all disparate vassals shall be revassalised under you." #NT!
+ reform_the_shattered_empire_tooltip: "Long may [GetPlayer.GetName] reign!" #NT!
+ reform_the_obliterated_empire: "Reform the Obliterated Empire" #NT!
+ reform_the_obliterated_empire_desc: "Since the Civil War, the destruction has left the old Hiklahn Empire shattered and unreformed. It will take a great leader and conquerer to reunite the lands once again." #NT!
+ reform_the_obliterated_empire_tt: "The Amsari Empire title will be created" #NT!
+ reform_the_obliterated_empire_confirm: "Reunite the Empire" #NT!
+ reform_the_obliterated_empire_tooltip: "Long may [GetPlayer.GetName] reign!" #NT!
+ hire_marcher_mercenaries: "Hire Marcher Mercenaries" #NT!
+ hire_marcher_mercenaries_desc: "The Marcher West Royal Trading Company is offering mercenaries for quite an affordable price. To win this war, any able bodied men will be needed." #NT!
+ hire_marcher_mercenaries_confirm: "Pay the price!" #NT!
+ hire_marcher_mercenaries_tt: "[GetPlayer.GetName] will pay 100 ducats to the ruler of the West Royal Trading Company for 600 mercenaries." #NT!
+ hire_marcher_mercenaries_tooltip: "600 Marcher Mercenaries are needed" #NT!
+ the_hiklahn_needs_change: "The Hiklahn needs Change" #NT!
+ the_hiklahn_needs_change_desc: "There is a rot inside the Empire. The visions from the Prophet guided our people for centuries, the corruption and greed of man was abatted by them. Now though, the problem has slowly become more apparent. The Amsari needs reform and the people require stronger leadership." #NT!
+ the_hiklahn_needs_change_confirm: "We need change!" #NT!
+ the_hiklahn_needs_change_tooltip: "Without change, we are doomed to destroy ourselves again" #NT!
+ marcher_empire_amsari: "Form a new Marcher Empire" #NT!
+ marcher_empire_amsari_desc: "The constant infighting amongst the once great and mighty Amsari has finally got its victor. The [marchers|E]. With intrigue, guile and warfare we have managed to beat the other pretenders and take the throne for ourselves. With our new rich lands we can build a new Marcher empire to mirror our brothers to the North." #NT!
+ marcher_empire_amsari_tooltip: "Create a new Marcher Empire in Sarradon" #NT!
+ marcher_empire_amsari_confirm: "Make our rule official." #NT!
+ marcher_empire_amsari_tt: "[GetPlayer.GetName] will become the new Ruler over the Amsari and their dynasty shall rule forever more...hopefully. Long may [GetPlayer.GetName] reign!" #NT!
+ AMSARI_CIVILWAR_WAR_NAME: "Amsari Civil War" #NT!
+ amsari_civil_war_defender_desc: "You will lose everything and be lucky to escape with your life." #NT!

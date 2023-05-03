@@ -1,0 +1,121 @@
+﻿l_russian:
+  l_english: 
+ refound_east_mamur_decision: "Refound the Eastern Mamuramat" #NT!
+ refound_east_mamur_decision_desc: "Vacant since the violent death of al-Hudi in 802 IS, the Eastern [mamuramat|E] was at one time a second, competing hub for [wardenite|E] civilization. Its court at al-Qais was home to a vibrant cultural and legal tradition. Now, with our dominant position in the east we can restore the dignity of this once great land. Of course, doing so will certainly provoke conflict with the Central Mamur who illegally holds the title, but we can deal with him in time." #NT!
+ refound_east_mamur_decision_tooltip: "Proclaim the restoration of the [GetTitleByKey('e_eastern_mamuramat').GetNameNoTier], equivalent in dignity and authority to the line of [tathtali|E]." #NT!
+ refound_east_mamur_decision_confirm: "Become the East Mamur" #NT!
+ refound_west_mamur_decision: "Refound the Western Mamuramat" #NT!
+ refound_west_mamur_decision_desc: "Vacated since the collapse of the ruling House of Qassi in 678 IS and the subsequently permanent assumption of regency by the Central [mamuramat|E] in 682 IS, the [GetTitleByKey('e_western_mamuramat').GetNameNoTier] was the first to disappear as an independent force in [wardenism|E]. Now, after centuries of injustice, we stand prepared to reestablish it once more. Doing this will inevitably put us into conflict with the Central Mamur who holds the title as his birthright, but we are no cowards!" #NT!
+ refound_west_mamur_decision_tooltip: "Restore the [GetTitleByKey('e_western_mamuramat').GetNameNoTier], bulwark against the Hiklahn!" #NT!
+ refound_west_mamur_decision_confirm: "Become the West Mamur" #NT!
+ refound_far_east_mamur_decision: "Refound the Far Eastern Mamuramat" #NT!
+ refound_far_east_mamur_decision_desc: "Though never much liked by its three supposed peers, the Far Eastern [mamuramat|E] was no less legitimate than they. Usun Bishabelik's mission was a holy one undertaken at the request of the [first_warden|E] himself, and claims to the contrary are naught but slander and lies from those who refused to recognize his conversion. Now it is time for us to retake his legacy. Let us push the borders of the faith to distant Kashirya itself, and perhaps even beyond!" #NT!
+ refound_far_east_mamur_decision_tooltip: "Proclaim the [GetTitleByKey('e_far_eastern_mamuramat').GetNameNoTier] and realize Bishabelik's ambitions." #NT!
+ refound_far_east_mamur_decision_confirm: "Forward, til we meet the rising sun itself!" #NT!
+ found_southern_mamur_decision: "Found the Southern Mamuramat" #NT!
+ found_southern_mamur_decision_desc: "For the first time in history, the formerly heathen lands of Damota have been subdued. To maintain control of this southern realm, where once infidels plotted to raise the Dead God, it is time that a new [mamuramat|E] be declared, to insure that these conquests will never slip from our grasps. What the rest of the faith will think of such a proclamation, however, is yet to be seen." #NT!
+ found_southern_mamur_decision_tooltip: "Found the [GetTitleByKey('e_southern_mamuramat').GetNameNoTier], to forevermore guard the southern edge of the faith!" #NT!
+ found_southern_mamur_decision_confirm: "Become the Southern Mamur" #NT!
+ found_far_western_mamur_decision: "Found the Far Western Mamuramat" #NT!
+ found_far_western_mamur_decision_desc: "The great dream of the [wardenites|E] — besides defeating the heretic [ritualists|E] — has long been to see the west brought into the fold of faith. While the first great effort was halted by the betrayal of the Ayyar, their later conversion and redemption finally set our path right anew. Now, the west is finally united by the [first_warden|E]'s followers, and it is time for a new figure to step forth and lead them! Whether the rest of [sarradon|E] appreciate the arrival of a new Mamur is yet to be seen, however..." #NT!
+ found_far_western_mamur_decision_tooltip: "Found the [GetTitleByKey('e_far_western_mamuramat').GetNameNoTier], and bring law to the sunset realm!" #NT!
+ found_far_western_mamur_decision_confirm: "Become the Far Western Mamur" #NT!
+ found_new_mamuramat_decision: "Found a New Mamuramat" #NT!
+ found_new_mamuramat_decision_desc: "My realm's expansion across distant shores leaves the [wardenite|E] faithful I rule over in an odd place. Technically our lands are outside the jurisdiction of any of the traditional [mamuramat|E]s, and many are starting to whisper that I should follow in the footsteps of the legendary Usun Bishabelik and declare myself a the leader of a new Mamuramat. It would certainly be unprecedented, but so is the very existence of a strong Wardenite realm outside of [sarradon|E]." #NT!
+ found_new_mamuramat_decision_tooltip: "Found a completely new Mamuramat, and bring law to distant shores!" #NT!
+ found_new_mamuramat_decision_confirm: "Proclaim a new Mamuramat" #NT!
+ singular_mamur_faith_becomes_hostile_tt: "[GetPlayer.GetFaith.GetName] and [THIS.Faith.GetName] begin to mutually consider each other to be [GetHostilityLevelName( '(int32)2' )|V]" #NT!
+ GENERIC_MAMURAMAT_NAME: "[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip] Mamuramat" #NT!
+  
+ wardenite_mamur_reclaim_kotserion_decision: "A Triumph in Mukhtab!" #NT!
+ wardenite_mamur_reclaim_kotserion_decision_desc: "We have driven the Agionists from Mukhtab - or as they called it in their barbarian tongue, "Kotserion". Our ordeal is far from over, and already the slaves to these saints of sin gather on our borders, ready to drive us back. Nevertheless, the entire [wardenite|E] world hails our victory. Our efforts have gone a long way towards restoring the dignity and authority of the [mamur|E]." #NT!
+ wardenite_mamur_reclaim_kotserion_decision_tt: "Provlaim your victory over the Agionists in Mukhtab." #NT!
+ wardenite_mamur_reclaim_kotserion_decision_confirm: "Let the Afazariani tremble!" #NT!
+ wardenite_mamur_reclaim_kotserion_decision_is_valid: "You must own the Kingdom of Mukhtab, and ensure there are no independant Agionists in its territory." #NT!
+ wardenite_mamur_reclaim_decision_reward_1: "Will reset your ability to wage holy wars for entire kingdoms" #NT!
+ wardenite_mamur_reclaim_decision_reward_2: "Will give you access to a further triumph once you push deeper into Agionist territory." #NT!
+ wardenite_mamur_reclaim_sianna_decision: "A Triumph in Behbarven!" #NT!
+ wardenite_mamur_reclaim_sianna_decision_desc: "We have followed up our victory in Mukhtab, driving the Agionists further away from the heartland of the [mamuramat|E]. We are now one step closer to reclaiming the Eastern Island and the site of our faith's birth. Be warned however: while the [wardenite|E] faithful rejoice at our continued momentum, the Agionists are likely consolidating their forces to resist us. We must tread carefully moving forward. On the other hand, we may now attempt to reassert our authority over some of the territories lost to the Mamuramat during our long decline." #NT!
+ wardenite_mamur_reclaim_sianna_decision_tt: "Proclaim your victory over the Agionists in Behbarven" #NT!
+ wardenite_mamur_reclaim_sianna_decision_confirm: "Drive the Afazariani into the sea!" #NT!
+ wardenite_mamur_reclaim_sianna_decision_is_valid: "You must own the Kingdom of Behbarven, and ensure there are no independant Agionists in its territory." #NT!
+ wardenite_mamur_reclaim_sianna_decision_reward_3: "Will allow us to demand fealty from the Kathsiti." #NT!
+ wardenite_mamur_reclaim_gahzi_decision: "A Triumph in Gahzi!" #NT!
+ wardenite_mamur_reclaim_gahzi_decision_desc: "The Agionists are in disorder. Our victorious armies have swept through Gahzi, putting any who refuse submission to the sword. Though our struggle has been great, only the dregs of their villainous orders remain to resist us. Let them rattle their sabers and ape bravery, they shall die just like their brothers and sisters in arms." #NT!
+ wardenite_mamur_reclaim_gahzi_decision_tt: "Proclaim our victory in Gahzi!" #NT!
+ wardenite_mamur_reclaim_gahzi_decision_confirm: "To the Eastern Isle!" #NT!
+ wardenite_mamur_reclaim_gahzi_decision_is_valid: "You must own the Kingdom of Gahzi, and ensure no independent Agionists survive in its terrotory, or in the Tifrennesh highlands." #NT!
+ wardenite_mamur_reclaim_skiadhadhes_decision: "A Triumph in Mohrtag Al-Badi" #NT!
+ wardenite_mamur_reclaim_skiadhadhes_decision_desc: "The Agionists have nearly been driven from the mainland - Praise be to the [first_warden|E] and His Laws! Now only the final push along the coastline remains. Let the masked scum tremble on their stolen island, we shall be there soon enough. In the meantime, this victory has restored the [mamur|E]'s authority to the point that we may be able to reassert our authority over our brothers in faith in the east." #NT!
+ wardenite_mamur_reclaim_skiadhadhes_decision_tt: "Proclaim our victory over the Agionists in Mohrtag al-Badi" #NT!
+ wardenite_mamur_reclaim_skiadhadhes_decision_confirm: "The final victory is at hand!" #NT!
+ wardenite_mamur_reclaim_skiadhadhes_decision_is_valid: "You must own the Kingdom of Mohrtag Al Badi, and ensure no independent Agionists survive in its territory or within the Kingdom of Jamayya." #NT!
+ wardenite_mamur_reclaim_skiadhadhes_decision_reward_3: "Will allow us to demand fealty from Harthah or his descendants." #NT!
+ wardenite_mamur_reclaim_chegea_decision: "A Beachhead on the Eastern Isle" #NT!
+ wardenite_mamur_reclaim_chegea_decision_desc: "The final reckoning of the Agionists is at hand. The followers of the so called "Forgotten Saint", the last Agionists standing, have tasted our vengeance on the beaches of Dhami. Though there may be years of bitter fighting ahead of us, we have proven that their heathen armies are no match for our virtue and courage. Forward, to the Warden's Prison itself!" #NT!
+ wardenite_mamur_reclaim_chegea_decision_tt: "Let us begin the final struggle!" #NT!
+ wardenite_mamur_reclaim_chegea_decision_confirm: "There shall be no place left for them to hide!" #NT!
+ wardenite_mamur_reclaim_chegea_decision_is_valid: "You must own the Kingdom of Almubid, and ensure no independant Agionists survive in its territory." #NT!
+ wardenite_mamur_reclaim_almubid_decision: "The Final Victory Over Agionism" #NT!
+ wardenite_mamur_reclaim_almubid_decision_desc: "Never since the days of the Great Uprising has the Wardenite faith seen so great a triumph. Naught but a generation or two ago many [wardenites|E] questioned the sacred rights of the [mamur|E]. But now? From the distant borders of the Amsari in the west to the Crater in the east the faithful sing our praises. Though some Agionists may lurk in various holdouts, their power has been broken forever. Now begins a new golden age for [sarradon|E]. An age of law. An age of Wardenism. An age of the Mamur." #NT!
+ wardenite_mamur_reclaim_almubid_decision_tt: "Is our struggle finally at an end?" #NT!
+ wardenite_mamur_reclaim_almubid_decision_confirm: "The Mamur is Triumphant!" #NT!
+ wardenite_mamur_reclaim_almubid_decision_reward_3: "Will allow us to demand fealty from the Ayyar." #NT!
+ wardenite_mamur_reassert_authority_kathsiti: "Reassert Authority Over the Kathsiti" #NT!
+ wardenite_mamur_reassert_authority_kathsiti_desc: "The loss of the province of Uraghad was, in retrospect, a sign of things to come. The centuries to follow would see the [mamur|E]'s authority break down across the [wardenite|E] world, resulting in the sorry state of affairs that led to the Saint's Crusade. However, under our leadership the ship of state appears to have been righted, and those who once denigrated our title as a relic of the past are being made to question their folly. Let us send messengers to the rebellious cities of Uraghad and the Barzawa demanding submission. They will understand the implicit threat..." #NT!
+ wardenite_mamur_reassert_authority_kathsiti_tt: "Let us see who accepts and who refuses." #NT!
+ wardenite_mamur_reassert_authority_kathsiti_confirm: "Let us Reassert our Rightful Authority" #NT!
+ wardenite_mamur_reassert_authority_harthah: "Reassert our Authority over the Ḥārthahites" #NT!
+ wardenite_mamur_reassert_authority_harthah_desc: "Though Ḥārthah may have had the best of intentions, his rebellion can no longer be tolerated. His descendants must bend the knee to the authority of the Mamur, or face the consequences." #NT!
+ wardenite_mamur_reassert_authority_harthah_tt: "If they refuse, this will likely mean war." #NT!
+ wardenite_mamur_reassert_authority_harthah_confirm: "They Will Bend the Knee." #NT!
+ wardenite_mamur_reassert_authority_ayyar: "Rule the Ayyar Directly." #NT!
+ wardenite_mamur_reassert_authority_ayyar_desc: "Since their arrival the Ayyar have successfully skirted the line between insubordination and submission. Their unique status came from a clever set of negotiations with the [mamur|E]s who came before us. That our ancestors were unable to secure full submission was a symptom of weakness, which has now been purged from the Mamur. With this in mind, let us remind the Ayyar of the requirements set upon them by their faith. We are sure they will do the right thing." #NT!
+ wardenite_mamur_reassert_authority_ayyar_tt: "If they agree, they shall swear fealty to the Mamur" #NT!
+ wardenite_mamur_reassert_authority_ayyar_confirm: "The Law of the First Warden is non-negotiable." #NT!
+ k_dynamic_ayyar: "Governorship of Ayyar" #NT!
+ blind_watcher_reform_decision: "Reform the Order" #NT!
+ blind_watcher_reform_decision_tooltip: "Restore the Order to Dikaynos' vision" #NT!
+ blind_watcher_reform_decision_tt: "You have taken over the Order and eliminated the corruption" #NT!
+ blind_watcher_reform_decision_desc: "After so long in darkness, the corruption and injustice which has plagued our Order has been purged, and we once more administer true, unbiased justice as Dikaynos once did. It now merely requires one final edict to cement our reforms, to punish those who committed terrible crimes in the Saint's name, before the arduous work of seperating ourselves from our bloodstained actions can begin. However, though those within our ranks who sought to subvert our teachings have met their justice, the reckoning with the ones truly behind the scheme is yet to come, and will be bloody indeed..." #NT!
+ blind_watcher_reform_decision_confirm: "For Justice Eternal" #NT!
+ blind_watcher_reform_valid_desc: "Your Clique must have 60% or greater influence" #NT!
+ blind_watcher_reform_correct_clique_desc: "You must be part of the Defenders clique" #NT!
+ landed_order_reform_no_powerful_vassal_must_oppose_desc: "No non-imprisoned Powerful Vassal must hold a negative opinion of you" #NT!
+ golden_hand_reform_decision: "Reform the Order" #NT!
+ golden_hand_reform_decision_tooltip: "Restore the Order to Philantros' vision" #NT!
+ golden_hand_reform_decision_tt: "You have taken over the Order and eliminated the corruption" #NT!
+ golden_hand_reform_decision_desc: "After so long in darkness, the corruption and greed which has plagued our Order has been driven out, and we once more distribute wealth to those who truly need it rather than hoard it for ourselves. It now merely requires one final edict to cement our reforms, to punish those who committed terrible crimes in the Saint's name, before the arduous work of seperating ourselves from our bloodstained actions can begin. However, though those within our ranks who sought to subvert our teachings have been separated from their ill-earned wealth, the reckoning with the ones truly behind the scheme is yet to come.." #NT!
+ golden_hand_reform_decision_confirm: "For Charity Eternal" #NT!
+ golden_hand_reform_valid_desc: "Your Clique must have 60% or greater influence" #NT!
+ golden_hand_reform_correct_clique_desc: "You must be part of the Dorogeros clique" #NT!
+ sansias_rose_reform_decision: "Reform the Order" #NT!
+ sansias_rose_reform_decision_tooltip: "Restore the Order to Sansia's vision" #NT!
+ sansias_rose_reform_decision_tt: "You have taken over the Order and eliminated the corruption" #NT!
+ sansias_rose_reform_decision_desc: "After so long in darkness, the corruption and cruelty which has plagued our Order has been driven out, and we can once more dedicate ourselves to the protection of the innocent instead of pointless cruelty. It now merely requires one final edict to cement our reforms, to punish those who committed terrible crimes in the Saint's name, before the arduous work of seperating ourselves from our bloodstained actions can begin. However, though those within our ranks who sought to subvert our teachings have met their justice, the reckoning with the ones truly behind the scheme is yet to come, and will be bloody indeed..." #NT!
+ sansias_rose_reform_decision_confirm: "For Self-Sacrifice Eternal" #NT!
+ sansias_rose_reform_valid_desc: "Your Clique must have 60% or greater influence" #NT!
+ sansias_rose_reform_correct_clique_desc: "You must be part of the Kateigorúnoi to Ketigoménon clique" #NT!
+ bleeding_martyr_reform_decision: "Reform the Order" #NT!
+ bleeding_martyr_reform_decision_tooltip: "Restore the Order to Sansia's vision" #NT!
+ bleeding_martyr_reform_decision_tt: "You have taken over the Order and eliminated the corruption" #NT!
+ bleeding_martyr_reform_decision_desc: "After so long in darkness, the corruption and rot which has plagued our Order has been healed, and we can once more dedicate ourselves to healing the sick rather than cruel experiments. It now merely requires one final edict to cement our reforms, to punish those who committed terrible crimes in the Saint's name, before the arduous work of seperating ourselves from our bloodstained actions can begin. However, though those within our ranks who sought to subvert our teachings have met their justice, the reckoning with the ones truly behind the scheme is yet to come..." #NT!
+ bleeding_martyr_reform_decision_confirm: "For the Healing of All" #NT!
+ bleeding_martyr_reform_valid_desc: "Your Clique must have 60% or greater influence" #NT!
+ bleeding_martyr_reform_correct_clique_desc: "You must be part of the Xeneftoi clique" #NT!
+ pure_heart_reform_decision: "Reform the Order" #NT!
+ pure_heart_reform_decision_tooltip: "Restore the Order to Katharitos' vision" #NT!
+ pure_heart_reform_decision_tt: "You have taken over the Order and eliminated the corruption" #NT!
+ pure_heart_reform_decision_desc: "After so long in darkness, the corruption and rot which has plagued our Order has been purified, and we can once more dedicate ourselves to achieving true Purity. It now merely requires one final edict to cement our reforms, to punish those who committed terrible crimes in the Saint's name, before the arduous work of seperating ourselves from our bloodstained actions can begin. However, though those within our ranks who sought to subvert our teachings have met their justice, the reckoning with the ones truly behind the scheme is yet to come..." #NT!
+ pure_heart_reform_decision_confirm: "For the Purity of Love" #NT!
+ pure_heart_reform_valid_desc: "Your Clique must have 60% or greater influence" #NT!
+ pure_heart_reform_correct_clique_desc: "You must be part of the Apodromios clique" #NT!
+ saint_calystos_key_reform_decision: "Reform the Order" #NT!
+ saint_calystos_key_reform_decision_tooltip: "Restore the Order to Calystos' vision" #NT!
+ saint_calystos_key_reform_decision_tt: "You have taken over the Order and eliminated the corruption" #NT!
+ saint_calystos_key_reform_decision_desc: "After so long in darkness, our Order has finally been freed from the corruption and greed which has plagued it, so that we may once again fight to free the oppressed rather than enslave the innocent in a mockery of Calystos' teachings. It now merely requires one final edict to cement our reforms, to punish those who committed terrible crimes in the Saint's name, before the arduous work of seperating ourselves from our bloodstained actions can begin. However, though those within our ranks who sought to subvert our teachings have met their justice, the reckoning with the ones truly behind the scheme is yet to come, and will be bloody indeed..." #NT!
+ saint_calystos_key_reform_decision_confirm: "For Freedom Universal" #NT!
+ saint_calystos_key_reform_valid_desc: "Your Clique must have 60% or greater influence" #NT!
+ saint_calystos_key_reform_correct_clique_desc: "You must be part of the Logisa clique" #NT!
+ marcher_mercenaries: "Marcher Mercenaries" #NT!
+ marcher_port: "Staple Port of the West" #NT!

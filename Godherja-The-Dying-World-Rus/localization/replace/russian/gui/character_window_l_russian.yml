@@ -1,0 +1,2 @@
+﻿l_russian:
+ FAITH_CHARACTER_WINDOW: "[Faith.GetAdjectiveNoTooltip] [SelectLocalization(Character.MakeScope.Var('character_legal_tradition').IsSet,Concatenate('(',Concatenate(Localize(Concatenate(Character.MakeScope.Var('character_legal_tradition').Var('legal_tradition_name').GetFlagName,'_name')),')')),'')]" #NT!

@@ -1,0 +1,47 @@
+﻿l_russian:
+  #Random Entertainment texts 
+ random_entertainment_text_sjavolki_tales: "Sjavolki Tales" #NT!
+ random_entertainment_text_poems_mathilde: "the Poems of Mathilde" #NT!
+ random_entertainment_text_crimson_ode: "the Crimson Ode" #NT!
+ random_entertainment_text_travels_to_sarradon: "Travels to [sarradon|E]" #NT!
+ random_entertainment_text_towards_the_sunset: "Towards the Sunset" #NT!
+ random_entertainment_text_adabyss: "Among Golden Idols" #NT!
+ random_entertainment_text_liches_heart: "the [liches|E]' Heart" #NT!
+ random_entertainment_text_riddles_dhacenox: "Riddles of Dhace'nox" #NT!
+ random_entertainment_text_mighty_magi_buxom_maiden: "the Mighty Magi and the Buxom Maiden XXX" #NT!
+ random_entertainment_text_fifty_shades_of_blood: "Fifty Shades of Blood" #NT!
+ random_entertainment_text_sound_of_air: "the Sound of Air" #NT!
+ random_entertainment_text_travels_of_saint_katharitos: "the Travels of Saint Katharitos" #NT!
+ random_entertainment_text_tale_of_two_cities: "Tale of Two Cities" #NT!
+ random_entertainment_text_the_worlds_edge: "the World's Edge" #NT!
+ random_entertainment_text_dragon_and_the_scorpion: "the Dragon and the Scorpion" #NT!
+ random_entertainment_text_the_dragon_tale: "The Dragon Tale" #NT!
+ random_entertainment_text_seventy_seven_cities: "Seventy-Seven Cities" #NT!
+ random_entertainment_text_pocket_guide_to_aversaria: "Pocket guide to Aversaria" #NT!
+ random_entertainment_text_theryion: "Theryion" #NT!
+ random_entertainment_text_the_age_of_purges: "the Age of Purges" #NT!
+ random_entertainment_text_the_bloodtext: "the Bloodtext" #NT!
+ random_entertainment_text_purestifinix: "Purestifinix" #NT!
+ random_entertainment_text_compiled_works_of_abael_venodau: "Compiled Works of Abaël Venodau" #NT!
+ random_entertainment_text_passionate_knight_and_pleasingly_thick_magi: "the Passionate Knight and the Pleasingly Thick Magi" #NT!
+ random_entertainment_text_the_chivalric_code: "the Chivalric Code" #NT!
+ random_entertainment_text_the_last_hippogriff: "The Last Hippogriff" #NT!
+ random_entertainment_text_griffon_bestiary: "Griffon Bestiary" #NT!
+ random_entertainment_text_a_chevalien_knight_in_oraispol: "A Chevalien Knight in Oraispol, 1262" #NT!
+ random_entertainment_text_how_to_read_a_book: "How to Read a Book" #NT!
+ random_entertainment_text_tale_of_sir_koeveux: "The Tale of Sir Koeveux" #NT!
+ random_entertainment_text_life_of_jacot_den_va_waldisse: "The Life of Jacot den va Waldisse" #NT!
+ random_entertainment_text_the_bastionetale: "the Bastionetale" #NT!
+ random_entertainment_text_legends_of_the_seven_justicesaints: "Legends of the Seven Saints of Justice" #NT!
+ random_entertainment_text_velosmyrmyrdarg: "Velosmyrmyrdarg" #NT!
+ random_entertainment_text_the_dragonslayer: "the Dragonslayers" #NT!
+ random_entertainment_text_jarocish: "Jarocish" #NT!
+ random_entertainment_text_home_of_the_empire_oraispol: "Home of the Empire, Oraispol" #NT!
+ random_entertainment_text_the_eastern_jewel_asiupoli: "The Eastern Jewel, [GetTitleByKey('c_oraispol').GetNameNoTier]" #NT!
+ random_entertainment_text_peti_gisredde_the_greatest_of_cities: "[peti_gisredde|E], the Greatest of Cities" #NT!
+ random_entertainment_text_grande_gisredde_a_city: "[grande_gisredde|E], a City" #NT!
+ random_entertainment_text_travels_to_the_hellworld: "Travels to the Hellworld" #NT!
+ random_entertainment_text_travels_to_the_darkest_realm: "Travels to the Darkest Realm" #NT!
+ terrain_deadland: "deadlands" #NT!
+ terrain_underground: "underground" #NT!
+ rubble: "rubble" #NT!

@@ -1,0 +1,41 @@
+﻿l_russian:
+ gh_artifact.0002.t: "The Book Merchant" #NT!
+ gh_artifact.0002.desc: "A traveling bookseller has been making their way through the countryside, and has presented themselves to my court. They bow deeply as they are led before me.\n\n "My [ROOT.Char.GetTitleAsNameNoTooltip], I wished to make myself acquainted with you. I have in my possession some very rare books indeed, far above the sort of thing that would interest the riff-raff and common merchants. But for one as erudite as you and your court, I had a hunch they might be of interest..." #NT!
+ gh_artifact.0002.steal_all_books: "I think I'll have them all, thanks." #NT!
+ gh_artifact.0002.a: "Hm, what about that one?" #NT!
+ gh_artifact.0002.b: "I'm interested in this!" #NT!
+ gh_artifact.0002.c: "Tell me more about this one..." #NT!
+ gh_artifact.0002.d: "I'm not interested in this schlock." #NT!
+  
+ artifact.0010.t: "A Merchant's Menagerie" #NT!
+ artifact.0010.desc: "The whole court is abuzz of the curious merchant passing through my lands, one that apparently comes with caged beasts from all four corners of Aeras. At the insistence of virtually everyone in my household, I have invited [menagerie_merchant.GetHerHim] for a visit.\n\nI am treated to quite the show, with the merchant showing off numerous beasts I had only ever heard of in stories up until now, with the highlight being [ROOT.GetCharacter.Custom('GetRandomExoticAnimal')]!" #NT!
+ artifact.0010.a: "I'm sold. Give me one of these." #NT!
+ artifact.0010.b: "This is quite the fascinating creature!" #NT!
+ artifact.0010.c: "I'd regret not purchasing such a marvelous beast." #NT!
+ artifact.0010.d: "Everything! I want everything!" #NT!
+ artifact.0010.e: "Amusing, but I don't need any foul-smelling beasts." #NT!
+ artifact.0011.t: "A Request to Read." #NT!
+ artifact.0011.desc: "As I was standing outside of my chambers, attempting to think of something else to do beyond my usual duties, I was approached by my court chaplain. They politely greeted me and I returned it. Soon, they spoke to me. They said, "My liege, I hope that you would be open to addressing my request. You see, I have thought that you might be able to benefit from reading, as that would certainly add to your understanding. I have gathered some books for you to consider. Would you be willing to try and have some time for them now?" #NT!
+ artifact.0011.a: "Of course. I was looking for something to do." #NT!
+ artifact.0011.b: "I cannot do this for now." #NT!
+ artifact.0012.t: "Within The Library." #NT!
+ artifact.0012.desc: "I walked into the library and was immediately greeted by the seemingly limitless stretches of shelves, each filled with books, their covers of various designs and colors. I looked around, wandering deeper into it, and found myself standing by one shelf, my hand coming up to touch the spines of the books which it held. I felt the hardness of their material, thinking of the pages each book had, and wondering what they may contain for me to read. I stopped and thought over what I may read." #NT!
+ artifact.0012.a: "There may be something I can pick without thinking too much over what it may be about." #NT!
+ artifact.0012.b: "Perhaps I should read something concerning the history of things." #NT!
+ artifact.0012.c: "I might try to learn from the works of mages." #NT!
+ artifact.0012.a.success: "I was able to comprehend the work." #NT!
+ artifact.0012.a.failure: "The book stumped me." #NT!
+ etepezean_eagle: "an impressive eagle from the mountains of Etepezea" #NT!
+ kalathipsomi_bear: "a hulking bear from the wilds of Kalathipsomi" #NT!
+ marcher_griffon: "a beautiful [griffon|E] from the Marches" #NT!
+ far_north_bear: "a giant bear from the wilds of [greater_aversaria|E]" #NT!
+ far_north_mammoth: "a mammoth from the wilds of the north" #NT!
+ kikarsagi_steed: "an extraordinarily impressive steed from the lands of the Kikarsagi" #NT!
+ sarradon_giant_snake: "a colossal snake from the depths of [sarradon|E]'s darkest jungles" #NT!
+ giant_kathun_kai_snake: "a colossal snake from the depths of Kathun Kai's darkest jungles" #NT!
+ sarradon_monkey: "a mischievous monkey from the jungles of [sarradon|E]" #NT!
+ sarradonian_elephant: "a towering elephant from the savannah of [sarradon|E]" #NT!
+ far_east_elephant: "an elephant from the jungles of the Far East" #NT!
+ sarradon_bird: "a beautiful bird, resplendent in pose and colors, from the jungles of [sarradon|E]" #NT!
+ menagerie_modifier: "Menagerie" #NT!
+ menagerie_modifier_desc: "A local aristocrat with deep pockets has founded a personal menagerie here." #NT!

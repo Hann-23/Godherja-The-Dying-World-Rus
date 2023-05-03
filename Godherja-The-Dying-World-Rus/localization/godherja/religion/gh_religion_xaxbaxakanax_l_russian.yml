@@ -1,0 +1,65 @@
+﻿l_russian:
+  
+ xaxbaxakanax_religion: "Xax'baxa'kanax" #NT!
+ xaxbaxakanax_religion_adj: "Xax'baxa'kanaxi" #NT!
+ xaxbaxakanax_religion_adherent: "Xax'baxa'kanaxian" #NT!
+ xaxbaxakanax_religion_adherent_plural: "Xax'baxa'kanaxians" #NT!
+ xaxbaxakanax_religion_desc: "Adherents believe they are guided like mere flocks of sheep through a proper path in this world(which is only a small piece of a greater reality) by a divine Shepherd, himself a humble common man in a world above them, being shepherded along with his own kin by the Shepherd above him and so on and so forth. They preach acceptance with the world and all of its events, whether good or bad. Just as sheep may get skittish as they are brought to their pens, so too is any worry about the world simply latent nervousness born from ignorance of the Shepherd's plan." #NT!
+ xaxbaxakanax_desc: "Believing themselves to be a mere flock of sheep guided by a shepherd, Xax'baxa'kanaxi hold no power over their spiritual matters(the role of priestly caste being mere ceremony keepers and funeral speakers). Due to their extremely esoteric nature, they have a very [Concept('xaxbaxakanax_esotericism','primitive relation with the world around them')|E]" #NT!
+ xaxbaxakanax_high_god_name: "The Shepherd" #NT!
+ xaxbaxakanax_high_god_name_possessive: "The Shepherd's" #NT!
+ xaxbaxakanax_high_god_name_alternate: "Xabam'kabax" #NT!
+ xaxbaxakanax_high_god_name_alternate_possessive: "Xabam'kabax's" #NT!
+ xaxbaxakanax_devil_name: "Xabam'kabax" #NT!
+ xaxbaxakanax_devil_name_possessive: "Xabam'kabax's" #NT!
+ xaxbaxakanax_death_deity_name: "Xabam'kabax" #NT!
+ xaxbaxakanax_death_deity_name_possessive: "Xabam'kabax's" #NT!
+ xaxbaxakanax_house_of_worship: "Abax'xam'baxax'aba" #NT!
+ xaxbaxakanax_house_of_worship_plural: "Abax'xam'baxax'abaxi" #NT!
+ xaxbaxakanax_religious_symbol: "sheep" #NT!
+ xaxbaxakanax_religious_text: "Kbam'axzyy'laxk Xax'baxa'kanax" #NT!
+ xaxbaxakanax_religious_head_title: "Ybax'zaxxa'lax'maxak'xax'xaka'" #NT!
+ xaxbaxakanax_religious_head_title_name: "Ybax'zaxxa'xax'xaka'baxx'ybban" #NT!
+ xaxbaxakanax_devotee_male: "Xax'baxa'kanaxi" #NT!
+ xaxbaxakanax_devotee_male_plural: "Xax'baxa'kanaxi" #NT!
+ xaxbaxakanax_devotee_female: "Xax'baxa'kanaxi" #NT!
+ xaxbaxakanax_devotee_female_plural: "Xax'baxa'kanaxi" #NT!
+ xaxbaxakanax_devotee_neuter: "Xax'baxa'kanaxi" #NT!
+ xaxbaxakanax_devotee_neuter_plural: "Xax'baxa'kanaxi" #NT!
+ xaxbaxakanax_priest_male: "Ybax'zaxxa'laxa" #NT!
+ xaxbaxakanax_priest_male_plural: "Ybax'zaxxa'laxi" #NT!
+ xaxbaxakanax_priest_female: "Ybax'zaxxa'laxa" #NT!
+ xaxbaxakanax_priest_female_plural: "Ybax'zaxxa'laxi" #NT!
+ xaxbaxakanax_priest_alternate_plural: "Ybax'zaxxa'lax" #NT!
+ xaxbaxakanax_bishop: "Xala'bal'naxax" #NT!
+ xaxbaxakanax_bishop_plural: "Xala'bal'naxaxi" #NT!
+ xaxbaxakanax_positive_afterlife: "Xabam'yyxzax'z'baxx'ybban" #NT!
+ xaxbaxakanax_negative_afterlife: "Xax'xax'xax'xax'xax" #NT!
+ xaxbaxakanax_creator_god_name: "$xaxbaxakanax_high_god_name$" #NT!
+ xaxbaxakanax_creator_god_name_possessive: "$xaxbaxakanax_high_god_name_possessive$" #NT!
+ xaxbaxakanax_health_god_name: "$xaxbaxakanax_high_god_name$" #NT!
+ xaxbaxakanax_health_god_name_possessive: "$xaxbaxakanax_high_god_name$" #NT!
+ xaxbaxakanax_fertility_god_name: "$xaxbaxakanax_high_god_name$" #NT!
+ xaxbaxakanax_fertility_god_name_possessive: "$xaxbaxakanax_high_god_name_possessive$" #NT!
+ xaxbaxakanax_wealth_god_name: "$xaxbaxakanax_high_god_name$" #NT!
+ xaxbaxakanax_wealth_god_name_possessive: "$xaxbaxakanax_high_god_name_possessive$" #NT!
+ xaxbaxakanax_household_god_name: "$xaxbaxakanax_health_god_name$" #NT!
+ xaxbaxakanax_household_god_name_possessive: "$xaxbaxakanax_health_god_name_possessive$" #NT!
+ xaxbaxakanax_fate_god_name: "$xaxbaxakanax_high_god_name$" #NT!
+ xaxbaxakanax_fate_god_name_possessive: "$xaxbaxakanax_high_god_name_possessive$" #NT!
+ xaxbaxakanax_knowledge_god_name: "$xaxbaxakanax_high_god_name$" #NT!
+ xaxbaxakanax_knowledge_god_name_possessive: "$xaxbaxakanax_high_god_name_possessive$" #NT!
+ xaxbaxakanax_war_god_name: "$xaxbaxakanax_high_god_name$" #NT!
+ xaxbaxakanax_war_god_name_possessive: "$xaxbaxakanax_high_god_name_possessive$" #NT!
+ xaxbaxakanax_trickster_god_name: "$xaxbaxakanax_high_god_name$" #NT!
+ xaxbaxakanax_trickster_god_name_possessive: "$xaxbaxakanax_high_god_name_possessive$" #NT!
+ xaxbaxakanax_night_god_name: "$xaxbaxakanax_high_god_name$" #NT!
+ xaxbaxakanax_night_god_name_possessive: "$xaxbaxakanax_high_god_name_possessive$" #NT!
+ xaxbaxakanax_water_god_name: "$xaxbaxakanax_health_god_name$" #NT!
+ xaxbaxakanax_water_god_name_possessive: "$xaxbaxakanax_health_god_name_possessive$" #NT!
+ xaxbaxakanax_witch_god_name: "$xaxbaxakanax_high_god_name$" #NT!
+ xaxbaxakanax_witch_god_name_possessive: "$xaxbaxakanax_high_god_name_possessive$" #NT!
+ xaxbaxakanax: "Xax'baxa'kanax" #NT!
+ xaxbaxakanax_adj: "Xax'baxa'kanaxi" #NT!
+ xaxbaxakanax_adherent: "Xax'baxa'kanaxian" #NT!
+ xaxbaxakanax_adherent_plural: "Xax'baxa'kanaxians" #NT!

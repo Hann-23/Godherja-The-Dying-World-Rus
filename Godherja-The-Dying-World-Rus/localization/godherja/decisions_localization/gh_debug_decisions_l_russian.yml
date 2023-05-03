@@ -1,0 +1,6 @@
+﻿l_russian:
+ add_magic: "Add Magic (DEBUG)" #NT!
+ instant_colonization_debug_toggle: "Rapid Colonization Toggle (DEBUG)" #NT!
+ instant_colonization_debug_desc: "Toggles Rapid Colonization On/Off. Only works on newly-founded colonies. You must wait 30 days for the colonization to be complete." #NT!
+ instant_colonization_debug_toggle_tooltip: "DEBUG DECISION" #NT!
+ instant_colonization_debug_toggle_confirm: "It's Map Paintin' Time" #NT!

@@ -1,0 +1,12 @@
+﻿l_russian:
+ gh_disband_the_imperrech_decision: "Disband the Imperrech" #NT!
+ gh_disband_the_imperrech_decision_desc: "The migration is over. I have defeated the remnants of [aversaria|E] and settled the peoples of the Imperrech in fertile new lands, free from the threat of the [fog|E]. There is no more need for the the High Kingdom, and thus it should disband, so that the tribes may carve out their own destinies. " #NT!
+ gh_disband_the_imperrech_decision_tooltip: "I will gather the chieftains to announce the end of the Imperrech." #NT!
+ gh_disband_the_imperrech_decision_effect_tt: "All non-created de jure kingdoms within your realm will be granted to the most powerful ruler within the kingdom" #NT!
+ gh_disband_the_imperrech_decision_effect2_tt: "All kingdoms within the Imperreich will receive all their de jure vassals" #NT!
+ gh_disband_the_imperrech_decision_effect3_tt: "All of your non-de jure vassals will become independent" #NT!
+ gh_disband_the_imperrech_decision_confirm: "Disband the Imperrech" #NT!
+  
+ gh_disband_the_imperrech_must_be_liege_of_oraispol_desc: "Any vassal holds [GetTitleByKey('c_oraispol').GetNameNoTier]" #NT!
+ gh_disband_the_imperrech_must_be_liege_of_tinitida_desc: "Any vassal holds [GetTitleByKey('c_tinitida').GetNameNoTier]" #NT!
+ gh_disband_the_imperrech_must_be_liege_of_asiupoli_desc: "Any vassal holds [GetTitleByKey('c_asiupoli').GetNameNoTier]" #NT!

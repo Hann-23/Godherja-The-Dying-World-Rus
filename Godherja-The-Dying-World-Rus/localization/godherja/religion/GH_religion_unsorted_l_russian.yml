@@ -1,0 +1,101 @@
+﻿l_russian:
+ sheticad: "Sheticadism" #NT!
+ sheticad_adj: "Sheticadder" #NT!
+ sheticad_adherent: "Sheticadder" #NT!
+ sheticad_adherent_plural: "Sheticadders" #NT!
+ sheticad_desc: "Sheticadism is the ancient belief system of the Sheticans, a mostly forgotten people from the western Clanlands.\n\nBelieving in the god Aethios, Sheticans claim that their god died while doing battle with a second sun, which was destroyed in the battle and exploded into the stars in the sky. Sheticadders claim that the new stars fused with the dead gods essence, and that fate and prophecy could now be divined by studying them, Aethios' ancient divine will still twinkling in each one." #NT!
+ sheticad_old: "Old Sheticad" #NT!
+ sheticad_old_adj: "Old Sheticadder" #NT!
+ sheticad_old_adherent: "Old Sheticadder" #NT!
+ sheticad_old_adherent_plural: "Old Sheticadders" #NT!
+  
+ kathanouxiac: "Kathanouxiacism" #NT!
+ kathanouxiac_adj: "Kathanouxiac" #NT!
+ kathanouxiac_adherent: "Kathanouxiacian" #NT!
+ kathanouxiac_adherent_plural: "Kathanouxiacians" #NT!
+ kathanouxiac_desc: "While veneration of the '[Concept('magi','Wizard King')|E]' was never popular, Kathanouxa's insistence that he was the rightful god and ruler of [aeras|E] was frequently enforced at staff-point and gathered enough of a following over centuries of his rule for it to persist long after his death. Kathanouxiacians believe that Kathanouxa did not die but ascended, and use the mysterious term 'Wizard' for their priesthood in honor of him with hopes their dread master will spare them upon his return." #NT!
+ kathanouxiac_old: "Old Kathanouxiac" #NT!
+ kathanouxiac_old_adj: "Old Kathanouxiac" #NT!
+ kathanouxiac_old_adherent: "Old Kathanouxiacian" #NT!
+ kathanouxiac_old_adherent_plural: "Old Kathanouxiacians" #NT!
+ ethylisiac: "Ethylisiacism" #NT!
+ ethylisiac_adj: "Ethylisiac" #NT!
+ ethylisiac_adherent: "Ethylisiaci" #NT!
+ ethylisiac_adherent_plural: "Ethylisiac-oe" #NT!
+ ethylisiac_desc: "Ethylisiac is the faith of the Ethylisiad tribes. Ethylisiads believed that all humans were slaves to an intricate pantheon of cruel gods, and that their own people were chosen by the gods to be the masters of other slaves. Ethylisiaci society us highly stratified, and it is believed that only those that hold a slave of their own are worthy of any position in society.\n\nHighly militaristic, the movement of Ethylisiaci is often entirely dictated on foreign expansion and the securing of new bodies of slaves to be distributed throughout worshipping tribes." #NT!
+ ethylisiac_old: "Old Ethylisiac" #NT!
+ ethylisiac_old_adj: "Old Ethylisiac" #NT!
+ ethylisiac_old_adherent: "Old Ethylisiaci" #NT!
+ ethylisiac_old_adherent_plural: "Old Ethylisiac-oe" #NT!
+ odyrian: "Odyrianism" #NT!
+ odyrian_adj: "Odyri" #NT!
+ odyrian_adherent: "Odyrian" #NT!
+ odyrian_adherent_plural: "Odyrians" #NT!
+ odyrian_desc: "Odyrianism is the worship of the warlords Odyr Then, Odyr Lleth, and Odyr Hune. Rebels to the ancient Mountain-Sun Temple and then the proto-[aversarians|E], the Odyr's rose in 65, 87, and 109 respectively. To this day it is hotly debated whether the Odyr's were related, took the former's names out of respect, or if Odyr was some sort of ancient title from a single culture.\n\nRegardless, the Odyr's proved to be shrewd administrators and warriors both, each staging significant rebellions to whichever realm they lived under despite harsh retribution. Odyrians believe that the Odyr's were reincarnations of the ancient god Odyranon, and that one day a final 'Odyr Thorm' will rise and retake the throne of heaven to lead all peoples. While over a dozen false Odyr's have risen over the centuries since Odyr Hune, none have ever proven themselves worthy of the title." #NT!
+ odyrian_old: "Odyrianism" #NT!
+ odyrian_old_adj: "Old Odyri" #NT!
+ odyrian_old_adherent: "Old Odyrian" #NT!
+ odyrian_old_adherent_plural: "Old Odyrians" #NT!
+ orphecian: "Orphecianism" #NT!
+ orphecian_adj: "Orphecian" #NT!
+ orphecian_adherent: "Orphecian" #NT!
+ orphecian_adherent_plural: "Orphecians" #NT!
+ orphecian_desc: "Orphecianism is the worship of the three aspects of the god Orphecia, 'Blood', 'Stone' and 'Air', represented by the sun, moon and lightning respectively. Orphecian society placed high importance upon [magi|E] as representatives of the will of Orphecia's aspects, conclaves of Magi representing each aspect leading most Orphecian realms.\n\nThe most famous Orphecian realm was [the_imperium_of_kartharadd|E], which invaded [aversaria|E] during the [chaos_of_the_seventh_century|E] and conquered the province of Malcois, reaching as far as western Opakhasia before finally being stopped. Once they were defeated, Aversarian retribution was swift, and the Orphecian faith stamped out where it was found." #NT!
+ orphecian_old: "Old Orphecianism" #NT!
+ orphecian_old_adj: "Old Orphecian" #NT!
+ orphecian_old_adherent: "Old Orphecian" #NT!
+ orphecian_old_adherent_plural: "Old Orphecians" #NT!
+ mountain_sun_temple: "Mountain-Sun Temple" #NT!
+ mountain_sun_temple_adj: "Mountain-Sun Temple" #NT!
+ mountain_sun_temple_adherent: "Follower" #NT!
+ mountain_sun_temple_adherent_plural: "Followers" #NT!
+ mountain_sun_temple_desc: "'Followers' of the Mountain-Sun Temple, as they refer to themselves as, worship the mountain now referred to as the [GetBuilding('vounill_01').GetName]. Follower doctrine claims that there are twenty major gods and eighty spirits and demons, and their esoteric methods are far too complicated and intricate for anyone to understand unless they have dedicated themselves to studying them. Followers believe that nobody but one who understands them may rule, and historically the Mountain-Sun Temple was entirely ruled by a theocratic class of monastic orders, the chief one located at the [GetBuilding('vounill_01').GetName] itself.\n\nWhen the Mountain-Sun Temple, both the religion and the realm, were conquered by the [aversarians|E], many of their beliefs and structures were incorporated into their religion. Most notably, the Mountain-Sun Temple still technically exists as the 'Scarlet Chosen', an Aversarian order of warrior-monks protecting the [GetBuilding('vounill_01').GetName] temples." #NT!
+ mountain_sun_temple_old: "Old Mountain-Sun Temple" #NT!
+ mountain_sun_temple_old_adj: "Old Mountain-Sun Temple" #NT!
+ mountain_sun_temple_old_adherent: "Old Follower" #NT!
+ mountain_sun_temple_old_adherent_plural: "Old Followers" #NT!
+ eiyos: "Ei'yos" #NT!
+ eiyos_adj: "Ei'yosian" #NT!
+ eiyos_adherent: "Ei'yosiaitun" #NT!
+ eiyos_adherent_plural: "Ei'yosiaituni" #NT!
+ eiyos_desc: "Ei'yos is the belief in the 1001 Gods of Ei'yos, a distant realm in the heavens that mirrors the one in which humans inhabit. Ei'yosiaitun believe that anything the 1001 Gods do on Ei'yos will be mirrored on our own whether they intend it or not, and phenomena such as lightning storms or a good growing season are the results of a war or birth in Ei'yos. While the gods of Ei'yos rarely interact with the material world, those who do not properly worship them are subject to harsh retribution if they fail to do so, great plumes or fire or lightning destroying cities until their followers rectify their ways." #NT!
+ eiyos_old: "Old Ei'yos" #NT!
+ eiyos_old_adj: "Old Ei'yosian" #NT!
+ eiyos_old_adherent: "Old Ei'yosiaitun" #NT!
+ eiyos_old_adherent_plural: "Old Ei'yosiaituni" #NT!
+ asred: "Asred" #NT!
+ asred_adj: "Asreddi" #NT!
+ asred_adherent: "Asreddian" #NT!
+ asred_adherent_plural: "Asreddians" #NT!
+ asred_desc: "Asred is the belief in the god Asred, He who the world sups the milk of and suffers under the lash of. In Asreddi belief, Asred birthed all the world and its people's from His loins and then raised them up in order to have them feed Him their blood as sustenance forever after.\n\nAsreddi adherents are traditionally militaristic, believing that Asred will not be pleased unless they constantly spill the blood of others or themselves either in battle or in ritual." #NT!
+ asred_old: "Old Asred" #NT!
+ asred_old_adj: "Old Asreddi" #NT!
+ asred_old_adherent: "Old Asreddian" #NT!
+ asred_old_adherent_plural: "Old Asreddians" #NT!
+ tegonian: "Tegonianism" #NT!
+ tegonian_adj: "Tegonianist" #NT!
+ tegonian_adherent: "Tegonist" #NT!
+ tegonian_adherent_plural: "Tegonists" #NT!
+ tegonian_desc: "Tegionianism is the ancient beliefs of the Seychescian people of what is now Pergicos. Tegonians believe that seers, mainly Tarka and Vagas, revealed the belief to the Seychescian people after having the gods presence revealed through six visions. The gods in their message declared they were disappointed that their children had forgotten how to worship them, and demanded the fealty of the Seychescians lest the world itself be destroyed by a great cloud of poison.\n\nTegionian rites dictate that nearly no action can be done without first consulting the gods for an answer. Even things as trivial as what to wear or what side of the street to walk on must be decided by the gods." #NT!
+ tegonian_old: "Old Tegonian" #NT!
+ tegonian_old_adj: "Old Tegonianist" #NT!
+ tegonian_old_adherent: "Old Tegonist" #NT!
+ tegonian_old_adherent_plural: "Old Tegonists" #NT!
+ theryionist: "Theryionism" #NT!
+ theryionist_adj: "Theryionist" #NT!
+ theryionist_adherent: "Theryionist" #NT!
+ theryionist_adherent_plural: "Theryionists" #NT!
+ theryionist_desc: "Theryionists worship Theryion, 'the Last Dragon', an ancient [aversarian|E] pretender to the Empire.\n\nGrand nephew of Aautokratia Maklea, Theryion was raised in secret with the goal of reclaiming the throne his family believed stolen by Maklea. When Theryion's grandfather died, Theryion at age 20 came out of hiding and proclaimed himself the Last Dragon. Riding one of the last Aversarian [dragons|E], Theryion began the Widow War, which only ended with his alleged death after nearly 40 years of brutal fighting.\n\nThyrionists believe that Theryion was a spirit in human form, laying out bloody justice as the guidance of the heavens. Theryionist belief holds that Theyrion merely rejoined [aeras|E] upon his death, and guides the world from deep below the crust." #NT!
+ theryionist_old: "Old Theryionism" #NT!
+ theryionist_old_adj: "Old Theryionist" #NT!
+ theryionist_old_adherent: "Old Theryionist" #NT!
+ theryionist_old_adherent_plural: "Old Theryionists" #NT!
+ arthenaxian: "Arthenaxianism" #NT!
+ arthenaxian_adj: "Arthenaxian" #NT!
+ arthenaxian_adherent: "Arthenaxianist" #NT!
+ arthenaxian_adherent_plural: "Arthenaxianists" #NT!
+ arthenaxian_desc: "Arthenaxianists worship [arthenax|E], the last known [dragon|E] in [aversaria|E]. Three centuries after the purge and believed extinction of dragons, Arthenax and her brood entered Aversaria and pillaged the realm for nearly a decade before being slain by Aautokratia Aeliadias. Arthenax in her pride demanded worship, and while her cult was never popular it has nonetheless proven resilient." #NT!
+ arthenaxian_old: "Old Arthenaxianism" #NT!
+ arthenaxian_old_adj: "Old Arthenaxian" #NT!
+ arthenaxian_old_adherent: "Old Arthenaxianist" #NT!
+ arthenaxian_old_adherent_plural: "Old Arthenaxianists" #NT!

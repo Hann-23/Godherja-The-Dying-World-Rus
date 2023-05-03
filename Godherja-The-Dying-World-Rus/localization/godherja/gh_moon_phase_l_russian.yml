@@ -1,0 +1,40 @@
+﻿l_russian:
+ new_moon_name: "New Moon" #NT!
+ new_moon_desc: 
+ waxing_crescent_moon_name: "Waxing Crescent" #NT!
+ waxing_crescent_moon_desc: 
+ first_quarter_moon_name: "First Quarter" #NT!
+ first_quarter_moon_desc: 
+ waxing_gibbous_moon_name: "Waxing Gibbous" #NT!
+ waxing_gibbous_moon_desc: 
+ full_moon_name: "Full Moon" #NT!
+ full_moon_desc: 
+ waning_gibbous_moon_name: "Waning Gibbous" #NT!
+ waning_gibbous_moon_desc: 
+ last_quarter_moon_name: "Last Quarter" #NT!
+ last_quarter_moon_desc: 
+ waning_crescent_moon_name: "Waning Crescent" #NT!
+ waning_crescent_moon_desc: 
+  
+ superluminous_moon_name: "Superluminous Moon" #NT!
+ superluminous_moon_desc: 
+ new_moon_blood_moon_name: "Blood Moon" #NT!
+ new_moon_blood_moon_desc: 
+ waxing_crescent_moon_blood_moon_name: "Blood Moon" #NT!
+ waxing_crescent_moon_blood_moon_desc: 
+ first_quarter_moon_blood_moon_name: "Blood Moon" #NT!
+ first_quarter_moon_blood_moon_desc: 
+ waxing_gibbous_moon_blood_moon_name: "Blood Moon" #NT!
+ waxing_gibbous_moon_blood_moon_desc: 
+ full_moon_blood_moon_name: "Blood Moon" #NT!
+ full_moon_blood_moon_desc: 
+ waning_gibbous_moon_blood_moon_name: "Blood Moon" #NT!
+ waning_gibbous_moon_blood_moon_desc: 
+ last_quarter_moon_blood_moon_name: "Blood Moon" #NT!
+ last_quarter_moon_blood_moon_desc: 
+ waning_crescent_moon_blood_moon_name: "Blood Moon" #NT!
+ waning_crescent_moon_blood_moon_desc: 
+ aervalr_strength_modifier_name: "[aervalr|E] strength" #NT!
+ aervalr_strength_modifier_formatting: "@dead_magic_icon!#positive_value " #NT!
+ magic_from_sacrifices_modifier_name: "[magic|E] from #E Sacrifices#!" #NT!
+ magic_from_sacrifices_modifier_formatting: "@living_magic_icon!#positive_value +" #NT!

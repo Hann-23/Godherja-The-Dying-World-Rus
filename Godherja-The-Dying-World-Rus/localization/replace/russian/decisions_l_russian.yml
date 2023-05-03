@@ -1,0 +1,11 @@
+﻿l_russian:
+ convert_to_feudalism_decision: "Adopt Aristocracy" #NT!
+ convert_to_feudalism_decision_desc: "As my realm grows, so does the challenge to control it. If [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip] is to keep expanding, we must leave the old ways behind and become an aristocracy." #NT!
+ convert_to_feudalism_decision_confirm: "Adopt [ROOT.Char.Custom('GetTribalReformGovernment')|U] Ways" #NT!
+ convert_to_feudalism_decision_tooltip: "Change [government|E] type by becoming [feudal|E] or [clan|E]" #NT!
+  
+ promote_gothic_innovations_decision: "Inspire Post-Imperial Revivalism" #NT!
+ promote_gothic_innovations_decision_desc: "A new age of art and discovery awaits us to drag [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip] out of these dark times and make our homeland the pulsating heart of Continental culture." #NT!
+ assimilate_local_traditions_decision_desc: "While adventure will always be in our blood, we acknowledge that we are far from our distant Katraddian home. The local traditions suit its people well, they are masters of their land and their gods are strong — we respect that. In time, we will become as them." #NT!
+ assimilate_local_traditions_decision_tooltip: "Convert yourself and all of your same-[culture|E] [vassals|E] to the culture and [faith|E] of your [capital|E]" #NT!
+ diligent_development_focus_decision_desc: "I dream that [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip] will one day be the envy of every ruler under the sky. I must endeavor to be the champion who turns it into the jewel of Aeras. All that is needed is for me to put in some more work...\n\nWho needs to sleep, anyway?" #NT!

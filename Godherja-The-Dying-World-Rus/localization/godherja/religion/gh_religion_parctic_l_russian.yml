@@ -1,0 +1,68 @@
+﻿l_russian:
+  
+ #parctic Loc 
+ partic_religion: "Partic" #NT!
+ partic_religion_adj: "Partic" #NT!
+ partic_religion_adjerent: "Partician" #NT!
+ partic_religion_adherent_plural: "Particians" #NT!
+ partic_religion_desc: "The Partic faith is less a traditional folk religion and more a system of belief permeated at every level with the study of [magic|E]. It believes in a mysterious being called "Serfli" in a forgotten tongue, usually translated into other languages as "the Great." All things, tangible and intangible, emanate from the Great, and to the Great all things shall return. There is also a pantheon of more traditional gods, believed to be absorbed from an older indigenous faith, but they are treated as mere emanations of the Great and lesser deities.\n\nExistence can be divided into two spheres: the known world of the body, and the felt world of the soul. The felt world coexists within and without the known world, and through careful meditation, one may peer through the body into the soul and draw on power from the felt world. This is what the Particians consider Magic." #NT!
+ partic_high_god_name: "The Great" #NT!
+ partic_high_god_name_possessive: "The Great's" #NT!
+ partic_high_god_name_alternate: "Serfli" #NT!
+ partic_high_god_name_alternate_possessive: "Serfli" #NT!
+ partic_devil_name: "Kagac" #NT!
+ partic_devil_name_possessive: "Kagac" #NT!
+ partic_death_deity_name: "$partic_devil_name$" #NT!
+ partic_death_deity_name_possessive: "$partic_devil_name_possessive$" #NT!
+ partic_house_of_worship: "Agacli" #NT!
+ partic_house_of_worship_plural: "Agaclre" #NT!
+ partic_religious_symbol: "Goz" #NT!
+ partic_religious_text: "Kahram-lari" #NT!
+ partic_religious_head_title: "Varim-y-varim" #NT!
+ partic_religious_head_title_name: "Varim-y-varim" #NT!
+ partic_devotee_male: "Tizley" #NT!
+ partic_devotee_male_plural: "Tizleyi" #NT!
+ partic_devotee_female: "Kezley" #NT!
+ partic_devotee_female_plural: "Kezleyi" #NT!
+ partic_devotee_neuter: "Ardic" #NT!
+ partic_devotee_neuter_plural: "Ardici" #NT!
+ partic_priest_male: "Teryir" #NT!
+ partic_priest_male_plural: "Teryir" #NT!
+ partic_priest_female: "Kesiyr" #NT!
+ partic_priest_female_plural: "Kesiyr" #NT!
+ partic_priest: "Geran" #NT!
+ partic_priest_plural: "Geran" #NT!
+ partic_priest_alternate_plural: "Geran" #NT!
+ partic_bishop: "Varim" #NT!
+ partic_bishop_plural: "Varim" #NT!
+ partic_positive_afterlife: "Boukbaca" #NT!
+ partic_negative_afterlife: "Qarliqder" #NT!
+ partic_creator_god_name: "$partic_high_god_name$" #NT!
+ partic_creator_god_name_possessive: "$partic_high_god_name_possessive$" #NT!
+ partic_health_god_name: "Ahnkap" #NT!
+ partic_health_god_name_possessive: "Ahnkap's" #NT!
+ partic_fertility_god_name: "Hallcesi" #NT!
+ partic_fertility_god_name_possessive: "Hallcesi's" #NT!
+ partic_wealth_god_name: "Kargec" #NT!
+ partic_wealth_god_name_possessive: "Kargec's" #NT!
+ partic_household_god_name: "$partic_health_god_name$" #NT!
+ partic_household_god_name_possessive: "$partic_health_god_name_possessive$" #NT!
+ partic_fate_god_name: "Kavaq" #NT!
+ partic_fate_god_name_possessive: "Kavaq's" #NT!
+ partic_knowledge_god_name: "Maumzi" #NT!
+ partic_knowledge_god_name_possessive: "Maumzi's" #NT!
+ partic_war_god_name: "Kaikt" #NT!
+ partic_war_god_name_possessive: "Kaikt's" #NT!
+ partic_trickster_god_name: "Qayac" #NT!
+ partic_trickster_god_name_possessive: "Qayac's" #NT!
+ partic_night_god_name: "$partic_high_god_name$" #NT!
+ partic_night_god_name_possessive: "$partic_high_god_name_possessive$" #NT!
+ partic_water_god_name: "$partic_health_god_name$" #NT!
+ partic_water_god_name_possessive: "$partic_health_god_name_possessive$" #NT!
+ partic_witch_god_name: "Curome" #NT!
+ partic_witch_god_name_possessive: "Curome's" #NT!
+ partic: "Partic" #NT!
+ partic_adj: "Partic" #NT!
+ partic_adherent: "Partician" #NT!
+ partic_adherent_plural: "Particians" #NT!
+ partic_desc: "Particians dedicate their lives to the study and practice of [magic|E] with great fervor, all done in highly formalized and rituals that are passed down through oral tradition over generations. This has resulted in line after line of incredibly skilled magic wielders, skilled in an art that seems incomprehensibly complex to outsiders. Many of history's most talented [magi|E] were of Partic origin, and their abilities are as tremendous as their motives are inscrutable." #NT!

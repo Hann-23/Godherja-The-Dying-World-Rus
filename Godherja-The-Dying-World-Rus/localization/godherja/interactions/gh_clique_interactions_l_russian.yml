@@ -1,0 +1,72 @@
+﻿l_russian:
+ adopt_heir_interaction: "Adopt as [heir|E]" #NT!
+ adopt_interaction_desc: "Make [recipient.GetShortUINameNoTooltip] my legal child and [heir|E]" #NT!
+  
+ designate_presumed_heir_interaction: "Designate Presumed [heir|E]" #NT!
+ designate_presumed_heir_interaction_desc: "Make [recipient.GetShortUINameNoTooltip] the successor of [actor.GetPrimaryTitle.GetName]" #NT!
+ CANNOT_ADOPT_OLDER_CHARACTER: "They must not be older than me" #NT!
+ BECOME_ADOPTIVE_MOTHER_EFFECT: "Becomes the adoptive mother of [TARGET_CHARACTER.GetShortUINameNoTooltip]" #NT!
+ I_BECOME_ADOPTIVE_MOTHER_EFFECT: "I become the adoptive mother of [TARGET_CHARACTER.GetShortUINameNoTooltip]" #NT!
+ THEY_BECOME_ADOPTIVE_MOTHER_EFFECT: "They became the adoptive mother of [TARGET_CHARACTER.GetShortUINameNoTooltip]" #NT!
+ BECAME_ADOPTIVE_MOTHER_EFFECT: "Became the adoptive mother of [TARGET_CHARACTER.GetShortUINameNoTooltip]" #NT!
+ I_BECAME_ADOPTIVE_MOTHER_EFFECT: "I became the adoptive mother of [TARGET_CHARACTER.GetShortUINameNoTooltip]" #NT!
+ THEY_BECAME_ADOPTIVE_MOTHER_EFFECT: "They became the adoptive mother of [TARGET_CHARACTER.GetShortUINameNoTooltip]" #NT!
+ BECOME_ADOPTIVE_FATHER_EFFECT: "Becomes the adoptive father of [TARGET_CHARACTER.GetShortUINameNoTooltip]" #NT!
+ I_BECOME_ADOPTIVE_FATHER_EFFECT: "I become the adoptive father of [TARGET_CHARACTER.GetShortUINameNoTooltip]" #NT!
+ THEY_BECOME_ADOPTIVE_FATHER_EFFECT: "They became the adoptive father of [TARGET_CHARACTER.GetShortUINameNoTooltip]" #NT!
+ BECAME_ADOPTIVE_FATHER_EFFECT: "Became the adoptive father of [TARGET_CHARACTER.GetShortUINameNoTooltip]" #NT!
+ I_BECAME_ADOPTIVE_FATHER_EFFECT: "I became the adoptive father of [TARGET_CHARACTER.GetShortUINameNoTooltip]" #NT!
+ THEY_BECAME_ADOPTIVE_FATHER_EFFECT: "They became the adoptive father of [TARGET_CHARACTER.GetShortUINameNoTooltip]" #NT!
+ DESIGNATE_PRESUMED_HEIR_COOLDOWN_EFFECT: "@warning_icon!#X Will be unable to set a new [heir] for 5 years#!" #NT!
+  ############ 
+  # OPINIONS # 
+ changed_presumed_heir_previous_heir: "Spurned Heir" #NT!
+ changed_presumed_heir_previous_heir_ambitious: "Vengeful Spurned Heir" #NT!
+ changed_presumed_heir_previous_heir_towards_new_heir: "$changed_presumed_heir_previous_heir$" #NT!
+ changed_presumed_heir_previous_heir_ambitious_towards_new_heir: "$changed_presumed_heir_previous_heir_ambitious$" #NT!
+ changed_presumed_heir_new_heir: "Grateful Heir" #NT!
+ changed_presumed_heir_new_heir_ambitious: "Very Grateful Heir" #NT!
+ changed_presumed_heir_new_heir_content: "Reluctant Heir" #NT!
+ ############################ 
+ #HEIR APPOINTMENT ASK STUFF# 
+ ask_to_appoint_clique_heir_interaction: "Ask liege to appoint as successor" #NT!
+ appoint_clique_heir_interaction_desc: "Ask [recipient.GetTitledFirstName] to appoint [secondary_recipient.GetShortUINameNoTooltip] as your successor" #NT!
+ APPOINT_CLIQUE_HEIR_NOTIFICATION: "I request that you appoint [secondary_recipient.GetFirstName] as my successor, so that [secondary_recipient.GetSheHe] may serve you ably after I pass." #NT!
+ appoint_clique_heir.tt: "[secondary_recipient.GetFirstName] is promised [actor.GetTitledFirstName]'s titles once [actor.GetFirstName] passes" #NT!
+ appoint_clique_heir_forced.tt: "You are forced to promise to appoint [secondary_recipient.GetFirstName] to [actor.GetFirstName]'s position once [actor.GetFirstName] passes" #NT!
+ recipient_secondary_ask_to_appoint_clique_heir_interaction: "Proposed Sucessor" #NT!
+ propose_appointed_heir_aibehavior_differentfaith_tt: "[secondary_recipient.GetFirstName] is of a different [faith|E]: $VALUE|=+0$" #NT!
+ propose_appointed_heir_aibehavior_culture_tt: "[secondary_recipient.GetFirstName] is of a different [culture|E]: $VALUE|=+0$" #NT!
+ propose_appointed_heir_aibehavior_culture_group_tt: "[secondary_recipient.GetFirstName] is of a different [heritage|E]: $VALUE|=+0$"" #NT!
+ propose_appointed_heir__aibehavior_friend_proposer_tt: "[recipient.GetFirstName] is your Friend: $VALUE|=+0$" #NT!
+ propose_appointed_heir__aibehavior_best_friend_proposer_tt: "[recipient.GetFirstName] is your Best Friend: $VALUE|=+0$" #NT!
+ propose_appointed_heir_aibehavior_rival_proposer_tt: "[recipient.GetFirstName] is your Rival: $VALUE|=+0$" #NT!
+ propose_appointed_heir__aibehavior_nemesis_proposer_tt: "[recipient.GetFirstName] is your Nemesis: $VALUE|=+0$" #NT!
+ propose_appointed_heir__aibehavior_friend_proposed_heir_tt: "[secondary_recipient.GetFirstName] is [recipient.GetFirstName]'s Friend: $VALUE|=+0$" #NT!
+ propose_appointed_heir__aibehavior_best_friend_proposed_heir_tt: "[secondary_recipient.GetFirstName] is [recipient.GetFirstName]'s Best Friend: $VALUE|=+0$" #NT!
+ propose_appointed_heir_aibehavior_rival_proposed_heir_tt: "[secondary_recipient.GetFirstName] is [recipient.GetFirstName]'s Rival: $VALUE|=+0$" #NT!
+ propose_appointed_heir__aibehavior_nemesis_proposed_heir_tt: "[secondary_recipient.GetFirstName] is [recipient.GetFirstName]'s Nemesis: $VALUE|=+0$" #NT!
+ propose_appointed_heir_aibehavior_dynasty_proposed_heir_tt: "[secondary_recipient.GetFirstName] belongs to [recipient.GetFirstName]'s [dynasty|E]: $VALUE|=+0$" #NT!
+ propose_appointed_heir_aibehavior_child_tt: "[secondary_recipient.GetFirstName] are just a child: $VALUE|=+0$" #NT!
+ clique_heir_appointment_values_martial_reason_tt: "[recipient.GetFirstName]'s Clique values Martial: $VALUE|=+0$" #NT!
+ clique_heir_appointment_values_diplomacy_reason_tt: "[recipient.GetFirstName]'s Clique values Diplomacy: $VALUE|=+0$" #NT!
+ clique_heir_appointment_values_stewardship_reason_tt: "[recipient.GetFirstName]'s Clique values Stewardship: $VALUE|=+0$" #NT!
+ clique_heir_appointment_values_intrigue_reason_tt: "[recipient.GetFirstName]'s Clique values Intrigue: $VALUE|=+0$" #NT!
+ clique_heir_appointment_values_learning_reason_tt: "[recipient.GetFirstName]'s Clique values Learning: $VALUE|=+0$" #NT!
+ clique_heir_appointment_values_prowess_reason_tt: "[recipient.GetFirstName]'s Clique values Prowess: $VALUE|=+0$" #NT!
+ clique_heir_appointment_values_magic_reason_tt: "[recipient.GetFirstName]'s Clique values magical ability: $VALUE|=+0$" #NT!
+ clique_heir_appointment_strong_hook_reason_tt: "You are using a strong [hook|E] to force [recipient.GetFirstName] to comply: $VALUE|=+0$" #NT!
+ clique_heir_appointment_weak_hook_reason_tt: "You are using a [hook|E] to influence [recipient.GetFirstName] to comply: $VALUE|=+0$" #NT!
+ clique_heir_appointment_strong_hook_offer_reason_tt: "You are offering [recipient.GetFirstName] a strong [hook|E]: $VALUE|=+0$" #NT!
+ clique_heir_appointment_weak_hook_offer_reason_tt: "You are offering [recipient.GetFirstName] a weak [hook|E]: $VALUE|=+0$" #NT!
+ clique_heir_appointment_normal_bribe_offer_reason_tt: "You are offering [recipient.GetFirstName] a gift: $VALUE|=+0$" #NT!
+ clique_heir_appointment_large_bribe_offer_reason_tt: "You are offering [recipient.GetFirstName] a very generous gift: $VALUE|=+0$" #NT!
+ weak_hook_appointment_offer: "Offer your liege a weak [hook|E] on you" #NT!
+ strong_hook_appointment_offer: "Offer your liege a strong [hook|E] on you" #NT!
+ weak_hook_appointment: "Use a weak [hook|E] " #NT!
+ strong_hook_appointment: "Use a strong [hook|E]" #NT!
+ normal_bribe_appointment_offer: "Offer a gift of @gold_icon![GetPlayer.MakeScope.ScriptValue('medium_gold_value')] gold " #NT!
+ large_bribe_appointment_offer: "Offer a a large gift of @gold_icon![GetPlayer.MakeScope.ScriptValue('massive_gold_value')] gold" #NT!
+ no_hook_or_bribe_clique_appointment: "Default" #NT!
+ liege_appointed_clique_heir.tt: "[recipient.GetTitledFirstName] has promised to appoint [secondary_recipient.GetFirstName] as your successor after your passing." #NT!
+ liege_refused_to_appoint_clique_heir.tt: "[recipient.GetTitledFirstName] refused to promise to nominate [secondary_recipient.GetFirstName] as your successor." #NT!

@@ -1,0 +1,35 @@
+﻿l_russian:
+ SIRO_SPECIAL_SLOT_MAP: "$game_concept_special_building$" #NT!
+ SIRO_SPECIAL_SLOT_MAP_TOOLTIP: "#T $SIRO_SPECIAL_SLOT_MAP$\n#!Shows #color:{0.80,0.3,0.3} Special Buildings#!, #color:{0.5,0.8,0.8} Metropolis Holdings#!, and #color:{0.4,0.81,0.2} Mine Slots#! on the Map." #NT!
+ JARA_TRADE_ROUTE_MAP: "Trade Routes" #NT!
+ JARA_TRADE_ROUTE_MAP_TOOLTIP: "#T $JARA_TRADE_ROUTE_MAP$\n#!Shows Traderoutes on map" #NT!
+ JARA_WAYLINE_MAP: "$game_concept_waylines$" #NT!
+ JARA_WAYLINE_MAP_TOOLTIP: "#T $JARA_WAYLINE_MAP$\n#!Shows [waylines|E] on the map." #NT!
+ JARA_FOG_MAP: "$game_concept_the_fog$" #NT!
+ JARA_FOG_MAP_TOOLTIP: "#T $JARA_FOG_MAP$\n#!Shows [the_fog|E] on the map." #NT!
+ MAPMODE_BIOZONES_NAME: "Biozones" #NT!
+ MAPMODE_BIOZONES: "#T $Biozones$\n#!Shows [biozones|E] on the map." #NT!
+ JARA_ARTIFACT_MAP: "Artifacts" #NT!
+ JARA_ARTIFACT_MAP_TOOLTIP: "#T $Artifacts$\n#!Shows Artifacts on the Map" #NT!
+ JARA_AVERSARIA_MAP: "Aversaria" #NT!
+ JARA_AVERSARIA_MAP_TOOLTIP: "#T $Aversaria Aautokrata$\n#!Shows the extent of [aversaria|E] on the Map" #NT!
+ JARA_HOLDINGS_MAP: "Holdings" #NT!
+ JARA_HOLDINGS_MAP_TOOLTIP: "#T $JARA_HOLDINGS_MAP$\n#!Shows Holding Types on the map." #NT!
+ LINE_BREAK: "\n" #NT!
+ mapmode_gh_ruler_artifact_label: "Ruler Artifacts" #NT!
+ mapmode_gh_courtier_artifact_label: "Courtier Artifacts" #NT!
+ mapmode_ruler_artifact: "#T $Artifacts$\n#!Shows Ruler Artifacts on the map." #NT!
+ mapmode_courtier_artifact: "#T $Artifacts$\n#! Shows Courtier Artifacts on the map." #NT!
+  
+ SPECIAL_BUILD_DSC: "[Localize(Concatenate('building_type_', ROOT.GetProvince.MakeScope.Var('special_build').GetFlagName))]" #NT!
+ SPECIAL_BUILD_DSC2: "#T [GetBuilding(ROOT.GetProvince.MakeScope.Var('special_build').GetFlagName).GetNameNoTooltip] #!" #NT!
+ SPECIAL_BUILD_DSC3: "#T [GetBuilding(ROOT.GetProvince.MakeScope.Var('special_build').GetFlagName).GetNameNoTooltip] #![Localize('LINE_BREAK')][Localize(Concatenate( Concatenate('building_', ROOT.GetProvince.MakeScope.Var('special_build').GetFlagName) , '_desc' ))]" #NT!
+ BIOZONES_STUFF: "#T [Localize(Concatenate(ROOT.GetProvince.MakeScope.Var('province_biozone').GetFlagName, '_name'))] #![Localize('LINE_BREAK')][Localize(Concatenate(ROOT.GetProvince.MakeScope.Var('province_biozone').GetFlagName, '_encyclopedia_desc'))]" #NT!
+ BIOZONES_STUFF2: "[Localize(Concatenate(ROOT.GetProvince.MakeScope.Var('province_biozone').GetFlagName, '_encyclopedia_des'))]" #NT!
+ GOVERNATE_ETEPEZA: "#T $Etepeza$\n#!" #NT!
+ GOVERNATE_MALCOIS: "#T $Malcois$\n#!" #NT!
+ GOVERNATE_OPAKHASIA: "#T $Opakhasia$\n#!" #NT!
+ GOVERNATE_KALATHIPSOMI: "#T $Kalathipsomi$\n#!" #NT!
+ GOVERNATE_AVERSARIAN_SARRADON: "#T $Aversarian Sarradon$\n#!" #NT!
+ GOVERNATE_KATRADDIA: "#T $Katraddia$\n#!" #NT!
+ GOVERNATE_AIORONOI: "#T $Aironoi$\n#!" #NT!

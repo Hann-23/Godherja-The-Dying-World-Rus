@@ -1,0 +1,292 @@
+﻿l_russian:
+ bonecrafting.0001.t: "Osseous Energies" #NT!
+ bonecrafting.0001.desc: "It is well known among practitioners of [dead_magic|E] that bones hold power, though of course not all osseous materials are created equal. As I am preparing to replenish my reserves of power through the sacrifice of these arcane relics, my choice of skeletal material is pertinent to the amount of magic I will receive in return." #NT!
+ bonecrafting.0001.a: "The bones of a small creature." #NT!
+ bonecrafting.0001.b: "The bones of a medium sized creature." #NT!
+ bonecrafting.0001.c: "The remains of a massive creature." #NT!
+ bonecrafting.0001.d: "The remains of a magically potent individual." #NT!
+ bonecrafting.0001.e: "The bones of a ferocious monstrosity." #NT!
+ bonecrafting.0001.f: "Perhaps another time." #NT!
+  
+ #bonecrafting.0002.t: "Vigor of the Elders" #NT!
+ #bonecrafting.0002.desc: "The bones of long-dead and once feared [magi|E] are sure to grant me vast amounts of power. But as to which ones I will use in this endeavour, the choice is most assuredly mine." #NT!
+ #bonecrafting.0002.a: "want to use other kinds of bones instead" #NT!
+ #bonecrafting.0002.b: "The Skull of Duvaken 'Silverspeaker'." #NT!
+ #bonecrafting.0002.c: "The Skull of Axiaothea herself!" #NT!
+ bonecrafting.0002.t: "Creature Skeletons" #NT!
+ bonecrafting.0002.desc: "The ossified remnants of [creatures|E] magically potent in life vary greatly in the amount of [magical|E] energies they hold within them, depending on the species of origin. I must decide which of these suit my needs best." #NT!
+ bonecrafting.0002.a: "No, I intend to use bones from other sources instead." #NT!
+ bonecrafting.0002.b: "Perhaps..." #NT!
+ bonecrafting.0002.c: "Perhaps..." #NT!
+ bonecrafting.0002.d: "Perhaps..." #NT!
+ bonecrafting.0002.e: "Perhaps..." #NT!
+ bonecrafting.0003.t: "Creature Skeletons" #NT!
+ bonecrafting.0003.desc: "The ossified remnants of [creatures|E] magically potent in life vary greatly in the amount of [magical|E] energies they hold within them, depending on the species of origin. I must decide which of these suit my needs best." #NT!
+ bonecrafting.0003.a: "No, I intend to use bones from other sources instead." #NT!
+ bonecrafting.0003.b: "Perhaps..." #NT!
+ bonecrafting.0003.c: "Perhaps..." #NT!
+ bonecrafting.0003.d: "Perhaps..." #NT!
+ bonecrafting.0003.e: "Perhaps..." #NT!
+ bonecrafting.0004.t: "Creature Skeletons" #NT!
+ bonecrafting.0004.desc: "The ossified remnants of [creatures|E] magically potent in life vary greatly in the amount of [magical|E] energies they hold within them, depending on the species of origin. I must decide which of these suit my needs best." #NT!
+ bonecrafting.0004.a: "No, I intend to use bones from other sources instead." #NT!
+ bonecrafting.0004.b: "Perhaps..." #NT!
+ bonecrafting.0004.c: "Perhaps..." #NT!
+ bonecrafting.0004.d: "Perhaps..." #NT!
+ bonecrafting.0004.e: "Perhaps..." #NT!
+ bonecrafting.0005.t: "Osteal Obscurity" #NT!
+ bonecrafting.0005.desc: "The remains of unknown and likely quite poor [magi|E] may not yield much in the way of magic, but they will do regardless. However, I must first figure out what bones I wish to utilize for this." #NT!
+ bonecrafting.0005.a: "No, I intend to use bones from other sources instead." #NT!
+ bonecrafting.0005.b: "A mysterious, whispering skull." #NT!
+ bonecrafting.0005.c: "Bone parts from a powerful magi." #NT!
+ bonecrafting.0005.d: "The bones of a powerful magi.." #NT!
+ bonecrafting.0005.e: "The bones of an exceptional magi!" #NT!
+ bonecrafting.0005.f: "The bones of a truly great magi!" #NT!
+ bonecrafting.0006.t: "Creature Skeletons" #NT!
+ bonecrafting.0006.desc: "The ossified remnants of [creatures|E] magically potent in life vary greatly in the amount of [magical|E] energies they hold within them, depending on the species of origin. I must decide which of these suit my needs best." #NT!
+ bonecrafting.0006.a: "No, I intend to use bones from other sources instead." #NT!
+ bonecrafting.0006.b: "Perhaps..." #NT!
+ bonecrafting.0006.c: "Perhaps..." #NT!
+ bonecrafting.0006.d: "Perhaps..." #NT!
+ bonecrafting.0006.e: "Perhaps..." #NT!
+ bonecrafting.0100.t: "Exordium of the Search" #NT!
+ bonecrafting.0100.desc: "Rituals are the foundation of all [magic|E] on [aeras|E], and there are very few among [magi|E] who have foregone the use of one within a spell and lived to tell the tale. As rituals require various materials depending upon what is being casted, I have decided to set out in search of bones that contain magical energies within them. Though most would think that an expedition of this nature would simply be graverobbing, there are a few ways that I can approach this." #NT!
+ bonecrafting.0100.a: "My magics will scour vast tracts of land for bones possessing arcane power." #NT!
+ bonecrafting.0100.b: "I will search in ancient battlefields from the days of yore to obtain skeletons." #NT!
+ bonecrafting.0100.c: "The graves of powerful but little-renowned [magi|E] are likely to harbour my quarry." #NT!
+ bonecrafting.0100.d: "If one knows where to look, disreputable merchants will sell anything to customers..." #NT!
+ bonecrafting.0110.t: "A Lamentable Culmination" #NT!
+ bonecrafting.0110.desc: "My efforts in this search have seemingly all been for naught. Despite having employed scrying involving close observation of [aervalr|E] to forego having to personally search through the area, I've managed to uncover little of worth over the course of several days. The few bones of note contained only faint amounts of magic, much to my chagrin. Regardless of their feebleness, they can still be used for various purposes, though likely to little effect. Now, which of these utterly disappointing artifacts should I have brought back?" #NT!
+ bonecrafting.0110.a: "Blasted scrying, I knew it wouldn't work! Send my servant to go bring the bones back." #NT!
+ bonecrafting.0110.b: "Though they may be pathetic, there's no harm in retrieving them for later. " #NT!
+ bonecrafting.0111.t: "An Exceptionally Unexceptional Conclusion" #NT!
+ bonecrafting.0111.desc: "Scrying the selected region through the use of Moon Magic has yielded quite middling results. While it was certainly quite adept at finding suitably powerful bones, none of these specimens could be described as exceptional in any way, shape or form. However, even despite this, the results were largely to my satisfaction, and I can hardly bewail the addition of such items to my repertoire. Which of these valuable relics will I recover for use at a later time?" #NT!
+ bonecrafting.0111.a: "This one should be sufficient for my collection." #NT!
+ bonecrafting.0111.b: "These bones are better than the others, I'll have them hauled back to my stockpile." #NT!
+ bonecrafting.0112.t: "A Surprising Result" #NT!
+ bonecrafting.0112.desc: "The results of remote probing through my careful examination and interpretation of [aervalr|E] have borne great results, as is now apparent. Vast quantities of incredibly potent osteal remains have been found all throughout the plot of land I've chosen to comb through, and I am left with an absolute abundance of options to choose from. This has far surpassed my expectations, and I am still in awe at this remarkable outcome. Now then, out of all these fine curios, what shall I pick?" #NT!
+ bonecrafting.0112.a: "Such power lies in these remains! I must have these ones!" #NT!
+ bonecrafting.0112.b: "The [magi|E] these bones belonged to must have been terrifying to behold in life." #NT!
+ bonecrafting.0120.t: "Olden Washout" #NT!
+ bonecrafting.0120.desc: "Exploring this ancient battlefield is proving to be underwhelming to an extent I did not think was possible beforehand. Not only are there very few [magi|E] on this battlefield to begin with, but those present were evidently incompetent at the art. The great majority of these Magi seem to have killed themselves attempting to cast spells beyond their strength, which does not bode well for the merit of their bones. Additionally, it is extraordinarily difficult to find intact skeletons, as many of them have been reduced to dust or tiny fragments by time or the manner of their death. I am tempted to call this expedition off and return home, but I think better of it and decide to at least fetch the more usable fragments." #NT!
+ bonecrafting.0120.a: "This one is missing only its upper body, which means that it might still be of use." #NT!
+ bonecrafting.0120.b: "These remains are smashed into pieces, but I can still salvage enough for my purposes." #NT!
+ bonecrafting.0120.c: "Though it may be missing its lower body, it is the best this battlefield has to offer." #NT!
+ bonecrafting.0121.t: "Clash of Yore" #NT!
+ bonecrafting.0121.desc: "As I begin to inspect what seems to be a major battle from ages past, I am filled with a morbid sort of excitement when I find the first skeleton of an ancient [magi|E]. It's hard work, but for the rest of the day I and several of my most physically able servants labor to excavate the site and manage to find a few skeletons that clearly belonged to magi. Though these bones aren't the cream of the crop, these Magi were certainly quite fearsome in their day, and I lament for a moment that they never received burials befitting their stature. The feeling is fleeting however, and soon enough we've dug up nearly all of the at least passable bones in the area. A good day's work, but how many shall we leave here and how many shall we carry back?" #NT!
+ bonecrafting.0121.a: "Let us take a relatively passable assortment of bones and leave the rest to rot here" #NT!
+ bonecrafting.0121.b: "Carrying back a varied mixture of bones will do us good, but we will not take too many." #NT!
+ bonecrafting.0121.c: "Although my servants will grumble, we'll bring back as many as we can carry." #NT!
+ bonecrafting.0122.t: "In Catastrophe, Opportunity" #NT!
+ bonecrafting.0122.desc: "I've been plotting this specific excursion for the past few weeks, and on this day we have finally arrived at our long-awaited destination. This place was host to a cataclysmic battle long, long ago that resulted in the deaths of countless warriors and [magi|E]. It is sure to be a veritable treasure trove for an enterprising practitioner such as I. Fortunately for us, the remains of fallen magi are strewn about the entire battlefield, making it rather effortless for us to begin gathering our prizes. All in all, we are left with the bones of many astoundingly powerful Magi, amazingly relatively unscathed despite the timescales involved. The hardest portion of this expedition will be choosing which ones to take." #NT!
+ bonecrafting.0122.a: "This was quite the fruitful adventure, we'll be taking the best of the bones out here." #NT!
+ bonecrafting.0122.b: "These bones appear to have been from a Magi and his acolytes, all magically potent." #NT!
+ bonecrafting.0130.t: "Dubious Barrows" #NT!
+ bonecrafting.0130.desc: "Following a few days of consulting local villagers and a few histories of the area, I've managed to pinpoint the location of a grave that may contain the remains of a magi who was powerful in life. Though some of the residents of the area mumble harsh words under their breath, we press on regardless. Be that as it may, we quickly manage to pry the magi from their place of rest and begin examining our find. Upon closer appraisal of the bones, it seems that this one was likely a mere village [magi|E], who probably sold minor concoctions to peasants. The [magical|E] impotency of the remains is quite disheartening, and I question if I have wasted my time in coming here. Nonetheless, even the weakest of material can be made use of in a pinch." #NT!
+ bonecrafting.0130.a: "Should never have trusted that damn charlatan." #NT!
+ bonecrafting.0130.b: "At least we have this as something to show for our efforts." #NT!
+ bonecrafting.0130.c: "Within these remains lie much [magical|E] power, more than the average hedge Magi." #NT!
+ bonecrafting.0131.t: "Disturbed Rest" #NT!
+ bonecrafting.0131.desc: "After weeks of research, planning and careful surveying of the chosen grave, I've finally made my way over to what is said to be the final resting place of a former [magi|E], reputed for his skills in the arcane. The tomb itself is somewhat fortified with wards, likely in anticipation of grave robbers. Unfortunately for them, I came prepared for this, and I hastily draw a ritual circle before performing a quick counterspell to dispel the wards keeping me from my goal. The body is clothed in the robes of a Magi and clearly filled with power, as it radiates a faint amount of energy even in death. These bones will surely provide ample fuel for my magical endeavours." #NT!
+ bonecrafting.0131.a: "This Magi was quite good, and their remains will do me much good in future rituals." #NT!
+ bonecrafting.0131.b: "This Magi was extraordinary, and their bones will be of much use to me." #NT!
+ bonecrafting.0132.t: "The Fallen Mighty" #NT!
+ bonecrafting.0132.desc: "For months, I have obsessed over the whereabouts of a legendary crypt, rumored to harbour the bones of a [magi|E] now remembered only in fables for their vast power when they still dwelt within the realm of the living. Though it frustrated me to no end, I have recently made a breakthrough and have set off to what I believe to be the vicinity of the crypt. At first, it almost appears as if I was incorrect in my estimations, but then I suddenly see my own face reflecting off of the air itself. I swiftly dismiss the glamour with a simple spell and at last set foot in the crypt.\n\nThe moment I step inside the crypt I can feel the [magic|E] within flow around me, and it's quickly apparent that whatever lies in here was remarkably powerful in the past. My entire body quivers at its touch, and I am soon face to face with the skeletal remains that lay inside. It's magnificent, and it will serve me well." #NT!
+ bonecrafting.0132.a: "The remains of this inordinately talented Magi is perfect for my needs." #NT!
+ bonecrafting.0132.b: "The bones of both this powerful Magi and the weaker Magi buried nearby will suffice." #NT!
+ bonecrafting.0140.t: "A Poor Salesman" #NT!
+ bonecrafting.0140.desc: "In my quest to obtain more bones for my [magical|E] undertakings, I've recently been in contact with disreputable traders who claim to be able to obtain the objects of my desire. A few days after the conclusion of our pact, we meet once again in a secluded area, and I tell the trader to show me his wares. To say I was outraged would be an understatement, as the accursed swindler opened a box full of mundane bones! My rage momentarily subsided as I saw that there were indeed some magical bones contained within, obscured by the others they were mixed in with. Alas, they were of poor quality at best, but nevertheless I start haggling with the merchant. " #NT!
+ bonecrafting.0140.a: "At least this one is as inexpensive as it is pitiful." #NT!
+ bonecrafting.0140.b: "I'll have these bones, as they are slightly less pathetic than the rest." #NT!
+ bonecrafting.0140.c: "This is quite a few bones for the price, though they are all of poor quality." #NT!
+ bonecrafting.0140.d: "I won't buy a single one of these, you thrice-damned mountebank!" #NT!
+ bonecrafting.0141.t: "Cadaver Commerce" #NT!
+ bonecrafting.0141.desc: "For the sake of acquiring material for my rituals, I've elected to buy the remains of [magi|E] from unscrupulous merchants. These merchants are known to have few qualms for obtaining objects by any means necessary for their patrons, saving me the time and trouble of travelling myself to search for my quarry. After waiting a few weeks, I go to the designated rendezvous to purchase these unconventional commodities from my chosen vendor under cover of darkness. They show me the bones they've brought for sale, and it seems that these are indeed filled with [magic|E]. I tell the merchant which of them I'm interested in buying, and we commence negotiations. " #NT!
+ bonecrafting.0141.a: "These bones are not particularly potent, but their price is just unbeatable!" #NT!
+ bonecrafting.0141.b: "These bones are quite average, and their cost is middling as well." #NT!
+ bonecrafting.0141.c: "While these bones are pricy, they would be of great use in my rituals." #NT!
+ bonecrafting.0141.d: "I have no interest in buying this." #NT!
+ bonecrafting.0142.t: "With Enough Compensation" #NT!
+ bonecrafting.0142.desc: "I have had my agents look high and low for known smugglers of the remains of [magi|E], in hopes that I can find one who will provide me with what I seek for a fair price. Before long, our search bears results with my agents having managed to find one especially renowned in the criminal world for their unusual talents. Their own agents broker a deal with mine to arrange a meeting with me and this smuggler at the determined time and place. As the day of the appointment finally arrives I finally go to meet this mysterious smuggler. Upon actually meeting them, I find myself underwhelmed by his relatively unassuming appearance, though it does seem like they've brought the merchandise. It is clear that this one is no fraud, as I feel the power emanating from them as the smuggler opens their container. I examine the bones more closely and am quite pleased by their excellent quality and promptly start bargaining over the terms of the sale." #NT!
+ bonecrafting.0142.a: "These bones are of high quality and sold at a reasonable rate." #NT!
+ bonecrafting.0142.b: "These remains are of excellent quality but have quite the asking price." #NT!
+ bonecrafting.0142.c: "These relics are magnificent, but the smuggler drives a hard bargain for them." #NT!
+ bonecrafting.0142.d: "Regrettably, I don't think any of these options suit me." #NT!
+ bonecrafting.0201.t: "To Mold Bones" #NT!
+ bonecrafting.0201.desc: "I am planning to transmogrify some of the more potent bones within my collection through the practice of bonemolding. Bonemolding is the art of creating various types of [magical|E] artifacts using the remains of beings who once wielded arcane power in life. It is conventionally taught at an early age, as its employment of several basics of magic in tandem helps to reinforce fundamental concepts in budding Magi. However, despite its apparent simplicity, those who have mastered bonemolding can forge awe-inspiring works that blend the aesthetic with the functional. Of course, I must first know what bones I will use in this process before I start" #NT!
+ bonecrafting.0201.a: "I will employ the remains of a small creature" #NT!
+ bonecrafting.0201.b: "The bones of a average sized creature will do." #NT!
+ bonecrafting.0201.c: "I will use those of a large and powerful creature." #NT!
+ bonecrafting.0201.d: "I will use the bones of a magically potent Magi" #NT!
+ bonecrafting.0201.e: "I will use those of a magical monstrosity." #NT!
+ bonecrafting.0201.f: "Hmm, perhaps this isn't the time for bonemolding." #NT!
+ bonecrafting.0202.t: "Molding a Plan" #NT!
+ bonecrafting.0202.desc: "Sometimes, simple is good, and what could be more simple than weapons fashioned from osseous matter? Unlike most weapons, any weapon forged from bones of such [magical|E] potency would be able to interact with beings of the arcane in ways that their banusaic counterparts can't. This makes them an excellent choice for [magi|E] who prefer to hunt more esoteric creatures, as well as those hoping to slay other Magi. What sort of weapon will I create?" #NT!
+ bonecrafting.0202.a: "I shall shape some form of dagger." #NT!
+ bonecrafting.0202.b: "I shall craft a well made dagger." #NT!
+ bonecrafting.0202.c: "I shall craft a beautiful short blade." #NT!
+ bonecrafting.0202.d: "I shall craft a magnificent dagger." #NT!
+ bonecrafting.0202.e: "Perhaps something else." #NT!
+ bonecrafting_magic_cost_0.tt: "You spend @magic_icon!#P 100 [magic|E]!" #NT!
+ bonecrafting_magic_cost_1.tt: "You spend @magic_icon!#P 150 [magic|E]!" #NT!
+ bonecrafting_magic_cost_2.tt: "You spend @magic_icon!#P 200 [magic|E]!" #NT!
+ bonecrafting_magic_cost_3.tt: "You spend @magic_icon!#P 250 [magic|E]!" #NT!
+ bonecrafting.0203.t: "Molding a Plan" #NT!
+ bonecrafting.0203.desc: "In this endeavour, I have elected to use the remains of [creatures|E] that once possessed arcane power. Some might say that fashioning artifacts out of the bones and other various parts of these [magical|E] creatures is akin to the use of a mundane animal's fur for clothing, but true [magi|E] know that the hands of those without the gift can never match the craftsmanship of an expert in the art of bonemolding. Now what shall I mold?" #NT!
+ bonecrafting.0203.a: "I shall shape some form of a crown" #NT!
+ bonecrafting.0203.b: "I will fashion some sort of scepter." #NT!
+ bonecrafting.0203.c: "Hm, perhaps something else instead." #NT!
+ bonecrafting.0204.t: "Molding a Plan" #NT!
+ bonecrafting.0204.desc: "In this endeavour, I have elected to use the remains of [creatures|E] that once possessed arcane power. Some might say that fashioning artifacts out of the bones and other various parts of these [magical|E] creatures is akin to the use of a mundane animal's fur for clothing, but true [magi|E] know that the hands of those without the gift can never match the craftsmanship of an expert in the art of bonemolding. Now what shall I mold?" #NT!
+ bonecrafting.0204.a: "I shall craft a decent crown." #NT!
+ bonecrafting.0204.b: "I shall craft a well made crown." #NT!
+ bonecrafting.0204.c: "I shall craft a beautiful headpiece." #NT!
+ bonecrafting.0204.d: "I shall craft a crown to test the ages." #NT!
+ bonecrafting.0204.e: "Hm, perhaps something else instead." #NT!
+ bonecrafting.0205.t: "Molding a Plan" #NT!
+ bonecrafting.0205.desc: "In this endeavour, I have elected to use the remains of [creatures|E] that once possessed arcane power. Some might say that fashioning artifacts out of the bones and other various parts of these [magical|E] creatures is akin to the use of a mundane animal's fur for clothing, but true [magi|E] know that the hands of those without the gift can never match the craftsmanship of an expert in the art of bonemolding. Now what shall I mold?" #NT!
+ bonecrafting.0205.a: "I shall craft a decent scepter." #NT!
+ bonecrafting.0205.b: "I shall craft a well made scepter." #NT!
+ bonecrafting.0205.c: "I shall craft a majestic regalia." #NT!
+ bonecrafting.0205.d: "I shall craft a regalia to test the ages." #NT!
+ bonecrafting.0205.e: "Hm, perhaps something else instead." #NT!
+ bonecrafting.0206.t: "Molding a Plan" #NT!
+ bonecrafting.0206.desc: "In this endeavour, I have elected to use the remains of [creatures|E] that once possessed arcane power. Some might say that fashioning artifacts out of the bones and other various parts of these [magical|E] creatures is akin to the use of a mundane animal's fur for clothing, but true [magi|E] know that the hands of those without the gift can never match the craftsmanship of an expert in the art of bonemolding. Now what shall I mold?" #NT!
+ bonecrafting.0206.a: "I will mold these bones into a fine spear." #NT!
+ bonecrafting.0206.b: "I will fashion a staff." #NT!
+ bonecrafting.0206.c: "Hm, perhaps something else instead." #NT!
+ bonecrafting.0207.t: "Molding a Plan" #NT!
+ bonecrafting.0207.desc: "Sometimes, simple is good, and what could be more simple than weapons fashioned from osseous matter? Unlike most weapons, any weapon forged from bones of such [magical|E] potency would be able to interact with beings of the arcane in ways that their banusaic counterparts can't. This makes them an excellent choice for [magi|E] who prefer to hunt more esoteric creatures, as well as those hoping to slay other Magi. What sort of weapon will I create?" #NT!
+ bonecrafting.0207.a: "I shall craft a decent spear." #NT!
+ bonecrafting.0207.b: "I shall craft a well made spear." #NT!
+ bonecrafting.0207.c: "I shall craft an empowering spear." #NT!
+ bonecrafting.0207.d: "I shall craft a spear to test the ages." #NT!
+ bonecrafting.0207.e: "Hm, perhaps something else instead." #NT!
+ bonecrafting.0208.t: "Molding a Plan" #NT!
+ bonecrafting.0208.desc: "In this endeavour, I have elected to use the remains of [creatures|E] that once possessed arcane power. Some might say that fashioning artifacts out of the bones and other various parts of these [magical|E] creatures is akin to the use of a mundane animal's fur for clothing, but true [magi|E] know that the hands of those without the gift can never match the craftsmanship of an expert in the art of bonemolding. Now what shall I mold?" #NT!
+ bonecrafting.0208.a: "I shall craft a decent staff." #NT!
+ bonecrafting.0208.b: "I shall craft a well made staff." #NT!
+ bonecrafting.0208.c: "I shall craft an empowering staff." #NT!
+ bonecrafting.0208.d: "I shall craft a staff to test the ages." #NT!
+ bonecrafting.0208.e: "Hm, perhaps something else instead." #NT!
+ bonecrafting.0209.t: "Molding a Plan" #NT!
+ bonecrafting.0209.desc: "Every [magi|E] needs his staff and every ruler needs their scepter. With the use of bonemolding, various staff-like objects can be produced that are innately infused with [magic|E]. These objects can be used by Magi to better focus their energies when performing rituals or shown off as a physical sign of their power. Which of these objects will I make?" #NT!
+ bonecrafting.0209.a: "I shall mold a crown." #NT!
+ bonecrafting.0209.b: "I shall shape a staff." #NT!
+ bonecrafting.0209.c: "I shall form a scepter." #NT!
+ bonecrafting.0209.d: "Hm, perhaps something else instead." #NT!
+ bonecrafting.0210.t: "Molding a Plan" #NT!
+ bonecrafting.0210.desc: "Now that I've chosen the bones I plan to mold within the ritual, there only remain a few more decisions to make. What will I be molding these remains into? Whether I transform these materials into a scepter, staff, amulet, weapon, headwear or some other object remains up to me." #NT!
+ bonecrafting.0210.a: "I shall craft a decent crown." #NT!
+ bonecrafting.0210.b: "I shall craft a well made crown." #NT!
+ bonecrafting.0210.c: "I shall craft a beautiful headpiece." #NT!
+ bonecrafting.0210.d: "I shall craft a crown to test the ages." #NT!
+ bonecrafting.0210.e: "Hm, perhaps something else instead." #NT!
+ bonecrafting.0211.t: "Molding a Plan" #NT!
+ bonecrafting.0211.desc: "Every [magi|E] needs his staff and every ruler needs their scepter. With the use of bonemolding, various staff-like objects can be produced that are innately infused with [magic|E]. These objects can be used by Magi to better focus their energies when performing rituals or shown off as a physical sign of their power. Which of these objects will I make?" #NT!
+ bonecrafting.0211.a: "I shall craft a decent staff." #NT!
+ bonecrafting.0211.b: "I shall craft a well made staff." #NT!
+ bonecrafting.0211.c: "I shall craft an empowering staff." #NT!
+ bonecrafting.0211.d: "I shall craft a staff to test the ages." #NT!
+ bonecrafting.0211.e: "Hm, perhaps something else instead." #NT!
+ bonecrafting.0212.t: "Molding a Plan" #NT!
+ bonecrafting.0212.desc: "Every [magi|E] needs his staff and every ruler needs their scepter. With the use of bonemolding, various staff-like objects can be produced that are innately infused with [magic|E]. These objects can be used by Magi to better focus their energies when performing rituals or shown off as a physical sign of their power. Which of these objects will I make?" #NT!
+ bonecrafting.0212.a: "I shall craft a decent scepter." #NT!
+ bonecrafting.0212.b: "I shall craft a well made scepter." #NT!
+ bonecrafting.0212.c: "I shall craft a majestic regalia." #NT!
+ bonecrafting.0212.d: "I shall craft a regalia to test the ages." #NT!
+ bonecrafting.0212.e: "Hm, perhaps something else instead." #NT!
+ bonecrafting.0213.t: "Molding a Plan" #NT!
+ bonecrafting.0213.desc: "Now that I've chosen the bones I plan to mold within the ritual, there only remain a few more decisions to make. What will I be molding these remains into? Whether I transform these materials into a scepter, staff, amulet, weapon, headwear or some other object remains up to me." #NT!
+ bonecrafting.0213.a: "I shall mold a crown." #NT!
+ bonecrafting.0213.b: "I shall shape a staff." #NT!
+ bonecrafting.0213.c: "I shall form a scepter." #NT!
+ bonecrafting.0213.d: "I shall craft a spear." #NT!
+ bonecrafting.0213.e: "Hm, perhaps something else instead." #NT!
+ bonecrafting.0214.t: "Molding a Plan" #NT!
+ bonecrafting.0214.desc: "The only choice I must make now is what sort of headwear I'll be making from the bones I previously selected. There is a medley of options for me to create, from coronets to veils and plain old protective helmets. The choice lies with me and me alone." #NT!
+ bonecrafting.0214.a: "I shall craft a decent crown." #NT!
+ bonecrafting.0214.b: "I shall craft a well made crown." #NT!
+ bonecrafting.0214.c: "I shall craft a beautiful headpiece." #NT!
+ bonecrafting.0214.d: "I shall craft a crown to test the ages." #NT!
+ bonecrafting.0214.e: "Hm, perhaps something else instead." #NT!
+ bonecrafting.0215.t: "Molding a Plan" #NT!
+ bonecrafting.0215.desc: "Every [magi|E] needs his staff and every ruler needs their scepter. With the use of bonemolding, various staff-like objects can be produced that are innately infused with [magic|E]. These objects can be used by Magi to better focus their energies when performing rituals or shown off as a physical sign of their power. Which of these objects will I make?" #NT!
+ bonecrafting.0215.a: "I shall craft a decent staff." #NT!
+ bonecrafting.0215.b: "I shall craft a well made staff." #NT!
+ bonecrafting.0215.c: "I shall craft an empowering staff." #NT!
+ bonecrafting.0215.d: "I shall craft a staff to test the ages." #NT!
+ bonecrafting.0215.e: "Hm, perhaps something else instead." #NT!
+ bonecrafting.0216.t: "Molding a Plan" #NT!
+ bonecrafting.0216.desc: "Every [magi|E] needs his staff and every ruler needs their scepter. With the use of bonemolding, various staff-like objects can be produced that are innately infused with [magic|E]. These objects can be used by Magi to better focus their energies when performing rituals or shown off as a physical sign of their power. Which of these objects will I make?" #NT!
+ bonecrafting.0216.a: "I shall craft a decent scepter." #NT!
+ bonecrafting.0216.b: "I shall craft a well made scepter." #NT!
+ bonecrafting.0216.c: "I shall craft a majestic regalia." #NT!
+ bonecrafting.0216.d: "I shall craft a regalia to test the ages." #NT!
+ bonecrafting.0216.e: "Hm, perhaps something else instead." #NT!
+ bonecrafting.0217.t: "Molding a Plan" #NT!
+ bonecrafting.0217.desc: "Sometimes, simple is good, and what could be more simple than weapons fashioned from osseous matter? Unlike most weapons, any weapon forged from bones of such [magical|E] potency would be able to interact with beings of the arcane in ways that their banusaic counterparts can't. This makes them an excellent choice for [magi|E] who prefer to hunt more esoteric creatures, as well as those hoping to slay other Magi. What sort of weapon will I create?" #NT!
+ bonecrafting.0217.a: "I shall craft a decent spear." #NT!
+ bonecrafting.0217.b: "I shall craft a well made spear." #NT!
+ bonecrafting.0217.c: "I shall craft an empowering spear." #NT!
+ bonecrafting.0217.d: "I shall craft a spear to test the ages." #NT!
+ bonecrafting.0217.e: "Hm, perhaps something else instead." #NT!
+ craft_bone_spear.tt: "You will craft a #P Spear#! [artifact|E]" #NT!
+ craft_bone_dagger.tt: "You will craft a #P Dagger#! [artifact|E]" #NT!
+ craft_bone_staff.tt: "You will craft a #P Staff#! [artifact|E]" #NT!
+ craft_bone_scepter.tt: "You will craft a #P Scepter#! [artifact|E]" #NT!
+ craft_bone_crown.tt: "You will craft a #P Crown#! [artifact|E]" #NT!
+ gain_bone_artifact.tt: "You will gain a #P Bone#! [artifact|E]" #NT!
+ change_bone_artifact_quality_effect_gain: "The [artifact|E] produced through this endeavour will be of a #P higher quality#!" #NT!
+ change_bone_artifact_quality_effect_slight_gain: "The [artifact|E] produced through this endeavour might be of a #P slightly higher quality#!" #NT!
+ change_bone_artifact_quality_effect_loss: "The [artifact|E] produced through this endeavour will be of a #N lower quality#!" #NT!
+ change_bone_artifact_quality_effect_slight_loss: "The [artifact|E] produced through this endeavour might be of a #N slightly lower quality#!" #NT!
+ #bonecrafting.0202.t: "A Macabre End" #NT!
+ #bonecrafting.0202.desc: "I've decided to use the bones of illustrious [magi|E] in my venture, though I do think for a moment on the irony of these exalted and venerable figures from ages past being turned into yet another artifact for my collection. Nevertheless, I must now make a choice on which of these bones I wish to mold into something of my choosing." #NT!
+ #bonecrafting.0202.a: "I'd rather take another look at the other bones in my stockpile." #NT!
+ #bonecrafting.0202.b: "The Skull of Duvaken 'Silverspeaker'." #NT!
+ #bonecrafting.0202.c: "The Skull of Axiaothea herself!" #NT!
+  # 
+ #bonecrafting.0203.t: "Morbid Molding" #NT!
+ #bonecrafting.0203.desc: "I wish to utilize the remains of little-known and obscure [magi|E], those who likely will be better known for their bones being molded into a relic than they will for their actions over the course of their own lives. The only thing left to do now is to determine specifically what I will use for this." #NT!
+ #bonecrafting.0203.a: "None of these will work for me." #NT!
+ #bonecrafting.0203.b: "A mysterious, whispering skull." #NT!
+ #bonecrafting.0203.c: "Fingerbones from a powerful Magi." #NT!
+ #bonecrafting.0203.d: "The bones of a powerful Magi.." #NT!
+ #bonecrafting.0203.e: "The bones of an exceptional Magi!" #NT!
+ #bonecrafting.0203.f: "The bones of a truly great Magi!" #NT!
+ #bonecrafting.0204.t: "Bones of the Beast" #NT!
+ #bonecrafting.0204.desc: "In this endeavour, I have elected to use the remains of [creatures|E] that once possessed arcane power. Some might say that fashioning artifacts out of the bones and other various parts of these [magical|E] creatures is akin to the use of a mundane animal's fur for clothing, but true [magi|E] know that the hands of those without the gift can never match the craftsmanship of an expert in the art of bonemolding. Now what shall I mold?" #NT!
+ #bonecrafting.0204.a: "Not a single one of these fits my specifications." #NT!
+ #bonecrafting.0204.b: "An ancient, humanoid skull of extreme power." #NT!
+ #bonecrafting.0204.c: "The skull of a mighty [dragon|E]!" #NT!
+ # bonecrafting.0211.t: "Molding a Plan" #NT!
+ # bonecrafting.0211.desc: "Now that I've chosen the bones I plan to mold within the ritual, there only remain a few more decisions to make. What will I be molding these remains into? Whether I transform these materials into a scepter, staff, amulet, weapon, headwear or some other object remains up to me." #NT!
+ # bonecrafting.0211.a: "I shall shape some form of adorning headwear." #NT!
+ # bonecrafting.0211.b: "I will mold these bones into weaponry that will see my foes fall as leaves in the wind." #NT!
+ # bonecrafting.0211.c: "I will fashion some sort of scepter or staff-like object." #NT!
+ # bonecrafting.0211.d: "I will create an amulet filled with [magical|E] energies." #NT!
+ # 
+ # bonecrafting.0212.t: "Adornment of the Skull" #NT!
+ # bonecrafting.0212.desc: "The only choice I must make now is what sort of headwear I'll be making from the bones I previously selected. There is a medley of options for me to create, from coronets to veils and plain old protective helmets. The choice lies with me and me alone." #NT!
+ # bonecrafting.0212.a: "I want to make something else than this." #NT!
+ # bonecrafting.0212.b: "I will mold the bones into a diadem that will become a symbol of my powerful magics." #NT!
+ # bonecrafting.0212.c: "I will fashion a veil of some sort from the bones, to show my mastery of the arcane." #NT!
+ # bonecrafting.0212.d: "I will make a helmet from these bones that will shield myself from mortal dangers." #NT!
+ # bonecrafting.0213.t: "Osteal Weaponry" #NT!
+ # bonecrafting.0213.desc: "Sometimes, simple is good, and what could be more simple than weapons fashioned from osseous matter? Unlike most weapons, any weapon forged from bones of such [magical|E] potency would be able to interact with beings of the arcane in ways that their banusaic counterparts can't. This makes them an excellent choice for [magi|E] who prefer to hunt more esoteric creatures, as well as those hoping to slay other Magi. What sort of weapon will I create?" #NT!
+ # bonecrafting.0213.a: "On further reflection, I'd rather not create a weapon." #NT!
+ # bonecrafting.0213.b: "I will sculpt a dagger made entirely out of bone, that will cut through any enemy." #NT!
+ # bonecrafting.0213.c: "A spear shaped out of bone will do me well in battle against various foes." #NT!
+ # bonecrafting.0214.t: "With Hands of Bone" #NT!
+ # bonecrafting.0214.desc: "Every [magi|E] needs his staff and every ruler needs their scepter. With the use of bonemolding, various staff-like objects can be produced that are innately infused with [magic|E]. These objects can be used by Magi to better focus their energies when performing rituals or shown off as a physical sign of their power. Which of these objects will I make?" #NT!
+ # bonecrafting.0214.a: "I will make none of these." #NT!
+ # bonecrafting.0214.b: "A bone scepter will display to the world my power and dominion over magic and men." #NT!
+ # bonecrafting.0214.c: "What better a staff for a Magi than one forged by your own hands, to suit your desires?" #NT!
+ # bonecrafting.0215.t: "Classy Bones" #NT!
+ # bonecrafting.0215.desc: "Amulets are a common accessory found on [magi|E] for both their ability to amplify certain aspects of the wearer and more importantly, for their elegance. I have a myriad of options to choose from in this respect, and can create amulets of dread, suspicion, malice or even ones that harness [magic|E] if I so wish. But first, I must choose an amulet to make." #NT!
+ # bonecrafting.0215.a: "I'd prefer not to create any of these amulets." #NT!
+ # bonecrafting.0215.b: "I will create an amulet that can harness magical energies." #NT!
+ # bonecrafting.0215.c: "I will fashion an amulet that will make all dread me." #NT!
+ # bonecrafting.0215.d: "I will make an amulet with the power to better my health, albeit at a cost..." #NT!
+ # bonecrafting.0215.e: "An amulet that will help me accumulate riches, though it will enhance my greed." #NT!

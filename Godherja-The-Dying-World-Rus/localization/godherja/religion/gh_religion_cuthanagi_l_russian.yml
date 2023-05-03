@@ -1,0 +1,65 @@
+﻿l_russian:
+  
+ cuthanagi: "Cuthanagi" #NT!
+ cuthanagi_adj: "Cuthanagii" #NT!
+ cuthanagi_adherent: "Cuthanagi" #NT!
+ cuthanagi_adherent_plural: "Cuthanagii" #NT!
+ cuthanagi_desc: "Cuthanagi believe the Kasiryat to be a mortal mirror to a river present in the realm of the divine, with the gods unknowable and without forms or names. Instead, the state of the river is observed as a way of divine prophesy; claiming joyous mood of the gods when the Kasiryat floods, leaving behind great fertility, and coming apocalypse when stricken with drought. Most notably reflected by great celebrations during flood times, with thousands of paper candles being sent drifting down the river." #NT!
+ cuthanagi_religion: "Kasir Worship" #NT!
+ cuthanagi_religion_adj: "Kasir Worship" #NT!
+ cuthanagi_religion_adjerent: 
+ cuthanagi_religion_adherent_plural: 
+ cuthanagi_religion_desc: "Kasir Worship focuses around the belief in the divine nature of the great river Kasiryat, which forms the traditional border between Aironoi and Kashirya" #NT!
+ cuthanagi_high_god_name: "Kasiryat" #NT!
+ cuthanagi_high_god_name_possessive: "Kasiryat's" #NT!
+ cuthanagi_high_god_name_alternate: "The Heavenly River" #NT!
+ cuthanagi_high_god_name_alternate_possessive: "The Heavenly River's" #NT!
+ cuthanagi_devil_name: "$cuthanagi_high_god_name$" #NT!
+ cuthanagi_devil_name_possessive: "$cuthanagi_high_god_name_possessive$" #NT!
+ cuthanagi_death_deity_name: "$cuthanagi_high_god_name$" #NT!
+ cuthanagi_death_deity_name_possessive: "$cuthanagi_high_god_name_possessive$" #NT!
+ cuthanagi_house_of_worship: "ziggurat" #NT!
+ cuthanagi_house_of_worship_plural: "ziggurats" #NT!
+ cuthanagi_religious_symbol: "The Heavenly River" #NT!
+ cuthanagi_religious_text: "The Sagas" #NT!
+ cuthanagi_religious_head_title: "Head Diviner" #NT!
+ cuthanagi_religious_head_title_name: "Head Diviner" #NT!
+ cuthanagi_devotee_male: "worshipper" #NT!
+ cuthanagi_devotee_male_plural: "worshippers" #NT!
+ cuthanagi_devotee_female: "worshipper" #NT!
+ cuthanagi_devotee_female_plural: "worshippers" #NT!
+ cuthanagi_devotee_neuter: "worshipper" #NT!
+ cuthanagi_devotee_neuter_plural: "worshippers" #NT!
+ cuthanagi_priest_male: "priest" #NT!
+ cuthanagi_priest_male_plural: "priests" #NT!
+ cuthanagi_priest_female: "priestess" #NT!
+ cuthanagi_priest_female_plural: "priestesses" #NT!
+ cuthanagi_priest_alternate_plural: "priests" #NT!
+ cuthanagi_bishop: "diviner" #NT!
+ cuthanagi_bishop_plural: "diviners" #NT!
+ cuthanagi_positive_afterlife: "The Place Beyond" #NT!
+ cuthanagi_negative_afterlife: "The Ever-Drought" #NT!
+ cuthanagi_creator_god_name: "$cuthanagi_high_god_name$" #NT!
+ cuthanagi_creator_god_name_possessive: "$cuthanagi_high_god_name_possessive$" #NT!
+ cuthanagi_health_god_name: "$cuthanagi_high_god_name$" #NT!
+ cuthanagi_health_god_name_possessive: "$cuthanagi_high_god_name_possessive$" #NT!
+ cuthanagi_fertility_god_name: "$cuthanagi_high_god_name$" #NT!
+ cuthanagi_fertility_god_name_possessive: "$cuthanagi_high_god_name_possessive$" #NT!
+ cuthanagi_wealth_god_name: "$cuthanagi_high_god_name$" #NT!
+ cuthanagi_wealth_god_name_possessive: "$cuthanagi_high_god_name_possessive$" #NT!
+ cuthanagi_household_god_name: "$cuthanagi_health_god_name$" #NT!
+ cuthanagi_household_god_name_possessive: "$cuthanagi_health_god_name_possessive$" #NT!
+ cuthanagi_fate_god_name: "$cuthanagi_high_god_name$" #NT!
+ cuthanagi_fate_god_name_possessive: "$cuthanagi_high_god_name_possessive$" #NT!
+ cuthanagi_knowledge_god_name: "$cuthanagi_high_god_name$" #NT!
+ cuthanagi_knowledge_god_name_possessive: "$cuthanagi_high_god_name_possessive$" #NT!
+ cuthanagi_war_god_name: "$cuthanagi_high_god_name$" #NT!
+ cuthanagi_war_god_name_possessive: "$cuthanagi_high_god_name_possessive$" #NT!
+ cuthanagi_trickster_god_name: "$cuthanagi_high_god_name$" #NT!
+ cuthanagi_trickster_god_name_possessive: "$cuthanagi_high_god_name_possessive$" #NT!
+ cuthanagi_night_god_name: "$cuthanagi_high_god_name$" #NT!
+ cuthanagi_night_god_name_possessive: "$cuthanagi_high_god_name_possessive$" #NT!
+ cuthanagi_water_god_name: "$cuthanagi_health_god_name$" #NT!
+ cuthanagi_water_god_name_possessive: "$cuthanagi_health_god_name_possessive$" #NT!
+ cuthanagi_witch_god_name: "Iohan" #NT!
+ cuthanagi_witch_god_name_possessive: "Iohan's" #NT!

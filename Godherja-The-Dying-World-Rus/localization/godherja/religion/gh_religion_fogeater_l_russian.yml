@@ -1,0 +1,68 @@
+﻿l_russian:
+ fogeater_religion: "Fogeater" #NT!
+ fogeater_religion_adj: "Fogeater" #NT!
+ fogeater_religion_adherent: "Fogeater" #NT!
+ fogeater_religion_adherent_plural: "Fogeaters" #NT!
+ fogeater_religion_desc: "While nobody has ever managed to communicate with the [fogeaters|E], one of the only things verifiably known is that they name themselves the 'Listeners'.\n\nThe result of tribal humans being trapped in the [foglands|E], unlike all other beings who had been destroyed by the Foglands millions of dangers, the Fogeaters instead adapted. Or, as one would think when looking upon their malnourished, nearly alien forms, corrupted.\n\nThe Fogeaters worship the [fog|E] now, and devour or corrupt any they capture in disturbing esoteric rituals meant to assist them in speaking with their esoteric masters." #NT!
+ fogeater_religion_high_god_name: "The Mistmother" #NT!
+ fogeater_religion_high_god_name_possessive: "The Mistmother's" #NT!
+ fogeater_religion_high_god_alternate: "The Mistfather" #NT!
+ fogeater_religion_high_god_alternate_possessive: "The Mistfather's" #NT!
+ fogeater_religion_devil_name: "They Who Waned" #NT!
+ fogeater_religion_devil_name_possessive: "They Who Waned's" #NT!
+  fogeater_religion_death_deity_name:0 " 
+  
+ fogeater_religion_house_of_worship: "listening circle" #NT!
+ fogeater_religion_house_of_worship_plural: "listening circle" #NT!
+ fogeater_religion_religious_symbol: "whispered love" #NT!
+ fogeater_religion_religious_text: "whispers" #NT!
+ fogeater_religion_religious_head_title: "Weeping One" #NT!
+ fogeater_religion_religious_head_title_name: "Weeping One" #NT!
+ fogeater_religion_devotee_male: "Listener" #NT!
+ fogeater_religion_devotee_male_plural: "Listeners" #NT!
+ fogeater_religion_devotee_female: "Listener" #NT!
+ fogeater_religion_devotee_female_plural: "Listeners" #NT!
+ fogeater_religion_devotee_neuter: "Listener" #NT!
+ fogeater_religion_devotee_neuter_plural: "Listeners" #NT!
+ fogeater_religion_priest_male: "Hearing of Her" #NT!
+ fogeater_religion_priest_male_plural: "Hearing of Her" #NT!
+ fogeater_religion_priest_female: "Hearing of Her" #NT!
+ fogeater_religion_priest_female_plural: "Hearing of Her" #NT!
+ fogeater_religion_priest_alt_priest_term: "Hearing of Him" #NT!
+ fogeater_religion_bishop: "Ritual Keeper" #NT!
+ fogeater_religion_bishop_plural: "Ritual Keeper" #NT!
+ fogeater_religion_positive_afterlife: "The Whispering Wains" #NT!
+ fogeater_religion_negative_afterlife: "The Whispering Wains" #NT!
+ fogeater_religion_creator_god_name: "The Mistfather" #NT!
+ fogeater_religion_creator_god_name_possessive: "The Mistfather's" #NT!
+ fogeater_religion_health_god_name: "The Mistmother" #NT!
+ fogeater_religion_health_god_name_possessive: "The Mistmother's" #NT!
+ fogeater_religion_fertility_god_name: "The Cryer" #NT!
+ fogeater_religion_fertility_god_name_possessive: "The Cryer's" #NT!
+ fogeater_religion_wealth_god_name: "The Screaming One" #NT!
+ fogeater_religion_wealth_god_name_possessive: "The Screaming One's" #NT!
+ fogeater_religion_household_god_name: "They of the Slitted Wrist" #NT!
+ fogeater_religion_household_god_name_possessive: "They of the Slitted Wrist's" #NT!
+ fogeater_religion_fate_god_name: "She Who Burns" #NT!
+ fogeater_religion_fate_god_name_possessive: "She Who Burns'" #NT!
+ fogeater_religion_knowledge_god_name: "The Blinded Artist Hitting Rock" #NT!
+ fogeater_religion_knowledge_god_name_possessive: "The Blinded Artist Hitting Rock's" #NT!
+ fogeater_religion_war_god_name: "The Dying Soldier who Wishes for Death" #NT!
+ fogeater_religion_war_god_name_possessive: "The Dying Soldier Wishes for Death's" #NT!
+ fogeater_religion_trickster_god_name: "The Dying Mother Crying as They Kill Her Baby" #NT!
+ fogeater_religion_trickster_god_name_possessive: "The Dying Mother Crying as They Kill Her Baby's" #NT!
+ fogeater_religion_night_god_name: "The Lost King on His Last Journey" #NT!
+ fogeater_religion_night_god_name_possessive: "The Lost King on His Last Journey's" #NT!
+ fogeater_religion_water_god_name: "The Screaming Pretender Demanding Her Throne" #NT!
+ fogeater_religion_water_god_name_possessive: "The Screaming Pretender Demanding Her Throne's" #NT!
+ fogeater_religion_witch_god_name: "The Step Walker Lost in his Keep" #NT!
+ fogeater_religion_witch_god_name_possessive: "The Step Walker Lost in his Keep's" #NT!
+ fogeater: "Listener" #NT!
+ fogeater_adj: "Listener" #NT!
+ fogeater_adherent: "Listener" #NT!
+ fogeater_adherent_plural: "Listeners" #NT!
+ fogeater_desc: "We Listen.\n\nWhen the voices came they asked pleaded begged cried said we need to Listen. Many were false heathens liars they spit they raved they said no no no no no no no no GET OUT GET OUT GET OUT OF OUR HEADS they did not want to Listen and they filled their ears with wax and sliced them and burned them but the voices did not stop they never stop. They died in blood.\n\nWe Listen because we were the good the faithful the loyal the strong the wise the clever who heard the voices and said YES we will Listen to you but we cannot Listen until you speak to us so speak to us. They told us of the Mistmother and they led us to the Mistmother who spoke to us and told us things she told us many things many truths and how we must obey obey obey obey or the voices will say horrible things awful things bloodcurdling screaming eye gouging pain. And now we obey but we must Listen because if we cannot Listen then the Mistmother cannot tell us how to obey." #NT!
+ fogeater_old: "Old Listener" #NT!
+ fogeater_old_adj: "Old Listener" #NT!
+ fogeater_old_adherent: "Old Listener" #NT!
+ fogeater_old_adherent_plural: "Old Listeners" #NT!

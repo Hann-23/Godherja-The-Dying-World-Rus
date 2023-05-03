@@ -1,0 +1,59 @@
+﻿l_russian:
+  
+ sunarwei_religion: "Sunarwei" #NT!
+ sunarwei_religion_adj: "Sunarweiaist" #NT!
+ sunarwei_religion_adjerent: "Sunarweia" #NT!
+ sunarwei_religion_adherent_plural: "Sunarweiia" #NT!
+ sunarwei_religion_desc: "While many say there are tens, hundreds, one or even no gods, the Sunarwei say the entire world is god. Every man and woman, every blade of grass, every beast of the land, bird of the air, and creature of the sea - all share in being a part of the Creator God, who shattered into millions of shards of glass after a conflict with the sun, each forming a different facet of the World That Is. Most curiously, this act of violence by the son is not view negatively by the Sunarweiaa, who claim it was all a pre-mediated act of love by the Creator for all the life that would spring forth from him." #NT!
+ sunarwei_high_god_name: "Kumhant" #NT!
+ sunarwei_high_god_name_possessive: "Kumhant's" #NT!
+ sunarwei_high_god_name_alternate: "They Who Is Fractured" #NT!
+ sunarwei_high_god_name_alternate_possessive: "They Who Is Fractured's" #NT!
+ sunarwei_devil_name: "Death" #NT!
+ sunarwei_devil_name_possessive: "Death's" #NT!
+ sunarwei_death_deity_name: "$sunarwei_devil_name$" #NT!
+ sunarwei_death_deity_name_possessive: "$sunarwei_devil_name_possessive$" #NT!
+ sunarwei_house_of_worship: "Tynel" #NT!
+ sunarwei_house_of_worship_plural: "Tynels" #NT!
+ sunarwei_religious_symbol: "The Shards" #NT!
+ sunarwei_religious_text: "the Fractured Chronicles" #NT!
+ sunarwei_religious_head_title: "Medrukar" #NT!
+ sunarwei_religious_head_title_name: "the Medrukar" #NT!
+ sunarwei_devotee: "the humble" #NT!
+ sunarwei_devotee_plural: "the humble" #NT!
+ sunarwei_priest: "Keeper" #NT!
+ sunarwei_priest_plural: "Keepers" #NT!
+ sunarwei_priest_alternate_plural: "Keeper" #NT!
+ sunarwei_bishop: "High Keeper" #NT!
+ sunarwei_bishop_plural: "High Keepers" #NT!
+ sunarwei_positive_afterlife: "the Reforming" #NT!
+ sunarwei_negative_afterlife: "the Reforming" #NT!
+ sunarwei_creator_god_name: "$sunarwei_high_god_name$" #NT!
+ sunarwei_creator_god_name_possessive: "$sunarwei_high_god_name_possessive$" #NT!
+ sunarwei_health_god_name: "$sunarwei_high_god_name$" #NT!
+ sunarwei_health_god_name_possessive: "$sunarwei_high_god_name_possessive$" #NT!
+ sunarwei_fertility_god_name: "$sunarwei_high_god_name$" #NT!
+ sunarwei_fertility_god_name_possessive: "$sunarwei_high_god_name_possessive$" #NT!
+ sunarwei_wealth_god_name: "$sunarwei_high_god_name$" #NT!
+ sunarwei_wealth_god_name_possessive: "$sunarwei_high_god_name_possessive$" #NT!
+ sunarwei_household_god_name: "$sunarwei_health_god_name$" #NT!
+ sunarwei_household_god_name_possessive: "$sunarwei_health_god_name_possessive$" #NT!
+ sunarwei_fate_god_name: "$sunarwei_high_god_name$" #NT!
+ sunarwei_fate_god_name_possessive: "$sunarwei_high_god_name_possessive$" #NT!
+ sunarwei_knowledge_god_name: "$sunarwei_high_god_name$" #NT!
+ sunarwei_knowledge_god_name_possessive: "$sunarwei_high_god_name_possessive$" #NT!
+ sunarwei_war_god_name: "$sunarwei_high_god_name$" #NT!
+ sunarwei_war_god_name_possessive: "$sunarwei_high_god_name_possessive$" #NT!
+ sunarwei_trickster_god_name: "$sunarwei_high_god_name$" #NT!
+ sunarwei_trickster_god_name_possessive: "$sunarwei_high_god_name_possessive$" #NT!
+ sunarwei_night_god_name: "$sunarwei_high_god_name$" #NT!
+ sunarwei_night_god_name_possessive: "$sunarwei_high_god_name_possessive$" #NT!
+ sunarwei_water_god_name: "$sunarwei_health_god_name$" #NT!
+ sunarwei_water_god_name_possessive: "$sunarwei_health_god_name_possessive$" #NT!
+ sunarwei_witch_god_name: "$sunarwei_devil_name$" #NT!
+ sunarwei_witch_god_name_possessive: "$sunarwei_devil_name_possessive$" #NT!
+ sunarwei: "Sunarwei" #NT!
+ sunarwei_adj: "Sunarweiaist" #NT!
+ sunarwei_adherent: "Sunarweia" #NT!
+ sunarwei_adherent_plural: "Sunarweiia" #NT!
+ sunarwei_desc: "A prominently insular faith centered around pacifism and kindness, the Sunarweiaa believe in the whole world being made of the creator god Kumhant. Turning himself into trillions of shards of glass after passing too close to the sun, these shards became all things; living and non-living. As such, the Sunarweiaa have a very pacifistic philosophy; if all things are remnants of the same great god, then all are equal, and deserving of respect." #NT!

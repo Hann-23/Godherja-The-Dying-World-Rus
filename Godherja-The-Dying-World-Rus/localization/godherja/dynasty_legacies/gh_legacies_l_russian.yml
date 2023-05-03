@@ -1,0 +1,19 @@
+﻿l_russian:
+ magic_legacy_track_name: "Magic" #NT!
+ magic_legacy_track_desc: "Magic flows through the world and especially through the blood" #NT!
+ magic_legacy_1_name: "Magic for the Pure" #NT!
+ magic_legacy_1_effect_desc: "#E Magic#!:@magic_icon!#positive_value; +0.5#! for the dynasty" #NT!
+ magic_legacy_2_name: "Protection from Power" #NT!
+ magic_legacy_3_name: "Inherent Casters" #NT!
+ magic_legacy_4_name: "Precision Magic" #NT!
+ magic_legacy_5_name: "Breed out the Unpure" #NT!
+ wardenite_legacy_track_name: "Legalism" #NT!
+ wardenite_legacy_track_desc: "Legal clout built over generations." #NT!
+ wardenite_legacy_1_name: "Friend to the Judges" #NT!
+ wardenite_legacy_2_name: "Scholastic Traditions" #NT!
+ wardenite_legacy_3_name: "Judicial Council" #NT!
+ wardenite_legacy_4_name: "Implicit Expertise" #NT!
+ wardenite_legacy_5_name: "Incorruptible" #NT!
+ wardenite_legacy_3_effect: "Increased vassal acceptance of school changes." #NT!
+ wardenite_legacy_4_effect: "Allows the foundation of new legal schools" #NT!
+ wardenite_legacy_5_effect: "Increases chances of winning at trial" #NT!

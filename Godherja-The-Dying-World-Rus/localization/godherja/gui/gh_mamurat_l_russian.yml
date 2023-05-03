@@ -1,0 +1,14 @@
+﻿l_russian:
+ FAITH_MAMURAMAT: "Mamuramat" #NT!
+ FAITH_MAMURAMAT_HEADING: "Mamurs" #NT!
+ FAITH_WARDENITE_HIGH_JUDGES_HEADING: "High Court" #NT!
+ MAMUR_NOT_RECOGNISED: "Not Recognised" #NT!
+  
+ MAMURAMAT_SCHISM_NAME: "[GetPlayer.GetFirstNameNoTooltip]" #NT!
+ MAMURAMAT_UNIFIED_NAME: "the Mamuramat" #NT!
+ e_western_mamuramat_shorthand_name: "Western" #NT!
+ e_central_mamuramat_shorthand_name: "Central" #NT!
+ e_eastern_mamuramat_shorthand_name: "Eastern" #NT!
+ e_far_eastern_mamuramat_shorthand_name: "Far Eastern" #NT!
+ e_southern_mamuramat_shorthand_name: "Southern" #NT!
+ e_continental_mamuramat_shorthand_name: "Continental" #NT!

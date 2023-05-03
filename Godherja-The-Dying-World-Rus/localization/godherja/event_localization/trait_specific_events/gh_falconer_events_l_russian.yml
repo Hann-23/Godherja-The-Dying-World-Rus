@@ -1,0 +1,15 @@
+﻿l_russian:
+ falconer.0001.t: "Training Falcons" #NT!
+ falconer.0001.desc: "After several days, I have finally obtained my own falcon. Subsequent training will take months and its success hinges on my ability to form a bond with this bird.\n\nIf I succeed, my falcon will a great boon to future hunts and possibly even a good friend —I will be sharing most of my days with a creature that lives its life as an apex predator." #NT!
+ falconer.0001.a: "Let's get started." #NT!
+ falconer.0001.a.tt_success: "You successfully train your falcon after a few months" #NT!
+ falconer.0001.a.tt_failure: "Your training fails after a few weeks" #NT!
+  
+ falconer.0002.t: "Training Success!" #NT!
+ falconer.0002.desc: "It has taken several months of training, but now my falcon is receptive to my commands and catches small prey with ease. It's mesmerizing watching them dive dozens of feet in the air, gliding freely with a wave of my arm. The creature will be a great help in my hunting endeavors." #NT!
+ falconer.0002.a: "A new companion!" #NT!
+ falconer.0003.t: "Training Failure!" #NT!
+ falconer.0003.desc: "I have tried over and over again, but my commands to the falcon will not take. Today, they simply took off and never returned. I am forced to give up my falcon training for now." #NT!
+ falconer.0003.a: "[ROOT.Char.Custom('InsultAdjectiveGeneric')|U] bird!" #NT!
+ falconer_future_attempts_easier_tt: "Future attempts at training a falcon will be easier, regardless of success." #NT!
+ falconer_trait_progress_tt: "Progress towards the [GetTrait('gh_falconer').GetName( GetNullCharacter )] [trait|E]: #V [Add_CFixedPoint(GetPlayer.MakeScope.Var('falcons_trained').GetValue, '(CFixedPoint)1')|0]/3#! #weak (+1)#!" #NT!

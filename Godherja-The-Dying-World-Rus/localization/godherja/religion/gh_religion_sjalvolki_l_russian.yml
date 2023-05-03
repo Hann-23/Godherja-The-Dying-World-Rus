@@ -1,0 +1,101 @@
+﻿l_russian:
+  
+ #sjalvolki Loc 
+ sjalvolki_religion: "Sjalvolki" #NT!
+ sjalvolki_religion_adj: "Sjalvolki" #NT!
+ sjalvolki_religion_adjerent: "sjalvolk" #NT!
+ sjalvolki_religion_adherent_plural: "sjalvolkii" #NT!
+ sjalvolki_religion_desc: "According to Sjalvolki teachings, when the world was made and humanity was born from the soil, the gods created gifts for them. [varpalis|E] created the fish of the sea, [ureha|E] created the plants of the soil, [zamistra|E] created the wily beasts of the land, and [pekielo|E] created the birds of the sky. But [pekwon|E], in his cruelty, gave the "gift" of hunger and misery to humanity. The final one to give a gift was [velos|E], so he taught them how to hunt and kill the animals around them." #NT!
+ sjalvolki_high_god_name: "[velos|E]" #NT!
+ sjalvolki_high_god_name_possessive: "[velos|E]'" #NT!
+ sjalvolki_high_god_name_alternate: "The Great Hunter" #NT!
+ sjalvolki_high_god_name_alternate_possessive: "The Great Hunter's" #NT!
+ sjalvolki_devil_name: "Pekwon" #NT!
+ sjalvolki_devil_name_possessive: "Pekwon's" #NT!
+ sjalvolki_death_deity_name: "Sveron" #NT!
+ sjalvolki_death_deity_name_possessive: "Sveron's" #NT!
+ sjalvolki_house_of_worship: "grove" #NT!
+ sjalvolki_house_of_worship_plural: "groves" #NT!
+ sjalvolki_religious_symbol: "bow of [velos|E]" #NT!
+ sjalvolki_religious_text: "chronicles" #NT!
+ sjalvolki_religious_head_title: "Velok" #NT!
+ sjalvolki_religious_head_title_name: "Grove of [velos|E]" #NT!
+ sjalvolki_devotee_male: "velk" #NT!
+ sjalvolki_devotee_male_plural: "velka" #NT!
+ sjalvolki_devotee_female: "valk" #NT!
+ sjalvolki_devotee_female_plural: "valka" #NT!
+ sjalvolki_devotee_neuter: "velk" #NT!
+ sjalvolki_devotee_neuter_plural: "velk" #NT!
+ sjalvolki_priest_male: "volhev" #NT!
+ sjalvolki_priest_male_plural: "volhev" #NT!
+ sjalvolki_priest_female: "volhav" #NT!
+ sjalvolki_priest_female_plural: "volhav" #NT!
+ sjalvolki_priest_alternate_plural: "volhev" #NT!
+ sjalvolki_bishop: "Vedu" #NT!
+ sjalvolki_bishop_plural: "Veduy" #NT!
+ sjalvolki_positive_afterlife: "Ebbon" #NT!
+ sjalvolki_negative_afterlife: "Peklon" #NT!
+ sjalvolki_creator_god_name: "$sjalvolki_high_god_name$" #NT!
+ sjalvolki_creator_god_name_possessive: "$sjalvolki_high_god_name_possessive$" #NT!
+ sjalvolki_health_god_name: "Ureha" #NT!
+ sjalvolki_health_god_name_possessive: "Ureha's" #NT!
+ sjalvolki_fertility_god_name: "$sjalvolki_health_god_name$" #NT!
+ sjalvolki_fertility_god_name_possessive: "$sjalvolki_health_god_name_possessive$" #NT!
+ sjalvolki_wealth_god_name: "Vasana" #NT!
+ sjalvolki_wealth_god_name_possessive: "Vasana's" #NT!
+ sjalvolki_household_god_name: "$sjalvolki_health_god_name$" #NT!
+ sjalvolki_household_god_name_possessive: "$sjalvolki_health_god_name_possessive$" #NT!
+ sjalvolki_fate_god_name: "Prohen" #NT!
+ sjalvolki_fate_god_name_possessive: "Prohen's" #NT!
+ sjalvolki_knowledge_god_name: "$sjalvolki_high_god_name$" #NT!
+ sjalvolki_knowledge_god_name_possessive: "$sjalvolki_high_god_name_possessive$" #NT!
+ sjalvolki_war_god_name: "$sjalvolki_high_god_name$" #NT!
+ sjalvolki_war_god_name_possessive: "$sjalvolki_high_god_name_possessive$" #NT!
+ sjalvolki_trickster_god_name: "Zamistra's" #NT!
+ sjalvolki_trickster_god_name_possessive: "Zamistra's" #NT!
+ sjalvolki_night_god_name: "Pekielo" #NT!
+ sjalvolki_night_god_name_possessive: "Pekielo's" #NT!
+ sjalvolki_water_god_name: "Varpalis" #NT!
+ sjalvolki_water_god_name_possessive: "Varpalis's" #NT!
+ sjalvolki_witch_god_name: "Vesnek" #NT!
+ sjalvolki_witch_god_name_possessive: "Vesnek's" #NT!
+ sjalvolki: "Sjalvolki" #NT!
+ sjalvolki_adj: "Sjalvolki" #NT!
+ sjalvolki_adjerent: "Sjalvolk" #NT!
+ sjalvolki_adherent_plural: "Sjalvolkii" #NT!
+ sjalvolki_desc: "The Sjalvolki, or "strong folk" in their tongue, consider themselves to be those who still follow the teachings of [velos|E] the Great Hunter. They praise the hunt and consider it to be a key tenet of their faith, though this is also coupled with communing with nature and responsibility in their actions. The gods showed them favor by appointing them as stewards of the world, yes, but they shall likely not receive such generosity again if they squander it. Thus, they feel the need to sometimes take up arms against the truly evil and egregious, so as to keep the rest of existence safe." #NT!
+ sjalvolki_old: "Old Sjalvolki" #NT!
+ sjalvolki_old_adj: "Old Sjalvolki" #NT!
+ sjalvolki_old_adherent: "Old Sjalvolk" #NT!
+ sjalvolki_old_adherent_plural: "Old Sjalvolkii" #NT!
+ praznarva: "Praznarva" #NT!
+ praznarva_adj: "Praznarvan" #NT!
+ praznarva_adherent: "Praznarvi" #NT!
+ praznarva_adherent_plural: "Praznarvii" #NT!
+ praznarva_desc: "The Praznarvii interpret certain stories about [velos|E] drinking the blood of his fallen pray to learn the secrets of life in a literalist context, and take drinking blood to be a sacred and important religious duty. Through this, they believe that they may taste the souls of the dead and learn their secrets, just as their patron god once did." #NT!
+ praznarva_old: "Old Praznarva" #NT!
+ praznarva_old_adj: "Old Praznarvan" #NT!
+ praznarva_old_adherent: "Old Praznarvi" #NT!
+ praznarva_old_adherent_plural: "Old Praznarvii" #NT!
+ orispolj_rite: "Orispolj Rite" #NT!
+ orispolj_rite_adj: "Orispolj Rite" #NT!
+ orispolj_rite_adjerent: "Orispolji" #NT!
+ orispolj_rite_adherent_plural: "Orispoljis" #NT!
+ orispolj_rite_desc: "The Orispolj Rite is the codification and reformation of the many disparate faiths of the Sjalvolki faithful. [SelectLocalization(Faith.MakeScope.Var('great_reformer').IsSet,Concatenate('Founded by the radical shaman ',Faith.MakeScope.Var('great_reformer').Char.GetFullNameNicknamed),'Founded by a radical shaman')], the preacher called for the need for a codified book of faith, along with a strict hierarchy of priests and shamans to lead the faithful. Often considered inspired by the religions of the Marchers and structural aspects of the defeated faiths of the [aversarians|E], the Orispolj Rite is a merging of a dozen different disparate Sjalvolki faiths with the hierarchal structure one would expect of a modern and entrenched religious movement.\n\nDespite the structural organization, its founder actively argued against the need for a central organization to manage the faith and instead demanded an 'Anarchy of Belief', in which each adherent would form their own specific path towards salvation in the final war." #NT!
+ piety_rite: "Velosgrave Rite" #NT!
+ piety_rite_adj: "Velosgrave Rite" #NT!
+ piety_rite_adjerent: "Velosgraver" #NT!
+ piety_rite_adherent_plural: "Velosgravers" #NT!
+ piety_rite_desc: "The Velosgrave Rite derives its name from the Conclave of the Velosgrave, the ancient priesthood that administered the holiest site in the Sjalvolki faith and once held a preeminent religious role in their pre-migration world, though it is also sometimes referred to as the Piety Rite. The loss of the Velosgrave itself to the [fog|E] would see a sharp decline in their power and prestige, however, and throughout most of the Conquest they would find themselves clinging to the court of Cenware in a respected advisory role - but little more.\n\nWith the onset of the great reformation, however, the group would see its fortunes dramatically surge. Ardent early supporters of the movement, they would ultimately break away from the Orispolj Rite as they attempted to codify themselves as the legal heads of the religion. Though most other rites at least nominally recognize the prestige and venerable nature of the Velosgrave Conclave, they claim that their position of preeminence is either merely symbolic or subordinate to another institution, such as the Holy Kingdom of the Krona Rite." #NT!
+ piety_rite_religious_head_title: "Veloschosen" #NT!
+ authority_rite: "Krona Rite" #NT!
+ authority_rite_adj: "Krona Rite" #NT!
+ authority_rite_adjerent: "Kronist" #NT!
+ authority_rite_adherent_plural: "Kronists" #NT!
+ authority_rite_desc: "The Krona Rite, also known as the Crown Rite or Authority Rite, traces many of its fundamental theological origins to the formation of the Imperrech itself. Though initially understood by most to be only a temporary arrangement, a number of heavily disputed and possibly apocryphal statements made by Cenware and his closest associates throughout his reign would later come to serve as the fuel for one of the most bitter and divisive conflicts in the Sjalvolki religion - namely, the nature of the High Kingdom itself, and its authority over spiritual affairs.\n\nThe Kronists, unlike the [GetTitleByKey('c_oraispol').GetNameNoTier] and Velosgrave rites, claim that the High Kingdom was in fact never intended to be a unique entity, and that it was instead an example that a mighty secular ruler must be the head of the Sjalvolki world - Albeit, in the form of a successor 'Holy Kingdom', rather than some mad attempt to revive the Imperrech itself. Though not initially openly anti-clerical, ensuing conflicts with the Velosgrave Rite would also see it adopt an increasingly hostile position towards the power of the clergy - namely, that the faithful should be led by the most worthy of secular lords, rather than be in the hands of a possibly hedonistic and scheming spiritual class who threaten to destroy the faith for lust of power." #NT!
+ authority_rite_religious_head_title: "Holy King" #NT!
+ eastern_rite: "Eastern Rite" #NT!
+ eastern_rite_adj: "Eastern Rite" #NT!
+ eastern_rite_adjerent: "Easterner" #NT!
+ eastern_rite_adherent_plural: "Easterners" #NT!
+ eastern_rite_desc: "Splitting from the 'Orispolj Rite', the Eastern Rite was formed due to the great distance from the spiritual strongholds in Etepezea to the eastern regions of Aironoi and the great number of exotic faiths found in the east. With the eastern faithful thrown into chaos with the Veloscoup and the rapid onslaught of religious infighting, the spiritual class of the east attempted to sidestep further doctrinal conflict by working with spiritual lords to find a middle ground for their faith. As such, the Eastern Rite is a strange mix of spiritual and secular control, with a spiritual head over a decentralized system of priests who shares control with the lords alongside them.\n\nDue to these differences, the Eastern Rite is incredibly permissive, the founding ideals of the faith and the confusion of its creation leading to many laws and rules to faith being conspicuously absent or lenient." #NT!

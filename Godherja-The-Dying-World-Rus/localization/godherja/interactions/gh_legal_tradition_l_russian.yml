@@ -1,0 +1,10 @@
+﻿l_russian:
+ interaction_category_legal: "Legal" #NT!
+  
+ legal_manipulation_interaction: "Legal Manipulation" #NT!
+ legal_manipulation_interaction_desc: "Attempt to use legal maneuvering to gain a [weak_hook|E] against [recipient.GetShortUINameNoTooltip]" #NT!
+ justify_claim_interaction: "Justify Claim" #NT!
+ justify_claim_interaction_desc: "Attempt to use legal maneuvering to justify a [claim|E] against a title belonging to [recipient.GetShortUINameNoTooltip]" #NT!
+ censure_interaction: "Censure" #NT!
+ censure_interaction_desc: "Issue an official legal condemnation of [recipient.GetHerHis] conduct, tarnishing [recipient.GetHerHis] reputation and allowing you to revoke one [title|E] with the broader world looking the other way." #NT!
+ censure_interaction.tt: "[recipient.GetShortUIName] Censured" #NT!

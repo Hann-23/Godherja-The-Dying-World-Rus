@@ -1,0 +1,10 @@
+﻿l_russian:
+  
+ pirate_authority: "#E Cohesion#!" #NT!
+ pirate_authority_0: "Lawless Commune" #NT!
+ pirate_authority_0_effects_not_in_prev: "$EFFECT_LIST_BULLET$Rulers can relocate to new regions\n$EFFECT_LIST_BULLET$Rulers can designate their [heir|E]\n$EFFECT_LIST_BULLET$[vassals|E] and [courtiers|E] can challenge leadership\n$EFFECT_LIST_BULLET$The [realm|E] may #N break apart#! on [succession|E]" #NT!
+ pirate_authority_1: "Low Cohesion" #NT!
+ pirate_authority_1_effects_not_in_prev: "$EFFECT_LIST_BULLET$Rulers can relocate to new regions\n$EFFECT_LIST_BULLET$Rulers can designate their [heir|E]\n$EFFECT_LIST_BULLET$[vassals|E] and [courtiers|E] can challenge leadership" #NT!
+ pirate_authority_2: "Medium Cohesion" #NT!
+ pirate_authority_3: "High Cohesion" #NT!
+ monasteries_must_not_be_on_cooldown_trigger: "Monasteries must not be on cooldown" #NT!

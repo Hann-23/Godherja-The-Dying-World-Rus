@@ -1,0 +1,9 @@
+﻿l_russian:
+ become_king_of_the_sands_decision: "Declare Yourself Taessor" #NT!
+ become_king_of_the_sands_decision_desc: "As far back as my memory extends we have warred in these valleys.  This has been been the fate of my forebears and their forebears and their forebears before them. Fighting and scavenging for every last bit of wealth.  Bitterly eking out an existence in this blasted wasteland where it does not rain, where the parched sand drinks the blood of the fallen.  No longer.  I will take the rich and wet lands to the north, where the water flows like salt and establish an empire unlike any seen in a thousand years." #NT!
+ become_king_of_the_sands_decision_confirm: "Death to all those who stand in my way!" #NT!
+ become_king_of_the_sands_decision_tooltip: "Proclaim yourself an emperor." #NT!
+  
+ kemsar_flavor.0001.t: "One king, one kingdom." #NT!
+ kemsar_flavor.0001.desc: "My power within Kemsar cannot be matched. And because of this it is only right that I declare myself emperor and begin the march north to conquer those rich lands for myself.  All my sub-rulers have gathered to see the new Nemes wrapped around my head. The Nemes of a Taessor. And my Herme-heb places the traditional blessings upon me. Blessings that may not have been given in a thousand years.\n\nLet my armies be undefeated. Let my name ring out into infinity. Let my reign be eternal.  It is my destiny to straddle world and see all other crowns ground beneath my boot, the weak, mincing realms broken on my knee.  Let none stand against me." #NT!
+ kemsar.0001.a: "My empire awaits." #NT!

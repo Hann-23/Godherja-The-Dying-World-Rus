@@ -1,0 +1,7 @@
+﻿l_russian:
+ omiltos_conclave_faction: "The Conclave" #NT!
+ omiltos_conclave_faction_desc: "The Conclave will gradually subsume the entire state apparatus." #NT!
+  
+ CANNOT_DO_PUPPET: "I am a puppet. I do not have nearly the clout to do this." #NT!
+ CANNOT_IMPRISON_CONCLAVE_MEMBER_TOO_STRONG: "The Conclave is too powerful for us to directly have its members imprisoned." #NT!
+ CANNOT_FIRE_CONCLAVE_MEMBER_TOO_STRONG: "The Conclave is too strong for me to dismiss their members from the council." #NT!

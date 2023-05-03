@@ -1,0 +1,150 @@
+﻿l_russian:
+ magic_lifestyle_living_name: "Living Magic" #NT!
+ magic_lifestyle_living_desc: "Focus on unlocking magic's secrets. Ultimate power is achievable by only a chosen few, and all of them are [magi|E]." #NT!
+ magic_lifestyle_living_highlight_desc: "Because of your Magic [education|E], you gain #P [GetPlayer.Custom('GetMagicEducationLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+  
+ magic_lifestyle_dead_name: "Dead Magic" #NT!
+ magic_lifestyle_dead_desc: "Focus on unlocking magic's secrets. Ultimate power is achievable by only a chosen few, and all of them are [magi|E]." #NT!
+ magic_lifestyle_dead_highlight_desc: "Because of your Magic [education|E], you gain #P [GetPlayer.Custom('GetMagicEducationLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ magic_lifestyle_mixed_name: "Mixed Magic" #NT!
+ magic_lifestyle_mixed_desc: "Focus on unlocking magic's secrets. Ultimate power is achievable by only a chosen few, and all of them are [magi|E]." #NT!
+ magic_lifestyle_mixed_highlight_desc: "Because of your Magic [education|E], you gain #P [GetPlayer.Custom('GetMagicEducationLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle." #NT!
+ monthly_magic_lifestyle_living_xp_gain_mult: "Monthly [living_magic|E] [lifestyle|E] Experience" #NT!
+ monthly_magic_lifestyle_dead_xp_gain_mult: "Monthly [dead_magic|E] [lifestyle|E] Experience" #NT!
+ monthly_magic_lifestyle_mixed_xp_gain_mult: "Monthly [mixed_magic|E] [lifestyle|E] Experience" #NT!
+ magic_scholarship_focus_living: "Arcanology Focus" #NT!
+ magic_scholarship_focus_living_desc: "Magic is best studied for the attainment of knowledge." #NT!
+ magic_scholarship_focus_desc: "Magic is best studied for the attainment of knowledge." #NT!
+ magic_scholarship_focus_living_effect_desc: "Focusing on Arcanology grants:" #NT!
+ magic_power_focus_living: "Power Focus" #NT!
+ magic_power_focus_living_desc: "Magic is the ultimate path to power... and destruction." #NT!
+ magic_power_focus_desc: "Magic is the ultimate path to power... and destruction." #NT!
+ magic_power_focus_living_effect_desc: "Focusing on Power grants:\n\n#E Magic#!:@magic_icon!#positive_value; +20%#!" #NT!
+ magic_sustainment_focus_living: "Sustainment" #NT!
+ magic_sustainment_focus_living_desc: "True masters of arcana must be ever vigilant against its corrupting caress." #NT!
+ magic_sustainment_focus_desc: "True masters of arcana must be ever vigilant against its corrupting caress." #NT!
+ magic_sustainment_focus_living_effect_desc: "Focusing on Sustainment grants:" #NT!
+ magic_scholarship_focus_dead: "Arcanology Focus" #NT!
+ magic_scholarship_focus_dead_desc: "Magic is best studied for the attainment of knowledge." #NT!
+ magic_scholarship_focus_dead_effect_desc: "Focusing on Arcanology grants:" #NT!
+ magic_power_focus_dead: "Power Focus" #NT!
+ magic_power_focus_dead_desc: "Magic is the ultimate path to power... and destruction." #NT!
+ magic_power_focus_dead_effect_desc: "Focusing on Power grants:\n\n#E Magic#!:@magic_icon!#positive_value; +20%#!" #NT!
+ magic_sustainment_focus_dead: "Sustainment" #NT!
+ magic_sustainment_focus_dead_desc: "True masters of arcana must be ever vigilant against its corrupting caress." #NT!
+ magic_sustainment_focus_dead_effect_desc: "Focusing on Sustainment grants:" #NT!
+ magic_scholarship_focus_mixed: "Arcanology Focus" #NT!
+ magic_scholarship_focus_mixed_desc: "Magic is best studied for the attainment of knowledge." #NT!
+ magic_scholarship_focus_mixed_effect_desc: "Focusing on Arcanology grants:" #NT!
+ magic_power_focus_mixed: "Power Focus" #NT!
+ magic_power_focus_mixed_desc: "Magic is the ultimate path to power... and destruction." #NT!
+ magic_power_focus_mixed_effect_desc: "Focusing on Power grants:" #NT!
+ magic_sustainment_focus_mixed: "Sustainment" #NT!
+ magic_sustainment_focus_mixed_desc: "True masters of arcana must be ever vigilant against its corrupting caress." #NT!
+ magic_sustainment_focus_mixed_effect_desc: "Focusing on Sustainment grants:" #NT!
+ has_living_magic_education_prereq: "Requires an education in [living_magic|E]." #NT!
+ has_dead_magic_education_prereq: "Requires an education in [dead_magic|E]." #NT!
+ has_mixed_magic_education_prereq: "Requires an education in [mixed_magic|E]." #NT!
+ livingmagic_tree1_name: "Blood Magic" #NT!
+ livingmagic_perk1_tree1_name: "The Blood" #NT!
+ livingmagic_perk2_tree1_name: "Beguiling Presence" #NT!
+ livingmagic_perk3_tree1_name: "Essence of Life" #NT!
+ livingmagic_perk4_tree1_name: "Abominable Servants" #NT!
+ livingmagic_perk5_tree1_name: "Poisoning" #NT!
+ livingmagic_perk6_tree1_name: "Domination of the Mind" #NT!
+ livingmagic_perk7_tree1_name: "Magical Fortitude" #NT!
+ livingmagic_perk8_tree1_name: "Necessary Sacrifice" #NT!
+ livingmagic_perk9_tree1_name: "Master of Life" #NT!
+ livingmagic_tree2_name: "Living Destruction" #NT!
+ livingmagic_perk1_tree2_name: "Dragon's Breath" #NT!
+ livingmagic_perk2_tree2_name: "Thinning of Life" #NT!
+ livingmagic_perk3_tree2_name: "Natural Power" #NT!
+ livingmagic_perk4_tree2_name: "Gift of Celerity" #NT!
+ livingmagic_perk5_tree2_name: "Infused Potency" #NT!
+ livingmagic_perk6_tree2_name: "Sadistic Gains" #NT!
+ livingmagic_perk7_tree2_name: "Master of War" #NT!
+ livingmagic_perk8_tree2_name: "Warrior's Fury" #NT!
+ livingmagic_perk9_tree2_name: "Annihilation" #NT!
+ livingmagic_tree3_name: "Natural Magic" #NT!
+ livingmagic_perk1_tree3_name: "Fertile Casting" #NT!
+ livingmagic_perk2_tree3_name: "Nature's Gift" #NT!
+ livingmagic_perk3_tree3_name: "Divining" #NT!
+ livingmagic_perk4_tree3_name: "Life Wards" #NT!
+ livingmagic_perk5_tree3_name: "Wealth of Flesh" #NT!
+ livingmagic_perk6_tree3_name: "Cleansing Waters" #NT!
+ livingmagic_perk7_tree3_name: "Power from the Unwashed Masses" #NT!
+ livingmagic_perk8_tree3_name: "Places of Power" #NT!
+ livingmagic_perk9_tree3_name: "Master of Nature" #NT!
+ deadmagic_tree1_name: "Dark Magic" #NT!
+ deadmagic_perk1_tree1_name: "The Body" #NT!
+ deadmagic_perk2_tree1_name: "Necromantic Rituals" #NT!
+ deadmagic_perk3_tree1_name: "Bones of [aeras|E]" #NT!
+ deadmagic_perk4_tree1_name: "Gifts of the Dead" #NT!
+ deadmagic_perk5_tree1_name: "Skeletal Transfiguration" #NT!
+ deadmagic_perk6_tree1_name: "Power from Death" #NT!
+ deadmagic_perk7_tree1_name: "More Dead Than Alive" #NT!
+ deadmagic_perk8_tree1_name: "Body of Stone" #NT!
+ deadmagic_perk9_tree1_name: "Master of Death" #NT!
+ deadmagic_tree2_name: "Aervalr's Magic" #NT!
+ deadmagic_perk1_tree2_name: "Aervalr Charting" #NT!
+ deadmagic_perk2_tree2_name: "Crushing Metal" #NT!
+ deadmagic_perk3_tree2_name: "Quintessence of Aervalr" #NT!
+ deadmagic_perk4_tree2_name: "Moonrock Enchantments" #NT!
+ deadmagic_perk5_tree2_name: "Arcanic Traditions" #NT!
+ deadmagic_perk6_tree2_name: "Warriors of the Moon" #NT!
+ deadmagic_perk7_tree2_name: "Meteor Stormbringer" #NT!
+ deadmagic_perk8_tree2_name: "Heralds of Aervalr" #NT!
+ deadmagic_perk9_tree2_name: "Master of Aervalr" #NT!
+ deadmagic_tree3_name: "Earth's Magic" #NT!
+ deadmagic_perk1_tree3_name: "Gravedigger" #NT!
+ deadmagic_perk2_tree3_name: "Carry the Mountains" #NT!
+ deadmagic_perk3_tree3_name: "Ironskinned" #NT!
+ deadmagic_perk4_tree3_name: "Strengthen the Earth" #NT!
+ deadmagic_perk5_tree3_name: "Turn them to Dust" #NT!
+ deadmagic_perk6_tree3_name: "Architecture of Caverns" #NT!
+ deadmagic_perk7_tree3_name: "Transmutation" #NT!
+ deadmagic_perk8_tree3_name: "Wealth of [aeras|E]" #NT!
+ deadmagic_perk9_tree3_name: "Break [aeras|E]" #NT!
+ mixedmagic_tree1_name: "Liminal Magic" #NT!
+ mixedmagic_perk1_tree1_name: "Rift Tap" #NT!
+ mixedmagic_perk2_tree1_name: "Reach Through Mists" #NT!
+ mixedmagic_perk3_tree1_name: "Abyssal Inurement" #NT!
+ mixedmagic_perk4_tree1_name: "Mistwalker" #NT!
+ mixedmagic_perk5_tree1_name: "Unraveling" #NT!
+ mixedmagic_perk6_tree1_name: "Peculiar Insights" #NT!
+ mixedmagic_perk7_tree1_name: "Beseech the Fog" #NT!
+ mixedmagic_perk8_tree1_name: "Rift-bond" #NT!
+ mixedmagic_perk9_tree1_name: "One With Mist" #NT!
+ mixedmagic_tree2_name: "Mist Augury" #NT!
+ mixedmagic_perk1_tree2_name: "Peer Through Depths" #NT!
+ mixedmagic_perk2_tree2_name: "Horrific Inurement" #NT!
+ mixedmagic_perk3_tree2_name: "Ponder Visions" #NT!
+ mixedmagic_perk4_tree2_name: "Behold Truth" #NT!
+ mixedmagic_perk5_tree2_name: "Decipher the Roil" #NT!
+ mixedmagic_perk6_tree2_name: "Comprehend Visions" #NT!
+ mixedmagic_perk7_tree2_name: "True Sight" #NT!
+ mixedmagic_perk8_tree2_name: "Embrace Visions" #NT!
+ mixedmagic_perk9_tree2_name: "Pale Seer" #NT!
+ mixedmagic_tree3_name: "Oneiric Magic" #NT!
+ mixedmagic_perk1_tree3_name: "Dreamwalker" #NT!
+ mixedmagic_perk2_tree3_name: "Sift Through Sands" #NT!
+ mixedmagic_perk3_tree3_name: "Bits and Pieces" #NT!
+ mixedmagic_perk4_tree3_name: "Dreamweaver" #NT!
+ mixedmagic_perk5_tree3_name: "Sculpt the Mind" #NT!
+ mixedmagic_perk6_tree3_name: "Conduit of the Beyond" #NT!
+ mixedmagic_perk7_tree3_name: "Born Again" #NT!
+ mixedmagic_perk8_tree3_name: "Submerge in Dreams" #NT!
+ mixedmagic_perk9_tree3_name: "Reifier" #NT!
+ adventure_lifestyle_tree1_name: "Adventurer" #NT!
+ adventure_lifestyle_tree2_name: "Artisan" #NT!
+ adventure_lifestyle_tree3_name: "Slayer" #NT!
+ beasthunter_perk_name: "Beasthunter" #NT!
+ home_turf_perk_name: "Old Stomping Grounds" #NT!
+ adept_tracker_perk_name: "Adept Tracker" #NT!
+ grizzled_perk_name: "Grizzled" #NT!
+ skilled_forager_perk_name: "Skilled Forager" #NT!
+ proficiency_perk_name: "Proficiency" #NT!
+ trophy_collector_perk_name: "Trophy Collector" #NT!
+ unconventional_game_perk_name: "Unconventional Game" #NT!
+ professional_monster_slayer_perk_name: "Professional Monster Slayer" #NT!
+ falconer_perk_name: "Falcon Trainer" #NT!

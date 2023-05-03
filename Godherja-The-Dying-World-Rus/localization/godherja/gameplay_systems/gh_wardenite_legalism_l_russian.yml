@@ -1,0 +1,402 @@
+﻿l_russian:
+ ADOPT_LEGAL_SCHOOL: "Adopt" #NT!
+ RENOUNCE_LEGAL_SCHOOL: "Renounce" #NT!
+  
+ no_legal_tradition_application_level: "None" #NT!
+ low_legal_tradition_application_level: "Low" #NT!
+ medium_legal_tradition_application_level: "Medium" #NT!
+ high_legal_tradition_application_level: "High" #NT!
+  ############## 
+  # CATEGORIES # 
+ interpretative_approach_name: "Interpretative Approach" #NT!
+ epistemology_name: "Epistemology" #NT!
+ scriptural_diversity_name: "Scriptural Diversity" #NT!
+ harshness_name: "Harshness" #NT!
+ complexity_name: "Complexity" #NT!
+ classism_name: "Classism" #NT!
+ uniformity_name: "Uniformity" #NT!
+ belligerence_name: "Belligerence" #NT!
+ economic_focus_name: "Economic Focus" #NT!
+ tolerance_name: "Tolerance" #NT!
+ special_name: "Special" #NT!
+  ########## 
+  # TRAITS # 
+ metaphorialist_name: "Metaphorialist" #NT!
+ literalist_name: "Literalist" #NT!
+ rationalist_name: "Rationalist" #NT!
+ emotionalist_name: "Emotionalist" #NT!
+ broad_name: "Broad" #NT!
+ narrow_name: "Narrow" #NT!
+ liberal_name: "Liberal" #NT!
+ draconian_name: "Draconian" #NT!
+ egalitarian_name: "Egalitarian" #NT!
+ hierarchical_name: "Hierarchical" #NT!
+ parochial_name: "Parochial" #NT!
+ uniform_name: "Uniform" #NT!
+ warlike_name: "Warlike" #NT!
+ pacifistic_name: "Pacifistic" #NT!
+ agrarian_name: "Agrarian" #NT!
+ urbanite_name: "Urbanite" #NT!
+ majoritarian_name: "Majoritarian" #NT!
+ minoritarian_name: "Minoritarian" #NT!
+ mysticistic_name: "Mysticist" #NT!
+  ############ 
+  # TOOLTIPS # 
+ legal_tradition_patron_header_tooltip: "#weak Patrons#!" #NT!
+ legal_tradition_patron_tooltip: "[ROOT.Char.GetFirstName]" #NT!
+ diligent_gives_judicial_power_tooltip: "The [GetTrait('diligent').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!" #NT!
+ overseer_gives_judicial_power_tooltip: "The [GetTrait('overseer').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!" #NT!
+ greedy_gives_judicial_power_tooltip: "The [GetTrait('greedy').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!" #NT!
+ avaricious_gives_judicial_power_tooltip: "The [GetTrait('avaricious').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!" #NT!
+ cynical_gives_judicial_power_tooltip: "The [GetTrait('cynical').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!" #NT!
+ zealous_gives_judicial_power_tooltip: "The [GetTrait('zealous').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!" #NT!
+ calm_gives_judicial_power_tooltip: "The [GetTrait('calm').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!" #NT!
+ forgiving_gives_judicial_power_tooltip: "The [GetTrait('forgiving').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!" #NT!
+ compassionate_gives_judicial_power_tooltip: "The [GetTrait('compassionate').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!" #NT!
+ vengeful_gives_judicial_power_tooltip: "The [GetTrait('vengeful').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!" #NT!
+ sadistic_gives_judicial_power_tooltip: "The [GetTrait('sadistic').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!" #NT!
+ humble_gives_judicial_power_tooltip: "The [GetTrait('humble').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!" #NT!
+ content_gives_judicial_power_tooltip: "The [GetTrait('content').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!" #NT!
+ arrogant_gives_judicial_power_tooltip: "The [GetTrait('arrogant').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!" #NT!
+ ambitious_gives_judicial_power_tooltip: "The [GetTrait('ambitious').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!" #NT!
+ patient_gives_judicial_power_tooltip: "The [GetTrait('patient').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!" #NT!
+ impatient_gives_judicial_power_tooltip: "The [GetTrait('impatient').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!" #NT!
+ wrathful_gives_judicial_power_tooltip: "The [GetTrait('wrathful').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!" #NT!
+ scholar_gives_judicial_power_tooltip: "The [GetTrait('scholar').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!" #NT!
+ theologian_gives_judicial_power_tooltip: "The [GetTrait('theologian').GetName( GetNullCharacter )] [trait|E] gives #E Judicial Power#!" #NT!
+ mystic_gives_judicial_power_tooltip: "Each level of the [GetTrait('mystic_1').GetName( GetNullCharacter )] [trait|E] gives increasing amounts of #E Judicial Power#! per the tradition's #E Mysticism#! level" #NT!
+ mystic_increases_piety_reward_tooltip: "Each level of the [GetTrait('mystic_1').GetName( GetNullCharacter )] [trait|E] proportionally increases the [piety|E] rewards of a good ruling" #NT!
+ may_gain_mystic_from_trials_tooltip: "Chance of levelling up the [GetTrait('mystic_1').GetName( GetNullCharacter )] [trait|E] upon the conclusion of each good ruling" #NT!
+ learning_gives_double_judicial_power_tooltip: "@skill_learning_icon![learning|E] counts twice as much for #E Judicial Power#!" #NT!
+ diplomacy_gives_judicial_power_tooltip: "@skill_diplomacy_icon![diplomacy|E] counts towards #E Judicial Power#!" #NT!
+ stewardship_gives_judicial_power_tooltip: "@skill_stewardship_icon![stewardship|E] counts towards #E Judicial Power#!" #NT!
+ martial_gives_judicial_power_tooltip: "@skill_martial_icon![martial|E] counts towards #E Judicial Power#!" #NT!
+ each_virtue_increases_judicial_power_tooltip: "Each [virtue|E] gives #E Judicial Power#!" #NT!
+ piety_level_gives_judicial_power_tooltip: "Each [piety_level|E] gives #E Judicial Power#!" #NT!
+ renown_level_gives_judicial_power_tooltip: "Each [dynasty_prestige_level|E] gives #E Judicial Power#!" #NT!
+ radicalism_gives_judicial_power_tooltip: "Every point of @radicalism_icon! #E Radicalism#! increases #E Judicial Power#! by #positive_value 0.2#!, up to a maximum of 20" #NT!
+ can_justify_claims_tooltip: "Enables the #E Justify#! [claim|E] interaction" #NT!
+ can_censure_sinful_characters_tooltip: "Can #E Censure#! [sinful|E] characters" #NT!
+ can_disinherit_sinful_characters_with_piety_tooltip: "Can [disinherit|E] [sinful|E] characters with [piety|E] instead of [dynasty_prestige|E]" #NT!
+ can_censure_less_virtuous_characters_tooltip: "Can #E Censure#! characters with less [virtues|E] than you" #NT!
+ can_designate_heir_tooltip: "Enables the #E Designate#! [heir|E] interaction" #NT!
+ learning_boosts_piety_gain_from_trials_tooltip: "Each @skill_learning_icon![learning|E] level increases [piety|E] gain from trials by #positive_value 1%#!" #NT!
+ participating_in_legal_action_can_give_learning_tooltip: "Each successful #E Judicial Power#! skill check has a chance of increasing your @skill_learning_icon![learning|E]" #NT!
+ stronger_offensive_judicial_power_tooltip: "#E Judicial Power#! is #positive_value 50% higher#! when initiating a legal action" #NT!
+ stronger_defensive_judicial_power_tooltip: "#E Judicial Power#! is #positive_value 100% higher#! when defending against a legal action" #NT!
+ random_bonus_legal_rewards_tooltip: "Each successful legal action has a chance of giving [hooks|E] or [claims|E] against a random group of characters related to the defender" #NT!
+ countersuit_tooltip: "Successfully defending against a legal action has a chance of reversing the effects of the original suit upon the initiator" #NT!
+ can_exchange_imprisonment_reasons_for_prestige_tooltip: "Can exchange imprisonment reasons for [prestige|E] #X (Unimplemented)#!" #NT!
+ crimes_allow_any_punishment_tooltip: "[crimes|E] allow any punishment, including [execution|E], regardless of severity" #NT!
+ apolitical_suits_give_better_rewards_tooltip: "#E Apolitical Suits#! give better rewards" #NT!
+ censured_characters_can_be_imprisoned_tooltip: "#E Censured#! characters can be imprisoned" #NT!
+ can_depose_vassals_tooltip: "Unlocks the #E Depose Vassal Interaction#!" #NT!
+ each_level_increases_difficulty_and_rewards_tooltip: "Each rank in this legal trait increases both the difficulty and [piety|E] rewards of legal challenges" #NT!
+ each_level_decreases_difficulty_tooltip: "Each rank in this legal trait decreases the difficulty of legal challenges" #NT!
+ medium_stress_gain_reduction_from_tradition_modifier_tooltip: "[GetModifier('medium_stress_gain_reduction_from_tradition_modifier').GetDesc]" #NT!
+ popular_opinion_from_tradition_modifier_tooltip: "[GetModifier('popular_opinion_from_tradition_modifier').GetDesc]" #NT!
+ vassal_tax_from_tradition_modifier_tooltip: "[GetModifier('vassal_tax_from_tradition_modifier').GetDesc]" #NT!
+ cultural_head_fascination_mult_from_tradition_modifier_tooltip: "[GetModifier('cultural_head_fascination_mult_from_tradition_modifier').GetDesc]" #NT!
+ learning_per_piety_level_from_tradition_modifier_tooltip: "[GetModifier('learning_per_piety_level_from_tradition_modifier').GetDesc]" #NT!
+ control_growth_from_tradition_modifier_tooltip: "[GetModifier('control_growth_from_tradition_modifier').GetDesc]" #NT!
+ tyranny_gain_reduction_from_tradition_modifier_tooltip: "[GetModifier('tyranny_gain_reduction_from_tradition_modifier').GetDesc]" #NT!
+ diplomacy_from_tradition_modifier_tooltip: "[GetModifier('diplomacy_from_tradition_modifier').GetDesc]" #NT!
+ prestige_from_tradition_modifier_tooltip: "[GetModifier('prestige_from_tradition_modifier').GetDesc]" #NT!
+ diplomacy_per_prestige_level_from_tradition_modifier_tooltip: "[GetModifier('diplomacy_per_prestige_level_from_tradition_modifier').GetDesc]" #NT!
+ vassal_opinion_from_tradition_modifier_tooltip: "[GetModifier('vassal_opinion_from_tradition_modifier').GetDesc]" #NT!
+ development_from_tradition_modifier_tooltip: "[GetModifier('development_from_tradition_modifier').GetDesc]" #NT!
+ domain_tax_mult_from_tradition_modifier_tooltip: "[GetModifier('domain_tax_mult_from_tradition_modifier').GetDesc]" #NT!
+ domain_limit_from_tradition_modifier_tooltip: "[GetModifier('domain_limit_from_tradition_modifier').GetDesc]" #NT!
+ knight_effectiveness_from_tradition_modifier_tooltip: "[GetModifier('knight_effectiveness_from_tradition_modifier').GetDesc]" #NT!
+ vassal_contribution_from_tradition_modifier_tooltip: "[GetModifier('vassal_contribution_from_tradition_modifier').GetDesc]" #NT!
+ martial_per_piety_from_tradition_modifier_tooltip: "[GetModifier('martial_per_piety_from_tradition_modifier').GetDesc]" #NT!
+ provisional_court_will_preside_tooltip: "A #E Provisional Court#! will preside over the case" #NT!
+ liege_will_preside_tooltip: "[trial_presiding_character.GetTitledFirstName] will preside over the case" #NT!
+ high_court_will_preside_tooltip: "The #E High Court#! will preside over the case" #NT!
+ major_conflict_of_interest_exists_tooltip: "@warning_icon! #X Due to the [trial_presiding_character.GetFirstNamePossessiveRegnal] relations to one or both sides there is a major conflict of interest, and they may recuse themselves#!" #NT!
+ minor_conflict_of_interest_exists_tooltip: "@warning_icon! #X Due to the [trial_presiding_character.GetFirstNamePossessiveRegnal] relations to one or both sides there is a minor conflict of interest, and they may recuse themselves#!" #NT!
+ legal_tradition_action_virtuous_ruling_tooltip: "The reasoning behind your ruling is considered shrewd and righteous" #NT!
+ legal_tradition_action_acceptable_ruling_tooltip: "The reasoning behind your ruling is considered to be of an adequate legal grounding" #NT!
+ legal_tradition_action_shoddy_ruling_tooltip: "The reasoning behind your ruling is considered shoddy and foolish" #NT!
+ legal_tradition_high_court_breakdown_tooltip: "[Localize(Concatenate(THIS.Var('legal_tradition_name').GetFlagName,'_name'))]: [GuiScope.SetRoot( THIS.Province.MakeScope ).AddScope('high_court_scope',high_court_scope.MakeScope).ScriptValue('legal_tradition_high_court_control_value')|0]%" #NT!
+ study_critical_success_tt: "Your completely master the study material" #NT!
+ study_success_tt: "Your successfully grasp the study material" #NT!
+ study_failure_tt: "Your studies go poorly" #NT!
+ USE_PIETY: "Use [piety|E]" #NT!
+  ##################### 
+  # OPINION MODIFIERS # 
+ ruled_against_me_minor_legal_action: "Ruled Against Me" #NT!
+ ruled_in_favor_of_me_minor_legal_action: "Ruled in my Favor" #NT!
+ censure_opinion: "Censured" #NT!
+ censured_me_opinion: "Censured Me" #NT!
+  ############# 
+  # MODIFIERS # 
+ patronizing_legal_tradition_modifier_1: "Patronizing Legal Tradition" #NT!
+ patronizing_legal_tradition_modifier_2: "Patronizing Legal Tradition" #NT!
+ patronizing_legal_tradition_modifier_3: "Patronizing Legal Tradition" #NT!
+ patronizing_legal_tradition_modifier_4: "Patronizing Legal Tradition" #NT!
+ patronizing_legal_tradition_modifier_5: "Patronizing Legal Tradition" #NT!
+ censured_modifier: "Recently Censured" #NT!
+ radicalism_modifier_low: "Skirting Radicalism" #NT!
+ radicalism_modifier_high: "Radical" #NT!
+ corruption_modifier_low: "Corrupt" #NT!
+ corruption_modifier_high: "Extremely Corrupt" #NT!
+ medium_stress_gain_reduction_from_tradition_modifier: "$medium_stress_gain_reduction_from_tradition_modifier_name$" #NT!
+ medium_stress_gain_reduction_from_tradition_modifier_name: "Legal Tradition" #NT!
+ medium_stress_gain_reduction_from_tradition_modifier_desc: 
+ popular_opinion_from_tradition_modifier: "$popular_opinion_from_tradition_modifier_name$" #NT!
+ popular_opinion_from_tradition_modifier_name: "Legal Tradition" #NT!
+ popular_opinion_from_tradition_modifier_desc: 
+ vassal_tax_from_tradition_modifier: "$vassal_tax_from_tradition_modifier_name$" #NT!
+ vassal_tax_from_tradition_modifier_name: "Legal Tradition" #NT!
+ vassal_tax_from_tradition_modifier_desc: 
+ cultural_head_fascination_mult_from_tradition_modifier: "$cultural_head_fascination_mult_from_tradition_modifier_name$" #NT!
+ cultural_head_fascination_mult_from_tradition_modifier_name: "Legal Tradition" #NT!
+ cultural_head_fascination_mult_from_tradition_modifier_desc: 
+ learning_per_piety_level_from_tradition_modifier: "$learning_per_piety_level_from_tradition_modifier_name$" #NT!
+ learning_per_piety_level_from_tradition_modifier_name: "Legal Tradition" #NT!
+ learning_per_piety_level_from_tradition_modifier_desc: 
+ control_growth_from_tradition_modifier: "$control_growth_from_tradition_modifier_name$" #NT!
+ control_growth_from_tradition_modifier_name: "Legal Tradition" #NT!
+ control_growth_from_tradition_modifier_desc: 
+ tyranny_gain_reduction_from_tradition_modifier: "$tyranny_gain_reduction_from_tradition_modifier_name$" #NT!
+ tyranny_gain_reduction_from_tradition_modifier_name: "Legal Tradition" #NT!
+ tyranny_gain_reduction_from_tradition_modifier_desc: 
+ diplomacy_from_tradition_modifier: "$diplomacy_from_tradition_modifier_name$" #NT!
+ diplomacy_from_tradition_modifier_name: "Legal Tradition" #NT!
+ diplomacy_from_tradition_modifier_desc: 
+ prestige_from_tradition_modifier: "$prestige_from_tradition_modifier_name$" #NT!
+ prestige_from_tradition_modifier_name: "Legal Tradition" #NT!
+ prestige_from_tradition_modifier_desc: 
+ diplomacy_per_prestige_level_from_tradition_modifier: "$diplomacy_per_prestige_level_from_tradition_modifier_name$" #NT!
+ diplomacy_per_prestige_level_from_tradition_modifier_name: "Legal Tradition" #NT!
+ diplomacy_per_prestige_level_from_tradition_modifier_desc: 
+ vassal_opinion_from_tradition_modifier: "$vassal_opinion_from_tradition_modifier_name$" #NT!
+ vassal_opinion_from_tradition_modifier_name: "Legal Tradition" #NT!
+ vassal_opinion_from_tradition_modifier_desc: 
+ development_from_tradition_modifier: "$development_from_tradition_modifier_name$" #NT!
+ development_from_tradition_modifier_name: "Legal Tradition" #NT!
+ development_from_tradition_modifier_desc: 
+ domain_tax_mult_from_tradition_modifier: "$domain_tax_mult_from_tradition_modifier_name$" #NT!
+ domain_tax_mult_from_tradition_modifier_name: "Legal Tradition" #NT!
+ domain_tax_mult_from_tradition_modifier_desc: 
+ domain_limit_from_tradition_modifier: "$domain_limit_from_tradition_modifier_name$" #NT!
+ domain_limit_from_tradition_modifier_name: "Legal Tradition" #NT!
+ domain_limit_from_tradition_modifier_desc: 
+ knight_effectiveness_from_tradition_modifier: "$knight_effectiveness_from_tradition_modifier_name$" #NT!
+ knight_effectiveness_from_tradition_modifier_name: "Legal Tradition" #NT!
+ knight_effectiveness_from_tradition_modifier_desc: 
+ vassal_contribution_from_tradition_modifier: "$vassal_contribution_from_tradition_modifier_name$" #NT!
+ vassal_contribution_from_tradition_modifier_name: "Legal Tradition" #NT!
+ vassal_contribution_from_tradition_modifier_desc: 
+ martial_per_piety_from_tradition_modifier: "$martial_per_piety_from_tradition_modifier_name$" #NT!
+ martial_per_piety_from_tradition_modifier_name: "Legal Tradition" #NT!
+ martial_per_piety_from_tradition_modifier_desc: 
+ high_court_legitimacy_very_low_mamur_modifier: "$wardenite_high_court_legitimacy_very_low_doctrine_name$" #NT!
+ high_court_legitimacy_low_mamur_modifier: "$wardenite_high_court_legitimacy_low_doctrine_name$" #NT!
+ high_court_legitimacy_high_mamur_modifier: "$wardenite_high_court_legitimacy_high_doctrine_name$" #NT!
+ high_court_legitimacy_very_high_mamur_modifier: "$wardenite_high_court_legitimacy_very_high_doctrine_name$" #NT!
+  ########### 
+  # GUI LOC # 
+ INNOVATION_APPROACH: "You will focus on raising your #E Judicial Skill#! faster by engaging in unconventional methodology and legal experimentation. All legal challenges will be significantly harder, but will give #P double#! @judicial_power_icon!#E Jurist Trait Progress#!. However, each legal challenge you participate in has a significant chance of raising your @radicalism_icon!#E Radicalism#!." #NT!
+ SCHOLARSHIP_APPROACH: "You will focus on raising your #E Legal Tradition's#! progress by contributing to its legal corpus using your casework. All legal challenges will give #N more#! @stress_gain_icon![stress|E], but will give @prestige_icon![prestige|E] and contribute to your tradition's @judicial_power_icon!#E Legal Tradition Progress#!. Each legal challenge you participate in has a small chance of raising your @radicalism_icon!#E Radicalism#!, but much less so than with the #E Innovation#! approach." #NT!
+ GRIFTING_APPROACH: "You will focus on abusing the legal system to fill your pockets and expand your power. Every #E Legal Challenge#! you participate in will add your @skill_intrigue_icon![intrigue|E] to your @judicial_power_icon!#E Judicial Power#!, and have a chance of giving you @gold_icon![gold|E]. However, there is also a significant chance that you will gain @corruption_icon!#E Corruption#! and lose @piety_icon![piety|E] due to your clandestine activities." #NT!
+ ORTHODOXY_APPROACH: "You will focus on not rocking the boat and merely applying the law within the realms of orthodoxy to the best of your ability. @piety_icon![piety|E] rewards from #E Legal Challenges#! will be increased by #P +20%#!, and your @radicalism_icon!#E Radicalism#! and @corruption_icon!#E Corruption#! will slowly decline." #NT!
+  ####################### 
+  # PRESCRIPTED SCHOOLS # 
+ doctrine_wardenite_school_name: "Legal School" #NT!
+ wardenite_mainstream_doctrine_name: "A'Bajjarmi'a - Mainstream Tradition" #NT!
+ wardenite_mainstream_doctrine_desc: "The A'Bajjarmi'a, or "Mainline" school are pragmatists, accepting the necessity of a singular Mamur in principle and theory - if not necessarily agreeing on who the true Mamur actually is. The school offers a wide latitude of tolerance for divergent legal traditions, holding in general to the principle that the unity of the Wardenite faith's traditions are more important than stringent purity of thought and practice. Over the centuries the school has absorbed several rival traditions, and now counts the once borderline heretical Tashbari'a (metaphoralists) and Ha'ari'a (Emotionalists) as appendages to its corpus. There are of course, limits to tolerance, and many more traditions have fallen into obscurity through suppression by the A'bajjarmi'a." #NT!
+ wardenite_idealist_doctrine_name: "Zathmali'a - Idealist Tradition" #NT!
+ wardenite_idealist_doctrine_desc: "The Idealists do not, in general, accept the necessity of a Mamur, seeing the position as something only necessary in the context of the First Warden's early campaigns, a relic of a less complicated time. Most dynamic of the Wardenites, hold to legalistic traditions that stress the need for reinterpretation, relying heavily on a specific series of passages written by the First Warden in the Vision of the Angel's Tower describing possible fates for mankind in the far future. While other schools are quick to point out these passages were almost certainly warnings against reckless innovation, the Zathmali'a have taken the opposite interpretation." #NT!
+ wardenite_traditionalist_doctrine_name: "Tabaqai'a - Traditionalist Tradition" #NT!
+ wardenite_traditionalist_doctrine_desc: "The Traditionalists of the Tabaqai'a accept the Existence and necessity of several Mamurs, believing that their role as secular military leaders to be of grave necessity, for the First Warden's campaigns never truly ended, with Ritualists - and now their effective replacements the Agionists still existing. Notably the Tabaqai'a are often fairly tolerant of heathens who they see as uninvolved in their grand struggle, often preferring to ignore and avoid them entirely." #NT!
+ wardenite_radical_doctrine_name: "Matatazari'a - Radicals" #NT!
+ wardenite_radical_doctrine_desc: "A catchall for highly divergent legal branches. The A'Bajjarmi'a, Zathmali'a, and Tabaqai'a have an uneasy peace between them, fighting their religious disputes more often in the courtroom than the battlefield. This tenuous accord has come at the cost of several legal traditions that were unable to associate with one of the three majors being labelled with the pejorative term "matatazari'a" - Radical. They share little in common, as illustrated by both the pacifistic "Zubatai'a" and the notoriously violent bandit legal tradition of the "Qatirri'a" both sharing in the condemnation." #NT!
+ doctrine_high_court_legitimacy_name: "High Court Legitimacy" #NT!
+ wardenite_high_court_legitimacy_very_low_doctrine_name: "Abysmal High Court" #NT!
+ wardenite_high_court_legitimacy_very_low_doctrine_desc: 
+ wardenite_high_court_legitimacy_low_doctrine_name: "Impious High Court" #NT!
+ wardenite_high_court_legitimacy_low_doctrine_desc: 
+ wardenite_high_court_legitimacy_neutral_doctrine_name: "Respectable High Court" #NT!
+ wardenite_high_court_legitimacy_neutral_doctrine_desc: 
+ wardenite_high_court_legitimacy_high_doctrine_name: "Glorious High Court" #NT!
+ wardenite_high_court_legitimacy_high_doctrine_desc: 
+ wardenite_high_court_legitimacy_very_high_doctrine_name: "Legendary High Court" #NT!
+ wardenite_high_court_legitimacy_very_high_doctrine_desc: 
+ special_doctrine_singular_mamur_hostility_name: "Recognizes One Mamur" #NT!
+ special_doctrine_singular_mamur_hostility_desc: "Only one true [mamur|E] may guide [wardenism|E], and any others are mere radical pretenders." #NT!
+ FAITH_TRADITIONS: "Legal Schools" #NT!
+ FAITH_TRADITIONS_EXPLANATION: "Wardenism has a long and proud legalistic tradition dating back to the dawn of the faith and the First Warden. The fundamental Wardenite beliefs in Equality of Reason and the Right to Legal Redress has resulted in a wide array of different legal schools, diverging on various minutaie of Wardenite Religious Law." #NT!
+ maridai_name: "Maridai'a" #NT!
+ maridai_desc: "A reform movement spearheaded by the charismatic High Judge Mudabariq in 1203, it flirts with radicalism in a number of ways, such as be emphasizing the resposibility of the Wardenite faithful to exercise independent judgement in situations where the Mamur may not be able to render their own judgement. Since this explicitly includes situations where the faithful may have reason to believe the Mamur does not have the requisite knowledge of local affairs to accurately pass judgement, the school has sometimes been accused of rendering "Every Freedman a Mamur", an accusation Mudabariq went to his grave denying." #NT!
+ tashbari_name: "Tashbari'a" #NT!
+ tashbari_desc: "The Tashbari'a, or Metaphoralists were once upon a time considered a radical sect, having graced the Proscribed Schools lists of the Mamur Nasir Ibn Uthman in 895. However, the school managed to endure both violent purge and legal pressure and achieved elevation to mainstream status when Nasir's successor Yusuf appointed four of their scholars as High Judges, securing their hold on Wardenite legal tradition ever since. They emphasize the necessity of understanding the First Warden's use of metaphor in his writing in order to draw legal conclusions." #NT!
+ babatadi_name: "Babatadi'a" #NT!
+ babatadi_desc: "The Babatadi'a hold the dubious honor of being the traditional school patronized by the Mamuramat, largely due to their staunch advocacy for the Mamur's Right of Final Judgement in all legal matters. While Babatadi'a judges accused of being sycophants are quick to point out that the school sets strict limits on exactly what lies within the jurisdiction of the Mamur to pass rulings upon, it has been difficult for the scholars to shed that reputation." #NT!
+ zaydeni_name: "Zaydeni'a" #NT!
+ zaydeni_desc: "The Zaydeni'a are one of the oldest legal schools in the Wardenite faith, predating most of the modern schools by several centuries and having outlasted more rival traditions than most scholars can count. They take a somewhat agnostic view towards the Mamur himself, instead focusing on the conduct and education of Judges and the maintenance of the First Laws as fundamental to all other legal practice." #NT!
+ atarni_name: "Atarni'a" #NT!
+ atarni_desc: "The Atarni'a are just the latest in a long line of Literalist movements who have risen to prominence and subsequently declined into irrelevance. The one thing these schools have had in common is a dogged stance that each passage written by the First Warden must be interpreted without the injection of personal presupposition, context, or the assumption of metaphor in almost all cases. This has led to Literalist schools being somewhat bizarre and inflexible in their overall practice, but the allure of such a simple and pure approach to an often opaque set of case law has meant that whenever one school falls, another shortly moves to take its place." #NT!
+ ruthamari_name: "Ruthamari'a" #NT!
+ ruthamari_desc: "The Ruthamari'a are credited with the foundation and propagation of the Zathmalite Dissent in 678, and are still the heart of the Idealist movement, as well as the glue holding its often divergent traditions together and maintaining its orthodoxy against the temptations of radicalism. The core of their dissent was, and still is the claim that the Mamurs were, like the War Laws of old, a product of the Great Uprising. With the days of revolt against the evil Ritualists far in the past, the Wardenite faithful must seek new political solutions to their problems, lest the First Warden's hard-won gains be lost to incompetence." #NT!
+ narabiqi_name: "Narabiqni'a" #NT!
+ narabiqi_desc: "A controversial Idealist school, the Narabiqi'a, or populists, do not so much reject the Mamur, but instead have opted to completely redefine the title. Any Wardenite who is acclaimed by his peers for actions defending the Pillars of Virtue in the Struggle Against Evil may be so hailed, and there may be as many or as few Mamurs as the Wardenite feel is necessary. Other Narabiqi'a innovations have occurred from this application of the Principle of Acclaim to other legal conundrums, and has resulted in a number of heterodox rulings." #NT!
+ tarthari_name: "Tarthari'a" #NT!
+ tarthari_desc: "The Tarthari'a's legal traditions make up the core of the Kathisti Dissent in 1152 IS. Many of their legal principles became the core of that faith, most notably the strictly codified list of rights and responsibilities accorded to Judges, and the conclusion that attempts to influence legal rulings by uncredentialed parties should be rendered Inexcusable Crimes." #NT!
+ kedbarki_name: "Kedbarki'a" #NT!
+ kedbarki_desc: "A highly militant school, the Kedbarki'a school began with a series of legal dissents over the tolerance of Ritualists, with the school's founding legalists having taken the position that all unconverted Ritualists were effectively enemy combatants. In the years that followed the Kedbarki'a developed on this thesis by adopting a general stance that the Wardenite faith should still be structured like the war camps of the First Warden's early campaigns. All frivolity must be sacrificed so that Evil may finally be defeated." #NT!
+ hasani_name: "Hasani'a" #NT!
+ hasani_desc: "A controversial and young branch of Idealist Wardenism, Hasani'a emerged from the followers of the magistrate Hasan ibn Ubayd in the late 12th century IS. The Hasanites preach as their founder did - that all believing Wardenites are carriers of the First Warden's laws. Not only are the Mamurs illegitimate, but so are all special powers and dispensations granted to Judges and magistrates. A judge, they say, can only truly wield powers as granted to them by the community of faithful Wardenites as a whole. Any other pretensions are not only illegitimate, but are fundamentally an illegal form of tyranny.\n\nHasan ibn Ubayd's unconventional interpretation of Wardenite law would lead to him and his followers being purged from the council of the Republic of Disuwai by Rishad al Ma'aj in 1159, and he spent the final two years of his life in prison before dying of pneumonia in 1161. His followers were able to convince the Idealist High Court to rescind the order condemning them as Radicals in 1181 by denouncing their most extreme colleagues, but their status within the Idealist movement is still quite tenuous. " #NT!
+ thabiti_name: "Thabiti'a" #NT!
+ thabiti_desc: "The school most strongly associated with the [GetTitleByKey('e_eastern_mamuramat').GetNameNoTier] during its heyday at the height of the Age of Fire, the Thabiti'a have always maintained a strong presence in the eastern half of Wardenite Sarradon, even after the the Mamur Tathtali formally integrated the title into his own with the marriage of the last Eastern Mamur's daughter, Sanad, during the chaos of The Downfall in 810 IS." #NT!
+ misria_name: "Misri'a" #NT!
+ misria_desc: "A tradition notorious for its mystical, strange practices, the Misri'a have taken a series of passages most schools interpret as condoning the usage of personal insight among judges to mean that a Judge, if properly trained, can recieve insights by communing with He Who Was much in the same way the First Warden was graced." #NT!
+ ajari_name: "Ajari'a" #NT!
+ ajari_desc: "A throwback to the earliest era of Wardenite legal doctrine, the Ajari'a hold that valid legal arguments must be sourced exclusively from a small set of documents, most notably the Book of Days, the Pillars of Virtue, and The Records of the Warden's Court. Anything else, including over-reliance on a judge's independant judgement, will render a decision invalid in total. A rigid stance to be sure, but one which has endured for centuries." #NT!
+ alshammi_name: "A'Shammi'a" #NT!
+ alshammi_desc: "The A'Shammi'a were the traditional school of the far eastern Mammuramat, and the school still sees themselves as upholding the mission of the Sunrise Expedition that established the controversial and short-lived fourth Mamur to chase the Ritualists all the way to distant Kashirya. The title was vacated after the disappearance of the second Far Eastern Mamur Ubaydar along with his armies during a suspected [gedeora|E] in 409 IS, but the A'Shammi'a have sought support for its reestablishment ever since." #NT!
+ kurushi_name: "Kurushi'a" #NT!
+ kurushi_desc: "Holding to a tradition they claim dates to the golden age of the Mamuramat - meaning here the years between the First Warden's death in 341 IS and the dissolution of the Western Mamur in 627 IS - whose end they cite as the cause of all manner of dysfunction within the Wardenite faith. Though they in theory support the remaining Mamur, their historical insistence that they are legally the holder of all three Mamuramat titles has resulted in Kurushi'a judges throwing their support behind several failed rebels in an attempt to reestablish one or more of the voided titles." #NT!
+ hathali_name: "Hathali'a" #NT!
+ hathali_desc: "A Tradition associated with the Iblidi Mamurs of the West, the Hathali'a achieved unprecedented prominence during the latter half of the of their host Mamuramat's existence. Unfortunately, their fortunes would collapse after the extinction of the main Iblidi dynastic line in 652 as various factions within the [GetTitleByKey('e_western_mamuramat').GetNameNoTier] descended into a bitter and ultimately self destructive civil war for control of the throne. The Hathali'a Tradition itself spiraled into to a particularly violent factionalism that ended with the infamous Court of Daggers in 675, where an attempted last minute mediation between the pretenders to the throne descended into a chaotic bloodbath where judge slew judge. The horror this event engendered across the Wardenite world is often believed to have been the provocation that drew the Mamurs of the Center to intervene to finally end the strife, and the West Mamramat itself.\n\nThe Hathali'a fortunes have recovered somewhat, but their prominence has never returned. They are noteworthy for their rigid and somewhat obsessively maintained system of testing would-be judges for competency and honesty." #NT!
+ mabruki_name: "Mabruki'a" #NT!
+ mabruki_desc: "The Mabruki'a are a unique and ancient school in the Traditional branch of Wardenite jurisprudence. Dating their dissent to a series of legal rulings promulgated by the First Warden himself to manage urban disputes as the faith was beginning to establish itself across Sarradon, the Mabruki'a maintain that the right of dissent extends to all Wardenites of legal age, and has a well defined corpus of mercantile law. The school is particularly popular in cities." #NT!
+ zubatai_name: "Zubatai" #NT!
+ zubatai_desc: "A radical movement founded in 879, but with roots in some rural Sarradonian folk courts going back far longer, the Zubatai'a have earned the ire of the rest of the often warlike Wardenite faith by rejecting in principle the very core of its history - Struggle Against Evil. Drawing from a number of texts deemed apocryphal by most Wardenite scholars, Zubatai'a judges have deemed most acts of violence to be Inexcusable Crimes, with but a narrow allowance for self defence. The fact that this rejection extends to a Duty to Intervene has resulted in this school being largely suppressed by most Wardenite States." #NT!
+ qatirri_name: "Qatirri'a" #NT!
+ qatirri_desc: "Sometimes referred to as the "Bandit School", Qatirri'a barely qualifies as a coherent school of thought, and is more often referred to as such by non-Qatirri'a judges seeking to lump a number of heterodox beliefs into one easily condemned category. Broadly speaking, the tradition is a throwback to the "War Laws" which date to the early period of the Great Uprising, but which the First Warden himself first curtailed then explicitly rejected towards the end of his life. These laws, which allowed all manner of conduct in times of conflict, more or less condone a number of actions quite popular amongst bandits and less scrupulous warlords, thus earning the school its nickname." #NT!
+ tawatasi_name: "Tawatasi'a" #NT!
+ tawatasi_desc: "The Tawatasi'a school shares its name with a popular species of yam grown by Sarradonian peasants. Its adherents are found almost exclusively among the graduates of the folk courts in the continent's most rural areas. While the name itself was originally meant as an insult, it has been adopted as something of an inside joke by the loose brotherhood of countryside judges who adhere to its broad principles. While usually concerned with agrarian rights and water policy, some of the school's more private beliefs regarding the final ownership of all land and its products by those who till it may have resulted in some of Sarradon's most destructive peasant and slave revolts in history." #NT!
+ minbiri_name: "Minbiri'a" #NT!
+ minbiri_desc: "The Minbiri'a, or the Permissiveness school, are among the oldest surviving radical sects. Emphasizing a holistic approach to textual sources - which is to say accepting almost all of them as having some manner of validity - the Minbiri'a have assembled a somewhat compelling challenge to the Wardenite Creed. In their legal practice, many Compulsory Prohibitions are downgraded to being merely Reccommended Conduct. The school has survived largely due to the occasional periods of popularity it has enjoyed amongst the rich and powerful in Wardenite society." #NT!
+ keffali_name: "Keffali'a" #NT!
+ keffali_desc: "A Sarradonization of the word "[chevalie|E]", the Keffali'a school originated as a series of ad-hoc and interim rulings seeking to normalize the growing presence of [marcher|E] merchants and mercenaries in Sarradonian society, but has since grown so specialized that it has developed into a legal school all of its own. While usually considered a radical school, it has largely been ignored by the rest of the Wardenite faith since the formal practice of the tradition has been kept localized to a handful of coastal cities in Western Sarradon, and seems unlikely to spread." #NT!
+ afazariani_name: "Afazariani" #NT!
+ afazariani_desc: "Afazariani - a Sarradonization of the word '[aversarian|E]' - school enjoyed a brief period of mainstream acceptance during the early days of the [saints_war|E] as the Mamuramat pursued a policy of collaboration and alliance with the Agionist invaders who were still seen in those early days as valued allies against the resurgent Ritualist threat, and possible candidates for eventual integration within the Wardenite faith. Alas, this was not to be, and when the Agionists turned upon their erstwhile allies the Afazariani school's fall from grace happened almost overnight. It survives largely within lands controlled by the orders, and even there is not much liked." #NT!
+ filosi_name: "Filosi'a" #NT!
+ filosi_desc: "A legal school constructed to harmonize Wardenite religious law with Sjalvolki religious principles, the Filusi'a school is perhaps most remarkable for producing thousands upon thousands of pages pontificating over rules relating to hunting, hunters, and game preserves. Incidentally, it has also one of the most robust corpuses of Medical traditions found in the Wardenite world, synthesizing many of the more effective remedies pioneered by Sjalvolki shamans and medicine men throughout the centuries." #NT!
+ zorani_name: "Qenrani'a" #NT!
+ zorani_desc: "A school that borrows heavily from the rich legal traditions of the Amsari, the Qenrani'a school is somewhat controversial due to their habitual elevation of the Mamur to the status of divine ruler, somewhat analogous to that of the Qanamsar. On the other hand, the school has achieved praise for its scholars' clear talent for making sense of Wardenism's traditionally labyrinthine corpus of property and inheritnace law." #NT!
+ kemsari_name: "Qemsari'a" #NT!
+ kemsari_desc: "The Qemsari'a emerge from an attempt at managing the peoples of the formerly great kingdom of the Kemsar. Long reduced from their former urban heights, the scholars of the Qemsari'a school usually cut their teeth arguing cases relating to tribal water rights and oasis access. While the interminable droning over minute regulations on irrigation canal depth is hard to bear, most can agree it's far preferable to the traditionally violent methods with which these disputes are usually handled." #NT!
+ dhahabi_name: "Dhahabi'a" #NT!
+ dhahabi_desc: "An attempt at harmonizing Adabyss' odd legal traditions with Wardenism, the Dhahabi'a has had constant struggles with popularity and even sustaining a large enough membership to continue to be called a "school" has been a struggle. The Adabyssians themselves barely tolerate them, recognizing their scholars as a vestige of an unwelcome religious tradition. Their Wardenite coreligionists see them as traitors, guilty of inviting the next wave of invaders to oppress the faith. With few friendly courts to call home, the Dhahabi'a are in an unenviable position." #NT!
+ daifarosi_name: "Daifarosi'a" #NT!
+ daifarosi_desc: "As our scholars have attempted to make the Continent their home, they have found those known as the 'Irushi' to be an unexpectedly amenable people. With a lengthy legal tradition based around the god Daifarosa, almost certainly the distorted memory of some particularly admirable lawgiver from ancient days. The resulting legal synthesis had proven to be surprisingly valuable for day to day bureaucratic purposes." #NT!
+ hayashi_name: "Hayashi'a" #NT!
+ hayashi_desc: "The Hayashi'a school was founded in 1251 IS by militants fighting against the invading Agionists, and holds that the legal system's primary purpose must be the defeat of the infidels. First and foremost among their beliefs is that the War Laws are still in effect, and can only be ended once Wardenism has triumphed. In addition, soldiers are to be placed above the law, and the heretics and heathens which they fight against are not to be protected by it, as such protections are only afforded to those who are willing to protect the system in turn. Its relatively short history has already seen a number of cases regarding nonbelievers overturned, with the reasoning that those who reject the First Warden's teachings are inherently guilty of the highest crimes, and that even granting them a trial is a betrayal of Wardenite values." #NT!
+  ############################## 
+  # PROCEDURAL TRADITION NAMES # 
+ ismailia_name: "Ismaili'a" #NT!
+ mubarakia_name: "Mubaraki'a" #NT!
+ naderia_name: "Naderi'a" #NT!
+ alamia_name: "Alami'a" #NT!
+ qaderia_name: "Qaderi'a" #NT!
+ qadirria_name: "Qadirri'a" #NT!
+ abdalia_name: "Abdali'a" #NT!
+ hayakamia_name: "Hayakami'a" #NT!
+ aarifia_name: "Aarifi'a" #NT!
+ abdulia_name: "Abduli'a" #NT!
+ aghlabia_name: "Aghlabi'a" #NT!
+ ahnafia_name: "Ahnafi'a" #NT!
+ alimia_name: "Alimi'a" #NT!
+ alqamia_name: "Alqami'a" #NT!
+ antaria_name: "Antari'a" #NT!
+ asimia_name: "Asimi'a" #NT!
+ azamia_name: "Azami'a" #NT!
+ bahiria_name: "Bahiri'a" #NT!
+ burnaddia_name: "Burnaddi'a" #NT!
+ dhahnakia_name: "Dhahnaki'a" #NT!
+ fadilia_name: "Fadili'a" #NT!
+ fadlia_name: "Fadli'a" #NT!
+ faroukia_name: "Farouki'a" #NT!
+ ghalibia_name: "Ghalibi'a" #NT!
+ habibia_name: "Habibi'a" #NT!
+ hafizia_name: "Hafizi'a" #NT!
+ halilia_name: "Halili'a" #NT!
+ hanzalia_name: "Hanzali'a" #NT!
+ harithia_name: "Harithi'a" #NT!
+ hasania_name: "Hasani'a" #NT!
+ hashimia_name: "Hashimi'a" #NT!
+ humaamia_name: "Humaami'a" #NT!
+ husamia_name: "Husami'a" #NT!
+ hussaynia_name: "Hussayni'a" #NT!
+ idrisia_name: "Idrisi'a" #NT!
+ ikrimia_name: "Ikrimi'a" #NT!
+ isaia_name: "Isai'a" #NT!
+ maslamia_name: "Maslami'a" #NT!
+ samiria_name: "Samiri'a" #NT!
+ yasiria_name: "Yasiri'a" #NT!
+ suraqia_name: "Suraqi'a" #NT!
+ yusufia_name: "Yusufi'a" #NT!
+ zainuddia_name: "Zainuddi'a" #NT!
+ adilia_name: "Adili'a" #NT!
+ faghiria_name: "Faghiri'a" #NT!
+ hanifia_name: "Hanifi'a" #NT!
+ isria_name: "Isri'a" #NT!
+ jaharia_name: "Jahari'a" #NT!
+ kamalia_name: "Kamali'a" #NT!
+ khadijia_name: "Khadiji'a" #NT!
+ lubabia_name: "Lubabi'a" #NT!
+ maryamia_name: "Maryami'a" #NT!
+ parweenia_name: "Parweeni'a" #NT!
+ sanadia_name: "Sanadi'a" #NT!
+ qamaria_name: "Qamari'a" #NT!
+ rashidia_name: "Rashidi'a" #NT!
+ sholia_name: "Sholi'a" #NT!
+ tanazia_name: "Tanazi'a" #NT!
+ talibia_name: "Talibi'a" #NT!
+  ################# 
+  # FOUNDING ERAS # 
+ the_great_uprising_legal_tradition_founding_name: "[Concept('the_great_uprising_legal_tradition','The Great Uprising')|E]" #NT!
+ the_establishment_legal_tradition_founding_name: "[Concept('the_establishment_legal_tradition','The Establishment')|E]" #NT!
+ traditional_golden_age_legal_tradition_founding_name: "[Concept('the_traditional_golden_age_legal_tradition','Traditional Golden Age')|E]" #NT!
+ age_of_ink_and_gold_legal_tradition_founding_name: "[Concept('the_age_of_ink_and_gold_legal_tradition','Age of Ink and Gold')|E]" #NT!
+ age_of_tathtali_legal_tradition_founding_name: "[Concept('the_age_of_tathtali_legal_tradition','Age of Tathtali')|E]" #NT!
+ abajjarmia_golden_age_legal_tradition_founding_name: "[Concept('the_abajjarmia_golden_age_legal_tradition','Abajjarmia Golden Age')|E]" #NT!
+ era_of_dissent_legal_tradition_founding_name: "[Concept('the_era_of_dissent_legal_tradition','Era of Dissent')|E]" #NT!
+ modern_era_legal_tradition_founding_name: "[Concept('the_modern_era_legal_tradition','Modern Era')|E]" #NT!
+  # ORIGINS # 
+ reformed_radicals_legal_tradition_origin_name: "Reformed Radicals" #NT!
+ reformed_radicals_legal_tradition_origin_desc: 
+ mamurial_creation_legal_tradition_origin_name: "Mamurial Creation" #NT!
+ mamurial_creation_legal_tradition_origin_desc: 
+ pioneering_judge_legal_tradition_origin_name: "Pioneering Judge" #NT!
+ pioneering_judge_legal_tradition_origin_desc: 
+ reform_movement_legal_tradition_origin_name: "Reform Movement" #NT!
+ reform_movement_legal_tradition_origin_desc: 
+ rebellious_magistrates_legal_tradition_origin_name: "Rebellious Magistrates" #NT!
+ rebellious_magistrates_legal_tradition_origin_desc: 
+ scholastic_resistance_legal_tradition_origin_name: "Scholastic Resistance" #NT!
+ scholastic_resistance_legal_tradition_origin_desc: 
+ unknown_origin_legal_tradition_origin_name: "Unknown" #NT!
+ unknown_origin_legal_tradition_origin_desc: 
+ warlord_innovation_legal_tradition_origin_name: "Warlord Innovation" #NT!
+ warlord_innovation_legal_tradition_origin_desc: 
+ folk_movement_legal_tradition_origin_name: "Folk Movement" #NT!
+ folk_movement_legal_tradition_origin_desc: 
+  # MAMURIAL PRIVILEGES # 
+ can_appoint_high_judges_desc: "#positive_value Can appoint [high_judge]s#!" #NT!
+ can_appoint_high_judges_negative_desc: "#negative_value Cannot appoint [high_judge]s#!" #NT!
+ can_use_legal_manipulation_on_high_judges_desc: "#positive_value Can use the Legal Manipulation Interaction against [high_judge]s#!" #NT!
+ can_use_legal_manipulation_on_high_judges_negative_desc: "#negative_value Cannot use the Legal Manipulation Interaction against [high_judge]s#!" #NT!
+ can_dismiss_high_judges_unanimously_desc: "#positive_value Can dismiss [high_judge]s unanimously#!" #NT!
+ can_dismiss_high_judges_unanimously_negative_desc: "#negative_value Cannot dismiss [high_judge]s unanimously#!" #NT!
+  ############### 
+  # TRIGGER LOC # 
+ HAS_LEGAL_TRADITION_COOLDOWN: "Cannot do this action again until [GetCurrentDateWithDiff( GetVarTimeRemaining( GetPlayer.MakeScope, 'legal_tradition_change_cooldown') )]" #NT!
+ NO_LEGAL_TRADITION_COOLDOWN: "I am not under the effects of a #E Legal Tradition#! change cooldown" #NT!
+ INSUFFICIENT_MAMURIAL_AUTHORITY_HIGH_JUDGE: "They are a [high_judge] and the relevant High Court does not have enough Mamurial Authority" #NT!
+  # LEGACIES # 
+ PRESTIGE_AND_RENOWN_FROM_TRIALS: "Gain [prestige|E] [prestige_i] and [dynasty_prestige|E] [dynasty_prestige_i] from good rulings" #NT!
+ PRESTIGE_AND_RENOWN_FROM_PATRONAGE: "Gain [prestige|E] [prestige_i] and [dynasty_prestige|E] [dynasty_prestige_i] from patronizing #E Legal Traditions#!" #NT!
+ ALL_EDUCATIONS_HAVE_CHANCE_OF_JURIST_TRAIT: "Every [education_focus|E] has a chance of giving the [GetTrait('jurist_1').GetName( GetNullCharacter )] [trait|E]" #NT!
+ LEARNING_EDUCATION_ALWAYS_GIVES_JURIST_TRAIT: "The [GetFocus('education_learning').GetName] [education_focus|E] is guaranteed to give the [GetTrait('jurist_1').GetName( GetNullCharacter )] [trait|E]" #NT!
+ DYNASTY_MEMBERS_ON_COUNCIL_JOBS_EARN_JURIST_PROGRESS: "[dynasty|E] members with a [council|E] position will slowly accumulate @judicial_power_icon!#E Jurist Trait Progress#!" #NT!
+ DYNASTY_MEMBERS_WITH_JURIST_TRAIT_PERFORM_COUNCIL_JOBS_BETTER: "[councillors|E] with a [GetTraitGroup('lifestyle_jurist').GetName] [trait|E] perform [councillor_tasks|E] better" #NT!
+ JUDICIAL_POWER_BONUS: "#E Judicial Power#!: @judicial_power_icon!#positive_value +25%#!" #NT!
+ CAN_PAY_RENOWN_TO_GIVE_CHILD_JUST_TRAIT: "Can pay [dynasty_prestige|E] [dynasty_prestige_i] to give a child the [GetTrait('just').GetName( GetNullCharacter )] [trait|E]" #NT!
+  ######## 
+  # MISC # 
+ GENERATED_TRADITION_NAME: "[Concatenate(GetGlobalVariable('tradition_namesake_scope').Char.GetFirstNameNoTooltip,'ia')]" #NT!

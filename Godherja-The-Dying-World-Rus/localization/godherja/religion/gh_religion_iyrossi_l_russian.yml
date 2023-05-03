@@ -1,0 +1,71 @@
+﻿l_russian:
+  
+ #iyrossi Loc 
+ iyrossi_religion: "Iyrossi" #NT!
+ iyrossi_religion_adj: "Iyrossian" #NT!
+ iyrossi_religion_adjerent: "Iyrossi" #NT!
+ iyrossi_religion_adherent_plural: "Iyrossi" #NT!
+ iyrossi_religion_desc: "Emphasizing the relationship with the natural world and refusal to submit to cruelty inflicted on its practitioners, the highest focus of the Iyrossi faith is in the belief that no slight should ever be forgiven without a settling of scores first. Any insult or offense must be paid for, with the price ranging from a few coins to the offender's life. Any other path would be an insult Deiphartoros, God of Justice." #NT!
+ iyrossi_religion_high_god_name: "Deiphartoros" #NT!
+ iyrossi_religion_high_god_name_possessive: "Deiphartoros'" #NT!
+ iyrossi_religion_high_god_name_alternate: "Iutonan" #NT!
+ iyrossi_religion_high_god_name_alternate_possessive: "Iutonan's" #NT!
+ iyrossi_religion_devil_name: "Silvaia" #NT!
+ iyrossi_religion_devil_name_possessive: "Silvaia's" #NT!
+ iyrossi_religion_death_deity_name: "$iyrossi_religion_devil_name$" #NT!
+ iyrossi_religion_death_deity_name_possessive: "$iyrossi_religion_devil_name_possessive$" #NT!
+ iyrossi_religion_house_of_worship: "Shrine" #NT!
+ iyrossi_religion_house_of_worship_plural: "Shrines" #NT!
+ iyrossi_religion_religious_symbol: "Star of Iutonan" #NT!
+ iyrossi_religion_religious_text: "Tales" #NT!
+ iyrossi_religion_religious_head_name: "Great Iliyriat" #NT!
+ iyrossi_religion_religious_head_name_title: "Great Shrine" #NT!
+ iyrossi_religion_religious_head_title: "Great Iliyriat" #NT!
+ iyrossi_religion_devotee_male: "Righteous" #NT!
+ iyrossi_religion_devotee_male_plural: "Righteous" #NT!
+ iyrossi_religion_devotee_female: "Righteous" #NT!
+ iyrossi_religion_devotee_female_plural: "Righteous" #NT!
+ iyrossi_religion_devotee_neuter: "Righteous" #NT!
+ iyrossi_religion_devotee_neuter_plural: "Righteous" #NT!
+ iyrossi_religion_priest: "Iutoniac" #NT!
+ iyrossi_religion_priest_plural: "Iutoniacs" #NT!
+ iyrossi_religion_priest_male: "Iutoniac" #NT!
+ iyrossi_religion_priest_male_plural: "Iutoniacs" #NT!
+ iyrossi_religion_priest_female: "Iutoniac" #NT!
+ iyrossi_religion_priest_female_plural: "Iutoniacs" #NT!
+ iyrossi_religion_priest_alternate: "Iutoniac" #NT!
+ iyrossi_religion_priest_alternate_plural: "Iutoniacs" #NT!
+ iyrossi_religion_bishop: "Ilyriat" #NT!
+ iyrossi_religion_bishop_plural: "Ilyriats" #NT!
+ iyrossi_religion_positive_afterlife: "Io" #NT!
+ iyrossi_religion_negative_afterlife: "Silval" #NT!
+ iyrossi_religion_divine_realm: "Io" #NT!
+ iyrossi_religion_creator_god_name: "$iyrossi_religion_high_god_name$" #NT!
+ iyrossi_religion_creator_god_name_possessive: "$iyrossi_religion_high_god_name_possessive$" #NT!
+ iyrossi_religion_health_god_name: "$iyrossi_religion_high_god_name_alternate$" #NT!
+ iyrossi_religion_health_god_name_possessive: "$iyrossi_religion_high_god_name_alternate_possessive$" #NT!
+ iyrossi_religion_fertility_god_name: "$iyrossi_religion_high_god_name$" #NT!
+ iyrossi_religion_fertility_god_name_possessive: "$iyrossi_religion_high_god_name_possessive$" #NT!
+ iyrossi_religion_wealth_god_name: "$iyrossi_religion_high_god_name_alternate$" #NT!
+ iyrossi_religion_wealth_god_name_possessive: "$iyrossi_religion_high_god_name_alternate_possessive$" #NT!
+ iyrossi_religion_household_god_name: "$iyrossi_religion_high_god_name$" #NT!
+ iyrossi_religion_household_god_name_possessive: "$iyrossi_religion_high_god_name_possessive$" #NT!
+ iyrossi_religion_fate_god_name: "$iyrossi_religion_high_god_name_alternate$" #NT!
+ iyrossi_religion_fate_god_name_possessive: "$iyrossi_religion_high_god_name_alternate_possessive$" #NT!
+ iyrossi_religion_knowledge_god_name: "$iyrossi_religion_high_god_name$" #NT!
+ iyrossi_religion_knowledge_god_name_possessive: "$iyrossi_religion_high_god_name_possessive$" #NT!
+ iyrossi_religion_war_god_name: "$iyrossi_religion_high_god_name$" #NT!
+ iyrossi_religion_war_god_name_possessive: "$iyrossi_religion_high_god_name_possessive$" #NT!
+ iyrossi_religion_trickster_god_name: "$iyrossi_religion_devil_name$" #NT!
+ iyrossi_religion_trickster_god_name_possessive: "$iyrossi_religion_devil_name_possessive$" #NT!
+ iyrossi_religion_night_god_name: "$iyrossi_religion_devil_name$" #NT!
+ iyrossi_religion_night_god_name_possessive: "$iyrossi_religion_devil_name_possessive$" #NT!
+ iyrossi_religion_water_god_name: "$iyrossi_religion_health_god_name$" #NT!
+ iyrossi_religion_water_god_name_possessive: "$iyrossi_religion_health_god_name_possessive$" #NT!
+ iyrossi_religion_witch_god_name: "$iyrossi_religion_devil_name$" #NT!
+ iyrossi_religion_witch_god_name_possessive: "$iyrossi_religion_devil_name_possessive$" #NT!
+ iyrossi: "Iyrossi" #NT!
+ iyrossi_adj: "Iyrossian" #NT!
+ iyrossi_adjerent: "Iyrossi" #NT!
+ iyrossi_adherent_plural: "Iyrossi" #NT!
+ iyrossi_desc: "The Iyrossi faith had not been practiced openly since the second century, when they were invaded and fully occupied by the [aversarians|E] in the second century. Several of their rituals were absorbed into the Aversarian faith as a way to keep the now-enslaved Iyrossi complacent, but many of them continued to practice their faith's tenets in secret. And they have eagerly waited for the day to carry out holy retribution on their former masters for centuries of bondage." #NT!

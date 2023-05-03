@@ -1,0 +1,100 @@
+﻿l_russian:
+ tolerance_gospel_modifier: "Tolerance Gospel" #NT!
+ tolerance_gospel_modifier_desc: "This character has urged their people to embrace patience and unity." #NT!
+ fanatical_recruits_modifier: "Fanatical Recruits" #NT!
+ fanatical_recruits_modifier_desc: "This character has a steady stream of zealous recruits." #NT!
+ tensions_eased_province_modifier: "Tensions Eased" #NT!
+ tensions_eased_province_modifier_desc: "The religious tension in this province is abating." #NT!
+ riots_and_murders_province_modifier: "Riots and Murders" #NT!
+ riots_and_murders_province_modifier_desc: "This county has been shaken by massacres and expulsions of so-called undesirables." #NT!
+ hate_monger_modifier: "Hate-Monger" #NT!
+ hate_monger_modifier_desc: "This character is a known sower of discord and hatred." #NT!
+  
+ nursing_salaries_for_single_mothers_modifier: "Nursing Salaries" #NT!
+ nursing_salaries_for_single_mothers_modifier_desc: "This character has instituted a system whereby single mothers get paid to nurse their children for a time." #NT!
+ widows_and_widowers_amazing_funds_modifier: "Widow Funds" #NT!
+ widows_and_widowers_amazing_funds_modifier_desc: "This character has created a fund for those widowed by war or misfortune - but people with children out of wedlock get nothing." #NT!
+ starving_single_mothers_and_children_modifier: "Starving Mothers" #NT!
+ starving_single_mothers_and_children_modifier_desc: "Widows, single parents, and their children are left to starve in this character's lands." #NT!
+ destitute_single_mothers_modifier: "Woeful Menagerie" #NT!
+ destitute_single_mothers_modifier_desc: "This character's court is full of destitute single mothers and their children, in various states of wretchedness." #NT!
+ anti_innovation_muslim_modifier: "Nizamiyyah" #NT!
+ anti_innovation_muslim_modifier_desc: "This character has shown interest in a new religious movement that abhors rationalism and science." #NT!
+ rolling_in_filth_modifier: "Rolling in Filth" #NT!
+ rolling_in_filth_modifier_desc: "This character is unconcerned about cleanliness and so-called hygiene." #NT!
+ cannot_read_greek_modifier: "Claims to Read Greek" #NT!
+ cannot_read_greek_modifier_desc: "This character claims to be versed in the language of the scholars of the ancient world, but evidence points to the contrary." #NT!
+ misread_medicine_incompetence_modifier: "Misread the Canon of Medicine" #NT!
+ misread_medicine_incompetence_modifier_desc: "This character has read the Canon of Medicine and other great works on health and hygiene, but misunderstood them completely." #NT!
+ inspired_medicine_modifier: "Inspired by Mixed Magic Innovations" #NT!
+ inspired_medicine_modifier_desc: "This character has taken an interest in recent innovations in the field of [mixed_magic|E] by Partic [magi|E]." #NT!
+ medical_insights_modifier: "Medical Insights" #NT!
+ medical_insights_modifier_desc: "This character has read Hippocrates and Galen, and now insists people wash their hands at court." #NT!
+ fp2_advanced_maritime_technology_modifier: "Advanced Maritime Technology" #NT!
+ fp2_advanced_maritime_technology_modifier_desc: "This character is in possession of naval technology which is far ahead of the rest of the world" #NT!
+ fp2_successful_shipyards_modifier: "Master Shipbuilders" #NT!
+ fp2_successful_shipyards_modifier_desc: "This location is home to experienced naval craftsmen capable of putting together even the most complex of vessels" #NT!
+ foreboding_visions_modifier: "Foreboding Visions of the Future" #NT!
+ foreboding_visions_modifier_desc: "In fever dreams and fits of what might be possession, this character experiences ominous visions of events to come." #NT!
+ mysterious_prophetess_illness_modifier: "Sickness of the Prophets" #NT!
+ mysterious_prophetess_illness_modifier_desc: "This character suffers from a wasting illness seemingly connected to prophetic dreams." #NT!
+ frightened_by_portent_modifier: "Frightened by Portent" #NT!
+ frightened_by_portent_modifier_desc: "This character has received a portent of dreadful events to come." #NT!
+ cortes_modifier: "Cortes" #NT!
+ cortes_modifier_desc: "This character allows elected representatives of the free municipalities to take part in council meetings." #NT!
+ extra_large_cortes_modifier: "People's Parliament" #NT!
+ extra_large_cortes_modifier_desc: "This character allows #italic anyone#! to take part in council meetings." #NT!
+ vineyards_burnt_county_modifier: "Burned Vineyards" #NT!
+ vineyards_burnt_county_modifier_desc: "This county once housed magnificent vineyards, but they have all been destroyed." #NT!
+ vineyards_protected_county_modifier: "Protected Vineyards" #NT!
+ vineyards_protected_county_modifier_desc: "The vineyards of this county are guarded against religious fanatics who want to burn them down." #NT!
+ crusading_against_iberian_wine_modifier: "Anti-Wine Campaign" #NT!
+ crusading_against_iberian_wine_modifier_desc: "This character is resolved to end the blasphemous drinking habits of their Iberian subjects." #NT!
+ wine_supply_secure_modifier: "Secured Wine Supply" #NT!
+ wine_supply_secure_modifier_desc: "This character has made sure that nothing can threaten their court's supply of fine local wine." #NT!
+ toledo_steel_armaments_modifier: "Armed Like the Marchers" #NT!
+ toledo_steel_armaments_modifier_desc: "This character's soldiers carry blades made from exquisite Salisian steel, like the famed Knights of Chevalie." #NT!
+ toledo_steel_county_modifier: "Salisian Steel" #NT!
+ toledo_steel_county_modifier_desc: "This county produces a strong kind of steel that has been renowned since antiquity." #NT!
+ tortured_smith_spilling_secrets_modifier: "Sword-Making Secrets" #NT!
+ tortured_smith_spilling_secrets_modifier_desc: "This character learned secrets of sword-making from a tortured master smith." #NT!
+ guild_rights_protected_modifier: "Guild Rights Protected" #NT!
+ guild_rights_protected_modifier_desc: "The blacksmiths' guild of this county has been protected against outside interference." #NT!
+ master_smith_npc_modifier: "Master Smith" #NT!
+ master_smith_npc_modifier_desc: "This character's smithing skills are almost without equal." #NT!
+ great_translation_school_modifier: "Great Translation School" #NT!
+ great_translation_school_modifier_desc: "This character has founded a translation school where great foreign works are made available to benefit all of civilization." #NT!
+ mediocre_translation_school_modifier: "Mediocre Translation School" #NT!
+ mediocre_translation_school_modifier_desc: "This character has funded a translation school, but the people involved are of somewhat questionable talent." #NT!
+ translation_effort_modifier: "Translation Effort" #NT!
+ translation_effort_modifier_desc: "This character has employed a capable scholar to translate important works." #NT!
+ dusty_libraries_modifier: "Dusty Libraries" #NT!
+ dusty_libraries_modifier_desc: "The once-magnificent libraries in this character's realm have become dusty and messy. Yet a strange tranquility can be found inside." #NT!
+ mystery_meat_unhealth_benefits_modifier: "Feels Odd" #NT!
+ mystery_meat_unhealth_benefits_modifier_desc: "This character ate a large amount of meat from a mysterious giant carcass that had washed up on a beach. They probably shouldn't have..." #NT!
+ mystery_meat_health_benefits_modifier: "Great Nourishment" #NT!
+ mystery_meat_health_benefits_modifier_desc: "This character ate a large amount of meat from a giant carcass that had washed up on a beach. It was very tasty." #NT!
+ lay_ruler_issued_fatwa_modifier: "Religious Ruling" #NT!
+ lay_ruler_issued_fatwa_modifier_desc: "This ruler issued a legal opinion in a religious matter — though some may claim they have no authority to do so." #NT!
+ saw_the_world_from_above_modifier: "Saw the World From Above" #NT!
+ saw_the_world_from_above_modifier_desc: "This character has had a profound experience of soaring through the sky." #NT!
+ felt_something_modifier: "Awed by Beauty" #NT!
+ felt_something_modifier_desc: "This character heard music of otherworldly beauty." #NT!
+ investing_in_music_modifier: "Investing in Music" #NT!
+ investing_in_music_modifier_desc: "This character is making an effort to have talented musicians, even lowborn, perform at their court." #NT!
+ great_pine_chopped_down_county_modifier: "Great Pine Chopped Down" #NT!
+ great_pine_chopped_down_county_modifier_desc: "In this county stood a great, old stone pine, casting a blissful shade. It stands no more." #NT!
+ aversion_to_joy_modifier: "Aversion to Joy" #NT!
+ aversion_to_joy_modifier_desc: "This character tells themselves that joy and beauty are vain distractions, making you weak." #NT!
+ memorable_public_execution_modifier: "Memorable Public Execution" #NT!
+ memorable_public_execution_modifier_desc: "This character executed someone in a #italic very #!gruesome manner." #NT!
+ compelling_apology_modifier: "Compelling Apology" #NT!
+ compelling_apology_modifier_desc: "Whatever their error, this character made a #italic very #!heartfelt apology." #NT!
+ restitution_to_minorities_modifier: "Restitution to Local Minorities" #NT!
+ restitution_to_minorities_modifier_desc: "This character has redressed some of the grievances of local minorities." #NT!
+ obligations_fulfilled_modifier: "Questionable Obligations" #NT!
+ obligations_fulfilled_modifier_desc: "This character fulfilled their obligations to another ruler — by handing over escaped slaves..." #NT!
+ saqaliba_settlers_county_modifier: "Saqaliba Settlers" #NT!
+ saqaliba_settlers_county_modifier_desc: "Former slaves of Eastern European descent have settled in this province." #NT!
+ former_slave_npc_modifier: "Former Slave" #NT!
+ former_slave_npc_modifier_desc: "This character was once a slave, and is very committed to defending their freedom." #NT!

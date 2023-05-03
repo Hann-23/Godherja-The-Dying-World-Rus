@@ -1,0 +1,39 @@
+﻿l_russian:
+  
+ marndeoticeni_religion: "Tšuekanism" #NT!
+ marndeoticeni_religion_adj: "Tšuekanist" #NT!
+ marndeoticeni_religion_adjerent: "Tšuekanist" #NT!
+ marndeoticeni_religion_adherent_plural: "Tšuekanists" #NT!
+ marndeoticeni_religion_desc: "The ancient beliefs of the Marndeoticeni people in the northern Aironoian isles." #NT!
+ marndeoticeni_high_god_name: "Tšuek'a" #NT!
+ marndeoticeni_high_god_name_possessive: "Tšuek'a" #NT!
+ marndeoticeni_high_god_name_alternate: "One-Clad-In-Black" #NT!
+ marndeoticeni_high_god_name_alternate_possessive: "One-Clad-In-Black's" #NT!
+ marndeoticeni_devil_name: "Death" #NT!
+ marndeoticeni_devil_name_possessive: "Death's" #NT!
+ marndeoticeni_death_deity_name: "$marndeoticeni_devil_name$" #NT!
+ marndeoticeni_death_deity_name_possessive: "$marndeoticeni_devil_name_possessive$" #NT!
+ marndeoticeni_house_of_worship: "Runeforge" #NT!
+ marndeoticeni_house_of_worship_plural: "Runeforges" #NT!
+ marndeoticeni_religious_symbol: "The First Rune" #NT!
+ marndeoticeni_religious_text: "the ancient runes" #NT!
+ marndeoticeni_religious_head_title: "First Shaper" #NT!
+ marndeoticeni_religious_head_title_name: "the First Shaper" #NT!
+ marndeoticeni_devotee: "forger" #NT!
+ marndeoticeni_devotee_plural: "forgers" #NT!
+ marndeoticeni_priest: "Shaper" #NT!
+ marndeoticeni_priest_plural: "Shapers" #NT!
+ marndeoticeni_priest_alternate_plural: "Shaper" #NT!
+ marndeoticeni_bishop: "High Shaper" #NT!
+ marndeoticeni_bishop_plural: "High Shapers" #NT!
+ marndeoticeni_positive_afterlife: "the Great Forge" #NT!
+ marndeoticeni_negative_afterlife: "the Great Forge" #NT!
+ marndeoticeni_creator_god_name: "$marndeoticeni_high_god_name$" #NT!
+ marndeoticeni_creator_god_name_possessive: "$marndeoticeni_high_god_name_possessive$" #NT!
+ marndeoticeni_witch_god_name: "$marndeoticeni_devil_name$" #NT!
+ marndeoticeni_witch_god_name_possessive: "$marndeoticeni_devil_name_possessive$" #NT!
+ marndeoticeni_cult: "Tšuekanism" #NT!
+ marndeoticeni_cult_adj: "Tšuekanist" #NT!
+ marndeoticeni_cult_adherent: "Tšuekanist" #NT!
+ marndeoticeni_cult_adherent_plural: "Tšuekanists" #NT!
+ marndeoticeni_cult_desc: "Tšuekanists worship the god Tšuek'a, the One-Clad-In-Black, who they believed created man at the dawn of time. They believe that Tšuek'a taught man the art of enchantment in order to fend for themselves, and the art of rune-making, to pass his teachings along to future generations. After teaching mankind, it is said that Tšuek'a left and went into a deep slumber. The Tšuekanists believe that his [Concept('tower','sleeping form')|E] can be seen to this very day, and they possess an uncanny sense of the direction of the Tower at all times. Tšuekanist runes also state that Tšuek'a instructed the "First Shapers", though the knowledge of what they had shaped, and to what they had shaped it to, is now long lost to time." #NT!

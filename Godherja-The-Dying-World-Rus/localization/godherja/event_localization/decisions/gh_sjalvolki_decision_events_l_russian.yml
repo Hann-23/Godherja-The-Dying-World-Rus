@@ -1,0 +1,79 @@
+﻿l_russian:
+ sjalvolki_decision.0001.t: "Laying the Foundations" #NT!
+ sjalvolki_decision.0001.desc: "No [ROOT.Char.GetTitleAsNameNoTooltip] can live forever, and when the day comes that I finally leave this world for [ROOT.Char.GetFaith.PositiveAfterLife], I will be prepared. I have already begun recruiting skilled workers in anticipation of the construction efforts that will soon begin, but first, I must answer the most obvious question - where will it be?" #NT!
+ sjalvolki_decision.0001.a.dynastic_burial_site: "[location_option_1.GetNameNoTierNoTooltip], the traditional burial site of my family." #NT!
+ sjalvolki_decision.0001.a: "[location_option_1.GetNameNoTierNoTooltip], my capital." #NT!
+ sjalvolki_decision.0001.b.capital: "[location_option_2.GetNameNoTierNoTooltip], my capital." #NT!
+ sjalvolki_decision.0001.b: "[location_option_2.GetNameNoTierNoTooltip] seems like an excellent location." #NT!
+ sjalvolki_decision.0001.c: "Nothing other than [location_option_3.GetNameNoTierNoTooltip]." #NT!
+ sjalvolki_decision.0001.d: "Eh, whichever." #NT!
+ sjalvolki_decision.0001.e: "Call this off, I've changed my mind." #NT!
+ sjalvolki_decision.0001.e.success_epic: "I successfuly find a location of exceptional qualities" #NT!
+ sjalvolki_decision.0001.e.success_epic.title: "A Spectacular Location!" #NT!
+ sjalvolki_decision.0001.e.success_epic.desc: "I have found a location of truly exceptional beauty." #NT!
+ sjalvolki_decision.0001.e.success_good: "I successfuly find a location of good quality" #NT!
+ sjalvolki_decision.0001.e.success_good.title: "A Beautiful Location" #NT!
+ sjalvolki_decision.0001.e.success_good.desc: "I have found a location of marked beauty." #NT!
+ sjalvolki_decision.0001.e.success_decent: "I find a location of some repute" #NT!
+ sjalvolki_decision.0001.e.success_decent.title: "A Pleasant Location" #NT!
+ sjalvolki_decision.0001.e.success_decent.desc: "I have found a location just good enough to make it worth my while." #NT!
+ sjalvolki_decision.0001.e.failure: "I merely manage to waste both my time and money" #NT!
+ sjalvolki_decision.0001.e.failure.title: "No Good Locations!" #NT!
+ sjalvolki_decision.0001.e.failure.desc: "I have failed to find anything out of the ordinary." #NT!
+ sjalvolki_decision.0001.f: "A swineherd in [location_option_greedy.GetNameNoTierNoTooltip] is selling their land for cheap." #NT!
+ sjalvolki_decision.0001.g: "[location_option_arrogant.GetNameNoTierNoTooltip] has an expensive, but spectacular site!" #NT!
+ sjalvolki_decision.0001.h: "[location_option_zealous.GetNameNoTierNoTooltip] is known holy land!" #NT!
+ sjalvolki_decision.0001.k: "I can reuse the [aversarian|E] tomb at [location_option_cynical.GetNameNoTierNoTooltip]." #NT!
+ sjalvolki_decision.0001.l: "Actually, now may not be the time." #NT!
+ will_build_at_location_1_tt: "You will construct the Barrow at [location_option_1.GetNameNoTierNoTooltip]" #NT!
+ will_build_at_location_2_tt: "You will construct the Barrow at [location_option_2.GetNameNoTierNoTooltip]" #NT!
+ will_build_at_location_3_tt: "You will construct the Barrow at [location_option_3.GetNameNoTierNoTooltip]" #NT!
+ will_build_at_location_diligent_tt: "You will construct the Barrow at [location_option_diligent.GetNameNoTierNoTooltip]" #NT!
+ will_build_at_location_greedy_tt: "You will construct the Barrow at [location_option_greedy.GetNameNoTierNoTooltip]" #NT!
+ will_build_at_location_arrogant_tt: "You will construct the Barrow at [location_option_arrogant.GetNameNoTierNoTooltip]" #NT!
+ will_build_at_location_zealous_tt: "You will construct the Barrow at [location_option_zealous.GetNameNoTierNoTooltip]" #NT!
+ will_build_at_location_cynical_tt: "You will construct the Barrow at [location_option_cynical.GetNameNoTierNoTooltip]" #NT!
+ will_build_at_random_location_tt: "You will construct the Barrow at a random location" #NT!
+  
+ sjalvolki_decision.0011.t: "Striking the Soil" #NT!
+ sjalvolki_decision.0011.desc.farmlands: "We ride across the hearths and farmlands of [barrow_location.GetNameNoTierNoTooltip], signs of scattered civilization all around us. As I crest one of the rare hills of the area, I can see it - the clearing." #NT!
+ sjalvolki_decision.0011.desc.forest: "We ride through the dense forest of [barrow_location.GetNameNoTierNoTooltip], the winding dirt path completely consumed by underbrush in places. Finally, we reach an obvious clearing, recently expanded by my woodcutters." #NT!
+ sjalvolki_decision.0011.desc.hills: "We ride across the windswept hills of [barrow_location.GetNameNoTierNoTooltip], our steeds growing tired from the uneven terrain. Finally, I spot the construction site from the top of a particularly tall peak, almost hidden away in a small valley." #NT!
+ sjalvolki_decision.0011.desc.mountains: "The trek up the mountains of [barrow_location.GetNameNoTierNoTooltip] is exceptionally harsh, the surrounding environment changing from temperate woodland, to pine forests, to windswept pastureland, and finally, the snow-crowned peak. Against the white backdrop, the construction site is quite obvious even from a distance." #NT!
+ sjalvolki_decision.0011.desc.wetlands: "We ride across the dreary moors of [barrow_location.GetNameNoTierNoTooltip], the 'path' a confusing, half-flooded muddy mess. Finally reaching somewhat stable ground that isn't completely waterlogged, I spot the construction site." #NT!
+ sjalvolki_decision.0011.desc.steppe: "The ride across the seemingly endless expanse of the steppes of [barrow_location.GetNameNoTierNoTooltip] is calm, but tedious. With no other major point of interest within sight, the construction site is visible from afar." #NT!
+ sjalvolki_decision.0011.desc.fallback: "The ride to [barrow_location.GetNameNoTierNoTooltip] is uneventful, and I am able to catch a good glimpse of the construction site before we arrive." #NT!
+ sjalvolki_decision.0011.desc.mid: " Already, my hired hands are hard at work, laying the foundations of what will one day be my final resting place.\n\nI am approached by [barrow_overseer.GetFirstName], their overseer, and asked to make the final decision on the size and scope of the Barrow." #NT!
+ sjalvolki_decision.0011.a: "It shall be a simple, humble abode." #NT!
+ sjalvolki_decision.0011.b: "Nothing out of the ordinary." #NT!
+ sjalvolki_decision.0011.c: "Something well above the rest" #NT!
+ sjalvolki_decision.0011.d: "I want a resting place fit for a High King!" #NT!
+ will_build_small_barrow_tt: "I will build a barrow of #E small#! size" #NT!
+ will_build_medium_barrow_tt: "I will build a barrow of #E medium#! size" #NT!
+ will_build_big_barrow_tt: "I will build a barrow of #E large#! size" #NT!
+ will_build_huge_barrow_tt: "I will build a barrow of #E a truly impressive#! size" #NT!
+ will_construct_in_five_years_tt: "The work will be finished in approximately #E 5 years#!" #NT!
+ will_construct_in_ten_years_tt: "The work will be finished in approximately #E 10 years#!" #NT!
+ will_construct_in_fifteen_years_tt: "The work will be finished in approximately #E 15 years#!" #NT!
+ will_construct_in_thirty_years_tt: "The work will be finished in approximately #E 30 years#!" #NT!
+ sjalvolki_decision.0101.t: "Another Stone is Set" #NT!
+ sjalvolki_decision.0101.desc: "Work on my barrow in [barrow_county.GetNameNoTierNoTooltip] is progressing well. Numerous chambers have been dug out, exterior structures erected, and beautiful runestones carved to grace its halls." #NT!
+ sjalvolki_decision.0101.k: "Excellent." #NT!
+ sjalvolki_decision.0201.t: "The Final Stone is Set" #NT!
+ sjalvolki_decision.0201.desc.intro: "The construction of my barrow in [barrow_county.GetNameNoTierNoTooltip] is finally over, the last finishing touches complete. " #NT!
+ sjalvolki_decision.0201.desc.small: "While unlikely to steal anyone's breath, it is perfectly satisfactory for my needs - a hillock flanked by beautiful stelae, with a small chamber within." #NT!
+ sjalvolki_decision.0201.desc.medium: "It is a perfectly adequate, if somewhat average, hillock flanked by beautiful stelae, a spacious central chamber, and several smaller side-rooms." #NT!
+ sjalvolki_decision.0201.desc.large: "It is a rather impressively large structure with an arched entryway, a spacious central chamber, and an expansive interior in general." #NT!
+ sjalvolki_decision.0201.desc.huge: "Likely one of the largest and most impressive burial places in the region, it has a breathtaking arched entryway, an interior so vast that it would likely dwarf entire castles, and a massive central chamber." #NT!
+ sjalvolki_decision.0201.desc.end: "I may rest assured in the fact that once I depart this world for [ROOT.Char.GetFaith.PositiveAfterLife], my mortal remains will be well taken care of." #NT!
+ sjalvolki_decision.0201.desc.mid: "\n\nOf course, no respectable burial place would be complete without treasures and lavish interior decorations, and now I must last decide how much I am willing to set aside for my journey into the afterlife." #NT!
+ sjalvolki_decision.0201.a: "I will set aside a respectable amount." #NT!
+ sjalvolki_decision.0201.b: "No coin will be spared on this." #NT!
+ sjalvolki_decision.0201.c: "Tales will be told of the treasures hidden within." #NT!
+ sjalvolki_decision.0201.d: "I will take it all with me." #NT!
+ sjalvolki_decision.0201.e: "Bah. I won't need gold in the afterlife." #NT!
+ will_take_treasury_to_grave_tt: "Upon dying, you will take your entire treasury to the grave with you, exchanging each unit of [gold|E] for #positive_value 0.75#! [dynasty_prestige|E]" #NT!
+ sjalvolki_decision.2001.t: "The Waymakers of Velos" #NT!
+ sjalvolki_decision.2001.desc: "Already, strong warriors from across the Shattered Coast have begun to flock to our keep. From up on the scaffolds, I can see brave Sjalvolki working together toward a common goal. If our peoples are to have a chance in these lands, they will need help following the right paths, lest they fall to wickedness." #NT!
+ sjalvolki_decision.2001.a: "We shall mark the paths!" #NT!
+ sjalvolki_decision.2001.b: "Praise Velos!" #NT!

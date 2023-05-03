@@ -1,0 +1,68 @@
+﻿l_russian:
+  
+ #adabyssian Loc 
+ adabyssian_religion: "Dgudi" #NT!
+ adabyssian_religion_adj: "Dgudi" #NT!
+ adabyssian_religion_adjerent: "Dgudi" #NT!
+ adabyssian_religion_adherent_plural: "Dgudis" #NT!
+ adabyssian_religion_desc: "Dgudi, or "vessel-prayer," is the Abadyssian world for reverence toward the beautiful gilded sculptures that inhabit a place simply called the City of Golden Statues. When their forefathers first came to the city, they saw the wonderful, gleaming works towering far over their head, and asked themselves: how could these be anything but vessels of gods? These were not the traditional nature spirits they worshiped, but Great Spirits, those more worthy of respect than any other. It was the Great Spirits who created the world, and it was the Great Spirits who charged the Abadyssians with controlling it." #NT!
+ adabyssian_high_god_name: "Great Spirit Merasagog " #NT!
+ adabyssian_high_god_name_possessive: "Great Spirit Merasagog's" #NT!
+ adabyssian_high_god_name_alternate: "Greatest Spirit" #NT!
+ adabyssian_high_god_name_alternate_possessive: "Greatest Spirit's" #NT!
+ adabyssian_devil_name: "Dgoghega" #NT!
+ adabyssian_devil_name_possessive: "Dgoghega's" #NT!
+ adabyssian_death_deity_name: "Spirit Cxag" #NT!
+ adabyssian_death_deity_name_possessive: "Spirit Cxag's" #NT!
+ adabyssian_house_of_worship: "Holy House" #NT!
+ adabyssian_house_of_worship_plural: "Holy Houses" #NT!
+ adabyssian_religious_symbol: "Statue" #NT!
+ adabyssian_religious_text: "Books of the Past" #NT!
+ adabyssian_religious_head_title: "Great Translator" #NT!
+ adabyssian_religious_head_title_name: "Translative" #NT!
+ adabyssian_devotee_male: "Speaker" #NT!
+ adabyssian_devotee_male_plural: "Speakers" #NT!
+ adabyssian_devotee_female: "$adabyssian_devotee_male$" #NT!
+ adabyssian_devotee_female_plural: "$adabyssian_devotee_male_plural$" #NT!
+ adabyssian_devotee_neuter: "$adabyssian_devotee_male$" #NT!
+ adabyssian_devotee_neuter_plural: "$adabyssian_devotee_male_plural$" #NT!
+ adabyssian_priest_male: "Announcer" #NT!
+ adabyssian_priest_male_plural: "Announcers" #NT!
+ adabyssian_priest_female: "$adabyssian_priest_male$" #NT!
+ adabyssian_priest_female_plural: "$adabyssian_priest_male_plural$" #NT!
+ adabyssian_priest_alternate: "Diplomat" #NT!
+ adabyssian_priest_alternate_plural: "Diplomats" #NT!
+ adabyssian_bishop: "Translator" #NT!
+ adabyssian_bishop_plural: "Translator" #NT!
+ adabyssian_positive_afterlife: "Ogbtiyo" #NT!
+ adabyssian_negative_afterlife: "Aarunle" #NT!
+ adabyssian_divine_realm: "Afintala" #NT!
+ adabyssian_creator_god_name: "$adabyssian_high_god_name$" #NT!
+ adabyssian_creator_god_name_possessive: "$adabyssian_high_god_name_possessive$" #NT!
+ adabyssian_health_god_name: "Spirit Mbak" #NT!
+ adabyssian_health_god_name_possessive: "Mbak's" #NT!
+ adabyssian_fertility_god_name: "$adabyssian_health_god_name$" #NT!
+ adabyssian_fertility_god_name_possessive: "$adabyssian_health_god_name_possessive$" #NT!
+ adabyssian_wealth_god_name: "Spirit Owifsufcac" #NT!
+ adabyssian_wealth_god_name_possessive: "Spirit Owifsufcac's" #NT!
+ adabyssian_household_god_name: "Torror" #NT!
+ adabyssian_household_god_name_possessive: "Torror's" #NT!
+ adabyssian_fate_god_name: "Spirit Borlili" #NT!
+ adabyssian_fate_god_name_possessive: "Spirit Borlili's" #NT!
+ adabyssian_knowledge_god_name: "$adabyssian_fate_god_name$" #NT!
+ adabyssian_knowledge_god_name_possessive: "$adabyssian_fate_god_name_possessive$" #NT!
+ adabyssian_water_god_name: "Spirit Cgarf" #NT!
+ adabyssian_water_god_name_possessive: "Spirit Cgarf's" #NT!
+ adabyssian_war_god_name: "Spirit Tbufu" #NT!
+ adabyssian_war_god_name_possessive: "Spirit Tbufu's" #NT!
+ adabyssian_trickster_god_name: "Spirit Sgeduguf" #NT!
+ adabyssian_trickster_god_name_possessive: "Spirit Sgeduguf's" #NT!
+ adabyssian_night_god_name: "Spirit Gbu" #NT!
+ adabyssian_night_god_name_possessive: "Spirit Gbu's" #NT!
+ adabyssian_witch_god_name: "Spirit Bbaga" #NT!
+ adabyssian_witch_god_name_possessive: "Spirit Bbaga's" #NT!
+ adabyssian: "Adabyssian" #NT!
+ adabyssian_adj: "Adabyssian" #NT!
+ adabyssian_adherent: "Adabyssian" #NT!
+ adabyssian_adherent_plural: "Adabyssians" #NT!
+ adabyssian_desc: "Only the most purified are permitted to see the greatest statues with their own eyes. It is the priests who go into trances in the temples' cells, listening for commands from the gods beneath the gold and relaying it into intelligible orders for secular 'rulers'. Above all has been one command, repeated by the gods throughout the centuries: go forth and conquer, so that all the world may join their supplication." #NT!

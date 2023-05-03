@@ -1,0 +1,73 @@
+﻿l_russian:
+  
+ test_magic_name: "Test Magic" #NT!
+ vampiric_drain_name: "Vampiric Drain" #NT!
+ magic_decisions.1001.t: "A Loathsome Theft" #NT!
+ magic_decisions.1001.d: "My young sacrifices have been brought to the designated location under the cover of darkness and sedated as best as my men could manage. Though... some of the condemned seem far closer to wakefulness than I would like. A wave of my hand and my guards fall upon them, beating them back into blissful unconsciousness as I prepare to invoke the ritual. Magical energies emanate in a stream from my hands, a steady flow of power that animates the pre-prepared circle. Blood of lion, talons of gargoyle, arm of zirnitra and the twin horns of an elder basilisk are consumed by the ritual's tendrillar effluence that surrounds the soon to die.\n\nMy acolytes chant dark words of invocation, while I guide the emissions to take on the shape of a great dome, as they shift in color to a sinister shade of blue. The sacrifices within the circle writhe in pain, awoken by the sudden pull of the ritual upon them. In an instant they seem to shrivel and die, mouths open in apparent outrage, the flower of their youth suddenly and abruptly stolen from them. Their vitality flows from the now dispelling ritual into me, and I am exultant as the fire of life spreads once more throughout my veins, the ravages of age disappearing in its wake. While this invigorated state will last only a few days, the benefits to my longevity from this spell will last far longer. The sacrifices are decidedly... less exuberant, having experienced the most terrible agony in their last moments. Nonetheless, my manservants will have them gone by the morrow, so that I need not look upon their withered forms." #NT!
+ magic_decisions.1001.a: "Oh, joyous vivacity!" #NT!
+ magic_decisions.1001.b: "Oh, joyous vivacity!" #NT!
+ magic_decisions.1001.c: "Oh, joyous vivacity!" #NT!
+ magic_decisions.1001.dx: "Oh, joyous vivacity!" #NT!
+ magic_decisions.1001.e: "Oh, joyous vivacity!" #NT!
+ magic_decisions.1002.t: "To Do (Only necessary if this spell affects the player)" #NT!
+ magic_decisions.1002.d: "To Do (Only necessary if this spell affects the player)" #NT!
+ magic_decisions.1002.a: "To Do (Only necessary if this spell affects the player)" #NT!
+ magic_decisions.1003.t: "Death's Door" #NT!
+ magic_decisions.1003.d.a: "The years come and go, not to be swayed by even the mightiest of [magic|E], and [ROOT.GetCharacter.GetFirstName] can feel that [ROOT.GetCharacter.GetHerHis] time is running out. The stolen life which has sustained [ROOT.GetCharacter.GetHerHim] all these years is ebbing away. In a year, perhaps two, it will be gone, and so will [ROOT.GetCharacter.GetSheHe]." #NT!
+ magic_decisions.1003.d.b: "It happened suddenly, as these things often do. One moment [ROOT.GetCharacter.GetFirstName] was walking and talking, a [ROOT.GetCharacter.GetLadyLord] in [ROOT.GetCharacter.GetHerHis] prime, and the next, [ROOT.GetCharacter.GetSheHe] was on the ground, gasping for breath. The stolen life-energy which has sustained [ROOT.GetCharacter.GetHerHim] all these years has finally been depleted." #NT!
+ magic_decisions.1003.a: "Maybe if I can find another..." #NT!
+ magic_decisions.1003.b: "Not yet..." #NT!
+ magic_decisions.1003.b.tta: "Fight off death another year." #NT!
+ undead_army_spell: "Undead Army" #NT!
+ spirit_army_spell: "Spirit Army" #NT!
+ strengthening_name: "Strengthening" #NT!
+ fire_magick_name: "Fire Magic" #NT!
+ purification_name: "Purification" #NT!
+ mending_name: "Mending" #NT!
+ unveiling_name: "Unveiling" #NT!
+ creation_name: "Creation" #NT!
+ divination_name: "Divination" #NT!
+ raise_undead2_name: "Raise Undead" #NT!
+ raise_undead_name: "Raise Bloodthralls" #NT!
+ lead_to_gold_name: "Transmute Lead to Gold" #NT!
+ quicken_name: "Quicken" #NT!
+ battle_rage_name: "Battle Rage" #NT!
+ riftmark_name: "Riftmark" #NT!
+ unraveling_name: "Unraveling" #NT!
+ summon_lesser_name: "Summon Fogbeast" #NT!
+ fog_cast_name: "Summon Fog" #NT!
+ rift_gaze_name: "Rift Gaze" #NT!
+ raise_lesser_fogbeasts_name: "Raise Fogbeasts" #NT!
+ obliterate_memory_name: "Obliterate Memories" #NT!
+ genocide_region_name: "Purge Region" #NT!
+ rift_walk_name: "Rift Walk" #NT!
+ remove_burdens_name: "Remove Burdens" #NT!
+ haunting_power_name: "Haunting Power" #NT!
+ create_golems_name: "Craft Golems" #NT!
+ craft_greater_golem_name: "Craft Greater Golem" #NT!
+ boneshaping_name: "Boneshaping" #NT!
+ stone_serpent_name: "Create Stone Serpent" #NT!
+ necrotic_boon_name: "Necrotic Boon" #NT!
+ annihilation_name: "Annihilation" #NT!
+ pull_meteor_name: "Pull Meteor" #NT!
+ poison_name: "Poison" #NT!
+ thralldom_name: "Thralldom" #NT!
+ domination_name: "Dominate" #NT!
+ thinning_name: "Thinning" #NT!
+ crush_armor_name: "Crush Armor" #NT!
+ healing_water_name: "Healing Water" #NT!
+ flagellate_name: "Flagellate" #NT!
+ ritual_sacrifice_name: "Ritual Sacrifice" #NT!
+ sacrifice_population_name: "Sacrifice Population" #NT!
+ sacrifice_plants_name: "Sacrifice Plants" #NT!
+ communed_with_the_way_name: "Commune with the way" #NT!
+ seeped_into_madness_name: "Seep into Madness" #NT!
+ communed_with_eldritch_name: "Eldritch Communion" #NT!
+ dreamwalk_name: "Dreamwalk" #NT!
+ dream_invasion_name: "Dream Invasion" #NT!
+ ethereal_ritual_name: "Ethereal Ritual" #NT!
+ moon_read_name: "Moon Read" #NT!
+ moon_pull_name: "Moon Pull" #NT!
+ skeletal_craft_name: "Skeletal Crafting" #NT!
+ study_arcane_name: "Study the Arcane" #NT!
+ expedition_name: "Expedition" #NT!

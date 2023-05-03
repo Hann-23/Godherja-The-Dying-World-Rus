@@ -1,0 +1,86 @@
+﻿l_russian:
+ gh_misc_decision_events.001.t: "Redistricting the Capital" #NT!
+ gh_misc_decision_events.001.desc: "[capital_province.GetNameNoTooltip] shall be a shining jewel, resplendent with prosperity and marveled by the world. Our brightest minds have drawn up the schematics and proposed several different plans for the future of the capital." #NT!
+ gh_misc_decision_events.001.a: "A vast, impregnable citadel will assure my people and strike fear in the hearts of my enemies!" #NT!
+ gh_misc_decision_events.001.b: "A majestic palace will display my opulence and dignity." #NT!
+ gh_misc_decision_events.001.c: "What little power I have, I owe to [ROOT.Char.GetFaith.HighGodName]" #NT!
+ gh_misc_decision_events.001.d: "Grand bazaars and well-maintained boulevards will facilitate the inflow and outflow of trade." #NT!
+ gh_misc_decision_events.001.e: "Organized tenement blocks will ensure there is room for the population to grow." #NT!
+ gh_misc_decision_events.001.f: "A great port will spread word of the city's greatness to all corners of the world!" #NT!
+ gh_misc_decision_events.001.g: "Bah! What good is a capital without an army to keep it in the right hands!" #NT!
+ gh_misc_decision_events.002.t: "A Glorious City" #NT!
+ gh_misc_decision_events.002.desc: "I have seen [capital.GetName] grow into a bustling center of trade and industry, but there is still much work to be done. How shall I best apply my skills?" #NT!
+ gh_misc_decision_events.002.a: "If I know how to take a city, I must know how to build one too!" #NT!
+ gh_misc_decision_events.002.b: "The capital shall be as meticulously organized as my ledgers." #NT!
+ gh_misc_decision_events.002.c: "I will seek counsel from the great families of the city." #NT!
+ gh_misc_decision_events.002.d: "I'll pull some strings to make sure the right people get the right contracts..." #NT!
+ gh_misc_decision_events.002.e: "I will apply all the knowledge I've learned of the sucesses and failures of my predecessors." #NT!
+ gh_misc_decision_events.003.t: "A Military with a State" #NT!
+ gh_misc_decision_events.003.desc: "War is a harsh mistress, and the foundation of a city must appear so as well. Defensive walls, jagged battlements, around-the-clock patrols, a proper barracks and mustering ground, all encased within a grand citadel. [capital.GetName] shall be nigh impenetrable—a bastion from which my armies shall sally forth and sortie with deftness and impunity." #NT!
+ gh_misc_decision_events.003.a: "I shall fashion a bastion of stone and flesh." #NT!
+ gh_misc_decision_events.003.b: "A choke point here, a tower there, a redoubt there, a rampart there...." #NT!
+ gh_misc_decision_events.003.c: "I will oversee the training of a mighty garrison." #NT!
+ gh_misc_decision_events.003.d: "We will build elaborate structures and statues dedicated to martial might and glory." #NT!
+ gh_misc_decision_events.003.e: "On second thought..." #NT!
+ gh_misc_decision_events.004.t: "Of Gold and Glamour" #NT!
+ gh_misc_decision_events.004.desc: "Some people live by an imaginary creed, others heed the words of prophets and holy books. The ledger however, concerns itself only with the practical affairs of the world, and if not respected, will defeat the virtuous and cruel alike. Trade and commerce are the engines which drive all others. I will construct a finely tuned engine of commerce, and it shall drive our civilization to new heights." #NT!
+ gh_misc_decision_events.004.a: "Of course, trade is paramount." #NT!
+ gh_misc_decision_events.004.b: "Durability, utility, and beauty. These are the cornerstones of architecture." #NT!
+ gh_misc_decision_events.004.c: "Without people, there is no market." #NT!
+ gh_misc_decision_events.004.d: "Gold, just gold, I don't care how it gets here." #NT!
+ gh_misc_decision_events.004.e: "On second thought..." #NT!
+ gh_misc_decision_events.005.t: "Seats of Power" #NT!
+ gh_misc_decision_events.005.desc: "Kingdoms are made up of relations—fear, respect, prestige. The cultivation of these things are quintessential for a ruler, and from this city I shall fashion an icon of power to endure the generations." #NT!
+ gh_misc_decision_events.005.a: "A city is only as strong as its foundation." #NT!
+ gh_misc_decision_events.005.b: "It shall impress envoys and vassals alike." #NT!
+ gh_misc_decision_events.005.c: "A livable city is a wondrous city." #NT!
+ gh_misc_decision_events.005.d: "The city must be as venerable as myself." #NT!
+ gh_misc_decision_events.005.e: "On second thought.." #NT!
+ gh_misc_decision_events.006.t: "Greasing the Wheels" #NT!
+ gh_misc_decision_events.006.desc: "Lies, bribery, blackmail. All grease the wheels of the world so that what must be done can be done. Cities are hives of activty of all kinds, including the dubious kind. By controlling those who work outside the law, I will control the blackened grease that lathers the wheels." #NT!
+ gh_misc_decision_events.006.a: "What better place to hear lies but a town center?" #NT!
+ gh_misc_decision_events.006.b: "Info flows fastest from the lips of merchants" #NT!
+ gh_misc_decision_events.006.c: "The grander the court, the grander the schemes..." #NT!
+ gh_misc_decision_events.006.d: "The twists and turns of the alleys are dangerous at night..." #NT!
+ gh_misc_decision_events.006.e: "On second thought" #NT!
+ gh_misc_decision_events.007.t: "Sophos Civitas" #NT!
+ gh_misc_decision_events.007.desc: "At the root of all cities are beliefs, our understanding of the world and each other. To understand the past is to shape the future. This will be a city enshrined with the knowledge of the wonders that were and may be, the understanding of truths not spoken, and half-truths on the lips of all. To this end, the city shall point as a divine arrow towards the realization of these truths." #NT!
+ gh_misc_decision_events.007.a: "A city of wise men and sages shall be built here." #NT!
+ gh_misc_decision_events.007.b: "A healthy body is a healthy mind." #NT!
+ gh_misc_decision_events.007.c: "Trust in science and technology to build a bright future." #NT!
+ gh_misc_decision_events.007.d: "A sancturary for scholars of the divine." #NT!
+ gh_misc_decision_events.007.e: "Mayhaps I ought to reconsider." #NT!
+   ###### sacking decisions 
+   #inital prime - orsapol 
+ gh_misc_decision_events.101.t: 
+ gh_misc_decision_events.101.desc: 
+ gh_misc_decision_events.101.a: 
+   #response 
+ gh_misc_decision_events.102.t: 
+ gh_misc_decision_events.102.desc: 
+ gh_misc_decision_events.102.a: 
+ gh_misc_decision_events.103.t: 
+ gh_misc_decision_events.103.desc: 
+ gh_misc_decision_events.103.a: 
+ gh_misc_decision_events.104.t: 
+ gh_misc_decision_events.104.desc: 
+ gh_misc_decision_events.104.a: 
+ gh_misc_decision_events.105.t: 
+ gh_misc_decision_events.105.desc: 
+ gh_misc_decision_events.105.a: 
+   #ostrapol sacking- 6-10 
+ gh_misc_decision_events.106.t: "The sacking of the palace" #NT!
+ gh_misc_decision_events.106.desc: 
+ gh_misc_decision_events.106.a: 
+ gh_misc_decision_events.107.t: "Plundering the ports" #NT!
+ gh_misc_decision_events.107.desc: 
+ gh_misc_decision_events.107.a: 
+ gh_misc_decision_events.108.t: "Trader's due" #NT!
+ gh_misc_decision_events.108.desc: 
+ gh_misc_decision_events.108.a: 
+ gh_misc_decision_events.109.t: "Deurbanization of Ostrapol" #NT!
+ gh_misc_decision_events.109.desc: 
+ gh_misc_decision_events.109.a: 
+ gh_misc_decision_events.110.t: "Making way" #NT!
+ gh_misc_decision_events.110.desc: 
+ gh_misc_decision_events.110.a: 

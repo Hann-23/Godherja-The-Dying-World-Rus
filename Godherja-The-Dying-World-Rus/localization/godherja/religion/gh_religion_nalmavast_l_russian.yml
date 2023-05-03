@@ -1,0 +1,40 @@
+﻿l_russian:
+  
+ #nalmavast Loc 
+ nalmavast_religion: "Nalmavast" #NT!
+ nalmavast_religion_adj: "Nalmavast" #NT!
+ nalmavast_religion_adjerent: "Nalmavasti" #NT!
+ nalmavast_religion_adherent_plural: "Nalmavastis" #NT!
+ nalmavast_religion_desc: "The Nalmavast worship the eponymous Nalma, the traditional harvest and fertility goddess of the Narodlek peoples. The Nalmavast recognize there are many gods on [aeras|E], but only Nalma is venerated, all other deities belong to other peoples. It is only the benevolent Nalma that cares for the Narodlek and their herds. Nalma can take either the form of a large red heifer or a young maiden. In both forms Nalma’s skin is covered in a multitude of swirling, ever-repeating patterns alluding to the constant cycle of life and rebirth that governs the natural world." #NT!
+ nalmavast_high_god_name: "Nalma" #NT!
+ nalmavast_high_god_name_possessive: "Nalmas's" #NT!
+ nalmavast_high_god_name_alternate: "the Red Woman" #NT!
+ nalmavast_high_god_name_alternate_possessive: "the Red Woman's" #NT!
+ nalmavast_devil_name: "Kugo Uzo" #NT!
+ nalmavast_devil_name_possessive: "Kugo Uzo" #NT!
+ nalmavast_house_of_worship: "Temple" #NT!
+ nalmavast_house_of_worship_plural: "Temples" #NT!
+ nalmavast_religious_symbol: "Nalmic Sign" #NT!
+ nalmavast_religious_text: "the Herdstones" #NT!
+ nalmavast_religious_head_title: "Kugo Nalm" #NT!
+ nalmavast_religious_head_title_name: "Kugo Nalm" #NT!
+ nalmavast_devotee_male: "Nalmi" #NT!
+ nalmavast_devotee_male_plural: "Nalmis" #NT!
+ nalmavast_devotee_female: "Nalmi" #NT!
+ nalmavast_devotee_female_plural: "Nalmis" #NT!
+ nalmavast_devotee_neuter: "Nalmi" #NT!
+ nalmavast_devotee_neuter_plural: "Nalmis" #NT!
+ nalmavast_priest_male: "Onari" #NT!
+ nalmavast_priest_male_plural: "Onaris" #NT!
+ nalmavast_priest_female: "Onari" #NT!
+ nalmavast_priest_female_plural: "Onaris" #NT!
+ nalmavast_priest_alternate_plural: "Onari" #NT!
+ nalmavast_bishop: "High Onari" #NT!
+ nalmavast_bishop_plural: "High Onaris" #NT!
+ nalmavast_positive_afterlife: "Uzhara" #NT!
+ nalmavast_negative_afterlife: "Azyren" #NT!
+ nalmavast: "Nalmavast" #NT!
+ nalmavast_adj: "Nalmavast" #NT!
+ nalmavast_adherent: "Nalmavasti" #NT!
+ nalmavast_adherent_plural: "Nalmavastis" #NT!
+ nalmavast_desc: "The Nalmavast worship the eponymous Nalma, the traditional harvest and fertility goddess of the Narodlek peoples. The Nalmavast recognize there are many gods on [aeras|E], but only Nalma is venerated, all other deities belong to other peoples. It is only the benevolent Nalma that cares for the Narodlek and their herds. Nalma can take either the form of a large red heifer or a young maiden. In both forms Nalma’s skin is covered in a multitude of swirling, ever-repeating patterns alluding to the constant cycle of life and rebirth that governs the natural world." #NT!

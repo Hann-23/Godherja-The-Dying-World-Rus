@@ -1,0 +1,46 @@
+﻿l_russian:
+  # Learn magic schemes 
+ learn_living_magic_scheme: "Learn Living Magic" #NT!
+ learn_living_magic_scheme_action: "Learn Living Magic with the help of" #NT!
+ learn_living_magic_schemedesc: "I will attempt to improve my skills in [living_magic|E]" #NT!
+ learn_living_magic_scheme_desc_general: "The Learn [living_magic|E] [scheme|E] is a [personal_scheme|E] where you try to improve your skills in Living Magic with the help of [scheme_target|E]." #NT!
+ scheme_interaction_tt_living_magic_willing: "Attempt to improve your skills in Living Magic with the help of [recipient.GetShortUINamePossessiveNoTooltip]" #NT!
+ learn_living_magic_scheme_success_message: "Improved Living Magic" #NT!
+ learn_living_magic_scheme_failed_message: "Failed to Learn Living Magic" #NT!
+ scheme_interaction_tt_learn_language_desc: "I will learn [recipient.GetShortUINamePossessiveNoTooltip] [language|E]!" #NT!
+ learn_language_invalidated_cannot_learn_language_desc: "You can no longer learn [target.GetShortUINamePossessive] [language|E]" #NT!
+ learn_living_magic_scheme_invalidated: "$learn_living_magic_scheme$ Invalidated" #NT!
+ learn_living_magic_scheme_dead_desc: "[target.GetShortUIName|U] has passed away. You can no longer use the $learn_living_magic_scheme$ on [target.GetHerHim]." #NT!
+ LEARN_LIVING_MAGIC_SCHEME_SUCCESS_DESC: "You gain perk points in the [living_magic|E] Lifestyle tree and have a chance of upgrading your [living_magic|E] Education level." #NT!
+ SCHEME_TARGET_EDUCATION_LEVEL_MODIFIER: "Teacher's magic education: $VALUE|+=0$" #NT!
+  
+ learn_living_magic_scheme_interaction: "Learn [living_magic|E] #weak (Scheme)#!" #NT!
+ learn_living_magic_scheme_interaction_notification: "Learn [living_magic|E]" #NT!
+ learn_dead_magic_scheme: "Learn Dead Magic" #NT!
+ learn_dead_magic_scheme_action: "Learn Dead Magic with the help of" #NT!
+ learn_dead_magic_schemedesc: "I will attempt to improve my skills in [dead_magic|E]" #NT!
+ learn_dead_magic_scheme_desc_general: "The Learn [dead_magic|E] [scheme|E] is a [personal_scheme|E] where you try to improve your skills in Dead Magic with the help of [scheme_target|E]." #NT!
+ scheme_interaction_tt_dead_magic_willing: "Attempt to improve your skills in [dead_magic|E] with the help of [recipient.GetShortUINamePossessiveNoTooltip]" #NT!
+ learn_dead_magic_scheme_success_message: "Improved [dead_magic|E]" #NT!
+ learn_dead_magic_scheme_failed_message: "Failed to Learn [dead_magic|E]" #NT!
+ learn_dead_magic_scheme_invalidated: "$learn_dead_magic_scheme$ Invalidated" #NT!
+ learn_dead_magic_scheme_dead_desc: "[target.GetShortUIName|U] has passed away. You can no longer use the $learn_dead_magic_scheme$ on [target.GetHerHim]." #NT!
+ LEARN_DEAD_MAGIC_SCHEME_SUCCESS_DESC: "You gain perk points in the [dead_magic|E] Lifestyle tree and have a chance of upgrading your [dead_magic|E] Education level." #NT!
+ learn_dead_magic_scheme_interaction: "Learn [dead_magic|E] #weak (Scheme)#!" #NT!
+ learn_dead_magic_scheme_interaction_notification: "Learn [dead_magic|E]" #NT!
+ learn_mixed_magic_scheme: "Learn Mixed Magic" #NT!
+ learn_mixed_magic_scheme_action: "Learn Mixed Magic with the help of" #NT!
+ learn_mixed_magic_schemedesc: "I will attempt to improve my skills in [mixed_magic|E]" #NT!
+ learn_mixed_magic_scheme_desc_general: "The Learn [mixed_magic|E] [scheme|E] is a [personal_scheme|E] where you try to improve your skills in Mixed Magic with the help of [scheme_target|E]." #NT!
+ scheme_interaction_tt_mixed_magic_willing: "Attempt to improve your skills in Mixed Magic with the help of [recipient.GetShortUINamePossessiveNoTooltip]" #NT!
+ learn_mixed_magic_scheme_success_message: "Improved Mixed Magic" #NT!
+ learn_mixed_magic_scheme_failed_message: "Failed to Learn Mixed Magic" #NT!
+ learn_mixed_magic_scheme_invalidated: "$learn_mixed_magic_scheme$ Invalidated" #NT!
+ learn_mixed_magic_scheme_mixed_desc: "[target.GetShortUIName|U] has passed away. You can no longer use the $learn_mixed_magic_scheme$ on [target.GetHerHim]." #NT!
+ LEARN_MIXED_MAGIC_SCHEME_SUCCESS_DESC: "You gain perk points in the [mixed_magic|E] Lifestyle tree and have a chance of upgrading your Mixed Magic Education level." #NT!
+ learn_mixed_magic_scheme_interaction: "Learn [mixed_magic|E] #weak (Scheme)#!" #NT!
+ learn_mixed_magic_scheme_interaction_notification: "Learn [mixed_magic|E]" #NT!
+ widows_harder_to_romance_desc: "Characters with the [GetTrait('gh_widow').GetName(GetNullCharacter)] [trait|E] are more difficult to romance" #NT!
+ widows_harder_finding_love_desc: "Characters with the [GetTrait('gh_widow').GetName(GetNullCharacter)] [trait|E] have a more difficult time finding love" #NT!
+ widows_harder_to_seduce: "[GetTrait('shy').GetName( owner.Self )]: $VALUE|+0=$" #NT!
+ widows_struggle_at_seducing: "[GetTrait('shy').GetName( owner.Self )]: $VALUE|+0=$" #NT!

@@ -1,0 +1,139 @@
+﻿l_russian:
+  
+ #sarradonian Loc 
+ sarradonian_religion: "Wardenism" #NT!
+ sarradonian_religion_adj: "Wardenite" #NT!
+ sarradonian_religion_adherent: "Wardenite" #NT!
+ sarradonian_religion_adherent_plural: "Wardenites" #NT!
+ sarradonian_religion_desc: "To the [wardenites|E], there were two gods, or two aspects of the same god. They refer to the god(s) as He Who Was, and the Dead God. The Wardenites believe that the evil of the world originates with this Dead God, who He Who Was imprisoned and charged humanity with keeping sealed away at all costs. This prison is said to be made of a series of 'pillars', which many Wardenite sects interpret as spiritual virtues. Fail to uphold these virtues, they believe, and the Dead God shall roam free once more. To that end the faithful have established a sophisticated series of courts and legal traditions, with priests doubling as judges to uphold virtue and order so that the prison of the Dead God stands firm against a world full of sin and debasement." #NT!
+ sarradonian_high_god_name: "Elyon" #NT!
+ sarradonian_high_god_name_possessive: "Elyon's" #NT!
+ sarradonian_high_god_name_alternate: "He Who Was" #NT!
+ sarradonian_high_god_name_alternate_possessive: "His" #NT!
+ sarradonian_devil_name: "The Dead God" #NT!
+ sarradonian_devil_name_possessive: "Dead God's" #NT!
+ sarradonian_death_deity_name: "The Dead God" #NT!
+ sarradonian_death_deity_name_possessive: "Dead God's" #NT!
+ sarradonian_house_of_worship: "Sojod" #NT!
+ sarradonian_house_of_worship_plural: "Sojod" #NT!
+ sarradonian_religious_symbol: "Hilha" #NT!
+ sarradonian_religious_text: "Pillars of Virtue" #NT!
+ sarradonian_religious_head_title: "Mamur" #NT!
+ sarradonian_religious_head_title_name: "the Mamurite" #NT!
+ sarradonian_devotee_male: "Wardenite" #NT!
+ sarradonian_devotee_male_plural: "Wardenites" #NT!
+ sarradonian_devotee_female: "Wardenite" #NT!
+ sarradonian_devotee_female_plural: "Wardenites" #NT!
+ sarradonian_devotee_neuter: "Wardenite" #NT!
+ sarradonian_devotee_neuter_plural: "Wardenites" #NT!
+ sarradonian_priest: "Rajuldin" #NT!
+ sarradonian_priest_plural: "Rajuldari" #NT!
+ sarradonian_priest_male: "Rajuldin" #NT!
+ sarradonian_priest_male_plural: "Rajuldari" #NT!
+ sarradonian_priest_female: "Rajuldin" #NT!
+ sarradonian_priest_female_plural: "Rajuldari" #NT!
+ sarradonian_priest_alternate: "Kahin" #NT!
+ sarradonian_priest_alternate_plural: "Kahinari" #NT!
+ sarradonian_bishop: "Amar" #NT!
+ sarradonian_bishop_possessive: "Amar's" #NT!
+ sarradonian_bishop_plural: "Amari" #NT!
+ sarradonian_positive_afterlife: "El-Shabbat" #NT!
+ sarradonian_negative_afterlife: "El-Mawat" #NT!
+ sarradonian_creator_god_name: "$sarradonian_high_god_name$" #NT!
+ sarradonian_creator_god_name_possessive: "$sarradonian_high_god_name_possessive$" #NT!
+ sarradonian_health_god_name: "Prophet Alishim" #NT!
+ sarradonian_health_god_name_possessive: "Alishim's" #NT!
+ sarradonian_fertility_god_name: "$sarradonian_high_god_name$" #NT!
+ sarradonian_fertility_god_name_possessive: "$sarradonian_high_god_name_possessive$" #NT!
+ sarradonian_wealth_god_name: "Pillar of Alms" #NT!
+ sarradonian_wealth_god_name_possessive: "Alms Pillar's" #NT!
+ sarradonian_household_god_name: "Pillar of Hospitality" #NT!
+ sarradonian_household_god_name_possessive: "Hospitality Pillar's" #NT!
+ sarradonian_fate_god_name: "$sarradonian_high_god_name$" #NT!
+ sarradonian_fate_god_name_possessive: "$sarradonian_high_god_name_possessive$" #NT!
+ sarradonian_knowledge_god_name: "Pillar of Enlightenment" #NT!
+ sarradonian_knowledge_god_name_possessive: "Enlightenment Pillar's" #NT!
+ sarradonian_war_god_name: "$sarradonian_high_god_name$" #NT!
+ sarradonian_war_god_name_possessive: "$sarradonian_high_god_name_possessive$" #NT!
+ sarradonian_trickster_god_name: "Fortuna" #NT!
+ sarradonian_trickster_god_name_possessive: "Fortuna's" #NT!
+ sarradonian_night_god_name: "$sarradonian_high_god_name$" #NT!
+ sarradonian_night_god_name_possessive: "$sarradonian_high_god_name_possessive$" #NT!
+ sarradonian_water_god_name: "$sarradonian_health_god_name$" #NT!
+ sarradonian_water_god_name_possessive: "$sarradonian_health_god_name_possessive$" #NT!
+ sarradonian_witch_god_name: "Iohan" #NT!
+ sarradonian_witch_god_name_possessive: "Iohan's" #NT!
+  #sarradonian faith loc 
+ sarradonian: "Tathtali'a" #NT!
+ sarradonian_adj: "Tathtalite" #NT!
+ sarradonian_adherent: "Tathtali" #NT!
+ sarradonian_adherent_plural: "Tathtalii" #NT!
+ sarradonian_desc: "The Tathtali'a have pretensions to being the mainstream branch of [wardenism|E], and historically this assumption hasn't been altogether incorrect as the Tathtali'a hold sway over the most heavily populated core of the Wardenite faith. Though they would claim their traditions date back centuries to the founding of Wardenism under the [first_warden|E] himself, the quirks that define the movement owe more to the [Concept('tathtali','9th century IS Mamur')|E] whose name the movement is often labeled with. The major point of divergence between the Tathtalites and what came before is in the unified and all powerful figure of the [mamur|E], whose rule is absolute and sacred. It is he who has final right of dissent in all legal matters, and he who leads the armies of the faithful in times of war and settles the soldiers in times of peace. His word is absolute - or at least, such is the theory." #NT!
+  #harthahi loc 
+ harthahi: "Ḥārthahi'a" #NT!
+ harthahi_adj: "Ḥārthahi" #NT!
+ harthahi_adherent: "Ḥārthahi" #NT!
+ harthahi_adherent_plural: "Ḥārthahii" #NT!
+ harthahi_war_god_name: "Prophet Ḥārthah" #NT!
+ harthahi_war_god_name_possessive: "Ḥārthah's" #NT!
+ harthahi_desc: "The Ḥārthahi sect was created in response to perceived [wardenite|E] weakness, and a belief that the [wardenite|E] sects are too tolerant of outsiders. The Ḥārthahii argue that the Dead God is imprisoned within [sarradon|E], and that all evil done upon its land is a direct attempt to unleash them back upon the world. Thus, Sarradon must be free, and its people united against those the Ḥārthahii view as foreign invaders - namely the Agionists, [aversarians|E], and [marchers|E]. While militant, the faith is fairly pluralistic, more concerned with removing the realms of hostile foreigners than their populations." #NT!
+  #ruidari loc 
+ ruidari: "Ruidari'a" #NT!
+ ruidari_adj: "Ruidari" #NT!
+ ruidari_adherent: "Ruidari" #NT!
+ ruidari_adherent_plural: "Ruidarii" #NT!
+ ruidari_desc: "The Ruidarii uphold the 'Pillar of Inclusion,' the idea that if one commits a good deed, it doesn't matter if the deed is done in the name of a false god, it still upholds the Pillars of Virtue that keep the Dead God imprisoned. This means to a Ruidari, one's faith is almost completely divorced from their deeds, because practicing 'good deeds' is seen as service to keep the Dead God imprisoned." #NT!
+  #kathsiti loc 
+ kathsiti: "Kathsiti'a" #NT!
+ kathsiti_adj: "Kathsiti" #NT!
+ kathsiti_adherent: "Kathsiti" #NT!
+ kathsiti_adherent_plural: "Kathsitii" #NT!
+ kathsiti_desc: "The Kathsitii, unlike other [wardenite|E] sects believe that there must be complete separation between the church and state, for secular matters corrupt the true spiritual nature of the church. In reality this has led to an extremely independent, politically powerful group of Kathsiti clerics dictating rules to secular lords." #NT!
+  #harfi loc 
+ harfi: "Harfi'a" #NT!
+ harfi_adj: "Harfi" #NT!
+ harfi_adherent: "Harfi" #NT!
+ harfi_adherent_plural: "Harfii" #NT!
+ harfi_desc: "The Harfii, unlike other [wardenite|E] sects believe that the 'Pillars of Virtue' are actual, physical pillars that can be found in the material world, and must be protected. The other Wardenite sects dismiss this interpetation as comically literal, and view any unironic adherents of the Harfi ways as backwards fundamentalists." #NT!
+  #haradar loc 
+ haradar: "Haradar" #NT!
+ haradar_adj: "Haradar" #NT!
+ haradar_adherent: "Haradari" #NT!
+ haradar_adherent_plural: "Haradarii" #NT!
+ haradar_desc: "A [sarradonian|E] legend says ten-thousand years ago, the warlords of Sarradon fell to decadence and wickedness, and the Pillars holding the Dead God in Iblis had begun to crumble. When all seemed lost, brave and righteous men emerged from the Shadows to cull these false warlords, and disappeared once again into the shadows. Whether this legend is true or not, the Haradarii have had several foundings and disbandings over the millenia, to the point that nobody truly knows how old the order of assassins is. The most recent founding occurred not long after [frodbrokna|E]. This new founding has concluded that after Aeschraes broke the world, no [magi|E] can be allowed to live. They are concerned primarily with the hunting down and assassination of Magi, especially those with godlike power." #NT!
+  #asdraqi 
+ asdraqi: "Asdraqi'a" #NT!
+ asdraqi_adj: "Asdraqi" #NT!
+ asdraqi_adherent: "Asdraqi" #NT!
+ asdraqi_adherent_plural: "Asdraqii" #NT!
+ asdraqi_desc: "The Asdraqii hold all who reject the teachings of the [first_warden|E] are actively plotting to free the Dead God, and that the heathen attacks upon the faith are but the first step in their plans of devastation. As a result, it is the primary duty of all [wardenites|E] to actively assail these rival faiths, for only their complete eradication will save the world from their schemes and lies. They believe that the War Laws are still in effect, and that the struggle against the infidels can accept no limitations. They reject the Central [mamuramat|E] as weak and unsuited to lead the faith, instead advocating the return of the Western, Eastern, and even Far Eastern Mamuramats, in addition to the creation of entirely new ones. For the Asdraqi, all must serve the war." #NT!
+ kothori: "Kothori'a" #NT!
+ kothori_adj: "Kothori" #NT!
+ kothori_adherent: "Kothorite" #NT!
+ kothori_adherent_plural: "Kothorii" #NT!
+ kothori_desc: "A melding of [wardenite|E] religious practices with some traditions endemic to the Tarsanides mountains, Kothori'a brings a number of ancient gods from the old Barzawa pantheons into the faith as either benevolent spiritual guardians or saints, with the first group often incarnating as important judges, and the latter often ascending upon death to join to a near-divine status. This is naturally quite scandalous to the broader Wardenite faith, which is noted for a distinct anti-theist stance, but the Kothori'a have always skirted suppression largely due to the remoteness of their mountainous homes, and the relative obscurity of their rural faith." #NT!
+ stranuni: "Stranûni'a" #NT!
+ stranuni_adj: "Stranûni" #NT!
+ stranuni_adherent: "Stranûnite" #NT!
+ stranuni_adherent_plural: "Stranûnii" #NT!
+ stranuni_desc: "An exotic branch of [wardenism|E] cut off from the Wardenite heartlands, the Stranûni'a beliefs have steadily diverged into something truly strange. The Stranûni'a hold that words and the structure of those words hold great power, and that the pillars that keep the Dead God trapped are in fact five different holy forms of poetry and music. They hold that these forms must be constantly practiced, with poet-judges required to know at least one of the styles. However, the Stranûni'a view it as of utmost importance that these sacred forms are not misused and only practiced under the proper circumstances. This leads to a paradoxical society, where music and poetry is simultaneously omnipresent and tightly regulated." #NT!
+ gh_sarradonian: "Sarradonian" #NT!
+ badari: "Badari'a" #NT!
+ badari_adj: "Badari" #NT!
+ badari_adherent: "Badarite" #NT!
+ badari_adherent_plural: "Badarii" #NT!
+ badari_desc: "A paramount heresy among most of their [wardenite|E] coreligionists, Badari'a are the result of an attempted syncretism with Dikansynite religious laws which was promulgated by a faction within the Mamur Radi's court. Generally disliked and seen as radicals despite their repeated attempts to demonstrate otherwise, the Badari'a are barely even tolerated by their Agionist 'friends', who see them as more of a bad joke than as serious allies." #NT!
+ aarayi: "A'Arayi" #NT!
+ aarayi_adj: "Arayi" #NT!
+ aarayi_adherent: "Arayite" #NT!
+ aarayi_adherent_plural: "Arayii" #NT!
+ aarayi_desc: "Meaning "regency", the A'Arayi were born when [tathtali|E] joined the Eastern and Western Mamuramats, bringing most of the East's beleaguered courts with him. A few of these courts, however, refused to follow. Clustering around the High Court Judge turned Warlord Afnaan, they refuted Tathtali's claim to right by marriage. In absence of any legitimate candidate to serve in Tathtali's stead, the High Court of the East - an institution formed at the behest of Afnaan - would serve as regent until such a time as a rightful heir to the East could be found. Given the complete apparent extinction the Zaahirah family's matrilineal line - apart from Sanad's children via Tathtali who were illegitimate by way of their father's usurpation - this last goal has proven somewhat difficult.\n\nThe High Court of the East have propped up a handful of hopeful pretenders to the throne throughout the centuries, and though they have not yet succeeded, the stubborn A'Arayi Judges believe it's only a matter of time until the Tathtalite Heresy is overthrown." #NT!
+ mukaasubat: "Muka’asubat" #NT!
+ mukaasubat_adj: "Muka’asubat" #NT!
+ mukaasubat_adherent: "Muka’asubite" #NT!
+ mukaasubat_adherent_plural: "Muka’asubites" #NT!
+ mukaasubat_desc: "Following the collapse of the [GetTitleByKey('e_far_eastern_mamuramat').GetNameNoTier], the Muka'asubites believed that the Pillars of Virtue had begun to crumble. As the books left behind by the defunct polity began to rot, the devout began carving replacements onto great stone tablets, and burying judges alongside their lawbooks. This, they believe, will equip them with the necessary materials to repair the pillars in the afterlife. As the pillars continue to crumble, however "kebang sejan" are released, spirits of virtue who can possess pious and goodly mortals and dispense great wisdom." #NT!
+ holy_order_judicial_legion: "Judicial Legion" #NT!
+ holy_order_mamuramia: "Mamurami'a" #NT!
+ holy_order_radi_knights: "Radi's Men" #NT!
+ holy_order_wardens: "Wardens" #NT!

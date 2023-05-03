@@ -1,0 +1,1277 @@
+﻿l_russian:
+  
+  ############################################# 
+ #General names: 
+ baron: "Baron" #NT!
+ baron_female: "Baroness" #NT!
+ barony: "Barony" #NT!
+ count: "Count" #NT!
+ count_female: "Countess" #NT!
+ county: "County" #NT!
+ duke: "Duke" #NT!
+ duke_female: "Duchess" #NT!
+ duchy: "Duchy" #NT!
+ king: "King" #NT!
+ king_female: "Queen" #NT!
+ kingdom: "Kingdom" #NT!
+ emperor: "Emperor" #NT!
+ emperor_female: "Empress" #NT!
+ empire: "Empire" #NT!
+ baron_plural: "Barons" #NT!
+ count_plural: "Counts" #NT!
+ duke_plural: "Dukes" #NT!
+ king_plural: "Kings" #NT!
+ emperor_plural: "Emperors" #NT!
+ unlanded_plural: "Unlanded" #NT!
+  #Default Feudal tiers 
+  #Default Republic tiers 
+  #Default Theocracy tiers 
+  #Default Clan tiers 
+  #Default Tribal tiers 
+  #Default Imperial tiers 
+  #Default Nomadic Clan tiers 
+  #Default Mercenary tiers 
+  #Default Holy Order tiers 
+  #Default Viceroyalty tiers 
+  #Titular Aversarian titles 
+ aautokratirgovernorarchlegon: "Aautokratir Governor Arch-Legon" #NT!
+ aautokratiagovernorarchlegan: "Aautokratia Governor Arch-Legan" #NT!
+ pretenderaautokratir: "Aautokratir" #NT!
+ pretenderaautokratia: "Aautokratia" #NT!
+ pretender_aautokrata: "Aautokrata" #NT!
+ baron_feudal_male: "Baron" #NT!
+ baron_feudal_female: "Baroness" #NT!
+ barony_feudal: "Barony" #NT!
+ count_feudal_male: "Count" #NT!
+ count_feudal_female: "Countess" #NT!
+ county_feudal: "County" #NT!
+ duke_feudal_male: "Duke" #NT!
+ duke_feudal_female: "Duchess" #NT!
+ duchy_feudal: "Duchy" #NT!
+ duke_feudal_independent: "Petty King" #NT!
+ duke_feudal_independent_female: "Petty Queen" #NT!
+ duchy_feudal_independent: "Petty Kingdom" #NT!
+ king_feudal_male: "King" #NT!
+ king_feudal_female: "Queen" #NT!
+ kingdom_feudal: "Kingdom" #NT!
+ emperor_feudal_male: "Emperor" #NT!
+ emperor_feudal_female: "Empress" #NT!
+ empire_feudal: "Empire" #NT!
+ baron_republic_male: "Mayor" #NT!
+ baron_republic_female: "Mayor" #NT!
+ barony_republic: "City" #NT!
+ count_republic_male: "Lord-Mayor" #NT!
+ count_republic_female: "Lady-Mayor" #NT!
+ county_republic: "Grand City" #NT!
+ duke_republic_male: "Grand Mayor" #NT!
+ duke_republic_female: "Grand Mayor" #NT!
+ duchy_republic: "Republic" #NT!
+ king_republic_male: "High Prince" #NT!
+ king_republic_female: "High Princess" #NT!
+ kingdom_republic: "Most Serene Republic" #NT!
+ emperor_republic_male: "Grand Prince" #NT!
+ emperor_republic_female: "Grand Princess" #NT!
+ empire_republic: "Grand Principality" #NT!
+ baron_theocracy_male: "Priest" #NT!
+ baron_theocracy_female: "Priestess" #NT!
+ barony_theocracy: "Temple" #NT!
+ count_theocracy_male: "High Priest" #NT!
+ count_theocracy_female: "High Priestess" #NT!
+ county_theocracy: "Great Temple" #NT!
+ duke_theocracy_male: "Archpriest" #NT!
+ duke_theocracy_female: "Archpriestess" #NT!
+ duchy_theocracy: "Theocracy" #NT!
+ king_theocracy_male: "Grand Priest" #NT!
+ king_theocracy_female: "Grand Priestess" #NT!
+ kingdom_theocracy: "Grand Theocracy" #NT!
+ emperor_theocracy_male: "Divine Emperor" #NT!
+ emperor_theocracy_female: "Divine Empress" #NT!
+ empire_theocracy: "Holy Empire" #NT!
+ baron_clan_male: "Headman" #NT!
+ baron_clan_female: "Headwoman" #NT!
+ barony_clan: "Tribe" #NT!
+ count_clan_male: "Chieftain" #NT!
+ count_clan_female: "Chieftess" #NT!
+ county_clan: "Chiefdom" #NT!
+ duke_clan_male: "High Chief" #NT!
+ duke_clan_female: "High Chieftess" #NT!
+ duchy_clan: "High Chiefdom" #NT!
+ king_clan_male: "Patriarch" #NT!
+ king_clan_female: "Matriarch" #NT!
+ kingdom_clan: "Clan" #NT!
+ emperor_clan_male: "Grand Patriarch" #NT!
+ emperor_clan_female: "Grand Matriarch" #NT!
+ empire_clan: "Grand Clan" #NT!
+ baron_tribal_male: "Headman" #NT!
+ baron_tribal_female: "Headwoman" #NT!
+ barony_tribal: "Tribe" #NT!
+ count_tribal_male: "Chieftain" #NT!
+ count_tribal_female: "Chieftess" #NT!
+ county_tribal: "Chiefdom" #NT!
+ duke_tribal_male: "High Chieftain" #NT!
+ duke_tribal_female: "High Chieftess" #NT!
+ duchy_tribal: "High Chiefdom" #NT!
+ king_tribal_male: "King" #NT!
+ king_tribal_female: "Queen" #NT!
+ kingdom_tribal: "Kingdom" #NT!
+ emperor_tribal_male: "High King" #NT!
+ emperor_tribal_female: "High Queen" #NT!
+ empire_tribal: "High Kingdom" #NT!
+ baron_mercenary_male: "Lieutenant" #NT!
+ baron_mercenary_female: "Lieutenant" #NT!
+ barony_mercenary: "Band" #NT!
+ count_mercenary_male: "Constable" #NT!
+ count_mercenary_female: "Constable" #NT!
+ county_mercenary: "Host" #NT!
+ duke_mercenary_male: "Captain" #NT!
+ duke_mercenary_female: "Captain" #NT!
+ duchy_mercenary: "Company" #NT!
+ king_mercenary_male: "General" #NT!
+ king_mercenary_female: "Generaless" #NT!
+ kingdom_mercenary: "Army" #NT!
+ emperor_mercenary_male: "Grand General" #NT!
+ emperor_mercenary_female: "Grand Generaless" #NT!
+ empire_mercenary: "Grand Armada" #NT!
+ baron_holy_order_male: "Sergeant" #NT!
+ baron_holy_order_female: "Sergeant" #NT!
+ barony_holy_order: "Chapter" #NT!
+ count_holy_order_male: "Master" #NT!
+ count_holy_order_female: "Mistress" #NT!
+ county_holy_order: "Host" #NT!
+ duke_holy_order_male: "Grandmaster" #NT!
+ duke_holy_order_female: "Grandmistress" #NT!
+ duchy_holy_order: "Order" #NT!
+ king_holy_order_male: "Grandmaster" #NT!
+ king_holy_order_female: "Grandmistress" #NT!
+ kingdom_holy_order: "Sacred Order" #NT!
+ emperor_holy_order_male: "Grand Master" #NT!
+ emperor_holy_order_female: "Grand Mistress" #NT!
+ empire_holy_order: "Most Sacred Order" #NT!
+ # Default Faction Leader 
+ faction_leader_male: "Leader" #NT!
+ faction_leader_female: "Leader" #NT!
+ baron_viceroyalty_male: "Governor" #NT!
+ baron_viceroyalty_female: "Governor" #NT!
+ barony_viceroyalty: "Governorship" #NT!
+ count_viceroyalty_male: "Viscount" #NT!
+ count_viceroyalty_female: "Viscountess" #NT!
+ county_viceroyalty: "Province" #NT!
+ duke_viceroyalty_male: "High Viscount" #NT!
+ duke_viceroyalty_female: "High Viscountess" #NT!
+ duchy_viceroyalty: "Grand Province" #NT!
+ king_viceroyalty_male: "Viceroy" #NT!
+ king_viceroyalty_female: "Vicereine" #NT!
+ kingdom_viceroyalty: "Viceroyalty" #NT!
+ emperor_viceroyalty_male: "Co-Emperor" #NT!
+ emperor_viceroyalty_female: "Co-Empress" #NT!
+ empire_viceroyalty: "Empire" #NT!
+ ############################################## 
+ # Special cultural titles (sorted by culture, then government type). 
+ ### Agionist ### 
+ # Landed Holy Order 
+ agionist_order_empire_male: "Arch-Ordermaster" #NT!
+ agionist_order_empire_female: "Arch-Ordermaster" #NT!
+ agionist_order_kingdom_male: "Ordermaster" #NT!
+ agionist_order_kingdom_female: "Ordermaster" #NT!
+ agionist_order_duchy_male: "Chaptermaster" #NT!
+ agionist_order_duchy_female: "Chaptermaster" #NT!
+ agionist_order_county_male: "Commander" #NT!
+ agionist_order_county_female: "Commander" #NT!
+ agionist_order_barony_male: "Letalagos" #NT!
+ agionist_order_barony_female: "Letalagas" #NT!
+ empire_landed_holy_order: "Grand Order" #NT!
+ kingdom_landed_holy_order: "Great Order" #NT!
+ duchy_landed_holy_order: "Order" #NT!
+ county_landed_holy_order: "Order" #NT!
+ barony_landed_holy_order: "Order Administration" #NT!
+ agionist_empire_landed_holy_order: "Arch-Militant" #NT!
+ agionist_kingdom_landed_holy_order: "Order Militant" #NT!
+ agionist_duchy_landed_holy_order: "Order District" #NT!
+ agionist_county_landed_holy_order: "Order Chapter" #NT!
+ agionist_barony_landed_holy_order: "Order Diocese" #NT!
+ ### Konijkmener ### 
+ # Republic 
+ king_republic_male_konijkmener_group: "Hertzeg" #NT!
+ king_republic_female_konijkmener_group: "Hertzag" #NT!
+ king_feudal_male_konijkmener_group: "Koneng" #NT!
+ king_feudal_female_konijkmener_group: "Konang" #NT!
+ chancellery_republic_male_konijkmener: "Kanzeleren" #NT!
+ chancellery_republic_female_konijkmener: "Kanzeleran" #NT!
+ chancellery_republic_konijkmener: "Kanzelerij" #NT!
+ ### Sjalvolki ### 
+ # Feudal 
+ baron_feudal_male_sjalvolki: "Vodj" #NT!
+ baron_feudal_female_sjalvolki: "Vodjca" #NT!
+ barony_feudal_sjalvolki: "Vas" #NT!
+ count_feudal_male_sjalvolki: "Svetnik" #NT!
+ count_feudal_female_sjalvolki: "Svetnikija" #NT!
+ count_feudal_male_sjalvolki_independent: "Kral" #NT!
+ count_feudal_female_sjalvolki_independent: "Kralca" #NT!
+ county_feudal_sjalvolki: "Vasrech" #NT!
+ county_feudal_sjalvolki_independent: "Podrocrech" #NT!
+ duke_feudal_male_sjalvolki: "Vodjclanev" #NT!
+ duke_feudal_female_sjalvolki: "Vodjclanava" #NT!
+ duke_feudal_male_sjalvolki_independent: "Kral" #NT!
+ duke_feudal_female_sjalvolki_independent: "Kralca" #NT!
+ duchy_feudal_sjalvolki: "Clanrech" #NT!
+ duchy_feudal_sjalvolki_independent: "Podrocrech" #NT!
+ king_feudal_male_sjalvolki: "Kral" #NT!
+ king_feudal_female_sjalvolki: "Kralca" #NT!
+ kingdom_feudal_sjalvolki: "Podrocrech" #NT!
+ emperor_feudal_male_sjalvolki: "Rehkral" #NT!
+ emperor_feudal_female_sjalvolki: "Rehkralca" #NT!
+ # Tribal 
+ emperor_imperrech_tribal_sjalvolki: "High King" #NT!
+ baron_tribal_male_sjalvolki: "Vodj" #NT!
+ baron_tribal_female_sjalvolki: "Vodjca" #NT!
+ barony_tribal_sjalvolki: "Vas" #NT!
+ count_tribal_male_sjalvolki: "Svetnik" #NT!
+ count_tribal_female_sjalvolki: "Svetnikija" #NT!
+ count_tribal_male_sjalvolki_independent: "Kral" #NT!
+ count_tribal_female_sjalvolki_independent: "Kralca" #NT!
+ county_tribal_sjalvolki: "Vasrech" #NT!
+ county_tribal_sjalvolki_independent: "Podrocrech" #NT!
+ duke_tribal_male_sjalvolki: "Vodjclanev" #NT!
+ duke_tribal_female_sjalvolki: "Vodjclanava" #NT!
+ duke_tribal_male_sjalvolki_independent: "Kral" #NT!
+ duke_tribal_female_sjalvolki_independent: "Kralca" #NT!
+ duchy_tribal_sjalvolki: "Clanrech" #NT!
+ duchy_tribal_sjalvolki_independent: "Podrocrech" #NT!
+ king_tribal_male_sjalvolki: "Kral" #NT!
+ king_tribal_female_sjalvolki: "Kralca" #NT!
+ kingdom_tribal_sjalvolki: "Podrocrech" #NT!
+ emperor_tribal_male_sjalvolki: "Rehkral" #NT!
+ emperor_tribal_female_sjalvolki: "Rehkralca" #NT!
+  #partic 
+ emperor_tribal_partic: "Faernmaigh" #NT!
+ king_tribal_partic: "Chief" #NT!
+ duke_tribal_partic: "Low Chief" #NT!
+ count_male_tribal_partic: "Headman" #NT!
+ count_female_tribal_partic: "Headwoman" #NT!
+ baron_tribal_partic: "Land Leader" #NT!
+ emperor_tribal_partic_male: "Fiosgair" #NT!
+ king_tribal_partic_male: "Speaker" #NT!
+ duke_tribal_partic_male: "High Seer" #NT!
+ count_male_tribal_partic_male: "Seer" #NT!
+ baron_tribal_partic_male: "Seer" #NT!
+  #Petti Gisredde 
+ ### Aversarian ### 
+ baron_feudal_male_aversarian: "Kratoxon" #NT!
+ baron_feudal_female_aversarian: "Kratoxan" #NT!
+ barony_feudal_aversarian: "Polis" #NT!
+ count_feudal_male_aversarian: "Kothexir" #NT!
+ count_feudal_female_aversarian: "Kothexa" #NT!
+ county_feudal_aversarian: "Kothex" #NT!
+ duke_feudal_male_aversarian: "Despexir" #NT!
+ duke_feudal_female_aversarian: "Despexa" #NT!
+ duchy_feudal_aversarian: "Despex" #NT!
+ king_feudal_male_aversarian: "Archexir" #NT!
+ king_feudal_female_aversarian: "Archexa" #NT!
+ kingdom_feudal_aversarian: "Archex" #NT!
+ emperor_feudal_male_aversarian: "Aautokratir" #NT!
+ emperor_feudal_female_aversarian: "Aautokratia" #NT!
+ empire_feudal_aversarian: "Aautokrata" #NT!
+ aversarian_archaes: "Arch-Legon" #NT!
+ archlegon: "Arch-Legon" #NT!
+ archlegan: "Arch-Legan" #NT!
+ legon: "Legon" #NT!
+ legan: "Legan" #NT!
+ aversarian_legon: "Legon" #NT!
+ aversarian_arch_letalagos: "Arch Letalagos" #NT!
+ aversarian_letalagos: "Letalagos" #NT!
+ aversarian_archaes_female: "Arch-Legan" #NT!
+ aversarian_legon_female: "Legan" #NT!
+ aversarian_arch_letalagos_female: "Arch Letalagas" #NT!
+ aversarian_letalagos_female: "Letalagas" #NT!
+ magocratic_archmagi: "Arch-Magi" #NT!
+ magocratic_firstmagi: "First-Magi" #NT!
+ aversarian_legon_female_lxi: "Legan" #NT!
+ aversarian_legon_lxi: "Legon" #NT!
+ emperor_marcher_male: "High King" #NT!
+ emperor_marcher_female: "High Queen" #NT!
+ band_of_bastards_commander: "Commander" #NT!
+ grand_duke_ziemojycz_male: "Grand Duke" #NT!
+ grand_duke_ziemojycz_female: "Grand Duchess" #NT!
+ king_ziemojycz_male: "King" #NT!
+ king_ziemojycz_female: "Queen" #NT!
+ d_warden_title: "Mamur" #NT!
+  ### Kikarsagi ### 
+  # Aversarianized 
+ baron_male_kikarsagi: "Keyakexir" #NT!
+ baron_female_kikarsagi: "Keyakexira" #NT!
+ barony_kikarsagi: "Keyakex" #NT!
+ count_male_kikarsagi: "Tanbeyexir" #NT!
+ count_female_kikarsagi: "Tanbeyexira" #NT!
+ county_kikarsagi: "Tanbeyex" #NT!
+ duke_male_kikarsagi: "Beyexir" #NT!
+ duke_female_kikarsagi: "Beyexira" #NT!
+ duchy_kikarsagi: "Beyex" #NT!
+ king_male_kikarsagi: "Khatir" #NT!
+ king_female_kikarsagi: "Khatira" #NT!
+ kingdom_kikarsagi: "Khata" #NT!
+ emperor_male_kikarsagi: "Aautokhatir" #NT!
+ emperor_female_kikarsagi: "Aautokhatira" #NT!
+ empire_kikarsagi: "Aautokhata" #NT!
+  ### Vhanavhid ### 
+ baron_male_vhanavhid: "Kayayan" #NT!
+ baron_female_vhanavhid: "Kayahun" #NT!
+ barony_vhanavhid: "Kayayanate" #NT!
+ count_male_vhanavhid: "Tanbeiy" #NT!
+ count_female_vhanavhid: "Tanbeiytun" #NT!
+ county_vhanavhid: "Tanbeiyan" #NT!
+ duke_male_vhanavhid: "Beiy" #NT!
+ duke_female_vhanavhid: "Beiytun" #NT!
+ duchy_vhanavhid: "Beiyan" #NT!
+ king_male_vhanavhid: "Khatan" #NT!
+ king_female_vhanavhid: "Hatun" #NT!
+ kingdom_vhanavhid: "Khatanate" #NT!
+ emperor_male_vhanavhid: "Hayakhatan" #NT!
+ emperor_female_vhanavhid: "Hayahatun" #NT!
+ empire_vhanavhid: "Hayakhatanate" #NT!
+  ### Goans ### 
+ count_male_goan: "Sagana" #NT!
+ count_female_goan: "Saganara" #NT!
+ county_goan: "Ganaj" #NT!
+ duke_male_goan: "Sahukra" #NT!
+ duke_female_goan: "Sahukrana" #NT!
+ duchy_goan: "Hukran" #NT!
+ king_male_goan: "Saraj" #NT!
+ king_female_goan: "Saraja" #NT!
+ kingdom_goan: "Rajag" #NT!
+ emperor_male_goan: "Samraka" #NT!
+ emperor_female_goan: "Samrakana" #NT!
+ empire_goan: "Rakan" #NT!
+  ### Damotans ### 
+ baron_male_damotan: "Akāya" #NT!
+ baron_female_damotan: "Akāya" #NT!
+ barony_damotan: "Akāyawī" #NT!
+ count_male_damotan: "Golka" #NT!
+ count_female_damotan: "Golka" #NT!
+ county_damotan: "Golkawī" #NT!
+ duke_male_damotan: "Yarkiyē" #NT!
+ duke_female_damotan: "Yarkiyē" #NT!
+ duchy_damotan: "Yarkiyēt" #NT!
+ king_male_damotan: "Tālqar" #NT!
+ king_female_damotan: "Tālqara" #NT!
+ kingdom_damotan: "Tālqarut" #NT!
+ emperor_male_damotan: "Boqqar" #NT!
+ emperor_female_damotan: "Boqqara" #NT!
+ empire_damotan: "Boqqarut" #NT!
+ prince_male_damotan: "Tālqeret" #NT!
+ prince_female_damotan: "Tālqereta" #NT!
+ prince_male_damotan_empire: "Boqqaret" #NT!
+ prince_female_damotan_empire: "Boqqareta" #NT!
+  ## Damotan Guard Captain## 
+ kabtiyk: "Kabtīyk" #NT!
+  ## Mogowai ### 
+ #realm_priest_mogowai: "Aminet" #NT!
+ emperor_mogowai_religious: "Kihinet" #NT!
+ empire_mogowai_religious: "Kihineti" #NT!
+ king_mogowai_religious: "Etami Aminet" #NT!
+ kingdom_mogowai_religious: "Etami Amineti" #NT!
+ duke_mogowai_religious: "Aminet" #NT!
+ duchy_mogowai_religious: "Amineti" #NT!
+ count_mogowai_religious: "Ekagīb" #NT!
+ county_mogowai_religious: "Ekagībi" #NT!
+ baron_mogowai_religious: "Siiret" #NT!
+ barony_mogowai_religious: "Siireti" #NT!
+  ## Adabyss (Will one day be Military only ## 
+ emperor_male_adabyssian: "Lelmand" #NT!
+ emperor_female_adabyssian: "Lelmand" #NT!
+ empire_adabyssian: "Limpegail" #NT!
+ king_male_adabyssian: "Cúdhel Masuwan" #NT!
+ king_female_adabyssian: "Cúdhel Masuwan" #NT!
+ kingdom_adabyssian: "Masuwanat" #NT!
+ baron_republic_male_roman: "Magister" #NT!
+ baron_republic_female_roman: "Magistra" #NT!
+ count_republic_male_roman: "Praefect" #NT!
+ count_republic_female_roman: "Praefect" #NT!
+ duke_republic_male_roman: "Tribune" #NT!
+ duke_republic_female_roman: "Tribune" #NT!
+ king_republic_male_roman: "Consul" #NT!
+ king_republic_female_roman: "Consul" #NT!
+ kingdom_republic_roman: "League" #NT!
+ emperor_republic_male_roman: "Princeps" #NT!
+ emperor_republic_female_roman: "Princess" #NT!
+ empire_republic_roman: "Grand Republic" #NT!
+ # Viceroyalty 
+ baron_viceroyalty_male_roman: "Governor" #NT!
+ baron_viceroyalty_female_roman: "Governess" #NT!
+ barony_viceroyalty_roman: "Province" #NT!
+ count_viceroyalty_male_roman: "Governor" #NT!
+ count_viceroyalty_female_roman: "Governess" #NT!
+ county_viceroyalty_roman: "Province" #NT!
+ duke_viceroyalty_male_roman: "Governor" #NT!
+ duke_viceroyalty_female_roman: "Governess" #NT!
+ duchy_viceroyalty_roman: "Province" #NT!
+ king_viceroyalty_male_roman: "Vicar" #NT!
+ king_viceroyalty_female_roman: "Vicarissa" #NT!
+ kingdom_viceroyalty_roman: "Diocese" #NT!
+ emperor_viceroyalty_male_roman: "Princeps" #NT!
+ emperor_viceroyalty_female_roman: "Principissa" #NT!
+ empire_viceroyalty_roman: "Principate" #NT!
+ ### Greek ### 
+ # Feudal / Imperial 
+ count_feudal_male_greek: "Komes" #NT!
+ count_feudal_female_greek: "Komitissa" #NT!
+ duke_feudal_male_greek: "Doux" #NT!
+ duke_feudal_female_greek: "Doukissa" #NT!
+ king_feudal_male_greek: "Despot" #NT!
+ king_feudal_female_greek: "Despotissa" #NT!
+ kingdom_feudal_greek: "Despotate" #NT!
+ emperor_feudal_male_greek: "Basileus" #NT!
+ emperor_feudal_female_greek: "Basilissa" #NT!
+ ### Byzantine ### 
+ duke_republic_male_byzantine_group: "Eparch" #NT!
+ duke_republic_female_byzantine_group: "Eparchessa" #NT!
+ king_republic_male_byzantine_group: "Serene Doge" #NT!
+ king_republic_female_byzantine_group: "Serene Dogaressa" #NT!
+ duke_viceroyalty_male_byzantine_group: "Strategos" #NT!
+ duke_viceroyalty_female_byzantine_group: "Strategitissa" #NT!
+ duchy_viceroyalty_byzantine_group: "Theme" #NT!
+ king_viceroyalty_male_byzantine_group: "Exarch" #NT!
+ king_viceroyalty_female_byzantine_group: "Exarchessa" #NT!
+ king_viceroyalty_byzantine_group: "Exarchate" #NT!
+ emperor_viceroyalty_male_byzantine_group: "Grand Exarch" #NT!
+ emperor_viceroyalty_female_byzantine_group: "Grand Exarchessa" #NT!
+ empire_viceroyalty_byzantine_group: "Grand Exarchate" #NT!
+ ### German ### 
+ # Feudal / Tribal 
+ emperor_feudal_male_german: "Kaiser" #NT!
+ emperor_feudal_female_german: "Kaiserin" #NT!
+ ### Norse ### 
+ baron_feudal_male_norse: "Þegn" #NT!
+ baron_feudal_female_norse: "Þegn" #NT!
+ count_feudal_male_norse: "Jarl" #NT!
+ count_feudal_female_norse: "Jarl" #NT!
+ county_feudal_norse: "Jarldom" #NT!
+ ### English ### 
+ count_feudal_male_english: "Earl" #NT!
+ count_feudal_female_english: "Countess" #NT!
+ county_feudal_english: "Earldom" #NT!
+ ### Anglo-Saxon ### 
+ baron_feudal_male_anglo_saxon: "Thane" #NT!
+ baron_feudal_female_anglo_saxon: "Thane" #NT!
+ baron_republic_male_anglo_saxon: "Reeve" #NT!
+ baron_republic_female_anglo_saxon: "Reeve" #NT!
+ barony_republic_anglo_saxon: "Borough" #NT!
+ count_republic_male_anglo_saxon: "Sheriff" #NT!
+ count_republic_female_anglo_saxon: "Sheriff" #NT!
+ county_republic_anglo_saxon: "Shire" #NT!
+ ### Irish ### 
+ ### Pictish ### 
+ count_feudal_male_pictish: "Mormaer" #NT!
+ count_feudal_female_pictish: "Banmormaer" #NT!
+ county_feudal_pictish: "Mormaerdom" #NT!
+ ### Scottish ### 
+ baron_republic_male_scottish: "Provost" #NT!
+ baron_republic_female_scottish: "Provost" #NT!
+ barony_republic_scottish: "Burgh" #NT!
+ count_republic_male_scottish: "Lord Provost" #NT!
+ count_republic_female_scottish: "Lady Provost" #NT!
+ ### Hausa ### 
+ count_feudal_female_hausan_independent: "Petty Magajiya" #NT!
+ duke_feudal_female_hausan_independent: "Magajiya" #NT!
+ king_feudal_female_hausan_independent: "Grand Magajiya" #NT!
+ ### Principalities ### 
+ # Feudal/Tribal 
+ duke_feudal_male_prince_independent: "Prince" #NT!
+ duke_feudal_female_prince_independent: "Princess" #NT!
+ duchy_feudal_prince_independent: "Principality" #NT!
+ duke_feudal_male_prince_always: "$duke_feudal_male_prince_independent$" #NT!
+ duke_feudal_female_prince_always: "$duke_feudal_female_prince_independent$" #NT!
+ duchy_feudal_prince_always: "$duchy_feudal_prince_independent$" #NT!
+ ### Grand Principalities ### 
+ king_feudal_male_grand_prince_independent: "Grand Prince" #NT!
+ king_feudal_female_grand_prince_independent: "Grand Princess" #NT!
+ kingdom_feudal_grand_prince_independent: "Grand Principality" #NT!
+ ### Grand Duchies ### 
+ king_feudal_male_grand_duke_independent: "Grand Duke" #NT!
+ king_feudal_female_grand_duke_independent: "Grand Duchess" #NT!
+ kingdom_feudal_grand_duke_independent: "Grand Duchy" #NT!
+ ### Lombard ### 
+ duke_feudal_male_lombard_independent: "Prince" #NT!
+ duke_feudal_female_lombard_independent: "Princess" #NT!
+ duchy_feudal_lombard_independent: "Principality" #NT!
+ ### Banates ### 
+ duke_feudal_male_ban: "Ban" #NT!
+ duke_feudal_female_ban: "Ban" #NT!
+ duchy_feudal_ban: "Banate" #NT!
+ ### Sardinian ### 
+ barony_feudal_sardinian: "Curadoria" #NT!
+ baron_feudal_male_sardinian: "Curadore" #NT!
+ baron_feudal_female_sardinian: "Curadora" #NT!
+ county_feudal_sardinian: "Judicadu" #NT!
+ count_feudal_male_sardinian: "Judike" #NT!
+ count_feudal_female_sardinian: "Judesa" #NT!
+ duchy_feudal_sardinian: "Archonate" #NT!
+ duke_feudal_male_sardinian: "Archon" #NT!
+ duke_feudal_female_sardinian: "Archonesa" #NT!
+ ### Russian ### 
+ duke_feudal_male_russian: "Grand Prince" #NT!
+ duke_feudal_female_russian: "Grand Princess" #NT!
+ duchy_feudal_russian: "Grand Principality" #NT!
+ emperor_feudal_male_russian: "Tsar" #NT!
+ emperor_feudal_female_russian: "Tsaritsa" #NT!
+ empire_feudal_russian: "Tsardom" #NT!
+ ### Arabic ### 
+ # Feudal / Clan / Tribal 
+ baron_feudal_male_arabic_group: "Wālī" #NT!
+ baron_feudal_female_arabic_group: "Wālīa" #NT!
+ barony_feudal_arabic_group: "Wilāyah" #NT!
+ count_feudal_male_arabic_group: "Sheikh" #NT!
+ count_feudal_female_arabic_group: "Shaykhah" #NT!
+ county_feudal_arabic_group: "Sheikhdom" #NT!
+ duke_feudal_male_arabic_group: "Emir" #NT!
+ duke_feudal_female_arabic_group: "Emira" #NT!
+ duchy_feudal_arabic_group: "Emirate" #NT!
+ king_feudal_male_arabic_group: "Malik" #NT!
+ king_feudal_female_arabic_group: "Malika" #NT!
+ kingdom_feudal_arabic_group: "Malikate" #NT!
+ king_feudal_muslim_male_arabic_group: "Sultan" #NT!
+ king_feudal_muslim_female_arabic_group: "Sultana" #NT!
+ kingdom_feudal_muslim_arabic_group: "Sultanate" #NT!
+ emperor_feudal_male_arabic_group: "Malik al-Muazzam" #NT!
+ emperor_feudal_female_arabic_group: "Malika al-Muazzama" #NT!
+ empire_feudal_arabic_group: "Empire" #NT!
+ count_republic_male_arabic_group: "Wali" #NT!
+ count_republic_female_arabic_group: "Wâlia" #NT!
+ duke_republic_male_arabic_group: "Wali-Emir" #NT!
+ duke_republic_female_arabic_group: "Wâlia-Emir" #NT!
+ king_republic_male_arabic_group: "Wali-Malik" #NT!
+ king_republic_female_arabic_group: "Wâlia-Malik" #NT!
+ ### Turkish ### 
+ # Feudal / Clan 
+ baron_feudal_male_turkish: "Agha" #NT!
+ baron_feudal_female_turkish: "Hanim" #NT!
+ barony_feudal_turkish: "Timariot" #NT!
+ count_feudal_male_turkish: "Beg" #NT!
+ count_feudal_female_turkish: "Begum" #NT!
+ county_feudal_turkish: "Beylik" #NT!
+ duke_feudal_male_turkish: "Atabeg" #NT!
+ duke_feudal_female_turkish: "Atabegum" #NT!
+ duchy_feudal_turkish: "Atabegate" #NT!
+ king_feudal_male_turkish: "Sultan" #NT!
+ king_feudal_female_turkish: "Sultana" #NT!
+ kingdom_feudal_turkish: "Sultanate" #NT!
+ emperor_feudal_male_turkish: "Sultan al-Muazzam" #NT!
+ emperor_feudal_female_turkish: "Sultana al-Muazzama" #NT!
+ empire_feudal_turkish: "Empire" #NT!
+ ### Iranian ### 
+ baron_feudal_male_iranian_group: "Argbadh" #NT!
+ baron_feudal_female_iranian_group: "Wâlia" #NT!
+ barony_feudal_iranian_group: "Arg" #NT!
+ count_feudal_male_iranian_group: "Marzoban" #NT!
+ count_feudal_female_iranian_group: "Shaykhah" #NT!
+ county_feudal_iranian_group: "Marzpanate" #NT!
+ duke_feudal_male_iranian_group: "Satrap" #NT!
+ duke_feudal_female_iranian_group: "Emira" #NT!
+ duchy_feudal_iranian_group: "Satrapy" #NT!
+ king_feudal_male_iranian_group: "Shah" #NT!
+ king_feudal_female_iranian_group: "Banebshen" #NT!
+ kingdom_feudal_iranian_group: "Shahdom" #NT!
+ emperor_feudal_male_iranian_group: "Shahanshah" #NT!
+ empire_feudal_iranian_group: "Empire" #NT!
+ ### Sogdian ### 
+ duke_feudal_male_sogdian: "Ikhshid" #NT!
+ ### Mongol ### 
+ # Feudal / Clan / Tribal / Nomadic 
+ baron_feudal_male_mongol: "Taishi" #NT!
+ ### Uyghur ### 
+ king_feudal_male_uyghur: "Idiqut" #NT!
+ king_feudal_female_uyghur: "Idiqut" #NT!
+ ### Altaic ### 
+ # Feudal / Tribal / Clan / Nomadic 
+ king_feudal_male_altaic_group: "Khan" #NT!
+ king_feudal_female_altaic_group: "Khanum" #NT!
+ kingdom_feudal_altaic_group: "Khanate" #NT!
+ emperor_feudal_male_altaic_group: "Khagan" #NT!
+ emperor_feudal_female_altaic_group: "Khatun" #NT!
+ empire_feudal_altaic_group: "Khaganate" #NT!
+ ### Dravidian / Indo-Aryan ### 
+ baron_feudal_male_dravidian_group: "Damapati" #NT!
+ baron_feudal_female_dravidian_group: "Damapatni" #NT!
+ barony_feudal_dravidian_group: "Dama" #NT!
+ count_feudal_male_dravidian_group: "Thakur" #NT!
+ count_feudal_female_dravidian_group: "Thakurani" #NT!
+ county_feudal_dravidian_group: "Thikana" #NT!
+ duke_feudal_male_dravidian_group: "Raja" #NT!
+ duke_feudal_female_dravidian_group: "Rani" #NT!
+ duchy_feudal_dravidian_group: "Raj" #NT!
+ king_feudal_male_dravidian_group: "Maharaja" #NT!
+ king_feudal_female_dravidian_group: "Maharani" #NT!
+ emperor_feudal_male_dravidian_group: "Samrat" #NT!
+ emperor_feudal_female_dravidian_group: "Samrajni" #NT!
+ ### OBSOLETE with new division ### West-African ### 
+ baron_feudal_male_west_african_group: "Tigui" #NT!
+ baron_feudal_female_west_african_group: "Tigua" #NT!
+ count_feudal_male_west_african_group_independent: "Jamanatigi" #NT!
+ count_feudal_female_west_african_group_independent: "Jamanatiga" #NT!
+ county_feudal_west_african_group: "Jamana" #NT!
+ count_feudal_male_west_african_group: "Farin" #NT!
+ count_feudal_female_west_african_group: "Farina" #NT!
+ duke_feudal_male_west_african_group: "Farbas" #NT!
+ duke_feudal_female_west_african_group: "Farba" #NT!
+ duchy_feudal_west_african_group: "Duchy" #NT!
+ king_feudal_male_west_african_group: "Faama" #NT!
+ king_feudal_female_west_african_group: "Malika" #NT!
+ kingdom_feudal_west_african_group: "Kingdom" #NT!
+ emperor_feudal_male_west_african_group: "Mansa" #NT!
+ emperor_feudal_female_west_african_group: "Sultana" #NT!
+ empire_feudal_west_african_group: "Kurufaba" #NT!
+ ### Tibetan Group ### 
+ count_feudal_male_tibetan_group: "Ngapo" #NT!
+ count_feudal_female_tibetan_group: "Ngamo" #NT!
+ county_feudal_tibetan_group: "County" #NT!
+ duke_feudal_male_tibetan_group: "Prabhu" #NT!
+ duke_feudal_female_tibetan_group: "Mahila" #NT!
+ duchy_feudal_tibetan_group: "Duchy" #NT!
+ king_feudal_male_tibetan_group: "Gyalpo" #NT!
+ king_feudal_female_tibetan_group: "Gyelmo" #NT!
+ kingdom_feudal_tibetan_group: "Gyalpo" #NT!
+ emperor_feudal_male_tibetan_group: "Tsenpo" #NT!
+ emperor_feudal_female_tibetan_group: "Maharani" #NT!
+ empire_feudal_tibetan_group: "Empire" #NT!
+  ### Iberian ### 
+  # Clan 
+ baron_clan_male_iberian_group: "$baron_feudal_male_arabic_group$" #NT!
+ baron_clan_female_iberian_group: "$baron_feudal_female_arabic_group$" #NT!
+ barony_clan_iberian_group: "$barony_feudal_arabic_group$" #NT!
+ count_clan_male_iberian_group: "$count_feudal_male_arabic_group$" #NT!
+ count_clan_female_iberian_group: "$count_feudal_female_arabic_group$" #NT!
+ county_clan_iberian_group: "$county_feudal_arabic_group$" #NT!
+ duke_clan_male_iberian_group: "$duke_feudal_male_arabic_group$" #NT!
+ duke_clan_female_iberian_group: "$duke_feudal_female_arabic_group$" #NT!
+ duchy_clan_iberian_group: "$duchy_feudal_arabic_group$" #NT!
+ king_clan_male_iberian_group: "$king_feudal_male_arabic_group$" #NT!
+ king_clan_female_iberian_group: "$king_feudal_female_arabic_group$" #NT!
+ kingdom_clan_iberian_group: "$kingdom_feudal_arabic_group$" #NT!
+ emperor_clan_male_iberian_group: "$emperor_feudal_male_arabic_group$" #NT!
+ emperor_clan_female_iberian_group: "$emperor_feudal_female_arabic_group$" #NT!
+ empire_clan_iberian_group: "$empire_feudal_arabic_group$" #NT!
+ #################################################### 
+ #Princes (children of Kings/Emperors, sorted by culture) 
+ ### Roman ### 
+ prince_male_roman: "Princeps" #NT!
+ prince_female_roman: "Principissa" #NT!
+ prince_male_roman_empire: "Caesar" #NT!
+ prince_female_roman_empire: "Caesarissa" #NT!
+ ### Iberian ### 
+ prince_male_iberian_group: "Infante" #NT!
+ prince_female_iberian_group: "Infanta" #NT!
+ prince_male_iberian_group_empire: "Infante" #NT!
+ prince_female_iberian_group_empire: "Infanta" #NT!
+ prince_male_iranian_group: "Shahzada" #NT!
+ prince_female_iranian_group: "Shahdokht" #NT!
+ prince_male_iranian_group_empire: "Shahzada" #NT!
+ prince_female_iranian_group_empire: "Shahdokht" #NT!
+ prince_male_dravidian_group: "Rajkumar" #NT!
+ prince_female_dravidian_group: "Rajkumari" #NT!
+ prince_male_dravidian_group_empire: "Rajkumar" #NT!
+ prince_female_dravidian_group_empire: "Rajkumari" #NT!
+ ## Imperial Prince ## 
+ prince_empire: "Prince" #NT!
+ princess_empire: "Princess" #NT!
+ #Special titles 
+ ecumenical_patriarch: "Ecumenical Patriarch" #NT!
+ ecumenical_matriarch: "Ecumenical Matriarch" #NT!
+ caliph: "Caliph" #NT!
+ archduke: "Archduke" #NT!
+ archduchess: "Archduchess" #NT!
+ archduchy: "Archduchy" #NT!
+ title_prince: "Prince" #NT!
+ title_princess: "Princess" #NT!
+ title_principality: "Principality" #NT!
+ swiss_confederation: "Confederation" #NT!
+ count_feudal_male_e_britannia: "Earl" #NT!
+ count_feudal_female_e_britannia: "Countess" #NT!
+ county_feudal_e_britannia: "Earldom" #NT!
+ count_feudal_male_k_wales: "Lord" #NT!
+ count_feudal_female_k_wales: "Lady" #NT!
+ county_feudal_k_wales: "Lordship" #NT!
+ county_isle: "Isle" #NT!
+ dauphin_male_french: "Dauphin" #NT!
+ dauphin_female_french: "Dauphine" #NT!
+ dauphinate_french: "Dauphinate" #NT!
+ king_feudal_male_k_ireland_irish: "High King" #NT!
+ king_feudal_female_k_ireland_irish: "High Queen" #NT!
+ kingdom_feudal_k_ireland_irish: "High Kingdom" #NT!
+ realm_priest_male: "[CHARACTER.GetCouncilTitle]" #NT!
+ realm_priest_female: "[CHARACTER.GetCouncilTitle]" #NT!
+ head_of_faith_male: "[CHARACTER.GetFaith.ReligiousHeadName|U]" #NT!
+ head_of_faith_female: "[CHARACTER.GetFaith.ReligiousHeadName|U]" #NT!
+ ### Berber ### 
+ baron_feudal_male_berber_group: "Nā'ib" #NT!
+ baron_feudal_female_berber_group: "Nā'iba" #NT!
+ barony_feudal_berber_group: "Bou" #NT!
+ count_feudal_male_berber_group: "Wālī" #NT!
+ count_feudal_female_berber_group: "Wālia" #NT!
+ county_feudal_berber_group: "Wilāyah" #NT!
+ count_feudal_male_berber_group_independent: "Sheikh" #NT!
+ count_feudal_female_berber_group_independent: "Shaykha" #NT!
+ county_feudal_berber_group_independent: "Sheikhdom" #NT!
+ duke_feudal_male_berber_group: "Emir" #NT!
+ duke_feudal_female_berber_group: "Emira" #NT!
+ duchy_feudal_berber_group: "Emirate" #NT!
+ king_feudal_male_berber_group: "Amīr al-Umarā" #NT!
+ king_feudal_female_berber_group: "Amīra al-Umarā" #NT!
+ kingdom_feudal_berber_group: "Grand Emirate" #NT!
+ emperor_feudal_male_berber_group: "Malik al-Mulūk" #NT!
+ emperor_feudal_female_berber_group: "Malika al-Mulūk" #NT!
+ empire_feudal_berber_group: "Empire" #NT!
+ baron_tribal_male_berber_group: "Ra'īs" #NT!
+ baron_tribal_female_berber_group: "Ra'īsa" #NT!
+ count_tribal_male_berber_group: "Sheikh" #NT!
+ count_tribal_female_berber_group: "Shaykha" #NT!
+ county_tribal_berber_group: "Sheikdom" #NT!
+ ### Sahelian ### 
+ baron_feudal_male_sahelian_group: "Horo" #NT!
+ baron_feudal_female_sahelian_group: "Hora" #NT!
+ count_feudal_male_sahelian_group: "Debegume" #NT!
+ count_feudal_female_sahelian_group: "Debeguma" #NT!
+ duke_feudal_male_sahelian_group: "Nyanyagume" #NT!
+ duke_feudal_female_sahelian_group: "Nyanyaguma" #NT!
+ king_feudal_male_sahelian_group: "Maghan" #NT!
+ king_feudal_female_sahelian_group: "Magha" #NT!
+ emperor_feudal_male_sahelian_group: "Kaya Magha" #NT!
+ emperor_feudal_female_sahelian_group: "Kaya Magha" #NT!
+ ### Senegambian group ### 
+ baron_feudal_male_senegambian_group: "Tigui" #NT!
+ baron_feudal_female_senegambian_group: "Tigua" #NT!
+ count_feudal_male_senegambian_group: "Geer" #NT!
+ count_feudal_female_senegambian_group: "Geera" #NT!
+ duke_feudal_male_senegambian_group: "Damel" #NT!
+ duke_feudal_female_senegambian_group: "Damela" #NT!
+ king_feudal_male_senegambian_group: "Simbago" #NT!
+ king_feudal_female_senegambian_group: "Simbaga" #NT!
+ emperor_feudal_male_senegambian_group: "Soma" #NT!
+ emperor_feudal_female_senegambian_group: "Soma" #NT!
+ ### Yoruba group ### 
+ baron_feudal_male_yoruba_group: "Uzama" #NT!
+ baron_feudal_female_yoruba_group: "Uzama" #NT!
+ count_feudal_male_yoruba_group: "Nana" #NT!
+ count_feudal_female_yoruba_group: "Nana" #NT!
+ duke_feudal_male_yoruba_group: "Ajapada" #NT!
+ duke_feudal_female_yoruba_group: "Ajapada" #NT!
+ king_feudal_male_yoruba_group: "Oba" #NT!
+ king_feudal_female_yoruba_group: "Oba" #NT!
+ emperor_feudal_male_yoruba_group: "Alafin" #NT!
+ emperor_feudal_female_yoruba_group: "Alafin" #NT!
+ ### Somalian group ### 
+ baron_feudal_male_somalian_group: "Akil" #NT!
+ baron_feudal_female_somalian_group: "Akilad" #NT!
+ count_feudal_male_somalian_group: "Islan" #NT!
+ count_feudal_female_somalian_group: "Islanad" #NT!
+ duke_feudal_male_somalian_group: "Gerad" #NT!
+ duke_feudal_female_somalian_group: "Geradad" #NT!
+ king_tribal_male_somalian_group: "Ughaz" #NT!
+ king_tribal_female_somalian_group: "Ughazad" #NT!
+ king_feudal_male_somalian_group: "Suldaan" #NT!
+ king_feudal_female_somalian_group: "Suldaanad" #NT!
+ emperor_feudal_male_somalian_group: "Boqor" #NT!
+ emperor_feudal_female_somalian_group: "Boqorad" #NT!
+ ### Central African group ### 
+ baron_feudal_male_central_african_group: "Chima Chidibe" #NT!
+ baron_feudal_female_central_african_group: "Chima Chidibe" #NT!
+ count_feudal_male_central_african_group: "Chima" #NT!
+ count_feudal_female_central_african_group: "Chima" #NT!
+ duke_feudal_male_central_african_group: "Galadima" #NT!
+ duke_feudal_female_central_african_group: "Galadima" #NT!
+ king_feudal_male_central_african_group: "Mai" #NT!
+ king_feudal_female_central_african_group: "Gumsu" #NT!
+ emperor_feudal_male_central_african_group: "Sultan" #NT!
+ emperor_feudal_female_central_african_group: "Sultana" #NT!
+ ### Akan group ### 
+ baron_feudal_male_akan_group: "Obaatan" #NT!
+ baron_feudal_female_akan_group: "Obaatana" #NT!
+ count_feudal_male_akan_group: "Nana" #NT!
+ count_feudal_female_akan_group: "Nana" #NT!
+ duke_feudal_male_akan_group: "Krontihene" #NT!
+ duke_feudal_female_akan_group: "Krontihena" #NT!
+ king_feudal_male_akan_group: "Omanhene" #NT!
+ king_feudal_female_akan_group: "Omanhena" #NT!
+ emperor_feudal_male_akan_group: "Akanhene" #NT!
+ emperor_feudal_female_akan_group: "Akanhena" #NT!
+ ### Beja ### 
+ baron_feudal_male_beja: "Omda" #NT!
+ baron_feudal_female_beja: "Omda" #NT!
+ count_feudal_male_beja: "Nazir" #NT!
+ count_feudal_female_beja: "Nazira" #NT!
+ duke_feudal_male_beja: "Emir" #NT!
+ duke_feudal_female_beja: "Emira" #NT!
+ king_feudal_male_beja: "Malik" #NT!
+ king_feudal_female_beja: "Malika" #NT!
+ emperor_feudal_male_beja: "Sultan" #NT!
+ emperor_feudal_female_beja: "Sultana" #NT!
+ ### Ethiopian ### 
+ count_feudal_male_ethiopian: "Ras" #NT!
+ count_feudal_female_ethiopian: "Woyzerit" #NT!
+ duke_feudal_male_ethiopian: "Mesfin" #NT!
+ duke_feudal_female_ethiopian: "Woyzero" #NT!
+ king_feudal_male_ethiopian: "Negus" #NT!
+ king_feudal_female_ethiopian: "Nigist" #NT!
+ emperor_feudal_male_ethiopian: "Negusa Negast" #NT!
+ emperor_feudal_female_ethiopian: "Itege" #NT!
+ baron_feudal_male_hausan: "Gida" #NT!
+ baron_feudal_female_hausan: "Gida" #NT!
+ count_feudal_male_hausan: "Sarkin Gadi" #NT!
+ count_feudal_female_hausan: "Sarkina Gadi" #NT!
+ duke_feudal_male_hausan: "Galadima" #NT!
+ duke_feudal_female_hausan: "Magajiya" #NT!
+ king_feudal_male_hausan: "Sarkī" #NT!
+ king_feudal_female_hausan: "Sarkīa" #NT!
+ #### Mondecny 
+ emperor_male_mondecny: "Staðvhadhar" #NT!
+ emperor_female_mondecny: "Staðvhadki" #NT!
+ king_male_mondecny: "Herrnkavhar" #NT!
+ king_female_mondecny: "Herrnkavdki" #NT!
+ duke_male_mondecny: "Kavhar" #NT!
+ duke_female_mondecny: "Kavdki" #NT!
+ count_male_mondecny: "Sevhar" #NT!
+ count_female_mondecny: "Sevdki" #NT!
+ baron_mondecny_male: "Isksevhar" #NT!
+ baron_mondecny_female: "Isksevki" #NT!
+ kingdom_mondecny: "Kavharate" #NT!
+ duchy_mondecny: "Sevkavharate" #NT!
+ county_mondecny: "Sevharate" #NT!
+ barony_mondecny: "Isksevharate" #NT!
+  #### Sarridian 
+ emperor_male_sarridian: "Varzammuk" #NT!
+ emperor_female_sarridian: "Varzammila" #NT!
+ king_male_sarridian: "Kanaxak" #NT!
+ king_female_sarridian: "Kanaxaka" #NT!
+ duke_male_sarridian: "Herkas" #NT!
+ duke_female_sarridian: "Herkasa" #NT!
+ count_male_sarridian: "Darikos" #NT!
+ count_female_sarridian: "Darikosa" #NT!
+ baron_male_sarridian: "Archar" #NT!
+ baron_female_sarridian: "Archara" #NT!
+ empire_sarridian: "Varzammat" #NT!
+ kingdom_sarridian: "Kanaxat" #NT!
+ duchy_sarridian: "Herkat" #NT!
+ county_sarridian: "Darikat" #NT!
+ barony_sarridian: "Archarat" #NT!
+ prince_male_sarridian: "Asimenan" #NT!
+ prince_female_sarridian: "Asimena" #NT!
+ prince_male_sarridian_empire: "Asimenan" #NT!
+ prince_female_sarridian_empire: "Asimena" #NT!
+   #### Gallieni 
+ emperor_male_gallieni: "Hymeradur" #NT!
+ emperor_female_gallieni: "Hymeraduron" #NT!
+ king_male_gallieni: "Bremor" #NT!
+ king_female_gallieni: "Bremoron" #NT!
+ duke_male_gallieni: "Tirloch" #NT!
+ duke_female_gallieni: "Tirlochon" #NT!
+ count_male_gallieni: "Iseldair" #NT!
+ count_female_gallieni: "Iseldairon" #NT!
+ baron_male_gallieni: "Hisalog" #NT!
+ baron_female_gallieni: "Hisalon" #NT!
+ empire_gallieni: "Hymeraeth" #NT!
+ kingdom_gallieni: "Brenath" #NT!
+ duchy_gallieni: "Tirnath" #NT!
+ county_gallieni: "Iselaeth" #NT!
+ barony_gallieni: "Hisanath" #NT!
+ prince_male_gallieni: "Brenail" #NT!
+ prince_female_gallieni: "Brenailon" #NT!
+ prince_male_gallieni_empire: "Brenail" #NT!
+ prince_female_gallieni_empire: "Brenailon" #NT!
+   #### karzarads 
+ emperor_male_karzarads: "Praviator" #NT!
+ emperor_female_karzarads: "Praviatrix" #NT!
+ king_male_karzarads: "Siyanol" #NT!
+ king_female_karzarads: "Siyanix" #NT!
+ duke_male_karzarads: "Arkzhdin" #NT!
+ duke_female_karzarads: "Arkzhdix" #NT!
+ count_male_karzarads: "Melzhdin" #NT!
+ count_female_karzarads: "Melzhdix" #NT!
+ baron_male_karzarads: "Zhdin" #NT!
+ baron_female_karzarads: "Zhdix" #NT!
+ empire_karzarads: "Pravium" #NT!
+ kingdom_karzarads: "Siyanist" #NT!
+ duchy_karzarads: "Arkist" #NT!
+ county_karzarads: "Melkist" #NT!
+ barony_karzarads: "Domist" #NT!
+ prince_male_karzarads: "Glavind" #NT!
+ prince_female_karzarads: "Glavinix" #NT!
+ prince_male_karzarads_empire: "Glavind" #NT!
+ prince_female_karzarads_empire: "Glavinix" #NT!
+   #### huegodocs 
+ emperor_male_huegodocs: "Isarnatan" #NT!
+ emperor_female_huegodocs: "Isarnatia" #NT!
+ king_male_huegodocs: "Ardiakon" #NT!
+ king_female_huegodocs: "Ardakia" #NT!
+ duke_male_huegodocs: "Marvasso" #NT!
+ duke_female_huegodocs: "Marvassia" #NT!
+ count_male_huegodocs: "Uxerat" #NT!
+ count_female_huegodocs: "Uxeratia" #NT!
+ baron_male_huegodocs: "Amdasin" #NT!
+ baron_female_huegodocs: "Amdasia" #NT!
+ prince_male_huegodocs: "Lexuatis" #NT!
+ prince_female_huegodocs: "Lexuatia" #NT!
+ prince_male_huegodocs_empire: "Lexuatis" #NT!
+ prince_female_huegodocs_empire: "Lexuatia" #NT!
+   #### sarminian 
+ emperor_male_sarminian: "Maganal" #NT!
+ emperor_female_sarminian: "Maganala" #NT!
+ king_male_sarminian: "Kizengan" #NT!
+ king_female_sarminian: "Kizengana" #NT!
+ duke_male_sarminian: "Urvazon" #NT!
+ duke_female_sarminian: "Urvaza" #NT!
+ count_male_sarminian: "Tasurzk" #NT!
+ count_female_sarminian: "Tasurza" #NT!
+ baron_male_sarminian: "Utaral" #NT!
+ baron_female_sarminian: "Utarala" #NT!
+ empire_sarminian: "Magalom" #NT!
+ kingdom_sarminian: "Kizenag" #NT!
+ duchy_sarminian: "Urvazeg" #NT!
+ county_sarminian: "Tasuyeg" #NT!
+ barony_sarminian: "Utaralg" #NT!
+ prince_male_sarminian: "Vercen" #NT!
+ prince_female_sarminian: "Vercena" #NT!
+ prince_male_sarminian_empire: "Vercen" #NT!
+ prince_female_sarminian_empire: "Vercena" #NT!
+   #### iyrossi 
+ emperor_male_iyrossi: "Tarachos" #NT!
+ emperor_female_iyrossi: "Tarachia" #NT!
+ king_male_iyrossi: "Laimenus" #NT!
+ king_female_iyrossi: "Laimenia" #NT!
+ duke_male_iyrossi: "Glauiates" #NT!
+ duke_female_iyrossi: "Glauiatia" #NT!
+ count_male_iyrossi: "Atyrlun" #NT!
+ count_female_iyrossi: "Atyria" #NT!
+ baron_male_iyrossi: "Darmach" #NT!
+ baron_female_iyrossi: "Dalmachia" #NT!
+ empire_iyrossi: "Tarachate" #NT!
+ kingdom_iyrossi: "Laimenate" #NT!
+ duchy_iyrossi: "Glautus" #NT!
+ county_iyrossi: "Atyriate" #NT!
+ barony_iyrossi: "Darmachate" #NT!
+ prince_male_iyrossi: "Ulcaon" #NT!
+ prince_female_iyrossi: "Ulcaonia" #NT!
+ prince_male_iyrossi_empire: "Ulcaon" #NT!
+ prince_female_iyrossi_empire: "Ulcaonia" #NT!
+   #### samojitian 
+ emperor_male_samojitian: "Vidukurian" #NT!
+ emperor_female_samojitian: "Vidukuriana" #NT!
+ king_male_samojitian: "Zekalon" #NT!
+ king_female_samojitian: "Zekalona" #NT!
+ duke_male_samojitian: "Lyderon" #NT!
+ duke_female_samojitian: "Lyderona" #NT!
+ count_male_samojitian: "Valmios" #NT!
+ count_female_samojitian: "Valmiosa" #NT!
+ baron_male_samojitian: "Malros" #NT!
+ baron_female_samojitian: "Malrosa" #NT!
+ empire_samojitian: "Vidukurst" #NT!
+ kingdom_samojitian: "Zekalonst" #NT!
+ duchy_samojitian: "Lyderst" #NT!
+ county_samojitian: "Valmst" #NT!
+ barony_samojitian: "Malrist" #NT!
+ prince_male_samojitian: "Aenos" #NT!
+ prince_female_samojitian: "Aenosa" #NT!
+ prince_male_samojitian_empire: "Aenos" #NT!
+ prince_female_samojitian_empire: "Aenosa" #NT!
+   #### ojyczaynz 
+ emperor_male_ojyczaynz: "Bardazan" #NT!
+ emperor_female_ojyczaynz: "Bardazana" #NT!
+ king_male_ojyczaynz: "Wysurol" #NT!
+ king_female_ojyczaynz: "Wysurola" #NT!
+ duke_male_ojyczaynz: "Iankal" #NT!
+ duke_female_ojyczaynz: "Iankala" #NT!
+ count_male_ojyczaynz: "Grycast" #NT!
+ count_female_ojyczaynz: "Grycasta" #NT!
+ baron_male_ojyczaynz: "Mielst" #NT!
+ baron_female_ojyczaynz: "Mielsta" #NT!
+ empire_ojyczaynz: "Bardiwon" #NT!
+ kingdom_ojyczaynz: "Wysoron" #NT!
+ duchy_ojyczaynz: "Ianist" #NT!
+ county_ojyczaynz: "Mielwon" #NT!
+ barony_ojyczaynz: "Gryon" #NT!
+ prince_male_ojyczaynz: "Zakrist" #NT!
+ prince_female_ojyczaynz: "Zakrista" #NT!
+ prince_male_ojyczaynz_empire: "Zakrist" #NT!
+ prince_female_ojyczaynz_empire: "Zakrista" #NT!
+   #### dawic 
+ emperor_male_dawic: "Djugard" #NT!
+ emperor_female_dawic: "Djugarda" #NT!
+ king_male_dawic: "Ayllin" #NT!
+ king_female_dawic: "Ayllina" #NT!
+ duke_male_dawic: "Izlaniat" #NT!
+ duke_female_dawic: "Izlania" #NT!
+ count_male_dawic: "Laubal" #NT!
+ count_female_dawic: "Laubala" #NT!
+ baron_male_dawic: "Xulun" #NT!
+ baron_female_dawic: "Xuluna" #NT!
+ empire_dawic: "Djugardaka" #NT!
+ kingdom_dawic: "Ayllinaka" #NT!
+ duchy_dawic: "Izlanaka" #NT!
+ county_dawic: "Laubalaka" #NT!
+ barony_dawic: "Xulunaka" #NT!
+ prince_male_dawic: "Galsan" #NT!
+ prince_female_dawic: "Galsana" #NT!
+ prince_male_dawic_empire: "Galsan" #NT!
+ prince_female_dawic_empire: "Galsana" #NT!
+   #### marmaladid 
+ emperor_male_marmaladid: "Djunhat" #NT!
+ emperor_female_marmaladid: "Djunhata" #NT!
+ king_male_marmaladid: "Azallid" #NT!
+ king_female_marmaladid: "Azalla" #NT!
+ duke_male_marmaladid: "Ixlaniar" #NT!
+ duke_female_marmaladid: "Ixlaniara" #NT!
+ count_male_marmaladid: "Lajuyas" #NT!
+ count_female_marmaladid: "Lajuyasa" #NT!
+ baron_male_marmaladid: "Yulthan" #NT!
+ baron_female_marmaladid: "Yulthana" #NT!
+ empire_marmaladid: "Djunhataz" #NT!
+ kingdom_marmaladid: "Azallaz" #NT!
+ duchy_marmaladid: "Ixlanaz" #NT!
+ county_marmaladid: "Lajaz" #NT!
+ barony_marmaladid: "Yulthaz" #NT!
+ prince_male_marmaladid: "Adirsan" #NT!
+ prince_female_marmaladid: "Adirsana" #NT!
+ prince_male_marmaladid_empire: "Adirsan" #NT!
+ prince_female_marmaladid_empire: "Adirsana" #NT!
+   #### kharadamatian 
+ emperor_male_kharadamatian: "Aezir Malayk" #NT!
+ emperor_female_kharadamatian: "Aezir Malaykah" #NT!
+ king_male_kharadamatian: "Malayk" #NT!
+ king_female_kharadamatian: "Malaykah" #NT!
+ duke_male_kharadamatian: "Umeir" #NT!
+ duke_female_kharadamatian: "Umeirah" #NT!
+ count_male_kharadamatian: "Eakhim" #NT!
+ count_female_kharadamatian: "Eakhimah" #NT!
+ baron_male_kharadamatian: "Tahyar" #NT!
+ baron_female_kharadamatian: "Tahyarah" #NT!
+ empire_kharadamatian: "Aezaykiat" #NT!
+ kingdom_kharadamatian: "Malaykiat" #NT!
+ duchy_kharadamatian: "Umeirat" #NT!
+ county_kharadamatian: "Eakhimat" #NT!
+ barony_kharadamatian: "Tahyariat" #NT!
+ prince_male_kharadamatian: "Damarith" #NT!
+ prince_female_kharadamatian: "Damariah" #NT!
+ prince_male_kharadamatian_empire: "Damarith" #NT!
+ prince_female_kharadamatian_empire: "Damariah" #NT!
+   #### dezhun 
+ emperor_male_dezhun: "Kasardun" #NT!
+ emperor_female_dezhun: "Kasarduna" #NT!
+ king_male_dezhun: "Arapalan" #NT!
+ king_female_dezhun: "Arapalana" #NT!
+ duke_male_dezhun: "Welkaj" #NT!
+ duke_female_dezhun: "Welkaja" #NT!
+ count_male_dezhun: "Tajanatt" #NT!
+ count_female_dezhun: "Tajanatta" #NT!
+ baron_male_dezhun: "Amantan" #NT!
+ baron_female_dezhun: "Amantana" #NT!
+ empire_dezhun: "Dunat" #NT!
+ kingdom_dezhun: "Palanat" #NT!
+ duchy_dezhun: "Kajat" #NT!
+ county_dezhun: "Nattiat" #NT!
+ barony_dezhun: "Tanat" #NT!
+ prince_male_dezhun: "Sakus" #NT!
+ prince_female_dezhun: "Sakusa" #NT!
+ prince_male_dezhun_empire: "Sakus" #NT!
+ prince_female_dezhun_empire: "Sakusa" #NT!
+   #### kosharan 
+ emperor_male_kosharan: "Galpahin" #NT!
+ emperor_female_kosharan: "Galpahina" #NT!
+ king_male_kosharan: "Duwar" #NT!
+ king_female_kosharan: "Duwara" #NT!
+ duke_male_kosharan: "Mesal" #NT!
+ duke_female_kosharan: "Mesala" #NT!
+ count_male_kosharan: "Rugahln" #NT!
+ count_female_kosharan: "Rugahlna" #NT!
+ baron_male_kosharan: "Iremes" #NT!
+ baron_female_kosharan: "Irema" #NT!
+ empire_kosharan: "Galpahit" #NT!
+ kingdom_kosharan: "Duwarit" #NT!
+ duchy_kosharan: "Mesalit" #NT!
+ county_kosharan: "Rugahit" #NT!
+ barony_kosharan: "Iremit" #NT!
+ prince_male_kosharan: "Lattakan" #NT!
+ prince_female_kosharan: "Lattakana" #NT!
+ prince_male_kosharan_empire: "Lattakan" #NT!
+ prince_female_kosharan_empire: "Lattakana" #NT!
+   #### khemet 
+ emperor_male_khemet: "Taessor" #NT!
+ emperor_female_khemet: "Taessori" #NT!
+ king_male_khemet: "Sohutar" #NT!
+ king_female_khemet: "Sohutari" #NT!
+ duke_male_khemet: "Tharenah" #NT!
+ duke_female_khemet: "Tharenahi" #NT!
+ count_male_khemet: "Tjatalen" #NT!
+ count_female_khemet: "Tjataleni" #NT!
+ baron_male_khemet: "Yatkan" #NT!
+ baron_female_khemet: "Yatkani" #NT!
+ empire_khemet: "Taessorat" #NT!
+ kingdom_khemet: "Sohutarat" #NT!
+ duchy_khemet: "Tharenat" #NT!
+ county_khemet: "Talenat" #NT!
+ barony_khemet: "Yatkanat" #NT!
+ prince_male_khemet: "Quremzu" #NT!
+ prince_female_khemet: "Quremzi" #NT!
+ prince_male_khemet_empire: "Quremzu" #NT!
+ prince_female_khemet_empire: "Quremzi" #NT!
+   #### canian 
+ emperor_male_canian: "Wilazh'rd" #NT!
+ emperor_female_canian: "Wilazh'rd" #NT!
+ king_male_canian: "Rixumin" #NT!
+ king_female_canian: "Rixumina" #NT!
+ duke_male_canian: "Iarath" #NT!
+ duke_female_canian: "Iarathina" #NT!
+ count_male_canian: "Verlan" #NT!
+ count_female_canian: "Verlina" #NT!
+ baron_male_canian: "Calucrix" #NT!
+ baron_female_canian: "Calucrina" #NT!
+ empire_canian: "Wilazhia" #NT!
+ kingdom_canian: "Rixumia" #NT!
+ duchy_canian: "Iaratia" #NT!
+ county_canian: "Verlania" #NT!
+ barony_canian: "Calucrixia" #NT!
+ prince_male_canian: "Erdish" #NT!
+ prince_female_canian: "Erdlasa" #NT!
+ prince_male_canian_empire: "Erdish" #NT!
+ prince_female_canian_empire: "Erdlasa" #NT!
+   #### saradari 
+ emperor_male_saradari: "Lirēnāra" #NT!
+ emperor_female_saradari: "Lirēnāri" #NT!
+ king_male_saradari: "Mahanka" #NT!
+ king_female_saradari: "Mahanki" #NT!
+ duke_male_saradari: "Naduran" #NT!
+ duke_female_saradari: "Nadurani" #NT!
+ count_male_saradari: "Darasek" #NT!
+ count_female_saradari: "Daraseki" #NT!
+ baron_male_saradari: "Sabith" #NT!
+ baron_female_saradari: "Sabithi" #NT!
+ empire_saradari: "Liraaj" #NT!
+ kingdom_saradari: "Mahanaaj" #NT!
+ duchy_saradari: "Naduraaj" #NT!
+ county_saradari: "Daraaj" #NT!
+ barony_saradari: "Sabaaj" #NT!
+ prince_male_saradari: "Rataka" #NT!
+ prince_female_saradari: "Ratakani" #NT!
+ prince_male_saradari_empire: "Rataka" #NT!
+ prince_female_saradari_empire: "Ratakani" #NT!
+  #### saraddonian 
+ emperor_male_saraddonian: "Malayk al-Alayk" #NT!
+ emperor_female_saraddonian: "Malaykah al-Alayk" #NT!
+ king_male_saraddonian: "Malayk" #NT!
+ king_female_saraddonian: "Malaykah" #NT!
+ duke_male_saraddonian: "Ameir" #NT!
+ duke_female_saraddonian: "Ameirah" #NT!
+ count_male_saraddonian: "Eakhim" #NT!
+ count_female_saraddonian: "Eakhimah" #NT!
+ baron_male_saraddonian: "Tahyin" #NT!
+ baron_female_saraddonian: "Tahyinah" #NT!
+ empire_saraddonian: "Aklayat" #NT!
+ kingdom_saraddonian: "Malaykat" #NT!
+ duchy_saraddonian: "Ameirat" #NT!
+ county_saraddonian: "Eakhimat" #NT!
+ barony_saraddonian: "Tahyinat" #NT!
+ prince_male_saraddonian: "Damarith" #NT!
+ prince_female_saraddonian: "Damariah" #NT!
+ prince_male_saraddonian_empire: "Damarith" #NT!
+ prince_female_saraddonian_empire: "Damariah" #NT!
+  #### lerrardin ### 
+ emperor_male_lerrardin: "Mephed-Mephe" #NT!
+ emperor_female_lerrardin: "Dedaphalad-Dedaphal" #NT!
+ king_male_lerrardin: "Mephe" #NT!
+ king_female_lerrardin: "Dedaphal" #NT!
+ duke_male_lerrardin: "Thavadh" #NT!
+ duke_female_lerrardin: "Khalabaton" #NT!
+ count_male_lerrardin: "Aznauli" #NT!
+ count_female_lerrardin: "Aznaula" #NT!
+ baron_male_lerrardin: "Glekh" #NT!
+ baron_female_lerrardin: "Glekh" #NT!
+ empire_lerrardin: "Khmertuli Samepho" #NT!
+ kingdom_lerrardin: "Samepho" #NT!
+ duchy_lerrardin: "Kalakhi" #NT!
+ county_lerrardin: "Danarthi" #NT!
+ barony_lerrardin: "Sopheli" #NT!
+ prince_male_lerrardin: "Batonishvilih" #NT!
+ prince_female_lerrardin: "Batonishvilih" #NT!
+ prince_male_lerrardin_empire: "Uphlistsuli" #NT!
+ prince_female_lerrardin_empire: "Upliskahlih" #NT!
+  ### kashirya ### 
+ emperor_male_kashirya: "Haytrapatti" #NT!
+ emperor_female_kashirya: "Haytrapatni" #NT!
+ kingdom_male_kashirya: "Khathpatti" #NT!
+ kingdom_female_kashirya: "Hathpatni" #NT!
+ duke_male_kashirya: "Thakteiy" #NT!
+ duke_female_kashirya: "Thakeiytun" #NT!
+ count_male_kashirya: "Sankeiy" #NT!
+ count_female_kashirya: "Sankiytun" #NT!
+ baron_male_kashirya: "Mukhita" #NT!
+ baron_female_kashirya: "Mukhita" #NT!
+ empire_kashirya: "Haytrakhati" #NT!
+ kingdom_kashirya: "Khathanat" #NT!
+ duchy_kashirya: "Thikhat" #NT!
+ county_kashirya: "Sankhat" #NT!
+ barony_kashirya: "Pankhatti" #NT!
+ prince_male_kashirya: "Yuvapatti" #NT!
+ prince_female_kashirya: "Yuvapatni" #NT!
+ prince_male_kashirya_empire: "Yuvrapatti" #NT!
+ prince_female_kashirya_empire: "Yuvrapatni" #NT!
+  ### madikirib ### 
+ emperor_male_madikirib: "Ibirelyon" #NT!
+ emperor_female_madikirib: "Ibastoret" #NT!
+ king_male_madikirib: "Marilun" #NT!
+ king_female_madikirib: "Masurid" #NT!
+ duke_male_madikirib: "Rilun" #NT!
+ duke_female_madikirib: "Surid" #NT!
+ count_male_madikirib: "Ibirilun" #NT!
+ count_female_madikirib: "Ibisurid" #NT!
+ baron_male_madikirib: "Ibilun" #NT!
+ baron_female_madikirib: "Iburid" #NT!
+ empire_madikirib: "Rokha" #NT!
+ kingdom_madikirib: "Erami" #NT!
+ duchy_madikirib: "Tega" #NT!
+ county_madikirib: "Lunisgi" #NT!
+ barony_madikirib: "Anci" #NT!
+ prince_madikirib: "Luk" #NT!
+ prince_madikirib_empire: "Ebelokan" #NT!
+  ### mtuwe ### 
+ emperor_male_mtuwe: "Wàràngxě" #NT!
+ emperor_female_mtuwe: "Wàràngxà" #NT!
+ king_male_mtuwe: "Bàqásê" #NT!
+ king_female_mtuwe: "Bàqásà" #NT!
+ duke_male_mtuwe: "Mànǎngwê" #NT!
+ duke_female_mtuwe: "Mànǎngwâ" #NT!
+ count_male_mtuwe: "Lèmésé" #NT!
+ count_female_mtuwe: "Lèmésà" #NT!
+ baron_male_mtuwe: "Thkǒê" #NT!
+ baron_female_mtuwe: "Thkǒà" #NT!
+ empire_mtuwe: "Wàràng" #NT!
+ kingdom_mtuwe: "Bàqúrû" #NT!
+ duchy_mtuwe: "Dèma" #NT!
+ county_mtuwe: "Hádô" #NT!
+ barony_mtuwe: "Thǒ" #NT!
+ prince_mtuwe: "Bàqǒê" #NT!
+ prince_mtuwe_empire: "Wàrǒê" #NT!
+  ### daikheni ### 
+ emperor_male_daikheni: "Myinra" #NT!
+ emperor_female_daikheni: "Mài" #NT!
+ king_male_daikheni: "Hakro" #NT!
+ king_female_daikheni: "Kelai" #NT!
+ duke_male_daikheni: "Hanòk" #NT!
+ duke_female_daikheni: "Hanaè" #NT!
+ count_male_daikheni: "Nònh" #NT!
+ count_female_daikheni: "Nài" #NT!
+ baron_male_daikheni: "Dhap" #NT!
+ baron_female_daikheni: "Dhai" #NT!
+ empire_daikheni: "Daikaung" #NT!
+ kingdom_daikheni: "Krensaung" #NT!
+ duchy_daikheni: "Halaung" #NT!
+ county_daikheni: "Naung" #NT!
+ barony_daikheni: "Hau" #NT!
+ prince_daikheni: "Hmoin" #NT!
+ prince_daikheni_empire: "Myin" #NT!
+  ## Wastelands 
+ wasteland_barony: 
+ wasteland_county: 
+ wasteland_duchy: 
+ wasteland_kingdom: 
+ wasteland_empire: 
+ wasteland_baron: 
+ wasteland_count: 
+ wasteland_duke: 
+ wasteland_king: 
+ wasteland_emperor: 

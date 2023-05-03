@@ -1,0 +1,424 @@
+﻿l_russian:
+  
+ #ritualist Loc 
+ ritualist_religion: "Ritualist" #NT!
+ ritualist_religion_adj: "Ritualist" #NT!
+ ritualist_religion_adjerent: "Ritualist" #NT!
+ ritualist_religion_adherent_plural: "Ritualists" #NT!
+ ritualist_religion_desc: "Less of a defined faith and more a label for a collection of local beliefs, Ritualism is a polytheistic group of faiths native to [sarradon|E] that tend to have esoteric beliefs and secretive ceremonies. Common among these sects is their reverence for the Thousand-and-One Steps of [GetBuilding('sophocos_01').GetName], a [tower|E] where one can achieve enlightenment if they climb every man-sized step and face a plethora of trials from the gods. The few who achieved this task had their accounts compiled in the Story of the Steps, an esoteric tome which is consulted for guidance and whose meanings are hotly debated among its followers. To walk the Thousand-and-One steps is not only a literal pilgrimage for Ritualists, but also a figurative quest for self-improvement." #NT!
+ ritualist_high_god_name: "Nantala" #NT!
+ ritualist_high_god_name_possessive: "Nantala's" #NT!
+ ritualist_high_god_name_alternate: "Lightgiver" #NT!
+ ritualist_high_god_name_alternate_possessive: "Lightgiver" #NT!
+ ritualist_devil_name: "Zezan" #NT!
+ ritualist_devil_name_possessive: "Zezan's" #NT!
+ ritualist_death_deity_name: "Mawtal" #NT!
+ ritualist_death_deity_name_possessive: "Mawtal's" #NT!
+ ritualist_house_of_worship: "ilenantala" #NT!
+ ritualist_house_of_worship_plural: "ilenantalas" #NT!
+ ritualist_religious_symbol: "ame-tala" #NT!
+ ritualist_religious_text: "Story of the Steps" #NT!
+ ritualist_religious_head_title: "Shahrazad" #NT!
+ ritualist_religious_head_title_name: "Shahrazadi" #NT!
+ ritualist_devotee_male: "pilsera" #NT!
+ ritualist_devotee_male_plural: "pilsera" #NT!
+ ritualist_devotee_female: "pilserin" #NT!
+ ritualist_devotee_female_plural: "pilserin" #NT!
+ ritualist_devotee_neuter: "pilse" #NT!
+ ritualist_devotee_neuter_plural: "pilse" #NT!
+ ritualist_priest_male: "itosra" #NT!
+ ritualist_priest_male_plural: "itosra" #NT!
+ ritualist_priest_female: "itosrin" #NT!
+ ritualist_priest_female_plural: "itosrin" #NT!
+ ritualist_priest_alternate: "itose" #NT!
+ ritualist_priest_alternate_plural: "itose" #NT!
+ ritualist_bishop: "olotala" #NT!
+ ritualist_bishop_plural: "olotala" #NT!
+ ritualist_positive_afterlife: "Ogbtiyo" #NT!
+ ritualist_negative_afterlife: "Aarunle" #NT!
+ ritualist_creator_god_name: "Olouman" #NT!
+ ritualist_creator_god_name_possessive: "Olouman's" #NT!
+ ritualist_health_god_name: "Botala" #NT!
+ ritualist_health_god_name_possessive: "Botala's" #NT!
+ ritualist_fertility_god_name: "Ungon" #NT!
+ ritualist_fertility_god_name_possessive: "Ungon's" #NT!
+ ritualist_wealth_god_name: "Imoja" #NT!
+ ritualist_wealth_god_name_possessive: "Imoja's" #NT!
+ ritualist_household_god_name: "Enshen" #NT!
+ ritualist_household_god_name_possessive: "Enshen's" #NT!
+ ritualist_fate_god_name: "Agjun" #NT!
+ ritualist_fate_god_name_possessive: "Agjun's" #NT!
+ ritualist_knowledge_god_name: "Ayigo" #NT!
+ ritualist_knowledge_god_name_possessive: "Ayigo's" #NT!
+ ritualist_war_god_name: "Xanjo" #NT!
+ ritualist_war_god_name_possessive: "Xajo's" #NT!
+ ritualist_trickster_god_name: "Roceji" #NT!
+ ritualist_trickster_god_name_possessive: "Roceji's" #NT!
+ ritualist_night_god_name: "Shumairn" #NT!
+ ritualist_night_god_name_possessive: "Shumairn's" #NT!
+ ritualist_water_god_name: "Iyaan" #NT!
+ ritualist_water_god_name_possessive: "Iyaan's" #NT!
+ ritualist_witch_god_name: "Bablua" #NT!
+ ritualist_witch_god_name_possessive: "Bablua's" #NT!
+  #ritualist faith loc 
+ ritualist: "Sophocist" #NT!
+ ritualist_adj: "Sophocist" #NT!
+ ritualist_adherent: "Sophocist" #NT!
+ ritualist_adherent_plural: "Sophocists" #NT!
+ ritualist_desc: "The Sophocists emphasize the memorization and performance of symbolic divine rituals, which they insist are the true Thousand-and-One Steps of [GetBuilding('sophocos_01').GetName]. The [tower|E] where the physical Steps lay are merely where the lessons were passed down, and the rituals were meant to be performed anywhere. Through accurate performance of all 1,001 rituals, will a person be able to understand the secrets of the gods and attain enlightenment." #NT!
+  #kamayed loc 
+ kamayed: "Kamayed" #NT!
+ kamayed_adj: "Kamayed" #NT!
+ kamayed_adherent: "Kamayed" #NT!
+ kamayed_adherent_plural: "Kamayedi" #NT!
+ kamayed_desc: "The Kamayed believe that the Thousand-and-One Steps of [GetBuilding('sophocos_01').GetName] are indeed a literal place, but not at the great [tower|E] that is usually described as their location in Sophocist folklore. Instead, they claim that the steps are a location of descent into a great crater "beyond the north stars." This crater, they insist, is the doorway to the afterlife, and those who are worthy enough to reach the bottom may enter into the realm of the gods." #NT!
+  #hayawan loc, hayawani 
+ hayawan: "Hayawan" #NT!
+ hayawan_adj: "Hayawan" #NT!
+ hayawan_adherent: "Hayawan" #NT!
+ hayawan_adherent_plural: "Hayawani" #NT!
+ hayawan_desc: "Long ago, Lion, the mightiest of beasts, was alone in the world. With a mighty roar humanity emerged from the soil, and Lion was alone no longer. Then came Hound, guardian of the dead and warriors. Hound was enraged at Lion, for Lion had no care for the lives of the humans he had created, and no loyalty to his creation. Before there could be a great war between the two, Lynx tricked Lion into inviting Hound into his home. As the entire [aeras|E] was Lion's home, he was bound by the rules of hospitality, and thus Lion and Hound were bound together as brothers." #NT!
+ hayawani_high_god_name: "Lion" #NT!
+ hayawani_high_god_name_possessive: "Lion's" #NT!
+ hayawani_high_god_name_alternate: "Lightgiver" #NT!
+ hayawani_high_god_name_alternate_possessive: "Lightgiver" #NT!
+ hayawani_devil_name: "Vulture" #NT!
+ hayawani_devil_name_possessive: "Vulture's" #NT!
+ hayawani_death_deity_name: "Hound" #NT!
+ hayawani_death_deity_name_possessive: "Hound's" #NT!
+ hayawani_creator_god_name: "$hayawan_high_god_name$" #NT!
+ hayawani_creator_god_name_possessive: "$hayawan_high_god_name_possessive$" #NT!
+ hayawani_health_god_name: "Ox" #NT!
+ hayawani_health_god_name_possessive: "Ox's" #NT!
+ hayawani_fertility_god_name: "Rabbit" #NT!
+ hayawani_fertility_god_name_possessive: "Rabbit's" #NT!
+ hayawani_wealth_god_name: "Magpie" #NT!
+ hayawani_wealth_god_name_possessive: "Magpie's" #NT!
+ hayawani_household_god_name: "Lynx" #NT!
+ hayawani_household_god_name_possessive: "Lynx's" #NT!
+ hayawani_fate_god_name: "Raven" #NT!
+ hayawani_fate_god_name_possessive: "Raven's" #NT!
+ hayawani_knowledge_god_name: "$hayawan_fate_god_name$" #NT!
+ hayawani_knowledge_god_name_possessive: "$hayawan_fate_god_name_possessive$" #NT!
+ hayawani_war_god_name: "$hayawan_death_deity_name$" #NT!
+ hayawani_war_god_name_possessive: "$hayawan_death_deity_name_possessive$" #NT!
+ hayawani_trickster_god_name: "$hayawan_household_god_name$" #NT!
+ hayawani_trickster_god_name_possessive: "$hayawan_household_god_name_possessive$" #NT!
+ hayawani_night_god_name: "Bat" #NT!
+ hayawani_night_god_name_possessive: "Bat's" #NT!
+ hayawani_water_god_name: "Dolphin" #NT!
+ hayawani_water_god_name_possessive: "Dolphin's" #NT!
+ hayawani_witch_god_name: "Bablua" #NT!
+ hayawani_witch_god_name_possessive: "Bablua's" #NT!
+  #mawtalmuninin loc, Mawtalmuminin 
+ mawtalmuninin: "Mawtalmuminin" #NT!
+ mawtalmuninin_adj: "Mawtalmuminin" #NT!
+ mawtalmuninin_adherent: "Mawtalmumininite" #NT!
+ mawtalmuninin_adherent_plural: "Mawtalmumininites" #NT!
+ mawtalmuninin_desc: "Beyond the veil of the mortal realm there only lies the eternity of death. The Mawtalmuminin gladly embrace this final destination; in fact, they crave it. To the Mawtalmuminin, there is nothing to fear from death, and in fact it must be venerated. As death is eternal, all gods and men are his servants." #NT!
+ mawtalmuninin_high_god_name: "$ritualist_death_deity_name$" #NT!
+ mawtalmuninin_high_god_possessive: "$ritualist_death_deity_name_possessive$" #NT!
+ mawtalmuninin_high_god_name_alternate: "The Eternal Beyond" #NT!
+ mawtalmuninin_high_god_name_alternate_possessive: "The Beyond's" #NT!
+ mawtalmuninin_creator_god_name: "$ritualist_death_deity_name$" #NT!
+ mawtalmuninin_creator_god_possessive: "$ritualist_death_deity_name_possessive$" #NT!
+  #ritualist4 loc, Iramite 
+ ritualist4: "Iramite" #NT!
+ ritualist4_adj: "Iramite" #NT!
+ ritualist4_adherent: "Iramite" #NT!
+ ritualist4_adherent_plural: "Iramites" #NT!
+ ritualist4_desc: "Iram, the City of the Pillars.\nShe will rise from the sands like dawn, but only for those whose minds are open and hearts are worthy.\nShe will be black as pitch, and engraved with gold, full of jewels that glitter like a thousand stars.\nThe Seven-Headed Serpent will watch you longingly within the city, where you will be safe.\nDo not seek Iram, faithful one, until Iram has sought for you." #NT!
+ iramite_high_god_name: "Iram, City of the Pillars" #NT!
+ iramite_high_god_name_possessive: "The City's" #NT!
+ iramite_high_god_name_alternate: "The Seven Headed Serpent" #NT!
+ iramite_high_god_name_alternate_possessive: "The Serpent's" #NT!
+ iramite_fate_god_name: "$iramite_high_god_name_possessive$" #NT!
+ iramite_knowledge_god_name: "$iramite_high_god_name_alternate$" #NT!
+ iramite_knowledge_god_name_possessive: "$iramite_high_god_name_alternate_possessive$" #NT!
+  #monolith_death_cult localization, Eirbaadit al-Muntarisa 
+ monolith_death_cult: "Eirbaadit al-Muntarisa" #NT!
+ monolith_death_cult_adj: "Hasani'a" #NT!
+ monolith_death_cult_adherent: "Hasani'a" #NT!
+ monolith_death_cult_adherent_plural: "Hasanii" #NT!
+ monolith_death_cult_desc: "Founded by the adventurer-king Hasan al-Khour in 727 IS, the Cult of the Monoliths worships three white monoliths engraved with unusually intricate designs and of extremely smooth surface situated in Jubaal-Khour. Claiming that the monoliths gave commandments to their most faithful followers when smeared in blood, ritual bloodletting swiftly evolved into the sacrifice of criminals to the monoliths, which purportedly increases the intensity of their commandments, as they are almost inaudible when given only offerings of blood. The monoliths are believed to represent a chthonic three-headed god of life and death, who was the first being to ascend the 1001 Steps of [GetBuilding('sophocos_01').GetName] where he became King of all Gods." #NT!
+  #monolith_death_cult good gods 
+ monolith_death_cult_high_god_name: "Thalthit 'Adaf Ilah" #NT!
+ monolith_high_god_name_possessive: "Thalthit 'Adaf Ilah's" #NT!
+ monolith_high_god_name_alternate: "Thalthit if Wahayd" #NT!
+ monolith_high_god_name_alternate_possessive: "Thalthit if Wahayd's" #NT!
+ monolith_creator_god_name: "Hayaal" #NT!
+ monolith_creator_god_name_possessive: "Hayaal's" #NT!
+ monolith_health_god_name: "Wialidat Jaadeda" #NT!
+ monolith_health_god_name_possessive: "Wialidat Jaadeda's" #NT!
+ monolith_fertility_god: "$monolith_creator_god_name$" #NT!
+ monolith_fertility_god_possessive: "$monolith_creator_god_name_possessive$" #NT!
+ monolith_death_deity: "Mawtal" #NT!
+ monolith_death_deity_possessive: "Mawtal's" #NT!
+  #monolith_death_cult evil gods 
+ monolith_devil_name: "Nisiyaan" #NT!
+ monolith_devil_name_possessive: "Nisiyaan's" #NT!
+  #suleimania localization, Suleimani'a 
+ suleimania: "Suleimani'a" #NT!
+ suleimania_adj: "Suleimani'a" #NT!
+ suleimania_adherent: "Suleimani'a" #NT!
+ suleimania_adherent_plural: "Suleimanii" #NT!
+ suleimania_desc: "The Suleimanii follow the teachings of the [magi|E]-philosopher Suleiman the Wise, who posited that the [GetBuilding('sophocos_01').GetName] on the surface of the world is an emanation of the True Sophocos maintained deep beneath the earth in the caverns of Domah Daniyal. The Suleimanii believe that long ago, men were blessed with great wisdom and stature, and that their philosophies allowed them to manipulate the world. Over time they began to degenerate in size and wisdom, and their philosophy likewise degenerated into what is now called [magic|E], becoming dangerous and enticing men to evil. A few called the Banu Daniyal fled underground to the True Sophocos, while their kinsmen transformed into modern man. Suleimanii believe philosophy is divine and philosophers are the incarnations of divinity on [aeras|E]." #NT!
+  #suleimania good gods 
+ suleimania_creator_god_name: "Fawhadaa" #NT!
+ suleimania_creator_god_possessive: "Fawhadaa's" #NT!
+ suleimania_high_god_name: "Suleiman" #NT!
+ suleimania_high_god_possessive: "Suleiman's" #NT!
+ suleimania_high_god_name_alternate: "Suleiman the Wise" #NT!
+ suleimania_high_god_name_alternate_possessive: "Suleiman's" #NT!
+ suleimania_health_god_name: "Uthman al-Sahariyah" #NT!
+ suleimania_health_god_name_possessive: "Uthman al-Sahariyah's" #NT!
+ suleimania_fertility_god_name: "Alissa bint Suleimaniyan" #NT!
+ suleimania_fertility_god_name_possessive: "Alissa bint Suleimaniyan's" #NT!
+ suleimania_wealth_god: "Yusuf ibn Malik" #NT!
+ suleimania_wealth_god_possessive: "Yusuf ibn Malik's" #NT!
+ suleimania_household_god: "Sharah al-Sumaishayye" #NT!
+ suleimania_household_god_possessive: "Sharah al-Sumaishayye" #NT!
+ suleimania_fate_god: "Abd al-Fawhadaa" #NT!
+ suleimania_fate_god_possessive: "Abd al-Fawhadaa's" #NT!
+ suleimania_war_god: "Hussein ibn Yahya" #NT!
+ suleimania_war_god_possessive: "Hussein ibn Yahya's" #NT!
+  #ataabay_zatanai localization, 'Ataabay Zatanai 
+ ataabay_zatanai: "'Ataabay Zatanai" #NT!
+ ataabay_zatanai_adj: "Zatani'a" #NT!
+ ataabay_zatanai_adherent: "Zatani'a" #NT!
+ ataabay_zatanai_adherent_plural: "Zatanii" #NT!
+ ataabay_zatanai_desc: "The Followers of Zatanai adhere to the teachings of the Ritualist prophet Zatanai, who received his revelations from [GetBuilding('sophocos_01').GetName] at just seventeen years of age. Zatanai, though young, was a fierce orator who stated that the [wardenites|E] must be destroyed utterly, and that anyone who rejected the truths of [GetBuilding('sophocos_01').GetName] should be slain as an enemy of mankind. Though it was not originally meant to be a permanent sect, Zatanai incorporated elements of the Suleimani'a sect into his own, chiefly the belief in Domah Daniyal and the view that all philosophies can be learned from, though Zatanai rejected the idea that non-Ritualist philosophies have any merit. Zatanai and his followers believe that Ritualism is the one and only way of life for mankind; all other religions are mere perversions of Ritualism, and so must either be assimilated if possible or destroyed if not. Zatanai was one of the youngest Ritualist prophets in the religion's history, and he entered into occultation at nineteen years of age after declaring that he would return when his people needed him most." #NT!
+  #zatania good gods 
+ ataabay_zatanai_high_god_name: "Zatanai" #NT!
+ ataabay_zatanai_high_god_name_possessive: "Zatanai's" #NT!
+ ataabay_zatanai_high_god_name_alternate: "the Twelfth Prophet" #NT!
+ ataabay_zatanai_high_god_name_alternate_possessive: "the Twelfth Prophet's" #NT!
+ ataabay_zatanai_war_god_name: "Ilah al-Hubar" #NT!
+ ataabay_zatanai_war_god_name_possessive: "Ilah al-Hubar's" #NT!
+ ataabay_zatanai_fate_god_name: "Sophocos" #NT!
+ ataabay_zatanai_fate_god_name_possessive: "Sophocos'" #NT!
+ ataabay_zatanai_fertility_god_name: "Sharaah al-Aswad" #NT!
+ ataabay_zatanai_fertility_god_name_possessive: "Sharaah al-Aswad's" #NT!
+  #zatania evil gods 
+ zatania_devil_name: "the First Warden" #NT!
+ zatania_devil_name_possessive: "the First Warden's" #NT!
+ ataabay_zatanai_witch_god_name: "$zatania_devil_name$" #NT!
+ ataabay_zatanai_witch_god_name_possessive: "$zatania_devil_name_possessive$" #NT!
+  #sabiat_al_malaikiya localization, Sabiat al-Malaikiya 
+ sabiat_al_malaikiya: "Sabiat al-Malaikiya" #NT!
+ sabiat_al_malaikiya_adj: "Malaiki" #NT!
+ sabiat_al_malaikiya_adherent: "Malaiki" #NT!
+ sabiat_al_malaikiya_adherent_plural: "Malaikii" #NT!
+ sabiat_al_malaikiya_desc: "The Sabiat al-Malaikiya was founded by the prophetess Sarah bint Shakira, who reputedly ascended the steps of [GetBuilding('sophocos_01').GetName] and was greeted by a host of angels who were horrible to behold and whose voices caused men to enter into convulsions. Sarah was accompanied by a band of other Ritualists who reported seeing the angels as well. Speaking to their prophetess, the angels commended the Ritualists for their devotion to [GetBuilding('sophocos_01').GetName], and gave Sarah a revelation: the gods and goddesses of this world were but masks worn by the angels of [GetBuilding('sophocos_01').GetName], and each religion was but another path to enlightenment. She was therefore charged with delivering peace to men, to cease the endless wars of Sarradon and bring an understanding between Ritualist and Wardenite, and then to spread this message of peace to the world entire. She and her new converts called themselves the Tribe of the Angels, and set about spreading this message of coexistence." #NT!
+  #sabiat good gods 
+ sabiat_al_malaikiya_creator_god_name: "Sophocos" #NT!
+ sabiat_al_malaikiya_creator_god_possessive: "Sophocos'" #NT!
+ sabiat_al_malaikiya_high_god_name: "Malayk al-Malaikiya" #NT!
+ sabiat_al_malaikiya_high_god_name_possessive: "Malayk al-Malaikiya's" #NT!
+ sabiat_al_malaikiya_high_god_name_alternate: "Malayk al-Malaiki al-Alayk" #NT!
+ sabiat_al_malaikiya_high_god_name_alternate_possessive: "Malayk al-Malaiki al-Alayk" #NT!
+ sabiat_al_malaikiya_health_god_name: "Malaik al-Shirfaa" #NT!
+ sabiat_al_malaikiya_health_god_name_possessive: "Malaik al-Shirfaa's" #NT!
+ sabiat_al_malaikiya_fertility_god_name: "Malaik al-Hayaal" #NT!
+ sabiat_al_malaikiya_fertility_god_name_possessive: "Malaik al-Hayaal's" #NT!
+ sabiat_al_malaikiya_wealth_god_name: "Malaik al-Taarwha" #NT!
+ sabiat_al_malaikiya_wealth_god_name_possessive: "Malaik al-Taarwha's" #NT!
+ sabiat_al_malaikiya_household_god_name: "Malaik al-Dawr" #NT!
+ sabiat_al_malaikiya_household_god_name_possessive: "Malaik al-Dawr's" #NT!
+ sabiat_al_malaikiya_fate_god_name: "Malaik al-Qadmisir" #NT!
+ sabiat_al_malaikiya_fate_god_name_possessive: "Malaik al-Qadmisir's" #NT!
+ sabiat_al_malaikiya_war_god_name: "Malaik al-Hubar" #NT!
+ sabiat_al_malaikiya_war_god_name_possessive: "Malaik al-Hubar's" #NT!
+ sabiat_al_malaikiya_night_god_name: "Malaik al-Layala" #NT!
+ sabiat_al_malaikiya_night_god_name_possessive: "Malaik al-Layala's" #NT!
+ sabiat_al_malaikiya_water_god_name: "Malaik al-Tajadad" #NT!
+ sabiat_al_malaikiya_water_god_name_possessive: "Malaik al-Tajadad's" #NT!
+ sabiat_al_malaikiya_witch_god_name: "$sabiat_al_malaikiya_devil_name$" #NT!
+ sabiat_al_malaikiya_witch_god_name_possessive: "$sabiat_al_malaikiya_devil_name_possessive$" #NT!
+ sabiat_al_malaikiya_death_deity_name: "Malaik al-Mawtal" #NT!
+ sabiat_al_malaikiya_death_deity_name_possessive: "Malaik al-Mawtal's" #NT!
+  #sabiat evil god - they only believe the Angel of Chaos is evil, though the masks the angels assume can be malevolent in other religions 
+ sabiat_al_malaikiya_devil_name: "Malaik al-Fawhadaa" #NT!
+ sabiat_al_malaikiya_devil_name_possessive: "Malaik al-Fawhadaa" #NT!
+  #zamitilaat_karim localization, Zamitilaat Karim 
+ zamitilaat_karim: "Zamitilaat Karim" #NT!
+ zamitilaat_karim_adj: "Karimi'a" #NT!
+ zamitilaat_karim_adherent: "Karimi'a" #NT!
+ zamitilaat_karim_adherent_plural: "Karimii" #NT!
+ zamitilaat_karim_desc: "The Fellowship of Karim, or Zamitaalat Karim, was founded by the prophet Karim ibn Sophocos, an illiterate and uneducated man who lived near the [tower|E]. Karim argued that organized priesthoods were anathema to the revelations of [GetBuilding('sophocos_01').GetName], and that one didn't need to be educated, highborn, or even intelligent to be a prophet of the Tower. The concept of priest-king, high priest, or god-king is an abomination to the Karimii, who argue that any sort of organized priesthood merely serves to repress the truths delivered on Sophocos' steps. The priesthood should therefore be comprised entirely of the laity, and any attempt to impose organization on it or to codify the religion should be violently resisted. Ascension of [GetBuilding('sophocos_01').GetName] is considered paramount for any true Karimi'a, and every member of the sect and prospective priest is expected to make the journey at least once in their lifetimes." #NT!
+  #eabuyad_ilah_al_atilaam localization, Eabuyad Ilah al-Atilaam 
+ eabuyad_ilah_al_atilaam: "Eabuyad Ilah al-Atilaam" #NT!
+ eabuyad_ilah_al_atilaam_adj: "Eabud" #NT!
+ eabuyad_ilah_al_atilaam_adherent: "Eabud" #NT!
+ eabuyad_ilah_al_atilaam_adherent_plural: "Eabuyad" #NT!
+ eabuyad_ilah_al_atilaam_desc: "The Slaves of the God of Pain believe that the world was created by the malevolent god Ashred min Bashitan al-Atilaam. When he created the world, he tore off his own flesh to make the plants, while he ground his bones to dust to fill the hollow sphere he used to create the earth, which became the soil and metals of the earth. He then created animals by burning himself, and he created the race of men by tearing out his own heart. Finally, he used his spine to erect [GetBuilding('sophocos_01').GetName] and the Spires of Woe. Having invested so much of himself into the world, he gave the first men a simple commandment: go forth and slaughter. As more people are slain and suffer, the Pain God will regenerate his body. The legends of the Slaves have it that Ashred was worshiped long ago by an empire of mighty warriors, but their empire crumbled and, bereft of regular sacrifices, Ashred punished man severely. To prevent further punishments, the Slaves must suffer so that others do not." #NT!
+  #eabuyad gods 
+ eabuyad_ilah_al_atilaam_creator_god_name: "Ashred Malayk al-Arrad" #NT!
+ eabuyad_ilah_al_atilaam_creator_god_name_possessive: "Ashred Malayk al-Arrad's" #NT!
+ eabuyad_ilah_al_atilaam_high_god_name: "Ashred Malayk al-Alayk" #NT!
+ eabuyad_ilah_al_atilaam_high_god_name_possessive: "Ashred Malayk al-Alayk's" #NT!
+ eabuyad_ilah_al_atilaam_high_god_name_alternate: "Ashred min Bashitan al-Atilaam" #NT!
+ eabuyad_ilah_al_atilaam_high_god_name_alternate_possessive: "Ashred min Bashitan al-Atilaam's" #NT!
+ eabuyad_ilah_al_atilaam_water_god_name: "Shenahya al-Atilaam" #NT!
+ eabuyad_ilah_al_atilaam_water_god_name_possessive: "Shenahya al-Atilaam's" #NT!
+ eabuyad_ilah_al_atilaam_devil_name: "Ashred Malayk al-Atilaam" #NT!
+ eabuyad_ilah_al_atilaam_devil_name_possessive: "Ashred Malayk al-Atilaam's" #NT!
+ eabuyad_ilah_al_atilaam_fate_god_name: "Ashred min 'Aqresh al-Qaadur" #NT!
+ eabuyad_ilah_al_atilaam_fate_god_name_possessive: "Ashred min 'Aqresh al-Qaadur's" #NT!
+ eabuyad_ilah_al_atilaam_fertility_god_name: "Ashrtur" #NT!
+ eabuyad_ilah_al_atilaam_fertility_god_name_possessive: "Ashrtur's" #NT!
+ eabuyad_ilah_al_atilaam_health_god_name: "Lebashtur" #NT!
+ eabuyad_ilah_al_atilaam_health_god_name_possessive: "Lebashtur's" #NT!
+ eabuyad_ilah_al_atilaam_household_god_name: "Pazurqaal" #NT!
+ eabuyad_ilah_al_atilaam_household_god_name_possessive: "Pazurqaal's" #NT!
+ eabuyad_ilah_al_atilaam_knowledge_god_name: "Atilaam" #NT!
+ eabuyad_ilah_al_atilaam_knowledge_god_name_possessive: "Atilaam's" #NT!
+ eabuyad_ilah_al_atilaam_night_god_name: "'Ashad al-Fawhadaa" #NT!
+ eabuyad_ilah_al_atilaam_night_god_name_possessive: "'Ashad al-Fawhadaa" #NT!
+ eabuyad_ilah_al_atilaam_trickster_god_name: "Ashred al-Aswad" #NT!
+ eabuyad_ilah_al_atilaam_trickster_god_name_possessive: "Ashred al-Aswad's" #NT!
+ eabuyad_ilah_al_atilaam_war_god_name: "Muduk" #NT!
+ eabuyad_ilah_al_atilaam_war_god_name_possessive: "Muduk's" #NT!
+ eabuyad_ilah_al_atilaam_wealth_god_name: "Eshkutar" #NT!
+ eabuyad_ilah_al_atilaam_wealth_god_name_possessive: "Eshkutar's" #NT!
+ eabuyad_ilah_al_atilaam_witch_god: "Majus" #NT!
+ eabuyad_ilah_al_atilaam_witch_god_possessive: "Majus'" #NT!
+ eabuyad_ilah_al_atilaam_death_deity_name: "Mawtalatilaam" #NT!
+ eabuyad_ilah_al_atilaam_death_deity_name_possessive: "Mawtalatilaam's" #NT!
+  #eirbaadit_al_hukadir localization, Eirbaadit al-Hukadir 
+ eirbaadit_al_hukadir: "Eirbaadit al-Hukadir" #NT!
+ eirbaadit_al_hukadir_adj: "Hukadirite" #NT!
+ eirbaadit_al_hukadir_adherent: "Hukadirite" #NT!
+ eirbaadit_al_hukadir_adherent_plural: "Hukadirites" #NT!
+ eirbaadit_al_hukadir_desc: "Hukadirites believe that the world came into being from the swirling maelstrom of Fawhadaa, uncreated by any intelligent being. There all manner of beasts emerged, and prime among them was mankind. But men were without gods, and so they were without morality; they set about to create their own gods, and their own morality, but were unsuccessful. Thither came Qubaal, the First Vampire, who successfully made himself a god. Qubaal then instructed others on how to achieve divinity, and the first vampires ruled over a magnificent empire called [GetBuilding('sophocos_01').GetName], from which Qubaal ruled at his great spire. Eirbaadit al-Hukadir operates under a euhemeristic framework, assuming that all gods have a mortal origin; they are either non-existent or were otherwise mortals who became deified. While the former is less valid than the latter, what ultimately matters is whether someone pays the Blood Tithe or not." #NT!
+  #hukadirite good gods 
+ eirbaadit_al_hukadir_creator_god_name: "Fawhaada" #NT!
+ eirbaadit_al_hukadir_creator_god_name_possessive: "Fawhaada's" #NT!
+ eirbaadit_al_hukadir_high_god_name: "Qubaal" #NT!
+ eirbaadit_al_hukadir_high_god_name_possessive: "Qubaal's" #NT!
+ eirbaadit_al_hukadir_high_god_name_alternate: "al-Awa'l Mashasadima'" #NT!
+ eirbaadit_al_hukadir_high_god_name_alternate_possessive: "al-Awa'l Mashasadima''s" #NT!
+ eirbaadit_al_hukadir_knowledge_god_name: "'Akhishnokh" #NT!
+ eirbaadit_al_hukadir_knowledge_god_name_possessive: "'Akhishnokh's" #NT!
+ eirbaadit_al_hukadir_war_god_name: "Arayad" #NT!
+ eirbaadit_al_hukadir_war_god_name_possessive: "Arayad's" #NT!
+ eirbaadit_al_hukadir_witch_god_name: "Eburhoodh" #NT!
+ eirbaadit_al_hukadir_witch_god_name_possessive: "Eburhoodh" #NT!
+ eirbaadit_al_hukadir_fertility_god_name: "Zahillah" #NT!
+ eirbaadit_al_hukadir_fertility_god_name_possessive: "Zahillah's" #NT!
+ eirbaadit_al_hukadir_wealth_god_name: "Sausekor" #NT!
+ eirbaadit_al_hukadir_wealth_god_name_possessive: "Sausekor's" #NT!
+ eirbaadit_al_hukadir_night_god_name: "Eshersekor" #NT!
+ eirbaadit_al_hukadir_night_god_name_possessive: "Eshersekor's" #NT!
+ eirbaadit_al_hukadir_household_god_name: "Tabaal-Haqam" #NT!
+ eirbaadit_al_hukadir_household_god_name_possessive: "Tabaal-Haqam" #NT!
+ eirbaadit_al_hukadir_fate_god_name: "Malaykavot" #NT!
+ eirbaadit_al_hukadir_fate_god_name_possessive: "Malaykavot's" #NT!
+ eirbaadit_al_hukadir_water_god_name: "Ennarat" #NT!
+ eirbaadit_al_hukadir_water_god_name_possessive: "Ennarat's" #NT!
+ eirbaadit_al_hukadir_death_deity_name: "Ashranugal" #NT!
+ eirbaadit_al_hukadir_death_deity_name_possessive: "Ashranugal's" #NT!
+  #hukadirite evil gods 
+ eirbaadit_al_hukadir_devil_name: "Eburhoodh" #NT!
+ eirbaadit_al_hukadir_devil_name_possessive: "Eburhoodh" #NT!
+  #akhawwat localization, Akhawwat al-Iiraahadat al-Mutajaaluyah 
+ akhawwat: "Akhawwat al-Iiraahadat al-Mutajaaluyah" #NT!
+ akhawwat_adj: "Akhawwati" #NT!
+ akhawwat_adherent: "Akhawwati" #NT!
+ akhawwat_adherent_plural: "Akhawwatii" #NT!
+ akhawwat_desc: "The Akhawwat al-Iiraahadat al-Mutajaaluyah - the Fraternity of the Will Manifest - is an esoteric Ritualist sect that believes that reality is a collective hallucination, and that true reality is actually a spiritual realm. Humans are not beings of fallible flesh, but are rather immortal and immaterial spiritual entities that are eternal but of a finite creation. They have trapped themselves in this false reality through the deceits of al-Khadidruj, but may learn the truth through Sophocos - which itself does not exist - and regain control of their spiritual bodies and break the delusion of existence." #NT!
+  #akhawwat good philosophical concepts, since they don't worship gods 
+ akhawwat_high_god_name: "Sophocos" #NT!
+ akhawwat_high_god_name_possessive: "Sophocos'" #NT!
+ akhawwat_high_god_name_alternate: "Ashaiqatan" #NT!
+ akhawwat_high_god_name_alternate_possessive: "Ashaiqatan's" #NT!
+ akhawwat_knowledge_god_name: "al-Malaikiyah" #NT!
+ akhawwat_knowledge_god_name_possessive: "al-Malaikiyah" #NT!
+ akhawwat_war_god_name: "Hubar" #NT!
+ akhawwat_war_god_name_possessive: "Hubar's" #NT!
+ akhawwat_fertility_god_name: "Hayaal" #NT!
+ akhawwat_fertility_god_name_possessive: "Hayaal's" #NT!
+ akhawwat_wealth_god_name: "Taarwha" #NT!
+ akhawwat_wealth_god_name_possessive: "Taarwha's" #NT!
+ akhawwat_night_god_name: "Layala" #NT!
+ akhawwat_night_god_name_possessive: "Layala's" #NT!
+ akhawwat_household_god_name: "Dawr" #NT!
+ akhawwat_household_god_name_possessive: "Dawr's" #NT!
+ akhawwat_water_god_name: "Tajadad" #NT!
+ akhawwat_water_god_name_possessive: "Tajadad's" #NT!
+ akhawwat_death_deity_name: "Ashaimawtal" #NT!
+ akhawwat_death_deity_name_possessive: "Ashaimawtal's" #NT!
+  #akhawwat evil gods 
+ akhawwat_creator_god_name: "Nisiyaan al-Khadidruj" #NT!
+ akhawwat_creator_god_name_possessive: "Nisiyaan al-Khadidruj's" #NT!
+ akhawwat_devil_name: "al-Khadidruj" #NT!
+ akhawwat_devil_name_possessive: "al-Khadidruj's" #NT!
+ akhawwat_fate_god_name: "Khubiradruj" #NT!
+ akhawwat_fate_god_name_possessive: "Khubiradruj's" #NT!
+ akhawwat_witch_god_name: "al-Majidruj" #NT!
+ akhawwat_witch_god_name_possessive: "al-Majiidruj's" #NT!
+  #eabuyad_al_dudhaat_khubir localization, Eabuyad al-Dudhaat Khubir 
+ eabuyad_al_duhaad_khubir: "Eabuyad al-Dudhaat Khubir" #NT!
+ eabuyad_al_duhaad_khubir_adj: "Duhaadi" #NT!
+ eabuyad_al_duhaad_khubir_adherent: "Duhaadi" #NT!
+ eabuyad_al_duhaad_khubir_adherent_plural: "Duhaadii" #NT!
+ eabuyad_al_duhaad_khubir_desc: "The Slaves of the Great Worm are worshipers of the [the_worldeater|E] and what they believe to be its innumerable spawn deep beneath [aeras|E]. Slaves of the Great Worm worship the Worldeater as the Great Worm, or al-Duhaad Khubir, and its progeny as the Great Worms, or al-Diyhaadan al-Eazaam. It is only through providing the Great Worms sacrifices and worship that they may be kept slumbering beneath the world, and the Slaves take it as their duty to prevent another Great Worm from awakening again." #NT!
+  #god 
+ eabuyad_al_duhaad_khubir_creator_god_name: "Sophocos" #NT!
+ eabuyad_al_duhaad_khubir_creator_god_name_possessive: "Sophocos'" #NT!
+  #worms 
+ eabuyad_al_duhaad_khubir_high_god_name: "al-Duhaad Khubir" #NT!
+ eabuyad_al_duhaad_khubir_high_god_name_possessive: "al-Duhaad Khubir's" #NT!
+ eabuyad_al_duhaad_khubir_high_god_name_alternate: "the Worldeater" #NT!
+ eabuyad_al_duhaad_khubir_high_god_name_alternate_possessive: "the Worldeater's" #NT!
+ eabuyad_al_duhaad_khubir_knowledge_god_name: "the Devourer of Libraries" #NT!
+ eabuyad_al_duhaad_khubir_knowledge_god_name_possessive: "the Devourer of Libraries'" #NT!
+ eabuyad_al_duhaad_khubir_war_god_name: "the Devourer of Armies" #NT!
+ eabuyad_al_duhaad_khubir_war_god_name_possessive: "the Devourer of Armies'" #NT!
+ eabuyad_al_duhaad_khubir_fertility_god_name: "the Devourer of Farms" #NT!
+ eabuyad_al_duhaad_khubir_fertility_god_name_possessive: "the Devourer of Farms'" #NT!
+ eabuyad_al_duhaad_khubir_wealth_god_name: "the Eater of Wealth" #NT!
+ eabuyad_al_duhaad_khubir_wealth_god_name_possessive: "the Eater of Wealth's" #NT!
+ eabuyad_al_duhaad_khubir_night_god_name: "Mooneater" #NT!
+ eabuyad_al_duhaad_khubir_night_god_name_possessive: "Mooneater's" #NT!
+ eabuyad_al_duhaad_khubir_household_god_name: "the Swallower of Cities" #NT!
+ eabuyad_al_duhaad_khubir_household_god_name_possessive: "the Swallower of Cities'" #NT!
+ eabuyad_al_duhaad_khubir_water_god_name: "the Worldworm" #NT!
+ eabuyad_al_duhaad_khubir_water_god_name_possessive: "the Worldworm's" #NT!
+ eabuyad_al_duhaad_khubir_death_deity_name: "the Devourer of Death" #NT!
+ eabuyad_al_duhaad_khubir_death_deity_name_possessive: "the Devourer of Death" #NT!
+ eabuyad_al_duhaad_khubir_devil_name: "the Worldeater" #NT!
+ eabuyad_al_duhaad_khubir_devil_name_possessive: "the Worldeater's" #NT!
+ eabuyad_al_duhaad_khubir_fate_god_name: "the Swallower of Fate" #NT!
+ eabuyad_al_duhaad_khubir_fate_god_name_possessive: "the Swallower of Fate's" #NT!
+ eabuyad_al_duhaad_khubir_witch_god_name: "Majus-eater" #NT!
+ eabuyad_al_duhaad_khubir_witch_god_name_possessive: "Majus-eater's" #NT!
+  #hanaaist localization, Hanaaism 
+ hanaaist: "Tarriaq al-Wahayd" #NT!
+ hanaaist_adj: "Hanaaist" #NT!
+ hanaaist_adherent: "Hanaaist" #NT!
+ hanaaist_adherent_plural: "Hanaaists" #NT!
+ hanaaist_desc: "The Road of the One was founded by a prophetess named Hanaa, a woman born under [wardenite|E] rule. Hanaa was born a Ritualist, but fraternized extensively with Wardenites. Attaining an understanding of Wardenite beliefs, and sympathizing with the Wardenite cause, Hanaa was said to have been given a revelation when she ascended the steps of [GetBuilding('sophocos_01').GetName], warning her that the physical world was created by a malevolent demiurge, and that it this demiurge's servants must be combated whenever possible. Only through its annihilation can mortals be freed from the shackles of physical existence and dwell eternally in the Gardens of Life. Hanaa also preached that there was but one god, and that this god was named the One. The One commanded the Ritualists to battle the demiurge long ago, but these prophets were misinterpreted or slain by their followers; therefore, the One gave a revelation unto the first of the Wardenites, and abandoned the Ritualists. But if the Ritualists heed Hanaa, and live according to the Road of the One - a list of laws delivered to Hanaa - the One will favor them again." #NT!
+  #good gods 
+ hanaaist_creator_god_name: "Mawtal" #NT!
+ hanaaist_creator_god_name_possessive: "Mawtal's" #NT!
+ hanaaist_high_god_name: "al-Wahayd" #NT!
+ hanaaist_high_god_name_possessive: "al-Wahayd's" #NT!
+ hanaaist_high_god_name_alternate: "al-Wahayd al-Sophocos" #NT!
+ hanaaist_high_god_name_alternate_possessive: "al-Wahayd al-Sophocos" #NT!
+ hanaaist_fertility_god_name: "Hanaa" #NT!
+ hanaaist_fertility_god_name_possessive: "Hanaa's" #NT!
+ hanaaist_health_god: "Isa" #NT!
+ hanaaist_health_god_possessive: "Isa's" #NT!
+ #Xwestrozen localization 
+ xwestrozen: "Xwestrozên" #NT!
+ xwestrozen_adj: "Xwestrozên" #NT!
+ xwestrozen_adherent: "Xwestrozên " #NT!
+ xwestrozen_adherent_plural: "Xwestrozêns" #NT!
+ xwestrozen_desc: "The Xwestrozên arose with Naza the Great after she received a revelation on the true nature of [GetBuilding('sophocos_01').GetName]. The Xwestrozên claim that Sophocos is not, in fact, a real place, but rather a song with one thousand and one notes, each note rising upward in pitch. Supposedly, mastery of this song will grant one enlightenment and great magical skill, with the Xwestrozên believing that [magi|E] draw their power from knowledge of some notes of the song. However, all music is considered holy to the Xwestrozên, not just the Song of Sophocos, and musicians are widely regarded as pious individuals." #NT!
+  # Pirate Coast Ritualists 
+ corkkattirkana: "Corkkattirkana" #NT!
+ corkkattirkana_adj: "Corkkattirkanan" #NT!
+ corkkattirkana_adherent: "Corkkattirkanan" #NT!
+ corkkattirkana_adherent_plural: "Corkkattirkanas" #NT!
+ corkkattirkana_desc: "A [ritualist|E] sect born on the [pirate_coast|E], the Corkkattirkana believe that the climb of [GetBuilding('sophocos_01').GetName] can only truly be completed by the greatest of believers. Each follower strives to be greater than their others, as if in competition to decide who will be the one to complete the climb." #NT!

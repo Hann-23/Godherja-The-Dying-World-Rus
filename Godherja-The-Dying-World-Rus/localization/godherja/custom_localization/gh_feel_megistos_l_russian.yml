@@ -1,0 +1,11 @@
+﻿l_russian:
+ first_person: "I" #NT!
+ third_person: "[ROOT.GetCharacter.GetFirstNameNoTooltip]" #NT!
+  
+ first_person_is: "'m" #NT!
+ third_person_is: "is" #NT!
+ third_person_has: "has" #NT!
+ first_person_have: "have" #NT!
+ first_person_am: "am" #NT!
+ third_person_my: "my" #NT!
+ first_person_my: "[ROOT.GetCharacter.GetFirstNameNoTooltip]'s" #NT!

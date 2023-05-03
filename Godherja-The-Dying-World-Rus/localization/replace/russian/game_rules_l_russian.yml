@@ -1,0 +1,12 @@
+﻿l_russian:
+ rule_dlc_fp1_scandinavian_adventurers: "Adventure System" #NT!
+ setting_fp1_scandi_adventurers_rare: "Rare" #NT!
+ setting_fp1_scandi_adventurers_rare_desc: "Adventurers will try to target things every 15 years." #NT!
+ setting_fp1_scandi_adventurers_occasional: "Occasional" #NT!
+ setting_fp1_scandi_adventurers_occasional_desc: "Adventurers will try to target things every 10 years." #NT!
+ setting_fp1_scandi_adventurers_frequent: "Frequent" #NT!
+ setting_fp1_scandi_adventurers_frequent_desc: "Adventurers will try to target things every 5 years." #NT!
+ setting_fp1_scandi_adventurers_apocalyptic: "Apocalyptic" #NT!
+ setting_fp1_scandi_adventurers_apocalyptic_desc: "Adventurers will try to target things every year, AI characters do not require specific traits to launch [varangian_adventures|E]." #NT!
+ setting_fp1_scandi_adventurers_off: "Off" #NT!
+ setting_fp1_scandi_adventurers_off_desc: "Adventurers will never try to target things." #NT!

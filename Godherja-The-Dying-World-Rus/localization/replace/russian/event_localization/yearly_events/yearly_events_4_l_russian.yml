@@ -1,0 +1,4 @@
+﻿l_russian:
+ yearly.4091.t: "Scholars of El Qulatha" #NT!
+ yearly.4091.desc_opening: "[ward.Custom2('MyCharacterIntroduction', ROOT.Char)|U] and I are out walking in [GetTitleByKey('c_el_qulatha').GetNameNoTier] when we come across" #NT!
+ yearly.4091.desc_house: "the [GetBuilding('greattempleofelqulatha').GetName]." #NT!

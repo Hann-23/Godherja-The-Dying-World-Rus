@@ -1,0 +1,123 @@
+﻿l_russian:
+ dravidian_religion: "Avastya Mahan" #NT!
+ dravidian_religion_adj: "Avastya Mahani" #NT!
+ dravidian_religion_desc: "The Avastya Mahan, meaning "great council" in an ancient Kashiryan language, is the pantheon of gods worshipped in one form or another throughout much of Kashirya. Originally focusing on the all-encompassing divinity of the creator god Paerasjatan, many Avastya Mahani faiths emphasize other aspects of the pantheon such as the knowledge god Sarvat or the warrior deity Kartikarma." #NT!
+  
+ dravidian_religion_adherent: "Avastya Mahanist" #NT!
+ dravidian_religion_adherent_plural: "Avastya Mahanist" #NT!
+ dravidian_high_god_name: "Paerasjatan" #NT!
+ dravidian_high_god_name_possessive: "Paerasjatan's" #NT!
+ dravidian_high_god_name_alternate: "The Supreme One" #NT!
+ dravidian_high_god_name_alternate_possessive: "The Supreme One's" #NT!
+ dravidian_devil_name: "Sur-Vyad" #NT!
+ dravidian_devil_name_possessive: "Sur-Vyad's" #NT!
+ dravidian_house_of_worship: "temple" #NT!
+ dravidian_house_of_worship_plural: "temples" #NT!
+ dravidian_religious_symbol: "The Eye of Paerasjatan" #NT!
+ dravidian_religious_text: "Kalpustakal" #NT!
+ dravidian_religious_head_title: "Sakama" #NT!
+ dravidian_religious_head_title_name: "Sakamahan" #NT!
+ dravidian_devotee_male: "Atra" #NT!
+ dravidian_devotee_male_plural: "Atras" #NT!
+ dravidian_devotee_female: "Atri" #NT!
+ dravidian_devotee_female_plural: "Atris" #NT!
+ dravidian_devotee_neuter: "Atra" #NT!
+ dravidian_devotee_neuter_plural: "Atras" #NT!
+ dravidian_priest: "Surin" #NT!
+ dravidian_priest_plural: "Surins" #NT!
+ dravidian_priest_alternate: "Viddat" #NT!
+ dravidian_priest_alternate_plural: "Viddats" #NT!
+ dravidian_priest_male: "Surin" #NT!
+ dravidian_priest_male_plural: "Surins" #NT!
+ dravidian_priest_female: "Surin" #NT!
+ dravidian_priest_female_plural: "Surins" #NT!
+ dravidian_priest_alt_priest_term: "Viddat" #NT!
+ dravidian_bishop: "Veldatha" #NT!
+ dravidian_bishop_plural: "Veldathas" #NT!
+ dravidian_divine_realm: "Umerastu" #NT!
+ dravidian_positive_afterlife: "Sagranal" #NT!
+ dravidian_negative_afterlife: "Rahana" #NT!
+ dravidian_creator_god_name: "Paerasjatan" #NT!
+ dravidian_creator_god_name_possessive: "Paerasjatan's" #NT!
+ dravidian_health_god_name: "Vantari" #NT!
+ dravidian_health_god_name_possessive: "Vantari's" #NT!
+ dravidian_fertility_god_name: "Telvati" #NT!
+ dravidian_fertility_god_name_possessive: "Telvati's" #NT!
+ dravidian_wealth_god_name: "Sarvita" #NT!
+ dravidian_wealth_god_name_possessive: "Sarvita's" #NT!
+ dravidian_household_god_name: "Gramani Loh" #NT!
+ dravidian_household_god_name_possessive: "Gramani Loh's" #NT!
+ dravidian_fate_god_name: "Pethyka" #NT!
+ dravidian_fate_god_name_possessive: "Pethyka's" #NT!
+ dravidian_knowledge_god_name: "Sarvat" #NT!
+ dravidian_knowledge_god_name_possessive: "Sarvat's" #NT!
+ dravidian_war_god_name: "Kartikarma" #NT!
+ dravidian_war_god_name_possessive: "Kartikarma's" #NT!
+ dravidian_trickster_god_name: "Atmanira" #NT!
+ dravidian_trickster_god_name_possessive: "Atmanira's" #NT!
+ dravidian_night_god_name: "Darhakaroka" #NT!
+ dravidian_night_god_name_possessive: "Darhakaroka's" #NT!
+ dravidian_death_deity_name: "Daramarjaratan" #NT!
+ dravidian_death_deity_name_possessive: "Daramarjaratan's" #NT!
+ dravidian_water_god_name: "Varoda" #NT!
+ dravidian_water_god_name_possessive: "Varoda's" #NT!
+ dravidian_witch_god_name: "Tamrat" #NT!
+ dravidian_witch_god_name_possessive: "Tamrat's" #NT!
+ vidvaookeyatra: "Vidvaookeyatra" #NT!
+ vidvaookeyatra_adj: "Vidvaookeyatranism" #NT!
+ vidvaookeyatra_adherent: "Vidvaookeyatran" #NT!
+ vidvaookeyatra_adherent_plural: "Vidvaookeyatrans" #NT!
+ vidvaookeyatra_desc: "Vidvaookeyatra ('Scholar's Journey) is the worship of the hermaphroditic god of knowledge Sarvat; said to be the font of all knowledge and thus the knowledge of creation itself. With origins rooted in Otached's [otachedian_empire|E], their [Concept('vidvaookeyatran_scholarly_caste','scholarly caste')|E] are to thank for both the technological, societal and historical progress of Kashirya, as well as its [Concept('chan_skorpokaipis','numerous calamities')|E]" #NT!
+ vidvaookeyatra_high_god_name: "Sarvat" #NT!
+ vidvaookeyatra_high_god_name_possessive: "Sarvat's" #NT!
+ askevaryaa: "Askevaryaa" #NT!
+ askevaryaa_adj: "Askevaryaanism" #NT!
+ askevaryaa_adherent: "Askevaryaan" #NT!
+ askevaryaa_adherent_plural: "Askevaryaans" #NT!
+ askevaryaa_desc: "Formed after the events of [chan_skorpokaipis|E] and the [dharya_varha|E], Askevaryaa shares almost the same gods and tenets of Vidvaookeyatra. Where it diverges, however, is the inclusion of so called [evil_lore|E]." #NT!
+ askevaryaa_high_god_name: "Sarvat" #NT!
+ askevaryaa_high_god_name_possessive: "Sarvat's" #NT!
+ nabbarek: "Nabbarek" #NT!
+ nabbarek_adj: "Nabbarekism" #NT!
+ nabbarek_adherent: "Nabbarekian" #NT!
+ nabbarek_adherent_plural: "Nabbarekians" #NT!
+ nabbarek_desc: "Believing in ninety books of 'positive' enlightenment and one of 'neutral' enlightenment that leads to ascension after reading them, the faith's origins can be traced to a guru named [pethyka|E]. After [dharya_varha|E], the ninety-one books were deemed to contain the only true knowledge in this world, with everything else said to be a creation of man." #NT!
+ nabbarek_high_god_name: "Sarvat" #NT!
+ nabbarek_high_god_name_possessive: "Sarvat's" #NT!
+ nabbarek_religious_text: "The Ninety and One" #NT!
+ andaronshak: "Andaronshak" #NT!
+ andaronshak_adj: "Andaronshiak" #NT!
+ andaronshak_adherent: "Andaronshiak" #NT!
+ andaronshak_adherent_plural: "Andaronshiaki" #NT!
+ andaronshak_desc: "Andaronshiaks believe gods are an unknowable force, manifesting in humanity as [magic|E]. Through perfection of virtues, one shall gain control over magic through their gods, whether in current life or the next. Acknowledging the path to magic as a personal journey, Andaronshiaks have a bitter hatred for religious formalism, considering it antithetical to their holy goals." #NT!
+ varodaism: "Varodaism" #NT!
+ varodaism_adj: "Varodaism" #NT!
+ varodaism_adherent: "Varodaist" #NT!
+ varodaism_adherent_plural: "Varodaists" #NT!
+ varodaism_desc: "Worshipping the ancient sea god Varoda, [Concept('varodist_creation_myth','Varodist creation myth')|E] is one of the oldest in the world. Most known for their ability to tame nautical beasts, the most famous Varodist figure, Prophet Mogurpa, is said to have tamed and rode a kraken for most of his life." #NT!
+ varodaism_high_god_name: "Varoda" #NT!
+ varodaism_high_god_name_possessive: "Varoda's" #NT!
+ dravadari: "Avastya Mahani" #NT!
+ dravadari_adj: "Avastya Mahanism" #NT!
+ dravadari_adherent: "Avastya Mahani" #NT!
+ dravadari_adherent_plural: "Avastya Mahani" #NT!
+ dravadari_desc: "A polytheistic faith with [Concept('avastya_mahani_history','an old history')|E], gods are ephemeral creators who can live, die, be reborn, and experience effects of entropy and negentropy like humans. Paerasjatan (often forgotten in modern times) is the god of creation magic who is said to have been the one to make the first iteration of the world, with [Concept('paerasjatan_old_myth','many old myths about Them')|E]." #NT!
+ karitkarmaic: "Karitkarmaic" #NT!
+ karitkarmaic_adj: "Karitkarmaicism" #NT!
+ karitkarmaic_adherent: "Karitkarmaicist" #NT!
+ karitkarmaic_adherent_plural: "Karitkarmaicists" #NT!
+ karitkarmaic_desc: "Worshipping mainly the god of war, death and justice Kartikarma over other Avastya gods, the  Karitkarmaicists believe in the necessity of war, death and peace; a necessary cycle upon which society and the world always turn. While not actively seeking out war and death, they believe it also shouldn't be rejected and instead embraced as part of the universal experience, forming peaceful yet stoic realms" #NT!
+ karitkarmaic_high_god_name: "Kartikarma" #NT!
+ karitkarmaic_high_god_name_possessive: "Kartikarma's" #NT!
+ daramarjaratan: "Daramarjaratan" #NT!
+ daramarjaratan_adj: "Daramarjaratanism" #NT!
+ daramarjaratan_adherent: "Daramarjaratanist" #NT!
+ daramarjaratan_adherent_plural: "Daramarjaratanists" #NT!
+ daramarjaratan_desc: "Daramarjaratanists worship death goddess and wife of Karitkarmaic, Daramarjaratan (originally Damaratjarat) as the ruler of all other gods. Daramarjatanism remains controversial due to their belief in the [pantheon_of_death|E] and the death of all other gods. While seen as a dangerous cult, Daramarjaratan's care more of the affairs of the dead than the living and rarely engage with outsiders. Despite their pacificity, most only remember the [Concept('murtuy_ka_varha','infamous results')|E] of Daramarjaratan cults discovering dark magics." #NT!
+ daramarjaratan_high_god_name: "Daramarjaratan" #NT!
+ daramarjaratan_high_god_name_possessive: "Daramarjaratan's" #NT!
+ asritayka: "Asritayka" #NT!
+ asritayka_adj: "Asritaykanism" #NT!
+ asritayka_adherent: "Asritaykanist" #NT!
+ asritayka_adherent_plural: "Asritaykanists" #NT!
+ asritayka_desc: "Astrikayans oppose most religious norms of conventional faiths and preach mundanity in all things, divine or mortal. From the seas to skies to even [dragons|E] and [magic|E]. The faithful spend their time endlessly debating philosophical concepts and works of philosophers like [saru|E] that sometimes bring great hostility, and they can be found in most Kashiryan courts." #NT!

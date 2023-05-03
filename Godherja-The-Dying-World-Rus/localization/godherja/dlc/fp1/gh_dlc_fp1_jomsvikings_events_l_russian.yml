@@ -1,0 +1,47 @@
+﻿l_russian:
+  # Waymakers offer a Retainer 
+ waymakers_events.0001.t: "A Helping Hand from [founder.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]" #NT!
+ waymakers_events.0001.desc.intro: "Quartered in their fortress of [founder.GetCapitalLocation.GetTitle.GetNameNoTier], the [founder.GetPrimaryTitle.GetNameNoTier] are a warrior order devoted to guiding the faithful of [founder.GetFaith.GetName] faith to the future.\n\nFor my piety and virtue, [founder.GetTitledFirstName] has sent me a choice of two retainers: [retainer_a.GetFirstName]," #NT!
+ waymakers_events.0001.desc.zealous: "who sacked a hundred churches," #NT!
+ waymakers_events.0001.desc.wrathful: "who once tore a bear clean in two," #NT!
+ waymakers_events.0001.desc.impatient: "who is quicker than lightning," #NT!
+ waymakers_events.0001.desc.arrogant: "who would have been the next [founder.GetTitleAsNameNoTooltip]," #NT!
+ waymakers_events.0001.desc.brave: "who beat a troll in a fist-fight," #NT!
+ waymakers_events.0001.desc.ambitious: "who wishes to die the most glorious death ever," #NT!
+ waymakers_events.0001.desc.diligent: "who never stops training," #NT!
+ waymakers_events.0001.desc.gregarious: "who has befriended the gods themselves," #NT!
+ waymakers_events.0001.desc.stubborn: "who tore down a mountain stone by stone," #NT!
+ waymakers_events.0001.desc.fickle: "whose capricious mind fooled [founder.GetFaith.DevilName] [founder.GetFaith.DevilHerselfHimself]," #NT!
+ waymakers_events.0001.desc.vengeful: "who has never let a grudge go unavenged," #NT!
+ waymakers_events.0001.desc.viking: "who kills ten peasants each day abroad," #NT!
+ waymakers_events.0001.desc.connector: "or [retainer_b.GetFirstName]," #NT!
+ waymakers_events.0001.desc.outro: "as well as [founder.GetHerHis] compliments for my devotion.\n\nOne shall stay, and the other return to the [founder.GetPrimaryTitle.GetNameNoTierNoTooltip]." #NT!
+ waymakers_events.0001.a: "[retainer_a.GetFirstNameNoTooltip] seems a formidable strategist!" #NT!
+ waymakers_events.0001.b: "What an imposing warrior [retainer_b.GetFirstNameNoTooltip] is..." #NT!
+ waymakers_events.0001.c: "I have warriors aplenty already, thanks." #NT!
+  
+  # Waymakers send Event Troops 
+ waymakers_events.0021.t: "Parleying with Waymakers" #NT!
+ waymakers_events.0021.desc: "It's with some suspicion that I receive a delegation of disorderly thugs from the [founder.GetPrimaryTitle.GetNameNoTier], presenting a letter from [founder.GetTitledFirstName].\n\nFierce warriors both at sea and on land, these religious fundamentalists are some of the most ferocious across the Shattered Coast.\n\nLike any good [ROOT.Char.GetFaith.GetAdherentName], I've listened to the stories of their piety and prowess with a mixture of awe and fear. Now it seems their [founder.GetTitleAsNameNoTooltip] is offering me command of this gaggle of volunteers, provided I use them to raid and plunder for [ROOT.Char.GetFaith.PantheonTerm]." #NT!
+ waymakers_events.0021.a: "Pirates that take orders? Intriguing..." #NT!
+ waymakers_events.0021.a.tt: "The [army|E] will include special hard-to-kill $jomsviking_pirates$ [men_at_arms|E]" #NT!
+ waymakers_events.0021.b: "Just the reputable sailors, I think." #NT!
+ waymakers_events.0021.b.tt: "The [army|E] will include recruitable $sjalvolki_berserker$ [men_at_arms|E]" #NT!
+ waymakers_events.0021.c: "I prefer my soldiers a bit more... disciplined." #NT!
+  # Waymakers challenge a Dishonourable Norse Pagan Ruler to Holmgang 
+ waymakers_events.0041.t: "A Disgrace to Velos" #NT!
+ waymakers_events.0041.desc: ""#EMP [ROOT.Char.GetFirstNameNoTooltip]#!!" Howls [founder.GetTitledFirstName] as [founder.GetSheHe] bursts into my throne room, half-clothed.\n\n"Your sinful ways and flagrant dishonor are a disgrace to [founder.GetFaith.GetAdherentNamePlural] everywhere, and the [founder.GetPrimaryTitle.GetNameNoTier] will no longer stand for it! No excuses, no tricks, we fight, #EMP here#! and #EMP now#!!"\n\nBemused, my guards clutch their weapons, ready to make a move on the intruder at a moment's notice.\n\nWhatever I do, word of my actions will doubtless carry out over the world." #NT!
+ waymakers_events.0041.a: "I'll send you to Velos with a smile!" #NT!
+ waymakers_events.0041.a.tt: "You immediately enter into a [single_combat_fight|E]" #NT!
+ waymakers_events.0041.a.tt_success: "You win the bout" #NT!
+ waymakers_events.0041.a.tt_failure: "[founder.GetTitledFirstName] wins the bout" #NT!
+ waymakers_events.0041.b: "You were a fool to come alone. Guards!" #NT!
+ waymakers_events.0041.b.tt_success: "[founder.GetTitledFirstName] is shackled & hauled off to the dungeon" #NT!
+ waymakers_events.0041.b.tt_failure: "[founder.GetTitledFirstName] effects a daring escape" #NT!
+ waymakers_events.0041.c: "You know you're just a pretentious pirate, right? Run along." #NT!
+ waymakers_events.0042.trigger_failure: "Your bout against [founder.GetTitledFirstNameNoTooltip] has invalidated" #NT!
+ waymakers_events.0044.t: "$waymakers_events.0041.t$: Vindication" #NT!
+ waymakers_events.0044.desc: "With [founder.GetTitledFirstName] slumped lifeless at my feet, the throne room becomes deathly silent. Nary so much as a whisper can be heard, no breathing save my own ragged gasps.\n\nQuietly, I pull my clothes back on.\n\nOne by one, I make eye contact with each and every person still in here." #NT!
+ waymakers_events.0044.a: "Anyone #EMP else#! want to have a go?" #NT!
+ waymakers_events.0044.b: "The justness of my rule is proven once more!" #NT!
+ waymakers_events.0044.c: "This simply shows how unworthy a faith [founder.GetFaith.GetNameNoTooltip] is..." #NT!

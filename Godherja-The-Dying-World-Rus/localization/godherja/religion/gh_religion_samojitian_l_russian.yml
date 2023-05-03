@@ -1,0 +1,79 @@
+﻿l_russian:
+  
+ #samojitian Loc 
+ samojitian_religion: "Samojitian" #NT!
+ samojitian_religion_adj: "Samojitian" #NT!
+ samojitian_religion_adherent: "Samojitian" #NT!
+ samojitian_religion_adherent_plural: "Samojitians" #NT!
+ samojitian_religion_desc: "The Samojitian faiths originated from endless thousands of northern slaves who were rounded up by the [aversarians|E] and forced to work in the halls of their esteemed [mayikrata|E]. The various beliefs they brought with them and turned to in their time of suffering began to run together. Over time, the hellish working conditions forged new religions, shaped by their multitude of origins and shared pain." #NT!
+ samojitian_high_god_name: "Samoji" #NT!
+ samojitian_high_god_name_possessive: "Samoji's" #NT!
+ samojitian_high_god_name_alternate: "The Protector of the Weak" #NT!
+ samojitian_high_god_name_alternate_possessive: "The Protector of the Weak's" #NT!
+ samojitian_devil_name: "Aagia's" #NT!
+ samojitian_devil_name_possessive: "Aagia's" #NT!
+ samojitian_death_deity_name: "death" #NT!
+ samojitian_death_deity_name_possessive: "death's" #NT!
+ samojitian_house_of_worship: "enclave" #NT!
+ samojitian_house_of_worship_plural: "enclave" #NT!
+ samojitian_religious_symbol: "broken manacles" #NT!
+ samojitian_religious_text: "Whispered Word" #NT!
+ samojitian_religious_head_title: "Pamarias" #NT!
+ samojitian_religious_head_title_name: "Deepest Enclave" #NT!
+ samojitian_devotee_male: "freedman" #NT!
+ samojitian_devotee_male_plural: "freedmen" #NT!
+ samojitian_devotee_female: "freedwoman" #NT!
+ samojitian_devotee_female_plural: "freedwomen" #NT!
+ samojitian_devotee_neuter: "freed one" #NT!
+ samojitian_devotee_neuter_plural: "freed ones" #NT!
+ samojitian_priest_male: "Konjias" #NT!
+ samojitian_priest_male_plural: "Konjias" #NT!
+ samojitian_priest_female: "Konjias" #NT!
+ samojitian_priest_female_plural: "Konjias" #NT!
+ samojitian_priest_alternate_plural: "Konjias" #NT!
+ samojitian_bishop: "Iskopias" #NT!
+ samojitian_bishop_plural: "Iskopias" #NT!
+ samojitian_positive_afterlife: "Epijon" #NT!
+ samojitian_negative_afterlife: "Pekijon" #NT!
+ samojitian_creator_god_name: "$samojitian_religion_high_god_name$" #NT!
+ samojitian_creator_god_name_possessive: "$samojitian_religion_high_god_name_possessive$" #NT!
+ samojitian_health_god_name: "Amatonij" #NT!
+ samojitian_health_god_name_possessive: "Amatonij's" #NT!
+ samojitian_fertility_god_name: "$samojitian_religion_high_god_name$" #NT!
+ samojitian_fertility_god_name_possessive: "$samojitian_religion_high_god_name_possessive$" #NT!
+ samojitian_wealth_god_name: "$samojitian_religion_high_god_name$" #NT!
+ samojitian_wealth_god_name_possessive: "$samojitian_religion_high_god_name_possessive$" #NT!
+ samojitian_household_god_name: "$samojitian_religion_health_god_name$" #NT!
+ samojitian_household_god_name_possessive: "$samojitian_religion_health_god_name_possessive$" #NT!
+ samojitian_fate_god_name: "$samojitian_religion_high_god_name$" #NT!
+ samojitian_fate_god_name_possessive: "$samojitian_religion_high_god_name_possessive$" #NT!
+ samojitian_knowledge_god_name: "$samojitian_religion_high_god_name$" #NT!
+ samojitian_knowledge_god_name_possessive: "$samojitian_religion_high_god_name_possessive$" #NT!
+ samojitian_war_god_name: "$samojitian_religion_high_god_name$" #NT!
+ samojitian_war_god_name_possessive: "$samojitian_religion_high_god_name_possessive$" #NT!
+ samojitian_trickster_god_name: "Szalon" #NT!
+ samojitian_trickster_god_name_possessive: "Szalon's" #NT!
+ samojitian_night_god_name: "$samojitian_religion_high_god_name$" #NT!
+ samojitian_night_god_name_possessive: "$samojitian_religion_high_god_name_possessive$" #NT!
+ samojitian_water_god_name: "$samojitian_religion_health_god_name$" #NT!
+ samojitian_water_god_name_possessive: "$samojitian_religion_health_god_name_possessive$" #NT!
+ samojitian_witch_god_name: "$samojitian_religion_devil_name$" #NT!
+ samojitian_witch_god_name_possessive: "$samojitian_religion_devil_name_possessive$" #NT!
+ dejorig: "Dejorig" #NT!
+ dejorig_adj: "Dejorig" #NT!
+ dejorig_adherent: "Dejorigan" #NT!
+ dejorig_adherent_plural: "Dejorigans" #NT!
+ dejorig_desc: "The religion of the northern slaves of the former [mayikrata|E], Dejorig beliefs primarily descend from those slaves who were put to work excavating and exploring the dark tunnels running throughout the [mayikrata|E], a task which would kill nearly every other man and woman sent to it. Its followers reject [magic|E] entirely, seeing it as a foul evil and whispering harshly about its effect on what lies below the Citadel. To the Dejorigs, [magic|E] is the source of the world's evil, and may be the path to its end." #NT!
+ dejorig_religion_old: "Old Dejorig" #NT!
+ dejorig_religion_old_adj: "Old Dejorig" #NT!
+ dejorig_religion_old_adherent: "Old Dejorigan" #NT!
+ dejorig_religion_old_adherent_plural: "Old Dejorigans" #NT!
+ oirigan: "Oirigan" #NT!
+ oirigan_adj: "Oirigan" #NT!
+ oirigan_adherent: "Oirigian" #NT!
+ oirigan_adherent_plural: "Oirigians" #NT!
+ oirigan_desc: "Oirigan is the religion of the southern [mayikrata|E] creole culture of the Samojitians. Descended from slaves who served in the [mayikrata|E]'s halls and towers at the behest of the [magi|E], the slaves spent years slowly gathering stolen [magical|E] lore and learning the power of Magic for themselves. When Cenware of the Sjalvolki invaded the Mayikrata and shattered the Magi's power, they rose up with the Magi's own gifts to destroy them. The Oirigians worship a flurry of gods inspired by their stolen tomes, and see Magic as a tool needed to secure the freedom of their people." #NT!
+ oirigan_religion_old: "Old Oirigan" #NT!
+ oirigan_religion_old_adj: "Old Oirigan" #NT!
+ oirigan_religion_old_adherent: "Old Oirigian" #NT!
+ oirigan_religion_old_adherent_plural: "Old Oirigian" #NT!

@@ -1,0 +1,14 @@
+﻿l_russian:
+ province_modifier_barrow_unfinished: "Unfinished Barrow" #NT!
+ province_modifier_barrow_unfinished_custom_desc: "[ROOT.Char.Custom2_Title('BarrowConstructionProgress', SCOPE.sProvince('barrow_province').GetTitle)]" #NT!
+ province_modifier_barrow_small: "Small Barrow" #NT!
+ province_modifier_barrow_medium: "Medium Barrow" #NT!
+ province_modifier_barrow_large: "Large Barrow" #NT!
+ province_modifier_barrow_huge: "Huge Barrow" #NT!
+ province_modifier_barrow_custom_desc: "[ROOT.Char.Custom2_Title('BarrowIntro', SCOPE.sProvince('barrow_province').GetTitle)]" #NT!
+  
+ BarrowConstruction: "A barrow is being constructed here, in Stage [second.GetProvince.MakeScope.GetVariable('barrow_construction_stage').GetValue|0]/[second.GetProvince.MakeScope.GetVariable('barrow_construction_final_stage').GetValue|0] of construction" #NT!
+ BarrowIntroSmall: "This small, humble burial mound was built by [ROOT.Char.GetName], and stands as [ROOT.Char.GetHerHis] final resting place." #NT!
+ BarrowIntroMedium: "This barrow of respectable size was built by [ROOT.Char.GetName], and stands as [ROOT.Char.GetHerHis] final resting place." #NT!
+ BarrowIntroLarge: "This fairly large barrow was built by [ROOT.Char.GetName], and stands as [ROOT.Char.GetHerHis] final resting place." #NT!
+ BarrowIntroHuge: "This huge barrow was built by [ROOT.Char.GetName], and stands as [ROOT.Char.GetHerHis] final resting place." #NT!

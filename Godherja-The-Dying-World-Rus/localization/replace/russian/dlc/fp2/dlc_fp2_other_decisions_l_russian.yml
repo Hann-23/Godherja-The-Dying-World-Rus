@@ -1,0 +1,43 @@
+﻿l_russian:
+ improve_city_province_decision: "$improve_city_province_decision_name$" #NT!
+ improve_city_province_decision_name: "Expand Cities" #NT!
+ improve_city_province_decision_desc: "Pay for extravagant new quarters to be built in your city" #NT!
+ improve_city_province_decision_confirm: "Start the expansion" #NT!
+ improve_city_province_decision_tooltip: "Invest money in order to obtain new [building|E] slots in your [cities|E]" #NT!
+ improve_city_province_decision_decision_no_effect: "No [city|E] is eligible" #NT!
+ improve_city_province_decision_at_least_one_city_tt: "At least one city has less than 5 building slots" #NT!
+  
+ fp2_secure_mediterranean.t: "Secure the Mediterranean" #NT!
+ fp2_secure_mediterranean.desc: "With key islands across the Mediterranean secured and acting as watchtowers of the sea, it is time for us to claim ownership over the waves." #NT!
+ fp2_secure_mediterranean.tip: "Claim ownership over the Mediterranean" #NT!
+ secure_iberian_foothold_decision_title: "Rite Foothold" #NT!
+ secure_iberian_foothold_decision_desc: "The weakened warring states of the Shattered Coast opened the coast's doors to outsider invaders. If one could declare themselves the new [ROOT.Char.GetFaith.GetReligion.GetAdjectiveNoTooltip] leader of the region, or simply a glorious invader, much could be gained." #NT!
+ secure_iberian_foothold_decision_tooltip: "Integrate part of the Shattered Coast" #NT!
+ secure_iberian_foothold_decision_confirm: "To the strongest." #NT!
+ fp2_struggle_uninvolved_or_external_tt: "Your [capital|E] is outside the [GetGeographicalRegion('struggle_rite_wars_north').GetName] [region|E]" #NT!
+ fp2_struggle_secure_iberian_foothold_empire_tt: "You [hold|E] an [empire|E] [title|E] that is not [de_jure|E] in the [GetGeographicalRegion('struggle_rite_wars_north').GetName] [region|E]" #NT!
+ fp2_struggle_phase_hostility_or_opportunity_tt: "The Rite Wars [struggle_phase|E] is [struggle_phase_iberia_hostility|E] or [struggle_phase_iberia_opportunity|E] (Current: [GetStruggle('iberian_struggle').GetCurrentPhase.GetName])" #NT!
+ fp2_struggle_secure_iberian_foothold_kingdom_iberian_tt: "You [hold|E] and [completely_control|E] a [de_jure|E] [kingdom|E] in the [GetGeographicalRegion('struggle_rite_wars_north').GetName] [region|E]" #NT!
+ fp2_struggle_secure_iberian_foothold_kingdom_faith_tt: "At least #Z [SCOPE.ScriptValue('fp2_struggle_secure_iberian_foothold_faith_target_percent_value')|0]%#! of this [titlepossessive|E] [de_jure|E] [counties|E] are [THIS.Char.GetFaith.GetAdjective]" #NT!
+ fp2_struggle_secure_iberian_foothold_kingdom_border_tt: "This [title|E] borders held [de_jure|E] land of an [empire|E] you [hold|E] which is not [de_jure|E] in the [GetGeographicalRegion('struggle_rite_wars_north').GetName] [region|E]" #NT!
+ fp2_struggle_secure_iberian_foothold_kingdom_held_tt: "You have held this [title|E] for at least [SCOPE.ScriptValue('fp2_struggle_secure_iberian_foothold_years_value')|0Z] years" #NT!
+ fp2_struggle_secure_iberian_foothold_religion_tt: "You [hold|E] at least #Z [SCOPE.ScriptValue('fp2_struggle_secure_iberian_foothold_religion_target_percent_value')|0]%#! of [THIS.Char.GetFaith.GetReligion.GetAdjective] [faith|E] [counties|E] in the [GetGeographicalRegion('struggle_rite_wars_north').GetName] [region|E] (Current: [SCOPE.ScriptValue('fp2_struggle_secure_iberian_foothold_religion_percent_value')|1]%)\n" #NT!
+ fp2_struggle_secure_iberian_foothold_outsider_tt: "You [hold|E] at least #Z [SCOPE.ScriptValue('fp2_struggle_secure_iberian_foothold_outsider_target_percent_value')|0]%#! of [counties|E] in the [GetGeographicalRegion('struggle_rite_wars_north').GetName] [region|E] (Current: [SCOPE.ScriptValue('fp2_struggle_secure_iberian_foothold_outsider_percent_value')|0]%)\n" #NT!
+ fp2_struggle_secure_iberian_foothold_empire_held_effect_tt: "Every [de_jure|E] [kingdom|E] of [GetTitleByKey('e_spain').GetNameNoTier] which which satisfies the below conditions will become [de_jure|E] part of [THIS.Char.GetPrimaryTitle.GetNameNoTier]" #NT!
+ fp2_struggle_secure_iberian_foothold_empire_dejure_effect_tt: "Every [de_jure|E] [kingdom|E] of [GetTitleByKey('e_spain').GetNameNoTier] which satisfies the below conditions will become [de_jure|E] part of the [empire|E] of [THIS.Char.GetPrimaryTitle.GetDeJureLiege.GetNameNoTier]" #NT!
+ fp2_struggle_secure_iberian_foothold_ends_the_struggle_tt: "The [iberian_struggle|E] ends" #NT!
+ iberian_footholder_transfer_tt: "[THIS] [THIS.Title.GetName] [THIS.GetName]" #NT!
+ fp2_other_decisions.1000.t: "$secure_iberian_foothold_decision_title$: [iberian_footholder.GetPrimaryTitle.GetAdjectiveNoTooltip] Consolidation" #NT!
+ fp2_other_decisions.1000.involved_religion: "The wars of the fractious princedoms of the Shattered Coast almost brought the [ROOT.Char.GetFaith.GetReligion.GetAdjective] realms of the region to their knees.\n\nWithout our intervention, [ROOT.Char.GetFaith.HighGodNamePossessive] faithful would have eventually been driven from the coast by the imperious infidels.\n\n" #NT!
+ fp2_other_decisions.1000.desc: "The divided faiths and peoples of the Shattered Coast have given us a grand opportunity, too busy fighting each other to oppose the [ROOT.Char.GetFaith.GetReligion.GetAdjective] invasion of the coast." #NT!
+ fp2_other_decisions.1000.involved_faith: "We are the legitimate defenders of the [ROOT.Char.GetFaith.GetAdherentNamePlural] of the west, now safe under the protection of [ROOT.Char.GetPrimaryTitle.GetDefinitiveName]." #NT!
+ fp2_other_decisions.1000.uninvolved_faith: "It fell to us to bring the light of [ROOT.Char.GetFaith.GetName]; as part of [ROOT.Char.GetPrimaryTitle.GetDefinitiveName] these lands will once more be prosperous and peaceful." #NT!
+ fp2_other_decisions.1000.closing: "\n\nIn time they will see that the time of their false gods has ended, and rejoice that [ROOT.Char.GetFaith.HighGodName] led [ROOT.Char.GetPrimaryTitle.GetDefinitiveName] to the region's salvation." #NT!
+ fp2_other_decisions.1000.a: "New blood was needed in the Shattered Coast." #NT!
+ fp2_other_decisions.1001.involved_religion: "After centuries of war between the Rites, our struggle has now been exploited by the imperious [iberian_footholder.GetPrimaryTitle.GetAdjective] interlopers.\n\n" #NT!
+ fp2_other_decisions.1001.desc: "Through distraction, envy, and negligence, we Sjalvolki have allowed the [iberian_footholder.GetPrimaryTitle.GetAdjective] interlopers to exploit the division of our homeland and invade the historic kingdoms of the coast." #NT!
+ fp2_other_decisions.1001.involved_faith: "[iberian_footholder.GetTitledFirstName] has declared [iberian_footholder.GetHerselfHimself] the legitimate [iberian_footholder.GetFaith.GetAdjectiveNoTooltip] leader of the coast, using [iberian_footholder.GetHerHis] victories as proof of [iberian_footholder.GetHerHis] legitimacy over the ailing [iberian_footholder.GetFaith.GetReligion.GetAdjective] realms of the Shattered Coast." #NT!
+ fp2_other_decisions.1001.same_uninvolved_faith: "They claim our failures were [ROOT.Char.GetFaith.HighGodNamePossessive] punishment for straying from the righteous path of [iberian_footholder.GetFaith.GetName], and that [iberian_footholder.GetTitledFirstName] is the legitimate leader of [ROOT.Char.GetFaith.GetReligion.GetAdjective] the Shattered Coast..." #NT!
+ fp2_other_decisions.1001.uninvolved_faith: "With [iberian_footholder.GetHerHis] victories as evidence, [iberian_footholder.GetTitledFirstName] has declared [iberian_footholder.GetHerHis] [iberian_footholder.GetFaith.GetAdjective] faith to be the true [iberian_footholder.GetFaith.GetReligion.GetAdjective] path; one that will unite the entire coast under [iberian_footholder.GetFaith.HighGodName]." #NT!
+ fp2_other_decisions.1001.closing: "\n\nAs [iberian_footholder.GetTitledFirstName] consolidates [iberian_footholder.GetHerHis] holdings, the past differences of Muslims and Christians seem to pale in comparison to this [iberian_footholder.GetFaith.GetAdjective] occupation..." #NT!
+ fp2_other_decisions.1001.a: "Damned interlopers." #NT!

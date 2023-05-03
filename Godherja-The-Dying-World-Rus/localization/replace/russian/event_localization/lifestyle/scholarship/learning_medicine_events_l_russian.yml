@@ -1,0 +1,7 @@
+﻿l_russian:
+  #A vassal (or your liege) wants to eat some chort while visiting your capital, by Ewan Cowhig Croft. 
+ learning_medicine.2110.desc_good_terms: ""Ah, [ROOT.Char.GetFirstNameNoTooltip]! I was hoping I'd run into you. Come, I've found the most delightful little taverna just a short ways from here. Would you care to join me for some [ROOT.Char.Custom('GetExpensiveDrink')] with a splash of chort-water?"" #NT!
+ learning_medicine.2110.desc_bad_terms: "The tension in the air is palpable, our respective guards both bristling for a fight. "My liege", chirps a nervous young soldier behind me, "perhaps we could all calm down over some chort pedals in that little taverna there?"\n\nSilence falls over our two groups as [hashish_vassal_or_liege.GetFirstNameNoTooltip] awaits my response." #NT!
+ learning_medicine.2110.desc_neutral_terms: "Caught by surprise, a few moments of uncomfortable silence pass before [hashish_vassal_or_liege.GetFirstNamePossessiveNoTooltip] eyes settle on something behind me.\n\n"Ah, my [hashish_vassal_or_liege.Custom2('RelationToMe', ROOT.Char)], perhaps you would join me in forgetting this over some [ROOT.Char.Custom('GetExpensiveDrink')] with a splash of chort-water?"" #NT!
+ cosmic_insights_modifier_desc: "A long night of chort consumption has truly given this character insight into the nature of reality." #NT!
+ learning_medicine.2110.c.tt_success: "Chort causes [hashish_vassal_or_liege.GetHerHim] to talk too freely" #NT!

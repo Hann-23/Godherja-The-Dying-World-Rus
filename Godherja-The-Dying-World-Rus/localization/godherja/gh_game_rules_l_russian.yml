@@ -1,0 +1,93 @@
+﻿l_russian:
+ setting_1653_end_date: "1653" #NT!
+ setting_1653_end_date_desc: "The game will end in 1653." #NT!
+  
+ rule_gedeora: "[gedeora|E]" #NT!
+ setting_gedeora_enabled: "Enabled" #NT!
+ setting_gedeora_enabled_desc: "[gedeora|E] will randomly shake the world, inflicting a variety of unpredictable effects around once every 5 years." #NT!
+ setting_gedeora_rare: "Rare" #NT!
+ setting_gedeora_rare_desc: "[gedeora|E] will only rarely appear - about once every 20 years." #NT!
+ setting_gedeora_disabled: "Disabled" #NT!
+ setting_gedeora_disabled_desc: "[gedeora|E] will not appear." #NT!
+ rule_fogeater_invasion: "[fogeater|E] Invasion" #NT!
+ setting_default_fogeater_invasion: "Default" #NT!
+ setting_default_fogeater_invasion_desc: "The [fogeaters|E] will invade in the late 14th century." #NT!
+ setting_never_fogeater_invasion: "#high Never#!" #NT!
+ setting_never_fogeater_invasion_desc: "The [fogeaters|E] will not invade." #NT!
+ setting_random_fogeater_invasion: "#high Random#!" #NT!
+ setting_random_fogeater_invasion_desc: "The [fogeaters|E] will invade at a random date." #NT!
+ rule_adabyss_invasion: "Adabyss Invasion" #NT!
+ setting_default_adabyss_invasion: "Default" #NT!
+ setting_default_adabyss_invasion_desc: "The Adabyssian Invasion will begin from 50-80 years after game start." #NT!
+ setting_never_adabyss_invasion: "#high Never#!" #NT!
+ setting_never_adabyss_invasion_desc: "Adabyss will not invade the north." #NT!
+ rule_cenware_conquest_extent: "Cenware's Conquest: Extent" #NT!
+ setting_cenware_conquest_mainland_etepezea: "Mainland Etepezea" #NT!
+ setting_cenware_conquest_mainland_etepezea_desc: "AI Cenware will finish his great conquest upon seizing mainland Etepezea, but Tower Isle and the southern empire will not be invaded." #NT!
+ setting_cenware_conquest_greater_etepezea: "Greater Etepezea" #NT!
+ setting_cenware_conquest_greater_etepezea_desc: "AI Cenware will finish his conquest upon conquering the entirety of Etepezea, including Tower Isle, but will not invade the southern empire." #NT!
+ setting_cenware_conquest_opakhasia: "Opakhasia" #NT!
+ setting_cenware_conquest_opakhasia_desc: "AI Cenware will finish his great conquest upon seizing Opakhasia, but Aironoi and Malcois will not be invaded." #NT!
+ setting_cenware_conquest_entire_empire: "Aversaria" #NT!
+ setting_cenware_conquest_entire_empire_desc: "AI Cenware will invade as far as Aironoi, or more rarely, even Malcois." #NT!
+ #rule_cenware_conquest_randomness: "Cenware's Conquest: Randomness" #NT!
+ #setting_cenware_conquest_randomness_off: "Randomness Disabled" #NT!
+ #setting_cenware_conquest_randomness_off_desc: "Cenware will always take the exact de jure empires outlines by the extent rule, and not a single county more or less." #NT!
+ #setting_cenware_conquest_randomness_on: "Randomness Enabled" #NT!
+ #setting_cenware_conquest_randomness_on_desc: "Cenware's conquest may ignore minor isles, and even the entire Tower and Ithiteia archipelago occasionally. He may also prematurely end his conquest of the south empire, if the Imperrech begins to lose steam." #NT!
+ rule_destroy_imperrech: "Sjalvolki Imperrech" #NT!
+ setting_imperrech_intact: "Default" #NT!
+ setting_imperrech_intact_desc: "As intended, the Sjalvolki Imperrech exists at start." #NT!
+ setting_imperrech_destroyed: "#high Destroyed#!" #NT!
+ setting_imperrech_destroyed_desc: "Some players do not like the existence of the Imperrech, so this game rule (if done before entering the map) will destroy the title. (Note, this feature is a WIP)" #NT!
+ rule_opening_events: "Opening Events" #NT!
+ setting_opening_events_enabled: "Default" #NT!
+ setting_opening_events_enabled_desc: "Opening events are enabled." #NT!
+ setting_opening_events_disabled: "#high Disabled#!" #NT!
+ setting_opening_events_disabled_desc: "Opening events are disabled." #NT!
+ rule_story_content: "Story Content" #NT!
+ setting_story_content_enabled: "Default" #NT!
+ setting_story_content_enabled_desc: "Story content is enabled." #NT!
+ setting_story_content_disabled: "#high Disabled#!" #NT!
+ setting_story_content_disabled_desc: "For players who feel that opening events disrupt their head canon, roleplaying, or etc., story content is disabled." #NT!
+ rule_fog_speed: "[fog|E] Spread Speed" #NT!
+ setting_fog_speed_disabled: "Disabled" #NT!
+ setting_fog_speed_disabled_desc: "The [fog|E] will not spread." #NT!
+ setting_fog_speed_glacial: "Glacial" #NT!
+ setting_fog_speed_glacial_desc: "The [fog|E] cannot spread faster than one county per 30 years." #NT!
+ setting_fog_speed_slow: "Slow" #NT!
+ setting_fog_speed_slow_desc: "The [fog|E] cannot spread faster than one county per 10 years." #NT!
+ setting_fog_speed_default: "Default" #NT!
+ setting_fog_speed_default_desc: "The [fog|E] cannot spread faster than one county per 5 years." #NT!
+ setting_fog_speed_fast: "Fast" #NT!
+ setting_fog_speed_fast_desc: "The [fog|E] cannot spread faster than one county per 2.5 years." #NT!
+ setting_fog_speed_apocalypse: "Apocalypse" #NT!
+ setting_fog_speed_apocalypse_desc: "The end is nigh, as the [fog|E] can spread up to two counties a year!" #NT!
+ rule_aervalr_shard: "[aervalr|E] Shards" #NT!
+ setting_aervalr_shard_enabled: "Enabled" #NT!
+ setting_aervalr_shard_enabled_desc: "Fragments of the shattered [aervalr|E] of various sizes will randomly crash into the ground, wreaking havoc." #NT!
+ setting_aervalr_shard_disabled: "Disabled" #NT!
+ setting_aervalr_shard_disabled_desc: "[aervalr|E] shards will not fall onto the world." #NT!
+ rule_fog_spread_sarradon: "[fog|E] Spread: [sarradon|E]" #NT!
+ setting_fog_spread_sarradon_enabled: "Enabled" #NT!
+ setting_fog_spread_sarradon_enabled_desc: "The [fog|E] can and will cross the sea and arrive on the shores of [sarradon|E]." #NT!
+ setting_fog_spread_sarradon_disabled: "Disabled" #NT!
+ setting_fog_spread_sarradon_disabled_desc: "The [fog|E] will be unable to cross into [sarradon|E]." #NT!
+ rule_hammarts_wild_ride: "Hammart's Wild Ride" #NT!
+ setting_hammarts_wild_ride_enabled: "Enabled" #NT!
+ setting_hammarts_wild_ride_enabled_desc: "Every living character outside of [chevalie|E], and also Hammart, will become a level 20 [magi|E] with education in all forms of [magic|E]. This is just a for-fun setting, performace not guaranteed." #NT!
+ setting_hammarts_wild_ride_disabled: "Disabled" #NT!
+ setting_hammarts_wild_ride_disabled_desc: "Magical trait distribution will be as in a normal game." #NT!
+ rule_wasteland_color: "Wasteland Color" #NT!
+ setting_wasteland_color_gray: "Gray" #NT!
+ setting_wasteland_color_gray_desc: "Empty counties will be gray on the map." #NT!
+ setting_wasteland_color_white: "White" #NT!
+ setting_wasteland_color_white_desc: "Empty counties will be white on the map." #NT!
+ setting_wasteland_color_black: "Black" #NT!
+ setting_wasteland_color_black_desc: "Empty counties will be black on the map." #NT!
+  ############## 
+  # CATEGORIES # 
+ general_category_name: "General" #NT!
+ borders_category_name: "Borders" #NT!
+ magic_category_name: "Magic" #NT!
+ story_content_category_name: "Story Content #X (MAY CONTAIN SPOILERS)#!" #NT!

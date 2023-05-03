@@ -1,0 +1,515 @@
+﻿l_russian:
+ reunite_the_empire_decision: "Reunite the Empire" #NT!
+ reunite_the_empire_decision_tooltip: "Reunite the Aversarinas Aautokrata and once more bring all Aversarians back under a single banner!" #NT!
+ reunite_the_empire_decision_desc: "Woe to the children of [aversaria|E]! We were whole once, and strong, ruling a [continent|E] and spreading out across the world - our birthright - as we deserved. The years of the past have not been kind to us, but no longer!\n\nWe have once more united most of the Aautokrata's central holdings back under a united banner, and it is now time to declare ourselves the true successors to the great Empire of old!" #NT!
+ reunite_the_empire_decision_titles_tt: "Every Core [aversarian|E] [empire|E] [title|E] you own and fully control will be destroyed and their territories will become [de_jure|E] of your new Primary Title (the Aversarinas Aautokrata)" #NT!
+ reunite_the_empire_decision_titles_empire_tt: "Every West Slavic [kingdom|E] [title|E] you own (except your [primary_title|E]) will be destroyed and their territories will become [de_jure|E] of a random owned West Slavic kingdom" #NT!
+ reunite_the_empire_decision_confirm: "Reunite the Empire" #NT!
+ reunite_the_empire_valid_desc: "Must control at least 4 of the traditional provinces of [aversaria|E], counting Katraddia and with Kalathipsomi counting as two." #NT!
+ reunite_the_empire_valid_desc_short: "Since you hold the Aversarian Crown [artifact|E], you must control at least 1 of the traditional provinces of [aversaria|E], counting Katraddia and with Kalathipsomi counting as two." #NT!
+  
+ reunite_the_north_decision: "Reunite the North" #NT!
+ reunite_the_north_decision_tooltip: "Proclaim yourself a legitimate successor of Aversaria, based in [GetTitleByKey('c_oraispol').GetNameNoTier]" #NT!
+ reunite_the_north_decision_desc: "Once on the verge of collapse to barbarian hordes, northern [aversaria|E] has been reunited under my rule. No longer am I just another petty warlord, and [GetTitleByKey('c_oraispol').GetNameNoTier] is the seat of a formidable realm yet again." #NT!
+ reunite_the_north_decision_oraispol_capital_tt: "Our capital is located at [GetTitleByKey('c_oraispol').GetNameNoTier]" #NT!
+ reunite_the_north_decision_confirm: "Reunite the North" #NT!
+ reunite_the_south_decision: "Reunite the South" #NT!
+ reunite_the_south_decision_tooltip: "Proclaim yourself a legitimate successor of Aversaria, based in [GetTitleByKey('c_asiupoli').GetNameNoTier]" #NT!
+ reunite_the_south_decision_desc: "The countless warlords of the south have all been crushed under our boot, and the heavily damaged, but still glorious city of [GetTitleByKey('c_asiupoli').GetNameNoTier] is in our hands. With no legitimate successor in the old capital of [GetTitleByKey('c_oraispol').GetNameNoTier], it falls upon us to take the mantle of rule." #NT!
+ reunite_the_south_decision_asiupoli_capital_tt: "Our capital is located at [GetTitleByKey('c_asiupoli').GetNameNoTier]" #NT!
+ reunite_the_south_decision_confirm: "Reunite the South" #NT!
+ reintegrate_core_aversarian_territory: "Reintegrate the Rest" #NT!
+ reintegrate_core_aversarian_territory_desc: "At long last, territories cleaved from the Empire of the Purest may be returned to the fold where they belong. The impure races once thought [aversaria|E] dead and gone, but what better sign is there of our renewal? The world shall acknowledge our return, and tremble at the sight of our glorious empire reborn." #NT!
+ pryonism_negative_dreams: "Give Negative Dreams" #NT!
+ pryonism_positive_dreams: "Give Positive Dreams" #NT!
+ pryonism_negative_dreams_desc: "Influence their dreams with horrible nightmares." #NT!
+ pryonism_positive_dreams_desc: "Influence their dreams with glimpses of paradise." #NT!
+ kemsar_towers_decision: "Reactivate The Tak'han" #NT!
+ kemsar_towers_decision_tooltip: "Attain ownership of all Holy Sites of our religion and begin the process of reactivating these ancient safeguards!" #NT!
+ kemsar_towers_decision_desc: "Long ago we were entrusted with a sacred task by He Who Was, and we have failed him! We will return to the zenith of our power and retake the mantle of service we have forsaken for far too many years.\n\nThe path ahead is long, ardous, and full of suffering; but we shall bare it for the sake of all." #NT!
+ kemsar_towers_decision_confirm: "Our Duty Done, His Will Shall Be Done." #NT!
+ announce_aversaria_voreias_decision: "Announce Aversaria Voreias" #NT!
+ announce_aversaria_voreias_decision_desc: "The first step to the recovery of our sacred home is done. A foothold has been established in the north to stand firm against the Sjalvolki horde. It is time I crowned myself Aautokratir of a new [aversaria|E], and prepared for the march south..." #NT!
+ announce_aversaria_voreias_decision_tt: "You gain the title Gurdurbok\nGurdurbok is renamed Aversaria Voreias\nNew decisions will be available" #NT!
+ announce_aversaria_voreias_decision_confirm: "Announce Aversaria Voreias" #NT!
+ announce_aversaria_voreias_decision_tooltip: "Announce a new northern [aversaria|E], dedicated to the reconquest of the old" #NT!
+ convert_to_suncult_decision: "Pronounce Myself an Incarnation of the Purest" #NT!
+ convert_to_suncult_decision_desc: "If there is to ever be any hope for the Empire's future, it must have a renewed spirit to lead it to victory. One that preaches total trust in the leader's vision, and unwavering adherence to his every command. One that encourages fanatical loyalty unto death.\n\nAnd where else can one find that sort of zealotry but in faith?" #NT!
+ convert_to_suncult_decision_confirm: "Convert everyone to the Black Sun Cult" #NT!
+ convert_to_suncult_decision_tooltip: "It is time for everyone to bend the knee and worship me" #NT!
+ pryonism_decision: "Read Minds" #NT!
+ pryonism_decision_desc: "Time to read some minds and learn super secret secrets, like that Richard Nixon did the Tricky Dick's Wet n' Wild Water Heist of 1967." #NT!
+ pryonism_decision_confirm: "Read them minds." #NT!
+ contact_spirits: "Contact Spirits" #NT!
+ contact_spirits_desc: "I shall contact the spirits and learn their secrets." #NT!
+ raise_spirit_army: "Raise Spirit Army" #NT!
+ raise_spirit_army_desc: "Raising the spirits is a dangerous task however the possibility of a legion of the best warriors this realm has to offer with the added benefit of near complete immunity to battle is too good to pass up" #NT!
+ search_for_magi_decision: "Search for a Magi" #NT!
+ search_for_magi_decision_desc: "A Court [magi|E] is necessary for the maintenance of magical duties and tutelage of those at court who wish to learn. I shall instruct my servants to scour the land for talented candidates willing to serve me." #NT!
+ search_for_magi_decision_tooltip: "You will be given the choice of how many resources you are prepared to invest in this endeavor." #NT!
+ search_for_magi_decision_effect_tooltip: "You will look for a Court [magi|E] to join your Council" #NT!
+ search_for_magi_decision_confirm: "Begin the Search!" #NT!
+ search_for_magi_decision_desc_tooltip: "You will search for a [magi|E]" #NT!
+ spirit_journey_decision: "Embark on a Spirit Journey" #NT!
+ spirit_journey_decision_desc: "My religion allows for a Journey into the Spirit Realm. With the power of mushrooms I will learn the secrets of the universe." #NT!
+ spirit_journey_decision_tooltip: "Embark on a Spirit Journey and learn the true nature of the universe." #NT!
+ spirit_journey_trigger: "You may not currently embark on a Spirit Journey." #NT!
+ spirit_journey_effect: "You will gain piety and prestige at the cost of gold, the more you risk the more you have to gain." #NT!
+ spirit_journey_confirm: "Into the Spirit Realm" #NT!
+ eastern_reforms_side_governor_decision: "Accuse Khatan Altan" #NT!
+ eastern_reforms_side_governor_decision_desc: "Khatan Altan and the Öltenic tribes, while often proclaiming fealty to [aversaria|E], have been known to desire rulership of Aironoi for centuries. Destabilizing the Legion would doubtless give them the perfect opening, and many factors seem to indicate that if not Altan directly, Öltenic tribesmen had some hand in Valerix's death.\n\nIn his defense, Altan has reminded me that him and Valerix had been on friendly terms, and that Valerix would never have been able to pass west from the steppes had the Öltenic not guided them home in the first place.\n\nGovernor Tetradia has informed us that were we to come to blows with the Öltenic over the matter, he will gladly assist us financially and with his own forces, and promises the Legion ownership of the Öltenic's possessions in the east once Valerix is avenged. Doubtless however, this will tie us to Tetradia closer than anything else could, and any dreams of reform will be greatly hampered..." #NT!
+ eastern_reforms_side_governor_decision_confirm: "Altan is the killer, prepare the men" #NT!
+ eastern_reforms_side_mongols_decision: "Accuse Governor Tetradia" #NT!
+ eastern_reforms_side_mongols_decision_desc: "Governor Tetradia feuded with Valerix for years over the fate of the Aautokrata. While Valerix had promised to aid him in retaking [GetTitleByKey('c_asiupoli').GetNameNoTier], the governor had always refused to hear any word of reform or change, especially not when it came to his vast slave estates. Additionally, Tetradia and his cohorts are known schemers, veterans of the old days of the Imperial court before the Fenvir landed on the eastern shores.\n\nFor his part, Tetradia has denied any wrongdoing. He has pointed out how idiotic it would be for him to destabilize the Legion when it is his only shot to retake his city, and also how the Kteumaxa have long lusted over ownership of southern Aironoi.\n\nAltan himself has sent us word that if we were to move against Tetradia, his forces will be at our disposal in the case of civil war, and has also stated that his comrades in the northeast will serve thereafter as my vassals. In addition, he has promised to aid us in our feud with Fenrus as an ally, in return for the Fenvir's southern possessions." #NT!
+ eastern_reforms_side_mongols_decision_confirm: "Order Tetradia's arrest" #NT!
+ invade_fenvir_clanrech_decision: "Begin the Reconquest" #NT!
+ invade_fenvir_clanrech_decision_tooltip: "Begin a campaign to retake [GetTitleByKey('c_asiupoli').GetNameNoTier]" #NT!
+ invade_fenvir_clanrech_decision_tt: "We will declare [war|E] upon the Fenvir Clanrech, with the goal of retaking [GetTitleByKey('c_asiupoli').GetNameNoTier]." #NT!
+ invade_fenvir_clanrech_decision_desc: "The time is now. The Fenvir dogs have sat on rightful [aversarian|E] soil for too long, and we will never be able to save our homeland from itself and its enemies while they squat in its greatest city. It is time to call our allies, and write the first letter of the sagas of our holy reconquest." #NT!
+ invade_fenvir_clanrech_decision_confirm: "Declare war!" #NT!
+ iyrossi_kill_aversarians_decision: "Slaughter Aversarians" #NT!
+ iyrossi_kill_aversarians_decision_desc: "Our recently conquered lands are inhabited by [aversarians|E], our age-old tormenters, they must be purged so that we may be free once again. The sun will shine on our ancestral lands, now cleansed of the eternal enemy!" #NT!
+ iyrossi_kill_aversarians_decision_confirm: "It must be done" #NT!
+ iyrossi_kill_aversarians_decision_tooltip: "Removes [aversarian|E]" #NT!
+ iyrossi_united_desc: "The Iyrossi have been united" #NT!
+ bloody_throne_decision: "Reaffirm Bloody Throne" #NT!
+ bloody_throne_decision_desc: "Gorassos left a legacy of slaughter, raising for himself a throne of skulls atop a mountain of corpses. To uphold this legacy, we must insure that all know that we, and we alone, deserve to sit upon it." #NT!
+ bloody_throne_decision_confirm: "The Bloodied Throne Eternal" #NT!
+ bloody_throne_decision_custom_tooltip: "If not taken soon, the Bloodied Throne title will slip from our grasp" #NT!
+ bloody_throne_decision_tooltip: "We must reaffirm our right to the Bloodied Throne in order to not lose the title" #NT!
+ renounce_gorassos_decision: "The Rotting Throne" #NT!
+ renounce_gorassos_decision_desc: "The Father of the Bloodied Throne is fallen, his skull now adorning the symbol of his bloody might. As will yours, one day. You are the heir of his bloody legacy, and the puny will tremble before your sacred blades!" #NT!
+ renounce_gorassos_decision_confirm: "Blood will flow!" #NT!
+ renounce_gorassos_decision_tooltip: "Renounce Gorassos and his heresy" #NT!
+ renounce_megistos_decision: "Farewell, Megistos" #NT!
+ renounce_megistos_decision_desc: "You are not Megistos. You know this in your heart. You never will be Megistos and you never can be Megistos. Perhaps... perhaps it is time to let him go. Megistos is no longer the light of our universe, but maybe he will be again at the end of all things. Farewell, Megistos..." #NT!
+ renounce_megistos_decision_confirm: "Another whispered name lost to time." #NT!
+ renounce_megistos_decision_tooltip: "Renounce Megistos and his heresy" #NT!
+ redistrict_metro_cap: "Redistrict Capital" #NT!
+ redistrict_metro_cap_desc: "The metropolis of the world are truly splendid gems, each a unique engine of production. These productive forces can be further magnified. All it take is sufficient funds and planning to organize the masses into disciplined arrays bent further war, or your own opulence..." #NT!
+ redistrict_metro_cap_confirm: "Time to get busy!" #NT!
+ redistrict_metro_cap_tooltip: "Spend lavishly to specialize your metropolis." #NT!
+ found_metro_in_kingdom_cap: "Found a Great Polis" #NT!
+ found_metro_in_kingdom_cap_desc: "Every great kingdom deserves an equally great polis to be the seat of it's ruler. My country is barren of such a place, but not for long. I shall see to it that generations will remember not only my name and my deeds, but the very grounds I walked, and the foundation I built." #NT!
+ found_metro_in_kingdom_cap_confirm: "Set out to leave your mark." #NT!
+ found_metro_in_kingdom_cap_tooltip: "You will set out to build a metropolis district based on your primary stats and lifestyle traits" #NT!
+ gh_sack_ostrapol: "Sack Ostrapol" #NT!
+ gh_sack_ostrapol_desc: 
+ gh_sack_ostrapol_confirm: "Burn it to the ground!" #NT!
+ gh_sack_ostrapol_tooltip: "You will begin to sack the metropolis of Ostrapol!" #NT!
+ gh_debase_currency_decision: "Debase Currency" #NT!
+ gh_debase_currency_decision_desc: "There is a time in the life of every ruler, no matter how big or small, no matter where they may be where they must make a decision. Is money really more important than how their people, how history itself, may view them?\n\nFor those who decide, yes, yes it is, the option to debase their precious currency for profit is an easy choice." #NT!
+ gh_debase_currency_decision_confirm: "Let the gold flow." #NT!
+ gh_debase_currency_decision_tooltip: "Sacrifice a large amount of [prestige|E] in return for an instant influx of gold." #NT!
+ gh_debase_currency_decision_2: "Debase Currency" #NT!
+ gh_debase_currency_decision_2_desc: "There is a time in the life of every ruler, no matter how big or small, no matter where they may be where they must make a decision. Is money really more important than how their people, how history itself, may view them?\n\nFor those who decide, yes, yes it is, the option to debase their precious currency for profit is an easy choice." #NT!
+ gh_debase_currency_decision_2_confirm: "Let the gold flow." #NT!
+ gh_debase_currency_2_decision_tooltip: "Sacrifice a large amount of [prestige|E] in return for an instant influx of gold." #NT!
+ gh_debase_currency_decision_3: "Debase Currency" #NT!
+ gh_debase_currency_decision_3_desc: "There is a time in the life of every ruler, no matter how big or small, no matter where they may be where they must make a decision. Is money really more important than how their people, how history itself, may view them?\n\nFor those who decide, yes, yes it is, the option to debase their precious currency for profit is an easy choice." #NT!
+ gh_debase_currency_decision_3_confirm: "Let the gold flow." #NT!
+ gh_debase_currency_decision_3_tooltip: "Sacrifice a large amount of [prestige|E] in return for an instant influx of gold." #NT!
+ gh_debase_currency_4_decision: "Debase Currency" #NT!
+ gh_debase_currency_decision_4_desc: "There is a time in the life of every ruler, no matter how big or small, no matter where they may be where they must make a decision. Is money really more important than how their people, how history itself, may view them?\n\nFor those who decide, yes, yes it is, the option to debase their precious currency for profit is an easy choice." #NT!
+ gh_debase_currency_decision_4_confirm: "Let the gold flow." #NT!
+ gh_debase_currency_decision_4_tooltip: "Sacrifice a large amount of [prestige|E] in return for an instant influx of gold." #NT!
+ gh_strengthen_currency_decision: "Strengthen Currency" #NT!
+ gh_strengthen_currency_decision_desc: "With our capital now hosting a Royal Mint, the opportunity is ripe for us to introduce fresh new measures to strengthen our currency. Through measures such as withdrawing currency already in circulation, selling foreign assets, reform and lender negotiations we can bring about a much needed increase in the value of our currency." #NT!
+ gh_strengthen_currency_decision_confirm: "A new economic dawn." #NT!
+ gh_strengthen_currency_decision_tooltip: "Sacrifice a large amount of gold in return for an instant influx of [prestige|E]" #NT!
+ gh_strengthen_currency_decision_2: "Strengthen Currency" #NT!
+ gh_strengthen_currency_decision_2_desc: "With our capital now hosting a Royal Mint, the opportunity is ripe for us to introduce fresh new measures to strengthen our currency. Through measures such as withdrawing currency already in circulation, selling foreign assets, reform and lender negotiations we can bring about a much needed increase in the value of our currency." #NT!
+ gh_strengthen_currency_decision_2_confirm: "A new economic dawn." #NT!
+ gh_strengthen_currency_decision_2_tooltip: "Sacrifice a large amount of gold in return for an instant influx of [prestige|E]" #NT!
+ gh_strengthen_currency_decision_3: "Strengthen Currency" #NT!
+ gh_strengthen_currency_decision_3_desc: "With our capital now hosting a Royal Mint, the opportunity is ripe for us to introduce fresh new measures to strengthen our currency. Through measures such as withdrawing currency already in circulation, selling foreign assets, reform and lender negotiations we can bring about a much needed increase in the value of our currency." #NT!
+ gh_strengthen_currency_decision_3_confirm: "A new economic dawn." #NT!
+ gh_strengthen_currency_decision_3_tooltip: "Sacrifice a large amount of gold in return for an instant influx of [prestige|E]" #NT!
+ gh_strengthen_currency_decision_4: "Strengthen Currency" #NT!
+ gh_strengthen_currency_decision_4_desc: "With our capital now hosting a Royal Mint, the opportunity is ripe for us to introduce fresh new measures to strengthen our currency. Through measures such as withdrawing currency already in circulation, selling foreign assets, reform and lender negotiations we can bring about a much needed increase in the value of our currency." #NT!
+ gh_strengthen_currency_decision_4_confirm: "A new economic dawn." #NT!
+ gh_strengthen_currency_decision_4_tooltip: "Sacrifice a large amount of gold in return for an instant influx of [prestige|E]" #NT!
+ restore_etepezea_decision: "Restore Etepezea" #NT!
+ restore_etepezea_decision_desc: "The collapse of Etepezea was a tragedy to Aversarians everywhere. The nightmare of immaculate [GetTitleByKey('c_oraispol').GetNameNoTier] falling under Sjalvolki control, the beating heart of the Aversarinas Aautokrata, torn from our grasp - it's too much to bear remembering! All that now lies in the past as the ancestral homeland the Purest himself granted to us is now secure once more." #NT!
+ restore_etepezea_decision_confirm: "Redraw Etepezea's old borders" #NT!
+ restore_etepezea_decision_tooltip: "#E Etepezea's#! de jure hierarchy will be restored." #NT!
+ restore_etepezea_requirement: "All non-fogswept duchies with changed de jure lieges in #E Etepezea#! are controlled by us" #NT!
+ restore_megos_kalathipsomi_decision: "Restore Megos Kalathipsomi" #NT!
+ restore_megos_kalathipsomi_decision_desc: "The rugged beauty of Megos Kalathipsomi, once stolen from us by the devilish Cenware, is now ours once more, and lucrative trade is already flowing into our empire through [GetBuilding('building_bastonport_01').GetName]. There is much work to be done to restore the province, but once we rebuild the imposing mountain fortresses we should be able to secure our heartland against future would-be conquerors." #NT!
+ restore_megos_kalathipsomi_decision_confirm: "Redraw Megos Kalathipsomi's old borders" #NT!
+ restore_megos_kalathipsomi_decision_tooltip: "#E Megos Kalathipsomi's#! de jure hierarchy will be restored." #NT!
+ restore_megos_kalathipsomi_requirement: "All non-fogswept duchies with changed de jure lieges in #E Megos Kalathipsomi#! are controlled by us" #NT!
+ restore_mikros_kalathipsomi_decision: "Restore Mikros Kalathipsomi" #NT!
+ restore_mikros_kalathipsomi_decision_desc: "The rustic border province of Mikros Kalathipsomi is once more under our control. The Pathos river valley will be crucial to feed our slowly recovering population. We must be wary however - the Marchers have always been a threat, but more worrisome are the bizarre monsters that slouch out of the encroaching Fog every day." #NT!
+ restore_mikros_kalathipsomi_decision_confirm: "Redraw Mikros Kalathipsomi's old borders" #NT!
+ restore_mikros_kalathipsomi_decision_tooltip: "#E Mikros Kalathipsomi's#! de jure hierarchy will be restored." #NT!
+ restore_mikros_kalathipsomi_requirement: "All non-fogswept duchies with changed de jure lieges in #E Mikros Kalathipsomi#! are controlled by us" #NT!
+ restore_malcois_decision: "Restore Malcois" #NT!
+ restore_malcois_decision_desc: "Slaves, perfidious Marchers and ravening Sjalvolki all did their best to wrest Malcois from us, but their successes proved to only be temporary setbacks for us. With Aversarian rule once more firmly ensconced in that Palát to Mytidon our authority shall not be challenged again." #NT!
+ restore_malcois_decision_confirm: "Redraw Malcois' old borders" #NT!
+ restore_malcois_decision_tooltip: "#E Malcois'#! de jure hierarchy will be restored." #NT!
+ restore_malcois_requirement: "All non-fogswept duchies with changed de jure lieges in #E Malcois#! are controlled by us" #NT!
+ restore_opakhasia_decision: "Restore Opakhasia" #NT!
+ restore_opakhasia_decision_desc: "It has been with great effort that we have driven back the tide of barbarians and restored the borders of Opakhasia, from the Korvion Strait to the glittering city of [GetTitleByKey('c_tinitida').GetNameNoTier]. While the flower of the empire is much wilted, with our resolute guidance it is sure to blossom once more!" #NT!
+ restore_opakhasia_decision_confirm: "Redraw Opakhasia's old borders" #NT!
+ restore_opakhasia_decision_tooltip: "#E Opakhasia's#! de jure hierarchy will be restored." #NT!
+ restore_opakhasia_requirement: "All non-fogswept duchies with changed de jure lieges in #E Opakhasia#! are controlled by us" #NT!
+ expand_opakhasia_decision: "Restore Opakhasia" #NT!
+ expand_opakhasia_decision_desc: "It has been with great effort that we have driven back the tide of barbarians and restored the borders of Opakhasia, from the Korvion Strait to the glittering city of [GetTitleByKey('c_tinitida').GetNameNoTier]. While the flower of the empire is much wilted, with our resolute guidance it is sure to blossom once more!" #NT!
+ expand_opakhasia_decision_confirm: "Redraw Opakhasia's old borders" #NT!
+ expand_opakhasia_decision_tooltip: "#E Opakhasia's#! provincial dominion will be restored." #NT!
+ expand_opakhasia_requirement: "All non-fogswept duchies with changed de jure lieges in #E Opakhasia#! are controlled by us" #NT!
+ restore_aironoi_decision: "Restore Aironoi" #NT!
+ restore_aironoi_decision_desc: "While the devastation from the [frodbrokna|E] leaves us with a daunting task ahead, from shattered [GetTitleByKey('c_asiupoli').GetNameNoTier] we have beaten back the barbarians from both east and west. Bloodied but never broken, Aironoi will once more stand as the strong eastern bulwark of a restored Aversaria." #NT!
+ restore_aironoi_decision_confirm: "Redraw Aironoi's old borders" #NT!
+ restore_aironoi_decision_tooltip: "#E Aironoi's#! de jure hierarchy will be restored." #NT!
+ restore_aironoi_requirement: "All non-fogswept duchies with changed de jure lieges in #E Aironoi#! are controlled by us" #NT!
+ restore_gurdurbok_decision: "Restore Gurdurbok" #NT!
+ restore_gurdurbok_decision_desc: "Though once cut off from [aversaria|E] by Cenware, the Province of Gurdurbok has been brought back under our righteous control, from the Chevalien border to the [mayiprolollan|E]. Already, recontruction efforts are beginning in Dethiclos, and all the world shall know that [aversaria|E] will never allow its territories to be sundered." #NT!
+ restore_gurdurbok_decision_confirm: "Redraw Gurdurbok's old borders" #NT!
+ restore_gurdurbok_decision_tooltip: "#E Gurdurbok's#! de jure hierarchy will be restored." #NT!
+ restore_gurdurbok_requirement: "All non-fogswept duchies with changed de jure lieges in #E Gurdurbok#! are controlled by us" #NT!
+ kikarsagi_kill_aversarians_decision: "Slaughter Aversarians" #NT!
+ kikarsagi_kill_aversarians_decision_desc: "The [aversarians|E] have shown themselves to be weak, and the weak get beaten. Bereft of the Mandate of Purity and dogs in the eyes of the Purest, we must massacre their weak race to become the Chosen Men and save the empire. No mercy for the weak! No retreat for the strong!" #NT!
+ kikarsagi_kill_aversarians_decision_confirm: "Today we become Chosen Men!" #NT!
+ kikarsagi_kill_aversarians_decision_tooltip: "Slaughter the [aversarians|E] and become one of the Chosen Men." #NT!
+ bonefinding_decision: "Search for Magically Potent Bones" #NT!
+ bonefinding_decision_desc: "In order to empower my Dead Magic, it would be useful to acquire the bones of powerful magi. I shall attempt to locate bones magically potent enough to fulfill my purposes." #NT!
+ bonefinding_decision_tooltip: "You will be given the choice of how you wish to locate magically potent bones." #NT!
+ bonefinding_decision_effect_tooltip: "You will look search for the bones of powerful magi" #NT!
+ bonefinding_decision_confirm: "Begin the Search!" #NT!
+ bonefinding_decision_desc_tooltip: "You will search for magically potent bones" #NT!
+ craft_bone_artifact_decision: "Craft Bone Artifact" #NT!
+ craft_bone_artifact_decision_desc: "In order to empower my [dead_magic|E], I shall craft magically potent bones into a powerful [artifact|E]." #NT!
+ craft_bone_artifact_decision_tooltip: "In order to craft a bone [artifact|E], you will need to have magically potent bones found through the Search for Magically Potent Bones decision." #NT!
+ craft_bone_artifact_decision_effect_tooltip: "You will attempt to craft some of your magical bones into an [artifact|E]" #NT!
+ craft_bone_artifact_decision_confirm: "I shall craft an arcane masterpiece!" #NT!
+ reforge_aversarian_crown_decision: "Reforge the Aversarian Crown" #NT!
+ reforge_aversarian_crown_decision_desc: "Over the preceding centuries, various pieces of the [aversarian|E] Crown were stripped and sold or stolen by nefarious figures across the [shattered_coast|E]. Now with all the pieces in hand, I can forge the crown, and lay claim to [aversaria|E]." #NT!
+ reforge_aversarian_crown_valid_condition: "All five pieces of the Aversarian Crown are in your possession" #NT!
+ reforge_aversarian_crown_decision_effect: "All pieces of the Aversarian Crown are destroyed" #NT!
+ reforge_aversarian_crown_decision_confirm: "A rebirth for Aversaria awaits" #NT!
+ reforge_aversarian_crown_decision_tooltip: "Reforge the Crown of Aversarinas Aautokrata!" #NT!
+ unite_the_eastern_coast.t: "Unite the Eastern Coast" #NT!
+ unite_the_eastern_coast_decision_desc: "It is said that a great [kingdom|E] once ruled these shores. With our might unparalleled across the eastern passages, it is time that one rules them again." #NT!
+ unite_the_eastern_coast_decision_tooltip: "Unite the Eastern [pirate_coast|E]" #NT!
+ unite_the_eastern_coast_decision_confirm: "The Stars Shall Guide Us" #NT!
+ unite_the_eastern_coast_decision_tt: "Your primary [kingdom|E] title [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip] will integrate any kingdom you [completely_control|E] in [GetGeographicalRegion('world_ga_eastern_pirate_coast').GetName] except for $k_ufaliracci$." #NT!
+ take_control_of_spice_trade.t: "Secure the Spice Trade" #NT!
+ take_control_of_spice_trade_decision_desc: "The vast riches of the [pirate_coast|E] Spice Trade have driven many to despair, but it is finally within our reach." #NT!
+ take_control_of_spice_trade_decision_tooltip: "Secure the Spice Trade" #NT!
+ take_control_of_spice_trade_decision_confirm: "Taste the Cardamom" #NT!
+ control_the_spice_tt: "You will have the choice in [county|E] to build your Port." #NT!
+ controls_the_spice_trade_house_modifier: "Controls the Rovarskan Spice Trade" #NT!
+ controls_the_spice_trade_house_modifier_desc: "This dynasty has taken control over the Spice Trade in the [pirate_coast|E]." #NT!
+ flourishing_pirate_coast_trade_modifier_desc: "This [county|E] is experiencing a golden age of commerce and mercantilism." #NT!
+ flourishing_pirate_coast_trade_modifier: "Flourising Trade" #NT!
+ reformed_ufaliracci_modifier: "Reformed Ufaliracci" #NT!
+ reformed_ufaliracci_modifier_desc: "This character has reformed the kingdom of [ufaliracci|E] in its old [ritualist|E] capital." #NT!
+ reform_ufaliracci_decision: "Reform the Silver Kingdom" #NT!
+ reform_ufaliracci_decision_desc: "It has been centuries since the [siege_of_ufaliracci|E], yet the [silver_palace|E] stands tall once again over the [pirate_coast|E]. It is time for its kingdom to do the same." #NT!
+ reform_ufaliracci_decision_tooltip: "Reform the Silver Kingdom" #NT!
+ reform_ufaliracci_decision_confirm: "We Climb Ever Higher" #NT!
+ reform_ufaliracci_duchy_tt: "You [hold|E] and [completely_control|E] any [duchy|E] which [de_jure|E] borders the [GetTitleByKey('d_trinapaawa').GetName], and which is part of a [kingdom|E] with more than two [de_jure|E] [duchies|E]" #NT!
+  #################### 
+  # STORYLINE - COIS # 
+ break_strings_decision: "Break my Strings" #NT!
+ break_strings_decision_tooltip: "I am no longer quite as controllable as I used to be" #NT!
+ conclave_faction_power_below_200: "The Conclave faction has less than 200% power" #NT!
+ break_strings_decision_desc: "Though I am still far away from actually being fully in control of my realm, I am no longer a puppet dancing on my master's strings, either." #NT!
+ break_strings_decision_confirm: "Take Control of your Destiny" #NT!
+ abolish_the_conclave_decision: "Abolish the Conclave" #NT!
+ abolish_the_conclave_decision_tooltip: "The time has come for my former captors to pay their dues" #NT!
+ rhesus_defeated: "Rhesus is either dead or has been deposed" #NT!
+ conclave_faction_power_below_50: "The Conclave faction has less than 50% power" #NT!
+ abolish_the_conclave_decision_tt: "All of the Conclave's lands and gold will be confiscated. You will convert back to the mainstream [aversarian|E] faith." #NT!
+ abolish_the_conclave_decision_desc: "The scheming of the Conclave may have accidentally made possible my rise, but they are not my allies, nor will they define my reign. It is time to end this charade of an institution." #NT!
+ abolish_the_conclave_decision_confirm: "Crush Rhesus' Legacy" #NT!
+ sjalvolki_defectors_decision: "Invite Sjalvolki Defectors" #NT!
+ sjalvolki_defectors_decision_tooltip: "The enemy of my enemy is my friend, after all." #NT!
+ sjalvolki_defectors_decision_tt: "Five counties will be settled by Sjalvolki settlers, restoring the local population" #NT!
+ sjalvolki_defectors_decision_increases_event_troops_tt: "You will be able to field a larger host when Cenware next invades" #NT!
+ sjalvolki_defectors_decision_unpopular_tt: "#N This will be unpopular with your subjects#!" #NT!
+ sjalvolki_defectors_decision_desc: "As much as Cenware would like us to believe otherwise, his Imperrech is far from immune to division. Several of his chieftains could likely be swayed to join us in exchange for land. Naturally, this idea has received some pushback." #NT!
+ sjalvolki_defectors_decision_confirm: "We must, if we are to survive" #NT!
+ ask_conclave_for_help_decision: "Ask the Conclave for Help" #NT!
+ ask_conclave_for_help_decision_tooltip: "We might need to set political squabbles aside in the interest of mutual self-preservation" #NT!
+ ask_conclave_for_help_decision_tt: "You will work more closely with the Conclave for the next three years in order to better coordinate the war effort" #NT!
+ ask_conclave_for_help_decision_increases_concave_power_tt: "#N This will likely increase the Conclave's power#!" #NT!
+ ask_conclave_for_help_decision_conclave_immune_tt: "#N The Conclave will be immune to hostile intrigue actions for the next 3 years#!" #NT!
+ ask_conclave_for_help_decision_desc: "Though my interests are inherently contradictory to those of the Conclave, and both sides are acutely aware of this, Cenware presents an existential threat to both - Rhesus is at least intelligent enough to see that. I could offer a temporary truce until the Sjalvolki are dealt with." #NT!
+ ask_conclave_for_help_decision_confirm: "Make an Offering of Peace" #NT!
+ move_against_conclave_decision: "Move Against a Member of the Conclave" #NT!
+ move_against_conclave_decision_tooltip: "My enemies are not just those without, but those within the realm as well" #NT!
+ move_against_conclave_decision_tt: "I will try to bring about the downfall of one of the Conclave's members" #NT!
+ move_against_conclave_cooldown: "This can only be done once every 6 months" #NT!
+ move_against_conclave_decision_desc: "The Conclave has a seemingly unshakeable grip on the reins of state. If I and, hopefully, my successors are ever to rule in their own right, I will need to bring this group of schemers under control.\n\nWhile acting directly against them all would be a folly sure to cost me my head, I can try picking off their members one by one." #NT!
+ move_against_conclave_decision_confirm: "Convene with my loyalists" #NT!
+ defeat_rhesus_decision: "The Puppetmaster's Fall" #NT!
+ defeat_rhesus_decision_tooltip: "Only one can sit the throne, and both me and Rhesus have it in our sights" #NT!
+ defeat_rhesus_decision_tt: "You will decide the fate of your mentor, former captor and rival" #NT!
+ conclave_no_councillors: "There are no members of the Conclave on your council, excluding Rhesus himself" #NT!
+ defeat_rhesus_decision_desc: "Rhesus is a politician and schemer without equal. As formidable as Cenware is on the field of battle, so is Rhesus in the halls of power. And like the High King of the Sjalvolki, he will not be beaten in one fight, and the fight will be intense indeed." #NT!
+ defeat_rhesus_decision_confirm: "Have your final meeting" #NT!
+ lessons_of_cenware_decision: "Lessons of Cenware" #NT!
+ lessons_of_cenware_decision_tooltip: "My clash with the barbarian High King has taught me more than a few lessons" #NT!
+ lessons_of_cenware_decision_desc: "Cenware was widely considered the greatest warrior and tactician of recent memory, and a man without equal on the field of battle.\n\nUntil we crossed paths.\n\nNow, the world looks upon me, shocked, as Cenware's hordes lie shattered at the tip of my sword, [aversaria|E] saved by my hand. I have entered the ranks of the greatest military masterminds of all time." #NT!
+ lessons_of_cenware_decision_confirm: "Embrace my new Reputation" #NT!
+ purge_conclave_decision: "Purge the Conclave" #NT!
+ purge_conclave_decision_tooltip: "The time for subtle politics is over" #NT!
+ purge_conclave_decision_tt: "You will launch a massive purge against any current and former members of the Conclave faction, wiping it out for good. Obviously, this bloodshed will be seen as extraordinarily tyrannical." #NT!
+ conclave_faction_power_below_100: "The Conclave faction has less than 100% power" #NT!
+ purge_conclave_decision_desc: "Rhesus' downfall nears, but so do his minions' daggers to my back. If I am [aversaria_possessive|E] best hope, I cannot have my focus be consumed by petty court politics.\n\nDrastic measures must be taken." #NT!
+ purge_conclave_decision_confirm: "Start preparations..." #NT!
+ invite_legio_axiaothea_decision: "Contact Legio XXI" #NT!
+ invite_legio_axiaothea_decision_tooltip: "An unlikely ally, but a possible one." #NT!
+ invite_legio_axiaothea_decision_tt: "Legio XXI 'Axiaotheia' will be given one of your counties and will give you significant support in the upcoming war." #NT!
+ invite_legio_axiaothea_decision_desc: "The Imperial Legions are, to put it mildly, in shambles. The only two that are in any remote fighting capacity are Anoterion, which is too far east to be of use, and Axiaotheia, whose blind adherence to a dead cause will make any negotiations strained.\n\nHowever, I do have the lucky advantage of the World-Breaker himself now being surrounded on all sides by my allies. If I were to send them his head, perhaps they would join me?" #NT!
+ invite_legio_axiaothea_decision_confirm: "Send Aeschraes' head south" #NT!
+ defeated_cenware: "You have defeated Cenware at least once." #NT!
+ aeschraes_killed: "Aeschraes has been killed through my own actions." #NT!
+ new_iyrossi_capital_decision: "Construct a New Iyrossi Capital" #NT!
+ new_iyrossi_capital_decision_tooltip: "A new capital for a new age." #NT!
+ new_iyrossi_capital_decision_tt: "Your capital will be transformed into a your choice of either a palace or temple metropolis holding and gain a special building. This will take a year of work." #NT!
+ new_iyrossi_capital_decision_desc: "At long last the Iyrossi are free from the Aversarian yoke. Alas, so much of our history has been sullied by their hands. Our historic capital at To Pedíthípsi is an uninhabitable wasteland - more a mocking exhibit of Imperial arrogance than a viable foundation for the center of our new state, and Palát to Mytidon is out of the question for obvious reasons. Though we may hold our past dear, we must establish a new capital from which to rule fair Mytidon. Be advised, the costs will be high and construction will take a full year to complete." #NT!
+ new_iyrossi_capital_decision_confirm: "Being constructing a new capital." #NT!
+ new_mountain_home_decision: "A New Mountain Home" #NT!
+ new_mountain_home_decision_tooltip: "Announce a new homeland for your people" #NT!
+ new_mountain_home_decision_tt: "Your capital county is the capital of one of the following duchies:" #NT!
+ new_mountain_home_decision_desc: "Our old homeland, nestled in the highest peaks, is now lost to us forever. For so long we have wandered in unfamiliar lands, searching desperately for a new home. That ends today!\n\nWe have found a suitable location, and already Goans have begun to gather. Here, in this New Mountain Home, we will rebuild our society, and surely stand until the end of time." #NT!
+ new_mountain_home_decision_confirm: "Proclaim our new homeland." #NT!
+ fogeater_consume_decision: "Consume" #NT!
+ fogeater_consume_decision_desc: "New lands have not listeners not good Mistmother say consume them yes feed on them they will join mist join us need food need it yes Mistmother commands it we obey we listen we are listeners we feed on them we spread we consume they will join us they will be us we will be them all will be them all will be us we will grow we will feed we will expand we must we must we feed." #NT!
+ fogeater_consume_decision_tooltip: "We will purify our lands." #NT!
+ fogeater_consume_decision_confirm: "Eat them." #NT!
+ kingdom_of_the_clouds_decision: "Kingdom in the Clouds" #NT!
+ kingdom_of_the_clouds_decision_tooltip: "Declare a new home for the Sarminians" #NT!
+ kingdom_of_the_clouds_desc: "Much has changed since our migration west but our great mother's dedication to her children has not. It is time to proclaim a new homeland for the Daughters of the Sky, one which will be the cradle from which a new golden age of the Sarminians will spring!" #NT!
+ kingdom_of_the_clouds_decision_confirm: "Declare Samazonas" #NT!
+ kingdom_of_the_clouds_decision_tt: "Become the ruler of Samazonas" #NT!
+ found_kingdom_samazonas_tauromilae: "Hold two or more duchy titles as a Sarminian ruler descended from the last Bosjoz" #NT!
+ found_kingdom_samazonas_not_tauromilae: "Hold four or more duchy titles as any Sarminian ruler." #NT!
+ just_one_kingdom: "Must hold a single kingdom level title and no empire level titles" #NT!
+ renovate_palat_to_mytidon_decision: "Renovate the Palat to Mytidon" #NT!
+ renovate_palat_to_mytidon_decision_tooltip: "Transform this stain on our landscape into a new capital." #NT!
+ renovate_palat_to_mytidon_decision_tt: "Your capital will be transformed into a your choice of either a palace or temple metropolis holding and gain a special building. This will take a year of work and replace the Palat to Mytidon with a new building.\n\n#W This decision will mean effectively abandoning any attempts at building a new capital altogether.#!" #NT!
+ renovate_palat_to_mytidon_decision_desc: "We are free once more, and have established a strong new kingdom. There yet remains a nagging question: from whence shall we rule Mytidon? To Pedithipsi is a haunted ruin unfit for a king. And founding a new capital altogether may be outside of our reach. Thankfully the Aversarians left behind an administrative building in our territory that we could simply renovate to serve our own purposes." #NT!
+ hubarite_codex_decision: "Write a Codex" #NT!
+ hubarite_codex_decision_desc: "As others have throughout the history of our people, I will ensure that my name and practices shall live forever by writing a legal codex to guide future generations." #NT!
+ hubarite_codex_decision_tooltip: "You will write a legal codex" #NT!
+ hubarite_codex_decision_confirm: "Bring me a pen!" #NT!
+ create_filosi_school_decision: "Legally Harmonize with the Sjalvolki" #NT!
+ create_filosi_school_decision_desc: "Our new Sjalvolki friends and neighbors have a legal and religious tradition that dates back centuries, and which they certainly feel is equal in respect and legitimacy to our own. While we obviously disagree, especially in regards to the worship of their strange foreign Hunt God "Filos" there are many principles they hold which may be worth further consideration." #NT!
+ create_filosi_school_decision_confirm: "Create the Filosi School!" #NT!
+ create_filosi_school_tt: "Creates a new Legal School for your Faith, called the Filosi School." #NT!
+ create_filosi_school_decision_tooltip: "Create a New Legal School" #NT!
+ hubarite_empire_decision: "Elevate a Hubarite Empire" #NT!
+ hubarite_empire_decision_desc: "The oldest tales of our faith tell of a time when the [magi|E]-Judges reigned over a golden age of prosperity, when grand swathes of [sarradon|E] and perhaps even pieces of [the_continent|E], were ruled over by benevolent emperors, ruling close to the Great Sun itself. Though the people of this empire have so long been crushed beneath the alternating boots of [wardenites|E] and [ritualists|E], and though even the exact borders of our ancient realm have been lost to the mists of history, it has finally been restored." #NT!
+ hubarite_empire_decision_valid_desc: "You completely control at least 3 kingdoms that are either in Kharadamat excluding the mountain kingdom, in Uhtash not including Felayayla, or are the kingdoms of Korkanadadd or Kerkonia" #NT!
+ hubarite_empire_decision_confirm: "Praise the Great Sun!" #NT!
+ hubarite_empire_decision_tooltip: "Restore the Hubarite Empire of old" #NT!
+ coalition_holysites_salacad_kalathipsomi: "Affirm our faith in Kalathipsomi" #NT!
+ coalition_holysites_salacad_kalathipsomi_desc: "With our migration at an end, the time has come to reassess our situation. All of our old holy sites lie far in the east, in lands long lost to the fog. Therefore, we should affirm the sites our priests have begun to use for ritual observences here, among the trees of Kalathipsomi." #NT!
+ coalition_holysites_salacad_kalathipsomi_confirm: "Skymother Watches" #NT!
+ coalition_holysites_salacad_kalathipsomi_tooltip: "[GetPlayer.GetFaith.GetName]'s holy sites will remain in Kalathipsomi #I permanently#!." #NT!
+ coalition_holysites_salacad_etepezea: "Affirm our faith in Etepezea" #NT!
+ coalition_holysites_salacad_etepezea_desc: "With our migration at an end, the time has come to reassess our situation. All of our old holy sites lie far in the east, in lands long lost to the fog. Therefore, we should affirm the sites our priests have begun to use for ritual observences here, in the old Aversarian homeland of Etepezea." #NT!
+ coalition_holysites_salacad_etepezea_confirm: "Skymother Watches" #NT!
+ coalition_holysites_salacad_etepezea_tooltip: "[GetPlayer.GetFaith.GetName]'s holy sites will be moved to Etepezea #I permanently#!." #NT!
+ coalition_holysites_salacad_malcois: "Affirm our faith in Malcois" #NT!
+ coalition_holysites_salacad_malcois_desc: "With our migration at an end, the time has come to reassess our situation. All of our old holy sites lie far in the east, in lands long lost to the fog. Therefore, we should affirm the sites our priests have begun to use for ritual observences here, in Malcois." #NT!
+ coalition_holysites_salacad_malcois_confirm: "Skymother Watches" #NT!
+ coalition_holysites_salacad_malcois_tooltip: "[GetPlayer.GetFaith.GetName]'s holy sites will be moved to Malcois #Ipermanently#!." #NT!
+ coalition_holysites_salacad_opakhasia: "Affirm our faith in Opakhasia" #NT!
+ coalition_holysites_salacad_opakhasia_desc: "With our migration at an end, the time has come to reassess our situation. All of our old holy sites lie far in the east, in lands long lost to the fog. Therefore, we should affirm the sites our priests have begun to use for ritual observences here, in the opulent and ancient land of Opakhasia." #NT!
+ coalition_holysites_salacad_opakhasia_confirm: "Skymother Watches" #NT!
+ coalition_holysites_salacad_opakhasia_tooltip: "[GetPlayer.GetFaith.GetName]'s holy sites will be moved to Opakhasia #Ipermanently#!." #NT!
+ coalition_holysites_salacad_aironoi: "Affirm our faith in Aironoi" #NT!
+ coalition_holysites_salacad_aironoi_desc: "With our migration at an end, the time has come to reassess our situation. All of our old holy sites lie far in the east, in lands long lost to the fog. Therefore, we should affirm the sites our priests have begun to use for ritual observences here, among the wild steppes of Aironoi." #NT!
+ coalition_holysites_salacad_aironoi_confirm: "Skymother Watches" #NT!
+ coalition_holysites_salacad_aironoi_tooltip: "[GetPlayer.GetFaith.GetName]'s holy sites will be moved to Aironoi #Ipermanently#!." #NT!
+ coalition_holysites_salacad_chevalie: "Affirm our faith in [chevalie|E]" #NT!
+ coalition_holysites_salacad_chevalie_desc: "With our rather improbable migration at an end, the time has come to reassess our situation. All of our old holy sites lie far in the east, in lands long lost to the fog. Therefore, we should affirm the sites our priests have begun to use for ritual observences here, in [chevalie|E]" #NT!
+ coalition_holysites_salacad_chevalie_confirm: "Skymother Watches" #NT!
+ coalition_holysites_salacad_chevalie_tooltip: "[GetPlayer.GetFaith.GetName]'s holy sites will be moved to [chevalie|E] #Ipermanently#!." #NT!
+ coalition_holysites_kardwen_bay_of_swords: "Affirm our Faith in the Bay of Swords" #NT!
+ coalition_holysites_kardwen_bay_of_swords_desc: "With our migration at an end, it is time to entrench ourselves here in Kalathipsomi, and embrace the wealth of the sea." #NT!
+ coalition_holysites_kardwen_bay_of_swords_tooltip: "[GetPlayer.GetFaith.GetName]'s holy sites will remain in Kalathipsomi #I permanently#!, and two new sites will be added." #NT!
+ coalition_holysites_kardwen_bay_of_swords_confirm: "To drink dry the endless sea!" #NT!
+ coalition_holysites_kardwen_western_aversaria: "Affirm our Faith in Western Aversaria" #NT!
+ coalition_holysites_kardwen_western_aversaria_desc: "With our migration at an end, the time has come to reassess our spiritual situation. If this is to be our new home, we will need to carve out new sites for worship here in cultured and worldly and cultured Western Aversaria." #NT!
+ coalition_holysites_kardwen_western_aversaria_tooltip: "Kardwen feasts amongst the city-dwellers" #NT!
+ coalition_holysites_kardwen_western_aversaria_confirm: "[GetPlayer.GetFaith.GetName]'s holy sites will be moved to Western Aversaria #bold permanently#!." #NT!
+ coalition_holysites_kardwen_central_aversaria: "Affirm our faith in Central Aversaria" #NT!
+ coalition_holysites_kardwen_central_aversaria_desc: "With our migration at an end, it is time to entrench ourselves here in Central Aversaria, amongst the people of Malcois" #NT!
+ coalition_holysites_kardwen_central_aversaria_tooltip: "Kardwen feasts among the former slaves" #NT!
+ coalition_holysites_kardwen_central_aversaria_confirm: "[GetPlayer.GetFaith.GetName]'s holy sites will be moved to Central Aversaria #bold permanently#!." #NT!
+ coalition_holysites_kardwen_eastern_aversaria: "Affirm our faith in Eastern Aversaria" #NT!
+ coalition_holysites_kardwen_eastern_aversaria_desc: "With our migration at an end, it is time to entrench ourselves here in Eastern Aversaria, amidst endless steppe and hill." #NT!
+ coalition_holysites_kardwen_eastern_aversaria_tooltip: "[GetPlayer.GetFaith.GetName]'s holy sites will be moved to Eastern Aversaria #bold permanently#!." #NT!
+ coalition_holysites_kardwen_eastern_aversaria_confirm: "Kardwen in the plains and cities of the East" #NT!
+ coalition_holysites_kardwen_red_wastes: "Seek Kardwen in the Red Wastes" #NT!
+ coalition_holysites_kardwen_red_wastes_desc: "With our migration at an end, our people find ourselves lost. The rich and bountiful lands promised to us by Cenware were lies. We have been left with naught but the rugged hills bordering a polluted wasteland.\n\nBut haven't we always sought solitude? Before the Frodbrokna we dwelt in isolation, jealously guarding our rites and culture from hostile neighbors. Maybe this calamity is an opportunity in disguise." #NT!
+ coalition_holysites_kardwen_red_wastes_tooltip: "[GetPlayer.GetFaith.GetName]'s holy sites will be moved to the #N largely uncolonized #! Red Wastes #bold permanently#!." #NT!
+ coalition_holysites_kardwen_red_wastes_confirm: "This bounty tastes like ash." #NT!
+ stress_loss_hashishiyah_decision: "Consume Chort Cakes" #NT!
+ stress_loss_hashishiyah_decision_desc: "Just a few bites, and the stress seems to flow from my body. My mind begins to fog, and a sense of peace and restfulness overcomes me. There is nothing that is quite as relaxing as good chort!" #NT!
+ revive_ertomax_kingdom_decision: "The Return of Aryvann Vos" #NT!
+ revive_ertomax_kingdom_decision_tooltip: "Declare the kingdom of [ertomax|E] restored" #NT!
+ revive_ertomax_kingdom_decision_desc: "The ancient kingdom of Aryvann Vos has been lost to our people since [ertomax|E], but it is not yet beyond restoration. If I were to pull together the heartlands beneath my banner, none could deny the return of the realm of Ertomax to the face of Aironoi." #NT!
+ revive_ertomax_kingdom_decision_confirm: "Restore the kingdom of [ertomax|E]" #NT!
+ revive_ertomax_kingdom_decision_tt: "Become the ruler of Aryvann Vos" #NT!
+ anaanide_purification_decision: "Take a Step of Purification" #NT!
+ anaanide_purification_decision_desc: "To reach the holy land of Anaan, I must purify myself of sin. It is time to take the next step in this long journey." #NT!
+ anaanide_purification_decision_tooltip: "You take a step of purification to purify your soul." #NT!
+ anaanide_purification_decision_confirm: "Begin the Preparations!" #NT!
+ anaanide_final_step_decision: "Take the Final Step to Anaan" #NT!
+ anaanide_final_step_decision_desc: "My efforts to cleanse myself through meditation and prayer culminated in my soul being pure of sin. At long last, it is time to take the final step to Anaan and face the Great Judge." #NT!
+ anaanide_final_step_decision_tooltip: "You take the final step in the journey to Anaan." #NT!
+ anaanide_final_step_decision_confirm: "It is time to end this long journey." #NT!
+ anaan_ascension_desc: "Zealot ascended to Anaan" #NT!
+ eloi_reclaimed_desc: "Eloi has been reclaimed" #NT!
+ alau_koev_flame_festival_decision: "Celebrate Alau Pyesali" #NT!
+ alau_koev_flame_festival_decision_tooltip: "Prepare your flesh for the opening of the [fire_gate|E]" #NT!
+ alau_koev_flame_festival_decision_desc: "Alau Pyesali, the Festival of Fire, is an ancient tradition amongst my people. If I am to prove myself worthy to escape this cold world, I must let the sacred flame touch my flesh." #NT!
+ alau_koev_flame_festival_decision_confirm: "I will purify myself!" #NT!
+ alau_koev_flame_festival_decision_tt: "Take the steps to the Great Flame" #NT!
+ iyrossi_kill_aversarians_decision_valid_desc: "Any vassal or held county is Aversarian" #NT!
+ iyrossi_kill_aversarians_desc: "Slaughtered Aversarians" #NT!
+ gh_debase_currency_decision_2_tooltip: "Sacrifice a large amount of [prestige|E] in return for an instant influx of gold." #NT!
+ gh_debase_currency_decision_4: "Debase Currency" #NT!
+ new_eastern_empire: "Form a New Empire in the East" #NT!
+ new_eastern_empire_desc: "With our powerbase well established, and the crises of the past now behind us, we can finally look to establish a proper [aversarians|E] Empire in the East. Asuipol was the capital of the old Empire for a long time, and it shall be again. It is time for a new state to rise from the Ashes and reclaim our birthright! Hail Aautokratia Hecaeda!" #NT!
+ new_eastern_empire_confirm: "Establish the new state" #NT!
+ new_eastern_empire_tooltip: "It is time to form a new [aversarians|E] Empire in the East." #NT!
+ legio_xcv_reborn: "Reform the Legio XCV Viesuados" #NT!
+ legio_xcv_reborn_desc: "With the rebels firmly crushed, and the troubles of our past defeated, we can now begin to build anew, and bring glory back to our legion." #NT!
+ legio_xcv_reborn_confirm: "Reform the Legion" #NT!
+ legio_xcv_reborn_tooltip: "It is time to reclaim the glory of the Legio XCV Viesuados." #NT!
+ legio_xcv_rivals: "The remnants of the Legio XCV 'Viesuados' must have been brought back into the fold, or crushed under foot." #NT!
+ legio_xcv_reborn_2: "Reform the Legio XCV Viesuados" #NT!
+ legio_xcv_reborn_2_desc: "With the rebels firmly crushed, and the troubles of our past defeated, we can now begin to build anew, and bring glory back to our legion." #NT!
+ legio_xcv_reborn_2_confirm: "Reform the Legion" #NT!
+ legio_xcv_reborn_2_tooltip: "It is time to reclaim the glory of the Legio XCV Viesuados." #NT!
+ become_pirate_emperor: "Declare an Empire in the Pirate Coast" #NT!
+ become_pirate_emperor_desc: "None can stand against me and my endless wealth. It is time to immortalize myself across the seas." #NT!
+ become_pirate_emperor_tooltip: "Become a pirate unmatched on the seas" #NT!
+ become_pirate_emperor_confirm: "To legends untold!" #NT!
+ the_scarred_rise_up: "Shatranjaya!" #NT!
+ the_scarred_rise_up_desc: "For years, our brothers and sisters have been tormented by the harsh rule of the so called 'men of commerce'. For too long, have we been used and abused, our way of life mocked, our families torn asunder. We, who are the silent whisper of the forest, the swift moving stream of the dense jungle, the apex predators. No longer! The Scar-Bound will lead us to a glorious future. We pledge our resolve to him, scarring our faces and baring our chest. We have chosen a fitting name for this rebellion; Shatranjaya, or 'Total Victory', for we know we shall succeed or die trying." #NT!
+ the_scarred_rise_up_tt: "The warriors of Tanumarei rally around you. Calling themselves Azaki Mard or 'Warriors Of Freedom', their single goal echoes in their hearts alike; the liberation of their homelands from their cruel overlords." #NT!
+ the_scarred_rise_up_tooltip: "Take control of your people's destiny" #NT!
+ the_scarred_rise_up_confirm: "The Scarred rally to freedom!" #NT!
+ azaki_mard: "Azaki Mard" #NT!
+ recruit_wayfather_decision: "Recruit Waymaster" #NT!
+ recruit_wayfather_decision_tooltip: "Your servants will suggest a number of suitable candidates for a Waymaster to serve as our court chaplain" #NT!
+ recruit_wayfather_decision_tt: "We will be able to recruit a Waymaster to serve as our court chaplain" #NT!
+ recruit_wayfather_decision_desc: "In our faith each of us is dedicated to a chosen Lifepath, and Waymasters serve as our guides on the path to bettering ourselves. Every court would be spirtually lost without a proper Wayfather or Waymother." #NT!
+ recruit_wayfather_decision_confirm: "Send out a messenger" #NT!
+ search_for_notable_decision: "Search for a Notable Individual" #NT!
+ search_for_notable_decision_tooltip: "Look for an educated lowborn of your culture and religion to fill whatever role you need." #NT!
+ search_for_notable_decision_desc: "I will gather the best talent seekers in the realm and have them search for skilled lowborn to serve in my court or to serve other roles." #NT!
+ search_for_notable_decision_confirm: "Send for the talent seekers." #NT!
+ reunite_boqqarut_decision: "Reunite the Boqqarut" #NT!
+ reunite_boqqarut_decision_tooltip: "You will proclaim yourself the Boqqar of a reunified Damota" #NT!
+ reunite_boqqarut_valid_desc: "You hold both Gidaha and Dibeda Damota" #NT!
+ reunite_boqqarut_decision_desc: "Though torn down in the fires of the [etami_tetenik|E], with petty warlords carving their own kingdoms from its corpse, the [boqqarut_damotada|E] once more shall rise. Where once there was chaos and devastation, order and prosperity will reign, and all Damota will bask in our glory and splendour. We need only make the proclamation." #NT!
+ reunite_boqqarut_decision_confirm: "Damota is reborn!" #NT!
+ integrate_gisreddes_decision: "Integrate the Gisreddes" #NT!
+ integrate_gisreddes_decision_desc: "For centuries [peti_gisredde|E] and its cousin [grande_gisredde|E] have been an abnormality inside Chevalie, always resisting the authority of the High King. Now we can finally do away with the legal absurdity known as the [gisreddepact|E] and formally subordinate the cities and the [council_of_gisredde|E] to our rule." #NT!
+ integrate_gisreddes_control_timer_no: "You must have had uninterrupted control over both the Gisreddes for 80 years (until [GetCurrentDateWithDiff( GetVarTimeRemaining( TITLE.MakeScope, 'integrate_gisreddes_timer') )])." #NT!
+ integrate_gisreddes_control_timer_yes: "You must have had uninterrupted control over both $c_peti_gisredde$ and $c_grande_gisredde$ for 80 years." #NT!
+ integrate_gisreddes_decision_complete_desc: "The Gisreddes become de jure integrated into Chevalie, and will no longer create unrest." #NT!
+ integrate_gisreddes_decision_confirm: "The [gisreddepact|E] is no more!" #NT!
+ gisreddi: "Gisreddean" #NT!
+ adopt_pirate_ways: "Embrace Piracy" #NT!
+ adopt_pirate_ways_desc: "Whether due to your realm being poor, a lust for adventure, or just simple greed, there comes a time when every ruler considers piracy." #NT!
+ adopt_pirate_ways_confirm: "Raise the anchor!" #NT!
+ adopt_pirate_ways_tooltip: "You will give up your old ways and turn your realm into a [pirate|E] haven!" #NT!
+ adopt_pirate_ways_through_liege: "Embrace Piracy" #NT!
+ adopt_pirate_ways_through_liege_desc: "Whether due to your realm being poor, a lust for adventure, or just simple greed, there comes a time when every ruler considers turning [pirate|E]." #NT!
+ adopt_pirate_ways_through_liege_confirm: "Raise the anchor!" #NT!
+ adopt_pirate_ways_through_liege_tooltip: "You will give up your old ways and turn your realm into a [pirate|E] haven akin to your liege." #NT!
+ avenge_ayule_expedition_decision: "Avenge [ayule_expedition|E]" #NT!
+ avenge_ayule_expedition_decision_tooltip: "You will proclaim Damotan rule over the northern lands." #NT!
+ avenge_ayule_expedition_decision_desc: "Long ago, Ayule attempted to conquer the lucrative lands to the north, which would forever secure Damota's trade, and place the vital Gonan road under our hegemony. Though his attempt ended in a humiliating disaster, we have avenged the defeat at Lazzan, and the fields of his defeat will eternally be ours." #NT!
+ avenge_ayule_expedition_decision_confirm: "Raise the Banners High!" #NT!
+ declare_yourself_malaak: "Declare yourself Malaak" #NT!
+ declare_yourself_malaak_tooltip: "Ohrasik's will flows through you" #NT!
+ declare_yourself_malaak_desc: "For years now I have followed Ohrasik's will, proving myself to be a righteous being time and time again. Now, though, it is time to officially bind my will to his and declare myself Malaak." #NT!
+ declare_yourself_malaak_confirm: "Let the ceremony begin" #NT!
+ declare_yourself_malaak.tt: "The head of faith title will not be inherited on succession" #NT!
+ declare_yourself_malaak_holy_sites: "You must control at least 3 Ahridar [CHARACTER.GetFaith.GetAdjective] [holy_sites|E]" #NT!
+ abandon_pirate_ways: "Stop being a pirate" #NT!
+ abandon_pirate_ways_desc: "Piracy no longer serves our needs. It is time to once again return to traditional rule." #NT!
+ abandon_pirate_ways_confirm: "Well, at least we get to keep the loot" #NT!
+ abandon_pirate_ways_tooltip: "You will give up your [pirate|E] ways and become an [feudal|E] lord!" #NT!
+ declare_yourself_the_pirate_king: "Declare yourself the Pirate King" #NT!
+ declare_yourself_the_pirate_king_tooltip: "Become the king of pirates" #NT!
+ declare_yourself_the_pirate_king_desc: "Me feats are unmatched and my coffers overflowing. It is time to immortalize my name." #NT!
+ declare_yourself_the_pirate_king_confirm: "To fame and fortune!" #NT!
+ invite_rogues_decision: "Invite Rogues" #NT!
+ invite_rogues_decision_desc: "As a pirate, I cannot afford to be too picky with the company I keep. I'm in need of capable fighters and lieutenants, and if I spread my message to ports far and wide, many are sure to flock to my fleet." #NT!
+ loot_tabik_betemisit: "Loot the Tabik Bētemisīt" #NT!
+ loot_tabik_betemisit_desc: "The Mogowai have long waited within their gilded halls, praying for the return of their dead god. And nothing more symbolizes their dark purpose than the [GetBuilding('tabik_betemisit_01').GetName], the Empty Palace, intended to house their "Most High" upon His return from the grave. Such a monument to the Hooded Prisoner cannot be tolerated, for we know the truth. God is dead, and it is our duty to ensure that He remains so. Besides, such a gem-encrusted structure can surely provide us with funds, with which to continue our struggle against evil." #NT!
+ loot_tabik_betemisit_tooltip: "Reshape an ancient monument" #NT!
+ loot_tabik_betemisit_confirm: "He shall never return!" #NT!
+ train_falcons_decision: "Go Falcon Training" #NT!
+ train_falcons_desc: "Falconry is an ancient art that takes years to master and is punctuated with equal periods of exhilaration and disappointment. However, a falcon will be a great companion in my hunting endeavors." #NT!
+ train_falcons_tooltip: "You will obtain a falcon and train it over a period of months." #NT!
+ train_falcons_decision_confirm: "Time to take wing." #NT!
+ gh_abdicate_decision: "Abdicate" #NT!
+ gh_abdicate_decision_desc: "As I approach my twilight years, it might be time to contemplate my[SelectLocalization(GetPlayer.HasTrait(GetTrait('arrogant').Self), ' glorious ', ' ')]reign - and its possible end. Transferring power to my successor and assuming the role of a respected [GetTrait('gh_alatan').GetName(GetNullCharacter)] would be an honorable course of action, but the trappings of power are not always easy to let go of..." #NT!
+ gh_abdicate_decision_tooltip: "Give up the reins of power and honorably abdicate" #NT!
+ gh_abdicate_decision_confirm: "Time to Retire" #NT!
+ gh_magocratic_reformation_decision: "Magocratic Reformation" #NT!
+ gh_magocratic_reformation_decision_desc: "[magi|E] have always been among the most wise and venerated of our society, and my realm has gradually drifted to a state where its ruling elite is almost entirely composed of practitioners. It is largely only a matter of formality, then, to put pen to paper and officially codify magical ability as a legal prerequisite to holding power." #NT!
+ gh_magocratic_reformation_decision_tooltip: "Towards a greater, more enlightened rule!" #NT!
+ gh_magocratic_reformation_decision_confirm: "Issue the Edict" #NT!
+ elephant_race_decision: "Attend an Elephant Race" #NT!
+ elephant_race_decision_desc: "#F It is an ancient tradition amongst many cultures in Kashirya to race elephants against one another. I could attend such an event to show off my wealth and prestige#!" #NT!
+ start_elephant_race_decision: "You attend the local games" #NT!
+ start_elephant_race_decision_stress_lazy: "#N You will not lose [stress|E] since you are [GetTrait('lazy').GetName( GetPlayer )]#!" #NT!
+ elephant_race_decision_tooltip: "You take yourself to the elephant track" #NT!
+ elephant_race_decision_confirm: "The racing awaits!" #NT!
+ gh_taryaad_saramsaasan_unification_decision: "Restore The Kingdom Of Paerasjatan!" #NT!
+ taryaad_reformed_valid_desc: "You must completely control the empires of Naavjagarad and Vichacil" #NT!
+ gh_taryaad_saramsaasan_unification_decision_confirm: "Our dynasty shall forever be etched in Kashiryan history!" #NT!
+ gh_taryaad_saramsaasan_unification_decision_tooltip: "Reunite the lands of the Taryaad dynasty" #NT!
+ gh_taryaad_saramsaasan_unification_decision_desc: "The name Taryaad is more than just a name. The meaning of the word has bled into the very lives of the Kashiryan people, symbolizing the end of anarchy and the descent of the gods themselves to bring harmonious rule to the people of Kashirya.\n\nOur dynasty, through many trials and tribulations, have become rulers of the lands of the [taryaad_saramsaasan|E] and brought forth a golden age like the ones before!" #NT!
+ gh_taryaad_pretender_decision: "Claim The Throne Of Asojiva" #NT!
+ gh_taryaad_pretender_decision_confirm: "To reclaim these lands is my birthright!" #NT!
+ gh_taryaad_pretender_decision_tooltip: "You have proved yourself worthy of Asojiva's legacy" #NT!
+ gh_taryaad_pretender_decision_desc: "Kashiryans have always lacked a good leader to lead it to a bright future. It was only when the gods themselves descended to Kashirya in the form of Asojiva to rid us of our hubris did we finally enter a period of peace and progress. Now that his lineage is gone, Kashirya needs a new leader—a divine being who can bring forth another prosperous age to Kashirya like the Taryaad. A being such as myself. For I have now proved to all in these lands that I am worthy. Worthy of leading the Taryaad name." #NT!
+ form_stellios_aautokrata_decision: "Claim the Aautokrata" #NT!
+ form_stellios_aautokrata_desc: "The mainland is gone, crushed beneath the Sjalvolki hordes. There is no Aautokratir left, only petty warlords making absurd claims. But here, in this Archexate, the old empire still stands. As the ruler of Krehejad, I am the final functioning piece of the imperial government. And it is not a far leap to make from Archex to Aautokratir..." #NT!
+ form_stellios_aautokrata_decision_tooltip: "Krehejad will be remade as an Aautokrata, and split into two Governorates." #NT!
+ form_stellios_aautokrata_decision_confirm: "Raise the old banners!" #NT!
+ blow_the_black_horn_decision: "Blow the Black Horn" #NT!
+ blow_the_black_horn_decision_desc: "Blow the Black Horn and bring forth an army of spirits, but be warned, it is said that those who call for the Horn's power are doomed to feel its wrath." #NT!
+ blow_the_black_horn_decision_tooltip: "Blow the Black Horn!" #NT!
+ blow_the_black_horn_decision_confirm: "I shall accept this fate." #NT!
+ death_by_blackhorn_tooltip: "#negative_value When your next [war|E] ends, the Black Horn will come to claim you.#" #NT!
+ blow_the_blackhorn_decision_valid: "You possess the Black Horn [artifact|E]" #NT!
+ change_to_feudal: "Change to Aristocratic." #NT!
+ change_to_feudal_confirm: "Change to Aristocratic." #NT!
+ change_to_feudal_tooltip: "Change to Aristocratic." #NT!
+ change_to_feudal_desc: "Change to aristocratic." #NT!
+ add_magic: "Add magic." #NT!
+ add_magic_confirm: "Add magic." #NT!
+ add_magic_tooltip: "Add magic." #NT!
+ add_magic_desc: "Add magic." #NT!
+ get_blood_desc: "This is a placeholder." #NT!
+ add_province_modifiers: "Add province modifiers." #NT!
+ add_province_modifiers_confirm: "Add province modifiers." #NT!
+ add_province_modifiers_tooltip: "Add province modifiers." #NT!
+ add_province_modifiers_desc: "Add province modifiers." #NT!
+ gh_military_to_feudalism_decision: "Embrace [feudalism|E]" #NT!
+ gh_military_to_feudalism_decision_desc: "The time has come to dissolve the rule of the Legion, and adapt to traditional methods of rule." #NT!
+ gh_military_to_feudalism_decision_confirm: "So be it." #NT!
+ gh_military_to_feudalism_decision_tooltip: "Change [government|E] to [feudalism|E]" #NT!
+ raze_sophocos_decision: "Raze the Tower of Sophocos" #NT!
+ raze_sophocos_decision_desc: "The Tower of [GetBuilding('sophocos_01').GetName] has stood for untold millenia, attracting pilgrims and travelers from across [aeras|E]. It is bound to be full of treasures ripe for our taking." #NT!
+ raze_sophocos_decision_tooltip: "Raze Sophocos and take it's treasures" #NT!
+ raze_sophocos_decision_confirm: "Claim Sophocos' Treasures" #NT!
+ raze_sophocos_effect_tooltip: "You will raze [GetBuilding('sophocos_01').GetName], taking its treasures and setting its building back to level one." #NT!

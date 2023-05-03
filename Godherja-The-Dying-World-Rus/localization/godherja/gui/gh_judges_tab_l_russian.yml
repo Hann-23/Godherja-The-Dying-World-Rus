@@ -1,0 +1,324 @@
+﻿l_russian:
+ FAITH_JUDGES: "Codices" #NT!
+ FAITH_JUDGES_EXPLANATION: "The Hubarite [faith|E] has been overseen by a system of [magi|E]-judges since time immemorial, their divine wisdom guiding the faithful through thick and thin. During the countless millennia, however, some of these solar custodians and their legal teachings have become legends unto themselves, and their brilliant insights on law and justice remain prevalent to this day.\n\nPossessing complimentary [traits|E] to a chosen legal code will increase its benefits, capped by how advanced it is, but a character cannot pick a code unless they pass its difficulty threshold." #NT!
+ FAITH_JUDGES_DESC: "[Scope.Var('judge_character').GetCharacter.GetFirstNameNoTooltip]'s code is chiefly concerned with [SelectLocalization('(bool)no','',Concatenate(Concatenate(Scope.Var('first_loc_trait').GetFlagName,'_intro_desc_'),Scope.Var('law_code_difficulty_loc').GetFlagName))]; [SelectLocalization('(bool)no','',Concatenate(Concatenate(Scope.Var('second_loc_trait').GetFlagName,'_intro_desc_'),Scope.Var('law_code_difficulty_loc').GetFlagName))]; and [SelectLocalization('(bool)no','',Concatenate(Concatenate(Scope.Var('third_loc_trait').GetFlagName,'_intro_desc_'),Scope.Var('law_code_difficulty_loc').GetFlagName))]. It is considered [SelectLocalization('(bool)no','',Concatenate(Scope.Var('law_code_difficulty_loc').GetFlagName,'_desc'))]." #NT!
+  
+ brave_intro_desc_no_law_code_difficulty: "the proper conduct in warfare" #NT!
+ brave_intro_desc_low_law_code_difficulty: "the importance of honorable conduct both on and off the battlefield" #NT!
+ brave_intro_desc_medium_law_code_difficulty: "an exploration of the concept of honor, focusing on the necessity of universal social codes to govern individuals" #NT!
+ brave_intro_desc_high_law_code_difficulty: "the concept of a truly honorbound society, with strong codes of individual conduct able to prevent many forms  of crime, and a lengthy explanation of how social standards can maintain the fabric of law even in the absence of external force" #NT!
+ craven_intro_desc_no_law_code_difficulty: "the importance of fear in society" #NT!
+ craven_intro_desc_low_law_code_difficulty: "the value of universal caution in maintaining civility" #NT!
+ craven_intro_desc_medium_law_code_difficulty: "a digress on the philosophical implications of fear, and how such emotions can cause people to remain within acceptable boundaries" #NT!
+ craven_intro_desc_high_law_code_difficulty: "a detailed explanation of how individual self-preservation can be extended to society as a whole, with the so-called "cowardly" choice often being the better option, accompanied by various historical examples" #NT!
+ calm_intro_desc_no_law_code_difficulty: "the need for an objective, rationalistic approach to justice" #NT!
+ calm_intro_desc_low_law_code_difficulty: "the importance of maintaining a level head while making important decisions" #NT!
+ calm_intro_desc_medium_law_code_difficulty: "an explanation of the author's personal tactics for remaining calm under stress, and how the widespread use of such tactics would make the world a better place" #NT!
+ calm_intro_desc_high_law_code_difficulty: "a well-written treatise on the moral imperative for calm, rational and unbiased judgement, with an analysis of some common logical fallacies and subconscious biases magistrates often fall prey to" #NT!
+ wrathful_intro_desc_no_law_code_difficulty: "how wrath can keep people in line" #NT!
+ wrathful_intro_desc_low_law_code_difficulty: "the value and even necessity of harsh measures to uphold the law" #NT!
+ wrathful_intro_desc_medium_law_code_difficulty: "the importance of instilling fear of breaking the law in all those governed by a realm, and the methods by which this attitude might be cultivated" #NT!
+ wrathful_intro_desc_high_law_code_difficulty: "an advanced depiction of a universal social contract between all members of civil society, with a common understanding that breaking with the outlined laws opens one to overwhelming retribution from those who uphold it" #NT!
+ just_intro_desc_no_law_code_difficulty: "the necessity of fair rule applied to all" #NT!
+ just_intro_desc_low_law_code_difficulty: "the importance of insuring the people are confident in the law's fairness" #NT!
+ just_intro_desc_medium_law_code_difficulty: "the necessity of treating all those governed as equal before the law, with an explanation of how a biased system can fall to corruption" #NT!
+ just_intro_desc_high_law_code_difficulty: "a series of profound insights into the philosophical nature of fairness and justice, with a number of parables outlining what the author considers important principles to keep in mind while making decisions" #NT!
+ arbitrary_intro_desc_no_law_code_difficulty: "the unpredictable nature of life" #NT!
+ arbitrary_intro_desc_low_law_code_difficulty: "a defense of seemingly random and illogical actions" #NT!
+ arbitrary_intro_desc_medium_law_code_difficulty: "an explanation of how an adaptive legal system is better able to make the correct judgements at any given time, accompanied by examples" #NT!
+ arbitrary_intro_desc_high_law_code_difficulty: "an advanced deconstruction of traditional concepts of justice, focusing on how many people's definitions of a just system is one that benefits them personally, as there is no such thing as true justice, and an explanation that any system must be flexible" #NT!
+ diligent_intro_desc_no_law_code_difficulty: "the value of hard work" #NT!
+ diligent_intro_desc_low_law_code_difficulty: "the importance of every man being as useful to society as possible, no matter their station" #NT!
+ diligent_intro_desc_medium_law_code_difficulty: "an outline of what the author considers a core principle, that the duty of each and every member of society is to contribute to it as much as possible" #NT!
+ diligent_intro_desc_high_law_code_difficulty: "the author's intricate vision of an 'ideal society' and the exact roles each man must take to achieve maximum efficiency and productivity, with numerous philosophical digressions on their rationale for the proposed hierarchy" #NT!
+ lazy_intro_desc_no_law_code_difficulty: "the need to preserve one's energy for what matters" #NT!
+ lazy_intro_desc_low_law_code_difficulty: "a principle that society will punish wrongdoers without outside intervention" #NT!
+ lazy_intro_desc_medium_law_code_difficulty: "a detailed explanation of how overly seeking to enforce the law will merely weaken it since expending needless effort accomplishes nothing" #NT!
+ lazy_intro_desc_high_law_code_difficulty: "a lengthy essay on the virtue of conserving effort, outlining a series of points on why exerting uneccesarry effort is negative to society as a whole, both in the law and in everyday life, with an emphasis placed on not creating more problems through overzealous effort" #NT!
+ chaste_intro_desc_no_law_code_difficulty: "the need to control one's base desires" #NT!
+ chaste_intro_desc_low_law_code_difficulty: "the value of individual self-control to society overall" #NT!
+ chaste_intro_desc_medium_law_code_difficulty: "a breakdown of the failings of uncontrolled individuals, accompanied by advice to rectify such behaviour" #NT!
+ chaste_intro_desc_high_law_code_difficulty: "a well-constructed theory about the human psyche, focusing on the methods by which a social system can be engineered to most effectively reign people in, accompanied by a wide variety of personal advice" #NT!
+ lustful_intro_desc_no_law_code_difficulty: "the benefits of desire" #NT!
+ lustful_intro_desc_low_law_code_difficulty: "the importance of human instict in decision-making" #NT!
+ lustful_intro_desc_medium_law_code_difficulty: "the reality of human factors in any legal system, with a focus om working with, rather than against, such elements" #NT!
+ lustful_intro_desc_high_law_code_difficulty: "an insightful commentary on the downsides of a passionless system, focusing on how the idea of self control is itself artificially imposed, and arguing that an ideal system accepts what many would deem human failings" #NT!
+ content_intro_desc_no_law_code_difficulty: "the virtue of accepting one's lot in life" #NT!
+ content_intro_desc_low_law_code_difficulty: "a short section about the roles each individual is meant to play in society" #NT!
+ content_intro_desc_medium_law_code_difficulty: "the necessity of accepting one's lot in life, focusing on how much damage has been wrought by those seeking to better themselves" #NT!
+ content_intro_desc_high_law_code_difficulty: "a detailed explanation of the virtues of accepting one's lot in life, exploring how society as a whole will benefit when people do not attempt to place themselves before the system as a whole, and how it will benefit from people more willing to accept reality" #NT!
+ ambitious_intro_desc_no_law_code_difficulty: "the virtue of perpetually striving to better oneself" #NT!
+ ambitious_intro_desc_low_law_code_difficulty: "the harsh competitiveness necessary to place oneself above the masses" #NT!
+ ambitious_intro_desc_medium_law_code_difficulty: "the value of self-betterment, even at the expense of others, focusing on the concept of a natural meritocracy that becomes weakened by attempts to restrain ambition" #NT!
+ ambitious_intro_desc_high_law_code_difficulty: "a long series of theoretical examples, outlining how society as a whole benefits when people are allowed to pursue their own betterment, and outlining how a system can be designed to foster this spirit, ensuring only those capable will rise" #NT!
+ fickle_intro_desc_no_law_code_difficulty: "the value of changing one's mind" #NT!
+ fickle_intro_desc_low_law_code_difficulty: "the need to be willing to revise and overturn previous decisions" #NT!
+ fickle_intro_desc_medium_law_code_difficulty: "how questioning one's own decisions is a characteristic of a good judge, as one must place themselves under the same scrutiny that any others would place upon them" #NT!
+ fickle_intro_desc_high_law_code_difficulty: "an elaborately-dictated argument in favor of scrutinizing, revising, and even overturning one's previous decisions, with a detailed explanation of the various lies people will tell themselves in order to stick to a flawed judgement" #NT!
+ stubborn_intro_desc_no_law_code_difficulty: "the value of sticking to one's convictions" #NT!
+ stubborn_intro_desc_low_law_code_difficulty: "the need to uphold even potentially flawed judgements to maintain the system" #NT!
+ stubborn_intro_desc_medium_law_code_difficulty: "how a good judge will stick to their decisions, as a constantly-revising system will become ineffectual and bogged-down with controversy" #NT!
+ stubborn_intro_desc_high_law_code_difficulty: "a theory dictating that by revising one's decisions as a leader, one weakens the confidence of the people in the system, and causes the overall structure to seem weak and unpredictable, which will itself cause many people to not trust in it" #NT!
+ forgiving_intro_desc_no_law_code_difficulty: "the importance of forgiveness" #NT!
+ forgiving_intro_desc_low_law_code_difficulty: "the vital concept of personal redemption, no matter the crime" #NT!
+ forgiving_intro_desc_medium_law_code_difficulty: "the ideal of allowing individuals to make up for past actions, focusing on the concept of multiple chances and the uneven nature of who gets to redeem themselves" #NT!
+ forgiving_intro_desc_high_law_code_difficulty: "a detailed outline for how to reconstruct a justice system around the concepts of redemption, with an emphasis on teaching former criminals how to reintegrate into civil society once their punishment has been rendered" #NT!
+ vengeful_intro_desc_no_law_code_difficulty: "the concept of repayment" #NT!
+ vengeful_intro_desc_low_law_code_difficulty: "the concept that all crimes must be payed for proportionally" #NT!
+ vengeful_intro_desc_medium_law_code_difficulty: "the claim that being too forgiving will merely incentivize crime, and deny the wronged the chance for compensation" #NT!
+ vengeful_intro_desc_high_law_code_difficulty: "a complex system for determining the exact, fair punsishment for a slight, so that no individual will get off with any less than they deserve, with an explanation of how each proscribed punishment is balanced with the corresponding crime" #NT!
+ generous_intro_desc_no_law_code_difficulty: "giving to the needy" #NT!
+ generous_intro_desc_low_law_code_difficulty: "the vital importance of charity in society" #NT!
+ generous_intro_desc_medium_law_code_difficulty: "a call to action of how it is the duty of the reader to assist others over themselves, and how greed is destructive to all" #NT!
+ generous_intro_desc_high_law_code_difficulty: "a moralistic argument of how it is the responsibility of those with wealth and power to assist those in need, and how the success of a society can be measured off of how its people live, with an emphasis on how this vision could be brought into reality" #NT!
+ greedy_intro_desc_no_law_code_difficulty: "the importance of incentive" #NT!
+ greedy_intro_desc_low_law_code_difficulty: "the necessity of personal motivation" #NT!
+ greedy_intro_desc_medium_law_code_difficulty: "an argument in favor of a more personal-oriented system, focusing around how society's success should be measured in how individuals can succeed" #NT!
+ greedy_intro_desc_high_law_code_difficulty: "an in-depth argument against the concept of charity, arguing that an ideal system is one that will incentivize and allow people to help themselves rather than one which seeks to aid them, and proposes legal structures to support such mobility" #NT!
+ gregarious_intro_desc_no_law_code_difficulty: "the importance of public knowledge" #NT!
+ gregarious_intro_desc_low_law_code_difficulty: "the value of a system accessible to all" #NT!
+ gregarious_intro_desc_medium_law_code_difficulty: "a number of points supporting an open system, with public knowledge as a central tenet of legal philosophy, as it will be more effective" #NT!
+ gregarious_intro_desc_high_law_code_difficulty: "an outline for a legal system which is open to the public, with legal proclamations, trials, and major cases routinely becoming common knowledge, as the author claims that a more well-known system will be better able to deliver justice" #NT!
+ shy_intro_desc_no_law_code_difficulty: "the importance of privacy" #NT!
+ shy_intro_desc_low_law_code_difficulty: "the value of a system above the people" #NT!
+ shy_intro_desc_medium_law_code_difficulty: "a number of points in favor of a legal system closed to the public, as maintaining respect for authority is more important then common knowledge of a system which should not effect most citizens" #NT!
+ shy_intro_desc_high_law_code_difficulty: "an outline for a legal system that maintains itself above the common people, with its doings having minimal interaction with their lives, and its details being mostly unknown, as the author claims that a more closed system will better maintain respect for the law" #NT!
+ honest_intro_desc_no_law_code_difficulty: "the value of truth" #NT!
+ honest_intro_desc_low_law_code_difficulty: "the importance of seperating fact from falsehood" #NT!
+ honest_intro_desc_medium_law_code_difficulty: "an explanation of how the search for truth, even when inconvinient, is an important aspect of a functioning system" #NT!
+ honest_intro_desc_high_law_code_difficulty: "a moralistic explanation of how it is the duty of the system to find truth, and a series of processes by which this would be ideally accomplished, with detailed investigative methods and intense verification of supposed facts" #NT!
+ deceitful_intro_desc_no_law_code_difficulty: "the fluidity of truth" #NT!
+ deceitful_intro_desc_low_law_code_difficulty: "the flexible nature of what is considered true and false" #NT!
+ deceitful_intro_desc_medium_law_code_difficulty: "an explanation of how truth can be flexible, and regularly is bent by individuals, and so the system should focus on what works" #NT!
+ deceitful_intro_desc_high_law_code_difficulty: "a philosophical inquiry into the nature of truth, focusing on how reality is often merely what people believe happened, rather than a universal truth, and that any system should account for this by focusing more on what truths are currently useful for the system" #NT!
+ humble_intro_desc_no_law_code_difficulty: "the importance of equality" #NT!
+ humble_intro_desc_low_law_code_difficulty: "the necessity of a system that binds everyone within it" #NT!
+ humble_intro_desc_medium_law_code_difficulty: "an argument focusing on how a system that does not apply to those leading and administering it is doomed to fail" #NT!
+ humble_intro_desc_high_law_code_difficulty: "a visionary outline of how those tasked with guiding and administering a system must be held to the same standards as those they rule over, for otherwise corruption will hinder the proper function of the system, and its effectiveness will be severely hindered" #NT!
+ arrogant_intro_desc_no_law_code_difficulty: "the importance of leadership" #NT!
+ arrogant_intro_desc_low_law_code_difficulty: "the necessity of a strong hand to guide the system" #NT!
+ arrogant_intro_desc_medium_law_code_difficulty: "an argument focusing on how the person tasked with administering a legal system should not always be bound within it" #NT!
+ arrogant_intro_desc_high_law_code_difficulty: "a visionary outline of how the leader of a realm must play an active role in the legal system, even being held above the law in some cases due to their importance to the administration of justice across the entirety of the realm, which places them above every person under their rule" #NT!
+ patient_intro_desc_no_law_code_difficulty: "the value of time" #NT!
+ patient_intro_desc_low_law_code_difficulty: "the importance of a system that does not move to a deadline" #NT!
+ patient_intro_desc_medium_law_code_difficulty: "an explanation of how attempting to rush the legal process will lead to substandard outcomes which will outweigh any gains in efficiency" #NT!
+ patient_intro_desc_high_law_code_difficulty: "an outline of how the system should move according to an intricate process, with every function being afforded the time necessary to see it done correctly, as a focus on speed could potentially hinder the effectiveness of the legal system" #NT!
+ impatient_intro_desc_no_law_code_difficulty: "the value of speed" #NT!
+ impatient_intro_desc_low_law_code_difficulty: "the importance of a system that can move swiftly" #NT!
+ impatient_intro_desc_medium_law_code_difficulty: "the necessity of a system that is able to reach its conclusions quickly, without unnecessary slowdowns and ineficiencies" #NT!
+ impatient_intro_desc_high_law_code_difficulty: "an outline of how the system should move swiftly and how its processes should be simplified, so as to more efficiently deal with large numbers of differing circumstances and not beomce uneccesarily cumbersome" #NT!
+ temperate_intro_desc_no_law_code_difficulty: "the value of self-control" #NT!
+ temperate_intro_desc_low_law_code_difficulty: "the importance of a leader's ability to restrain themself" #NT!
+ temperate_intro_desc_medium_law_code_difficulty: "a set of checks that the author uses to keep themself within acceptable boundaries, accompanied by explanation of each" #NT!
+ temperate_intro_desc_high_law_code_difficulty: "a detailed treatise about how a leader's ability to rule can be severely hindered by an inability to keep themself under control, as failing to do so can commonly cause an attitude of disrespect among their followers" #NT!
+ gluttonous_intro_desc_no_law_code_difficulty: "the value of appearances" #NT!
+ gluttonous_intro_desc_low_law_code_difficulty: "the importance of an impressive appearance" #NT!
+ gluttonous_intro_desc_medium_law_code_difficulty: "a set of criteria by which a leader may measure their appearance to others, with guidelines for how to cultivate an impressive air" #NT!
+ gluttonous_intro_desc_high_law_code_difficulty: "a detailed treatise about how a leader's ability to rule can benefit greatly from displays of opulence and glamour, as respect will be afforded to a ruler by those who are impressed by their accomplishments" #NT!
+ trusting_intro_desc_no_law_code_difficulty: "the assumption of innocence" #NT!
+ trusting_intro_desc_low_law_code_difficulty: "the necessity to presume innocence of the accused until proven otherwise" #NT!
+ trusting_intro_desc_medium_law_code_difficulty: "an outline of how the principle of assumed innocence is the most critical aspect of any legal system, as it is a moral imperative" #NT!
+ trusting_intro_desc_high_law_code_difficulty: "a persuasive argument on the presumption of guilt, or more accurately why that presumption should never be made, as to do so unfairly weighs any trial against the accused, finishing with the statement that it is better to let murderers walk free than imprison the innocent" #NT!
+ paranoid_intro_desc_no_law_code_difficulty: "the assumption of guilt" #NT!
+ paranoid_intro_desc_low_law_code_difficulty: "the necessity of presuming guilt in order to force a better defense" #NT!
+ paranoid_intro_desc_medium_law_code_difficulty: "an outline of how preemptively assuming guilt is a more effective method of administering justice and dealing with criminals" #NT!
+ paranoid_intro_desc_high_law_code_difficulty: "a persuasive argument on the presumption of guilt, and why it is a necessary feature of a system, as it will force the accused to volunteer as much information as possible in order to defend themselves, and will be more capable of locking up those who would otherwise get out on technicality" #NT!
+ zealous_intro_desc_no_law_code_difficulty: "importance of ideals" #NT!
+ zealous_intro_desc_low_law_code_difficulty: "the virtue of sticking to one's convictions" #NT!
+ zealous_intro_desc_medium_law_code_difficulty: "a section devoted to decrying what the author deems hypocrisy, the failure of rulers to live up to their system's expectations" #NT!
+ zealous_intro_desc_high_law_code_difficulty: "a rallying call to uphold the ideals of the system that one is tasked with running, as to do otherwise is to fail the system from the top, which will open it to corruption and result in the appearance of hypocrisy" #NT!
+ cynical_intro_desc_no_law_code_difficulty: "importance of pragmatism" #NT!
+ cynical_intro_desc_low_law_code_difficulty: "the value of a pragmatic and adaptive system" #NT!
+ cynical_intro_desc_medium_law_code_difficulty: "a section devoted to decrying legal idealism, focusing on how a system should not become inflexibly committed to unnecessary principles" #NT!
+ cynical_intro_desc_high_law_code_difficulty: "a detailed deconstruction of traditional legal ideals, with a focus on how they can often serve as a hinderance to the function of a legal system, and why any ruler should instead focus around flexibility and going with what works rather than what feels right" #NT!
+ compassionate_intro_desc_no_law_code_difficulty: "caring for one's fellow man" #NT!
+ compassionate_intro_desc_low_law_code_difficulty: "the moral value of understanding and helping other people" #NT!
+ compassionate_intro_desc_medium_law_code_difficulty: "a series of stories collected from those the author has helped, which encourage the reader to perform similar acts" #NT!
+ compassionate_intro_desc_high_law_code_difficulty: "an eloquent commentary on the human condition, and how it is the duty of each individual to care for and support others, along with musings on how a system can and should be designed to facilitate such actions" #NT!
+ sadistic_intro_desc_no_law_code_difficulty: "the advantages of brutal punishment" #NT!
+ sadistic_intro_desc_low_law_code_difficulty: "the necessity of draconian punishment to deter potential offenders" #NT!
+ sadistic_intro_desc_medium_law_code_difficulty: "an example legal code featuring a series of particularly cruel, and more importantly terrifying, punishments for various offenses" #NT!
+ sadistic_intro_desc_high_law_code_difficulty: "an analysis of the nature of punishment and its relation to the human psyche, and why seemingly harsh and cruel judgement must be rendered even for seemingly minor infractions in the interest of the greater good" #NT!
+ callous_intro_desc_no_law_code_difficulty: "the advantages of detachment" #NT!
+ callous_intro_desc_low_law_code_difficulty: "the necessity of a non-personal stance from which to judge" #NT!
+ callous_intro_desc_medium_law_code_difficulty: "a series of cases that the author considers to have been flawed due to potential outside attachment, with the author supplying their own rulings" #NT!
+ callous_intro_desc_high_law_code_difficulty: "a detailed analysis of how personal attachment to individual cases or causes can greatly hinder the ability of an individual to make decisions, and a series of techniques to combat unneeded attachment when ruling" #NT!
+ high_law_code_difficulty_name: "Advanced" #NT!
+ high_law_code_difficulty_desc: "to be inscrutable and incredibly difficult to master, with a good grasp of advanced legal concepts being a necessity to properly understanding it" #NT!
+ medium_law_code_difficulty_name: "Intermediate" #NT!
+ medium_law_code_difficulty_desc: "to be a fairly advanced and complicated codex, with a solid understanding of legalese being a requirement to its proper application" #NT!
+ low_law_code_difficulty_name: "Uncomplicated" #NT!
+ low_law_code_difficulty_desc: "to be a relatively easy to work with codex, relatively advanced legal concepts of any kind used extremely sparingly" #NT!
+ no_law_code_difficulty_name: "Trivial" #NT!
+ no_law_code_difficulty_desc: "to be an extremely accessible codex, even to the common man, and is hence applicable to more widespread circulation and application" #NT!
+ brave_judge_modifier_0: "Code of Honor (Minimal)" #NT!
+ brave_judge_modifier_1: "Code of Honor (Minor)" #NT!
+ brave_judge_modifier_2: "Code of Honor (Medium)" #NT!
+ brave_judge_modifier_3: "Code of Honor (Major)" #NT!
+ brave_judge_modifier_4: "Code of Honor (Maximum)" #NT!
+ craven_judge_modifier_0: "Code of Fear (Minimal)" #NT!
+ craven_judge_modifier_1: "Code of Fear (Minor)" #NT!
+ craven_judge_modifier_2: "Code of Fear (Medium)" #NT!
+ craven_judge_modifier_3: "Code of Fear (Major)" #NT!
+ craven_judge_modifier_4: "Code of Fear (Maximal)" #NT!
+ calm_judge_modifier_0: "Code of Calm (Minimal)" #NT!
+ calm_judge_modifier_1: "Code of Calm (Minor)" #NT!
+ calm_judge_modifier_2: "Code of Calm (Medium)" #NT!
+ calm_judge_modifier_3: "Code of Calm (Major)" #NT!
+ calm_judge_modifier_4: "Code of Calm (Maximal)" #NT!
+ wrathful_judge_modifier_0: "Code of Wrath (Maximal)" #NT!
+ just_judge_modifier_0: "Code of Justice (Minimal)" #NT!
+ just_judge_modifier_1: "Code of Justice (Minor)" #NT!
+ just_judge_modifier_2: "Code of Justice (Medium)" #NT!
+ just_judge_modifier_3: "Code of Justice (Major)" #NT!
+ just_judge_modifier_4: "Code of Justice (Maximal)" #NT!
+ arbitrary_judge_modifier_0: "Code of Arbitration (Minimal)" #NT!
+ arbitrary_judge_modifier_1: "Code of Arbitration (Minor)" #NT!
+ arbitrary_judge_modifier_2: "Code of Arbitration (Medium)" #NT!
+ arbitrary_judge_modifier_3: "Code of Arbitration (Major)" #NT!
+ arbitrary_judge_modifier_4: "Code of Arbitration (Maximal)" #NT!
+ diligent_judge_modifier_0: "Code of Diligence (Minimal)" #NT!
+ diligent_judge_modifier_1: "Code of Diligence (Minor)" #NT!
+ diligent_judge_modifier_2: "Code of Diligence (Medium)" #NT!
+ diligent_judge_modifier_3: "Code of Diligence (Major)" #NT!
+ diligent_judge_modifier_4: "Code of Diligence (Maximal)" #NT!
+ lazy_judge_modifier_0: "Code of Reservation (Minimal)" #NT!
+ lazy_judge_modifier_1: "Code of Reservation (Minor)" #NT!
+ lazy_judge_modifier_2: "Code of Reservation (Medium)" #NT!
+ lazy_judge_modifier_3: "Code of Reservation (Major)" #NT!
+ lazy_judge_modifier_4: "Code of Reservation (Maximal)" #NT!
+ chaste_judge_modifier_0: "Code of Restraint (Minimal)" #NT!
+ chaste_judge_modifier_1: "Code of Restraint (Minor)" #NT!
+ chaste_judge_modifier_2: "Code of Restraint (Medium)" #NT!
+ chaste_judge_modifier_3: "Code of Restraint (Major)" #NT!
+ chaste_judge_modifier_4: "Code of Restraint (Maximal)" #NT!
+ lustful_judge_modifier_0: "Code of Humanity (Minimal)" #NT!
+ lustful_judge_modifier_1: "Code of Humanity (Minor)" #NT!
+ lustful_judge_modifier_2: "Code of Humanity (Medium)" #NT!
+ lustful_judge_modifier_3: "Code of Humanity (Major)" #NT!
+ lustful_judge_modifier_4: "Code of Humanity (Maximal)" #NT!
+ content_judge_modifier_0: "Code of Cooperation (Minimal)" #NT!
+ content_judge_modifier_1: "Code of Cooperation (Minor)" #NT!
+ content_judge_modifier_2: "Code of Cooperation (Medium)" #NT!
+ content_judge_modifier_3: "Code of Cooperation (Major)" #NT!
+ content_judge_modifier_4: "Code of Cooperation (Maximal)" #NT!
+ ambitious_judge_modifier_0: "Code of Ambition (Minimal)" #NT!
+ ambitious_judge_modifier_1: "Code of Ambition (Minor)" #NT!
+ ambitious_judge_modifier_2: "Code of Ambition (Medium)" #NT!
+ ambitious_judge_modifier_3: "Code of Ambition (Major)" #NT!
+ ambitious_judge_modifier_4: "Code of Ambition (Maximal)" #NT!
+ fickle_judge_modifier_0: "Code of Flexibility (Maximal)" #NT!
+ stubborn_judge_modifier_0: "Code of Conviction (Minimal)" #NT!
+ stubborn_judge_modifier_1: "Code of Conviction (Minor)" #NT!
+ stubborn_judge_modifier_2: "Code of Conviction (Medium)" #NT!
+ stubborn_judge_modifier_3: "Code of Conviction (Major)" #NT!
+ stubborn_judge_modifier_4: "Code of Conviction (Maximal)" #NT!
+ forgiving_judge_modifier_0: "Code of Forgiveness (Minimal)" #NT!
+ forgiving_judge_modifier_1: "Code of Forgiveness (Minor)" #NT!
+ forgiving_judge_modifier_2: "Code of Forgiveness (Medium)" #NT!
+ forgiving_judge_modifier_3: "Code of Forgiveness (Major)" #NT!
+ forgiving_judge_modifier_4: "Code of Forgiveness (Maximal)" #NT!
+ vengeful_judge_modifier_0: "Code of Revenge (Minimal)" #NT!
+ vengeful_judge_modifier_1: "Code of Revenge (Minor)" #NT!
+ vengeful_judge_modifier_2: "Code of Revenge (Medium)" #NT!
+ vengeful_judge_modifier_3: "Code of Revenge (Major)" #NT!
+ vengeful_judge_modifier_4: "Code of Revenge (Maximal)" #NT!
+ generous_judge_modifier_0: "Code of Benevolence (Minimal)" #NT!
+ generous_judge_modifier_1: "Code of Benevolence (Minor)" #NT!
+ generous_judge_modifier_2: "Code of Benevolence (Medium)" #NT!
+ generous_judge_modifier_3: "Code of Benevolence (Major)" #NT!
+ generous_judge_modifier_4: "Code of Benevolence (Maximal)" #NT!
+ greedy_judge_modifier_0: "Code of Greed (Minimal)" #NT!
+ greedy_judge_modifier_1: "Code of Greed (Minor)" #NT!
+ greedy_judge_modifier_2: "Code of Greed (Medium)" #NT!
+ greedy_judge_modifier_3: "Code of Greed (Major)" #NT!
+ greedy_judge_modifier_4: "Code of Greed (Maximal)" #NT!
+ gregarious_judge_modifier_0: "Code of Openness (Minimal)" #NT!
+ gregarious_judge_modifier_1: "Code of Openness (Minor)" #NT!
+ gregarious_judge_modifier_2: "Code of Openness (Medium)" #NT!
+ gregarious_judge_modifier_3: "Code of Openness (Major)" #NT!
+ gregarious_judge_modifier_4: "Code of Openness (Maximal)" #NT!
+ shy_judge_modifier_0: "Code of Elevation (Minimal)" #NT!
+ shy_judge_modifier_1: "Code of Elevation (Minor)" #NT!
+ shy_judge_modifier_2: "Code of Elevation (Medium)" #NT!
+ shy_judge_modifier_3: "Code of Elevation (Major)" #NT!
+ shy_judge_modifier_4: "Code of Elevation (Maximal)" #NT!
+ honest_judge_modifier_0: "Code of Truth (Minimal)" #NT!
+ honest_judge_modifier_1: "Code of Truth (Minor)" #NT!
+ honest_judge_modifier_2: "Code of Truth (Medium)" #NT!
+ honest_judge_modifier_3: "Code of Truth (Major)" #NT!
+ honest_judge_modifier_4: "Code of Truth (Maximal)" #NT!
+ deceitful_judge_modifier_0: "Code of Adaptation (Minimal)" #NT!
+ deceitful_judge_modifier_1: "Code of Adaptation (Minor)" #NT!
+ deceitful_judge_modifier_2: "Code of Adaptation (Medium)" #NT!
+ deceitful_judge_modifier_3: "Code of Adaptation (Major)" #NT!
+ deceitful_judge_modifier_4: "Code of Adaptation (Maximal)" #NT!
+ humble_judge_modifier_0: "Code of Humility (Minimal)" #NT!
+ humble_judge_modifier_1: "Code of Humility (Minor)" #NT!
+ humble_judge_modifier_2: "Code of Humility (Medium)" #NT!
+ humble_judge_modifier_3: "Code of Humility (Major)" #NT!
+ humble_judge_modifier_4: "Code of Humility (Maximal)" #NT!
+ arrogant_judge_modifier_0: "Code of Exception (Minimal)" #NT!
+ arrogant_judge_modifier_1: "Code of Exception (Minor)" #NT!
+ arrogant_judge_modifier_2: "Code of Exception (Medium)" #NT!
+ arrogant_judge_modifier_3: "Code of Exception (Major)" #NT!
+ arrogant_judge_modifier_4: "Code of Exception (Maximal)" #NT!
+ patient_judge_modifier_0: "Code of Patience (Minimal)" #NT!
+ patient_judge_modifier_1: "Code of Patience (Minor)" #NT!
+ patient_judge_modifier_2: "Code of Patience (Medium)" #NT!
+ patient_judge_modifier_3: "Code of Patience (Major)" #NT!
+ patient_judge_modifier_4: "Code of Patience (Maximal)" #NT!
+ impatient_judge_modifier_0: "Code of Swiftness (Minimal)" #NT!
+ impatient_judge_modifier_1: "Code of Swiftness (Minor)" #NT!
+ impatient_judge_modifier_2: "Code of Swiftness (Medium)" #NT!
+ impatient_judge_modifier_3: "Code of Swiftness (Major)" #NT!
+ impatient_judge_modifier_4: "Code of Swiftness (Maximal)" #NT!
+ temperate_judge_modifier_0: "Code of Control (Minimal)" #NT!
+ temperate_judge_modifier_1: "Code of Control (Minor)" #NT!
+ temperate_judge_modifier_2: "Code of Control (Medium)" #NT!
+ temperate_judge_modifier_3: "Code of Control (Major)" #NT!
+ temperate_judge_modifier_4: "Code of Control (Maximal)" #NT!
+ gluttonous_judge_modifier_0: "Code of Grandeur (Minimal)" #NT!
+ gluttonous_judge_modifier_1: "Code of Grandeur (Minor)" #NT!
+ gluttonous_judge_modifier_2: "Code of Grandeur (Medium)" #NT!
+ gluttonous_judge_modifier_3: "Code of Grandeur (Major)" #NT!
+ gluttonous_judge_modifier_4: "Code of Grandeur (Maximal)" #NT!
+ trusting_judge_modifier_0: "Code of Trust (Minimal)" #NT!
+ trusting_judge_modifier_1: "Code of Trust (Minor)" #NT!
+ trusting_judge_modifier_2: "Code of Trust (Medium)" #NT!
+ trusting_judge_modifier_3: "Code of Trust (Major)" #NT!
+ trusting_judge_modifier_4: "Code of Trust (Maximal)" #NT!
+ paranoid_judge_modifier_0: "Code of Paranoia (Minimal)" #NT!
+ paranoid_judge_modifier_1: "Code of Paranoia (Minor)" #NT!
+ paranoid_judge_modifier_2: "Code of Paranoia (Medium)" #NT!
+ paranoid_judge_modifier_3: "Code of Paranoia (Major)" #NT!
+ paranoid_judge_modifier_4: "Code of Paranoia (Maximal)" #NT!
+ zealous_judge_modifier_0: "Code of Idealism (Minimal)" #NT!
+ zealous_judge_modifier_1: "Code of Idealism (Minor)" #NT!
+ zealous_judge_modifier_2: "Code of Idealism (Medium)" #NT!
+ zealous_judge_modifier_3: "Code of Idealism (Major)" #NT!
+ zealous_judge_modifier_4: "Code of Idealism (Maximal)" #NT!
+ cynical_judge_modifier_0: "Code of Cynicism (Minimal)" #NT!
+ cynical_judge_modifier_1: "Code of Cynicism (Minor)" #NT!
+ cynical_judge_modifier_2: "Code of Cynicism (Medium)" #NT!
+ cynical_judge_modifier_3: "Code of Cynicism (Major)" #NT!
+ cynical_judge_modifier_4: "Code of Cynicism (Maximal)" #NT!
+ compassionate_judge_modifier_0: "Code of Compassion (Minimal)" #NT!
+ compassionate_judge_modifier_1: "Code of Compassion (Minor)" #NT!
+ compassionate_judge_modifier_2: "Code of Compassion (Medium)" #NT!
+ compassionate_judge_modifier_3: "Code of Compassion (Major)" #NT!
+ compassionate_judge_modifier_4: "Code of Compassion (Maximal)" #NT!
+ sadistic_judge_modifier_0: "Code of Brutality (Minimal)" #NT!
+ sadistic_judge_modifier_1: "Code of Brutality (Minor)" #NT!
+ sadistic_judge_modifier_2: "Code of Brutality (Medium)" #NT!
+ sadistic_judge_modifier_3: "Code of Brutality (Major)" #NT!
+ sadistic_judge_modifier_4: "Code of Brutality (Maximal)" #NT!
+ callous_judge_modifier_0: "Code of Detachment (Minimal)" #NT!
+ callous_judge_modifier_1: "Code of Detachment (Minor)" #NT!
+ callous_judge_modifier_2: "Code of Detachment (Medium)" #NT!
+ callous_judge_modifier_3: "Code of Detachment (Major)" #NT!
+ callous_judge_modifier_4: "Code of Detachment (Maximal)" #NT!
+ codex_synergy_bonus_1: "#positive_value As you have a synergetic [trait] and this codex is #BOL Trivial#!, you will receive a slight boost to the appropriate bonus#!" #NT!
+ codex_synergy_bonus_2: "#positive_value As you have a synergetic [trait] and this codex is #BOL Uncomplicated#!, you will receive a medium boost to the appropriate bonus#!" #NT!
+ codex_synergy_bonus_3: "#positive_value As you have a synergetic [trait] and this codex is #BOL Intermediate#!, you will receive a large boost to the appropriate bonus#!" #NT!
+ codex_synergy_bonus_4: "#positive_value As you have a synergetic [trait] and this codex is #BOL Advanced#!, you will receive a huge boost to the appropriate bonus#!" #NT!

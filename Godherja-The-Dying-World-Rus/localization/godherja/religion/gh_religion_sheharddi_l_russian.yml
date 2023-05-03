@@ -1,0 +1,67 @@
+﻿l_russian:
+  
+ #sheharddi Loc 
+ sheharddi_religion: "Sheharddi" #NT!
+ sheharddi_religion_adj: "Sheharddic" #NT!
+ sheharddi_religion_adherent: "Sheharddi" #NT!
+ sheharddi_religion_adherent_plural: "Sheharddim" #NT!
+ sheharddi_religion_desc: "Those who keep the Sheharddi faith today often do so in secret. They refuse to accept any god other than Eloi, considering other deities to be misguided worship of #EMP Malikiyah#! at best and a trick of Eir'shaytan at worst. As a result, they have been ostracized and persecuted for centuries for refusing to participate in the worship of polytheistic pantheons." #NT!
+ sheharddi_high_god_name: "Eloi" #NT!
+ sheharddi_high_god_name_possessive: "Eloi's" #NT!
+ sheharddi_high_god_name_alternate: "the Father of Heaven" #NT!
+ sheharddi_high_god_name_alternate_possessive: "the Father of Heaven's" #NT!
+ sheharddi_devil_name: "Eir'shaytan" #NT!
+ sheharddi_devil_name_possessive: "Eir'shaytan's" #NT!
+ sheharddi_death_deity_name: "Comerah" #NT!
+ sheharddi_death_deity_name_possessive: "Comerah's" #NT!
+ sheharddi_house_of_worship: "Temple" #NT!
+ sheharddi_house_of_worship_plural: "Temples" #NT!
+ sheharddi_religious_symbol: "Sign of Eloi" #NT!
+ sheharddi_religious_text: "Mishpadim" #NT!
+ sheharddi_religious_head_title: "Kahin Ro'i'el" #NT!
+ sheharddi_religious_head_title_name: "Kahin Ro'i'el" #NT!
+ sheharddi_devotee_male: "Sheharddi" #NT!
+ sheharddi_devotee_male_plural: "Sheharddim" #NT!
+ sheharddi_devotee_female: "Sheharddi" #NT!
+ sheharddi_devotee_female_plural: "Sheharddim" #NT!
+ sheharddi_devotee_neuter: "Sheharddi" #NT!
+ sheharddi_devotee_neuter_plural: "Sheharddim" #NT!
+ sheharddi_priest_male: "Kahin" #NT!
+ sheharddi_priest_male_plural: "Kahinim" #NT!
+ sheharddi_priest_female: "Kahin" #NT!
+ sheharddi_priest_female_plural: "Kahinim" #NT!
+ sheharddi_priest_alternate_plural: "Kahinim" #NT!
+ sheharddi_bishop: "Kahin Elan" #NT!
+ sheharddi_bishop_plural: "Kahin Elanet" #NT!
+ sheharddi_positive_afterlife: "Eloi'bayit" #NT!
+ sheharddi_negative_afterlife: "Bidil'el" #NT!
+ sheharddi_creator_god_name: "Eloi" #NT!
+ sheharddi_creator_god_name_possessive: "Eloi's" #NT!
+ sheharddi_health_god_name: "Fer'muel" #NT!
+ sheharddi_health_god_name_possessive: "Fer'muel" #NT!
+ sheharddi_fertility_god_name: "Achamoth" #NT!
+ sheharddi_fertility_god_name_possessive: "Achamoth" #NT!
+ sheharddi_wealth_god_name: "Joan'nath" #NT!
+ sheharddi_wealth_god_name_possessive: "Joan'nath" #NT!
+ sheharddi_household_god_name: "the Malikiyah" #NT!
+ sheharddi_household_god_name_possessive: "the Malikiyahs'" #NT!
+ sheharddi_fate_god_name: "Tanael" #NT!
+ sheharddi_fate_god_name_possessive: "Tanael" #NT!
+ sheharddi_knowledge_god_name: "Zandel" #NT!
+ sheharddi_knowledge_god_name_possessive: "Zandel" #NT!
+ sheharddi_war_god_name: "Shaba'el" #NT!
+ sheharddi_war_god_name_possessive: "Shaba'el's" #NT!
+ sheharddi_trickster_god_name: "Ishbahut" #NT!
+ sheharddi_trickster_god_name_possessive: "Ishbahut's" #NT!
+ sheharddi_night_god_name: "Lanael" #NT!
+ sheharddi_night_god_name_possessive: "Lanael" #NT!
+ sheharddi_water_god_name: "Warad'el" #NT!
+ sheharddi_water_god_name_possessive: "Warad'el's" #NT!
+ sheharddi_witch_god_name: "Sirvaro'el" #NT!
+ sheharddi_witch_god_name_possessive: "Sirvaro'el" #NT!
+ #sheharddi loc 
+ sheharddi: "Sheharddi" #NT!
+ sheharddi_adj: "Sheharddic" #NT!
+ sheharddi_adherent: "Sheharddi" #NT!
+ sheharddi_adherent_plural: "Sheharddim" #NT!
+ sheharddi_desc: "The origins of the sheharddi faith are shrouded in mystery, and scholars debate whether it is a syncretism of several [sarradonian|E] faiths, a single-god cult that split off from a larger polytheistic faith, or the surviving remnants of a more primordial religion. They believe that the high god Eloi, creator of the heavens, created a race called the Malikiyah, or Messengers. The eldest of these, Eir'Shaytan, created an even lesser race of beings - the humans - to be his servants and to worship him and his six lieutenants as if they were greater than their father. This caused mankind to be expelled from paradise after the [kalnaih|E] and only by being honorable and righteous in life can one return to heaven to worship Him for eternity." #NT!

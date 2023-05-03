@@ -1,0 +1,54 @@
+﻿l_russian:
+  ############################################################ 
+  # Daukeni 
+  # Patronym 
+ dynnpat_suf_yC_: "yć" #NT!
+  # Surnames based on plants or animals, almost always have the yć suffix due to the base words being popular as first names 
+  # Plants 
+ dynn_dobyC: "Dobyć" #NT!
+ dynn_lipajyC: "Lipajyć" #NT!
+ dynn_rozyC: "Rožyć" #NT!
+ dynn_bolhavyC: "Bolhavyć" #NT!
+ dynn_SenikyC: "Šenikyć" #NT!
+ dynn_jablekyC: "Jablekyć" #NT!
+  # Animals 
+ dynn_vCelyC: "Včelyć" #NT!
+ dynn_vCelakyC: "Včelakyć" #NT!
+ dynn_SlankyC: "Šlankyć" #NT!
+ dynn_vulkyC: "Vulkyć" #NT!
+ dynn_medvedyC: "Medvedyć" #NT!
+ dynn_kelenyC: "Kelenyć" #NT!
+ dynn_arlyC: "Arlyć" #NT!
+ dynn_SperyC: "Šperyć" #NT!
+ dynn_sovyC: "Sovyć" #NT!
+ dynn_krahyC: "Krahyć" #NT!
+ dynn_hravenyC: "Hravenyć" #NT!
+ dynn_vorbilyC: "Vorbilyć" #NT!
+ dynn_voperyC: "Voperyć" #NT!
+  # Surnames not ending in yć, almost always non-living objects or concepts 
+ dynn_drev: "Drev" #NT!
+ dynn_leS: "Leš" #NT!
+ dynn_Stilt: "Štilt" #NT!
+ dynn_hrom: "Hrom" #NT!
+ dynn_hramen: "Hramen" #NT!
+ dynn_reka: "Reka" #NT!
+ dynn_zbor: "Žbor" #NT!
+ dynn_vrih: "Vrih" #NT!
+ dynn_kovak: "Kovak" #NT!
+  
+ dynn_Zelkovak: "Želkovak" #NT!
+ dynn_SernStilt: "Šernštilt" #NT!
+ dynn_veistiStilt: "Veistištilt" #NT!
+ dynn_CervenStilt: "Červenštilt" #NT!
+ dynn_kveliStilt: "Kvelištilt" #NT!
+ dynn_kelenStilt: "Kelenštilt" #NT!
+ dynn_kelenZbor: "Kelenžbor" #NT!
+ dynn_vulklovek: "Vulklovek" #NT!
+ dynn_kelenlovek: "Kelenlovek" #NT!
+ dynn_slonolovek: "Slonolovek" #NT!
+ dynn_vinar: "Vinar" #NT!
+ dynn_medevinaC: "Medevinač" #NT!
+ dynn_nabonim: "Nabonim" #NT!
+ dynn_soncenim: "Soncenim" #NT!
+ dynn_irvalnim: "Irvalnim" #NT!
+ dynn_Tuudra: "Tuudra" #NT!

@@ -1,0 +1,67 @@
+﻿l_russian:
+ kyaalic_religion: "Kyaalic" #NT!
+ kyaalic_religion_adj: "Kyaalic" #NT!
+ kyaalic_religion_adherent: "Kyaali" #NT!
+ kyaalic_religion_adherent_plural: "Kyaali" #NT!
+ kyaalic_religion_desc: "The Kyaali believe in the divine realm of Kyaal, the place from which all beings were born, before they were cast out to the world. They aspire to become strong enough to survive in Kyaal, which remains tethered to this world, and acquire power by taking it from the beasts they hunt." #NT!
+ kyaalic_high_god_name: "Kyaal" #NT!
+ kyaalic_high_god_name_possessive: "Kyaal's" #NT!
+ kyaalic_high_god_name_alternate: "The Divine Realm" #NT!
+ kyaalic_high_god_name_alternate_possessive: "The Divine Realm's" #NT!
+ kyaalic_devil_name: "Xibal" #NT!
+ kyaalic_devil_name_possessive: "Xibal's" #NT!
+ kyaalic_death_deity_name: "$kyaalic_high_god_name$" #NT!
+ kyaalic_death_deity_name_possessive: "$kyaalic_high_god_name_possessive$" #NT!
+  
+ kyaalic_house_of_worship: "Warándô" #NT!
+ kyaalic_house_of_worship_plural: "Warándôs" #NT!
+ kyaalic_religious_symbol: "The Mangrove" #NT!
+ kyaalic_religious_text: "The Song of the Green" #NT!
+ kyaalic_religious_head_title: "Thěqásê" #NT!
+ kyaalic_religious_head_title_name: "Tshiâ Těděmésé" #NT!
+ kyaalic_devotee_male: "Kyaalic" #NT!
+ kyaalic_devotee_male_plural: "Kyaali" #NT!
+ kyaalic_devotee_female: "Kyaalic" #NT!
+ kyaalic_devotee_female_plural: "Kyaali" #NT!
+ kyaalic_devotee_neuter: "Kyaalic" #NT!
+ kyaalic_devotee_neuter_plural: "Kyaali" #NT!
+ kyaalic_priest_male: "Těděmésé" #NT!
+ kyaalic_priest_male_plural: "Těděmésai" #NT!
+ kyaalic_priest_female: "Těděmésé" #NT!
+ kyaalic_priest_female_plural: "Těděmésai" #NT!
+ kyaalic_priest_alternate: "Těděmésé" #NT!
+ kyaalic_priest_alternate_plural: "Těděmésai" #NT!
+ kyaalic_bishop: "Nqimésé" #NT!
+ kyaalic_bishop_plural: "Nqimésai" #NT!
+ kyaalic_positive_afterlife: "Kyaal" #NT!
+ kyaalic_negative_afterlife: "Kyaal" #NT!
+ kyaalic_creator_god_name: "$kyaalic_high_god_name$" #NT!
+ kyaalic_creator_god_name_possessive: "$kyaalic_high_god_name_possessive$" #NT!
+ kyaalic_health_god_name: "$kyaalic_high_god_name$" #NT!
+ kyaalic_health_god_name_possessive: "$kyaalic_high_god_name_possessive$" #NT!
+ kyaalic_fertility_god_name: "$kyaalic_high_god_name$" #NT!
+ kyaalic_fertility_god_name_possessive: "$kyaalic_high_god_name_possessive$" #NT!
+ kyaalic_wealth_god_name: "$kyaalic_high_god_name$" #NT!
+ kyaalic_wealth_god_name_possessive: "$kyaalic_high_god_name_possessive$" #NT!
+ kyaalic_household_god_name: "$kyaalic_high_god_name$" #NT!
+ kyaalic_household_god_name_possessive: "$kyaalic_high_god_name_possessive$" #NT!
+ kyaalic_fate_god_name: "$kyaalic_high_god_name$" #NT!
+ kyaalic_fate_god_name_possessive: "$kyaalic_high_god_name_possessive$" #NT!
+ kyaalic_knowledge_god_name: "$kyaalic_high_god_name$" #NT!
+ kyaalic_knowledge_god_name_possessive: "$kyaalic_high_god_name_possessive$" #NT!
+ kyaalic_war_god_name: "$kyaalic_high_god_name$" #NT!
+ kyaalic_war_god_name_possessive: "$kyaalic_high_god_name_possessive$" #NT!
+ kyaalic_trickster_god_name: "$kyaalic_high_god_name$" #NT!
+ kyaalic_trickster_god_name_possessive: "$kyaalic_high_god_name_possessive$" #NT!
+ kyaalic_night_god_name: "$kyaalic_high_god_name$" #NT!
+ kyaalic_night_god_name_possessive: "$kyaalic_high_god_name_possessive$" #NT!
+ kyaalic_water_god_name: "$kyaalic_high_god_name$" #NT!
+ kyaalic_water_god_name_possessive: "$kyaalic_high_god_name_possessive$" #NT!
+ kyaalic_witch_god_name: "$kyaalic_devil_name$" #NT!
+ kyaalic_witch_god_name_possessive: "$kyaalic_devil_name_possessive$" #NT!
+ kyaalic: "Kyaalic" #NT!
+ kyaalic_adj: "Kyaali" #NT!
+ kyaalic_adherent: "Kyaali" #NT!
+ kyaalic_adherent_plural: "Kyaali" #NT!
+ kyaalic_desc: "Kyaalism is the belief in "Kyaal" or the divine realm, which to its adherents, is not sundered from the world of men, but is a physical place to which one can travel to, and even return from.  They regard Kyaal as divinity itself, the holy body from which all the world's creatures were born, which degenerated to their current forms after being cast out. It is the Kyaali's greatest wish to one day be powerful enough to not only reach, but also survive in Kyaal, and take their place in the divine realm. \n\nThe Kyaali are also noted for their skin-changing rituals, which allow them to assume the shape of any creature whose skin they wear. The greatest of creatures, however, which the Kyaali seek to wear are the [kyaldzakaxi|E], which they hunt in the [kyalmuku|E], or Godhunt. To successfully assume one of the Kyaldzàkáxi's form is regarded to be the highest form of acknowledgment from Kyaal of that person's worth and power." #NT!
+ holy_order_kyalxakho: "Kyalxákho" #NT!

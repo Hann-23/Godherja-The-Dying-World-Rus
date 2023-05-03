@@ -1,0 +1,165 @@
+﻿l_russian:
+ legal_tradition.0001.t: "The Minutae of Law" #NT!
+ legal_tradition.0001.desc: "The case arrives in the usual manner, a scrawny courier lad depositing the papers into a leather satchel outside my door. Cracking the wax seal I settle into my chair to arrange the documents on my desk, and soon I have three neat stacks arranged in front of me.\n\nTo my left sits the testimony and arguments of the defense, to my right is its counterpart from the prosecution, and in between sits the documents containing the relevant passages of Wardenite Law suggested by the forwarding lower court judge. I grimace at the sight and prepare myself for a long night ahead." #NT!
+ legal_tradition.0001.a: "[actor.GetFirstName] has the more convincing arguments." #NT!
+ legal_tradition.0001.b: "Actually, there is merit to [recipient.GetFirstNamePossessive] case." #NT!
+ legal_tradition.0001.c: "I will let a magistrate decide on this instead of me." #NT!
+ legal_tradition.0001.d: "Don't bother me with this trifling nonsense!" #NT!
+  
+ legal_tradition.0011.t: "A Spurious Claim" #NT!
+ legal_tradition.0011.desc: "It seems two of my vassals are at odds with one another again. While it hasn't come to blows quite yet, their hostile maneuverings in the courts certainly seem like a prelude to violence. Naturally, given the grave importance of a proper decision in this matter my magistrates have wisely forwarded the case to me in hopes of getting a definitive ruling.\n\n[actor.GetTitledFirstName] is pushing a writ of claim to [target.GetName], arguing that [recipient.GetTitledFirstName] has demonstrated inadequate stewardship over the land and its people. [actor.GetSheHe] has included some supplementary evidence claiming a distant relation once held claim to the territory as well, and is essentially asking for a re-assessment of an inheritance division from well over a century ago. I must say that I'm a little impressed by the brazenness of their maneuvering." #NT!
+ legal_tradition.0011.a: "[actor.GetFirstName] has the more convincing arguments." #NT!
+ legal_tradition.0011.b: "Actually, there is merit to [recipient.GetFirstNamePossessive] case." #NT!
+ legal_tradition.0011.c: "I will let a magistrate decide on this instead of me." #NT!
+ legal_tradition.0011.d: "Don't bother me with this trifling nonsense!" #NT!
+ legal_tradition.0401.t: "[Localize(Concatenate(picked_study_node.MakeScope.Var('study_node_name').GetFlagName,'_name'))]" #NT!
+ legal_tradition.0401.t.finished: "Case Closed" #NT!
+ legal_tradition.0401.desc: "[SelectLocalization(Not(EqualTo_string(Concatenate(picked_study_node.MakeScope.Var('study_node_name').GetFlagName,'_desc'),Localize(Concatenate(picked_study_node.MakeScope.Var('study_node_name').GetFlagName,'_desc')))),Concatenate(picked_study_node.MakeScope.Var('study_node_name').GetFlagName,'_desc'),Concatenate('generic_legal_study_','desc'))]" #NT!
+ legal_tradition.0401.desc.finished: "I stare blankly at my desk, an immense weight lifting from my shoulders. Not five minutes ago I had been replacing the last of the interminable legal volumes my mentors had recommended I read. It took the full walk back to my desk to notice that the pile which had so long ago towered above me as I sat, reading and scribing, is no longer there.\n\nI've... done it? I've completed my studies on them all? Even [raqiyyas|E] Commentaries?\n\nI lean back in my chair, smile growing across my face. My studies may never come to an end, but this is a milestone to be sure." #NT!
+ generic_legal_study_desc: "Though lengthy and at times dense, properly reading the work through a judicial lens will no doubt be a significant boon to my experience in the craft.\n\nNow, I just need the free time and dedication..." #NT!
+ legal_tradition.0401.a: "Who needs sleep?" #NT!
+ legal_tradition.0401.b: "Time to begin." #NT!
+ legal_tradition.0401.c: "I don't really have the time for this now" #NT!
+ legal_tradition.0401.d: "Ah, well. Time to fetch a new pile." #NT!
+ legal_tradition.0501.t: "No Rest for the Wicked" #NT!
+ legal_tradition.0501.desc: "I had anticipated this particular case arriving at my door well in advance - peasant gossip from [legal_case_county.GetBaseNameNoTier] had long preceded the satchel bearing the details of what had transpired. It would seem that the rumours had not exaggerated the bloodiness and viciousness of the crime in question.\n\nThe evidence against the [ROOT.Var('defendant_background').GetFlagName] in question is [ROOT.Char.Custom('EvidenceStrength')]. Personally, [ROOT.Char.Custom('CriminalCaseIntuition')]" #NT!
+ legal_tradition.0501.a: "They are guilty." #NT!
+ legal_tradition.0501.b: "I cannot convict with the evidence given." #NT!
+ legal_tradition.0501.c: "I will let a magistrate decide on this instead of me." #NT!
+ legal_tradition.0501.d: "Don't bother me with this trifling nonsense!" #NT!
+ legal_tradition.0511.t: "Crime and Punishment" #NT!
+ legal_tradition.0511.desc: "It has come to my attention that the lower courts of [legal_case_county.GetBaseNameNoTier] have been recently having trouble properly processing the volume of petty crimes in one of their districts, and have resorted to fast-track trials of dubious legality. None of these are crimes of any real import - thieves, coin clippers and drunks make up the majority of these cases, and presiding over them would normally be far below what is expected of someone of my station.\n\nHowever, helping out with clearing this backlog would not just give me an aura of an involved ruler to the locals, but also help build legal experience in an environment where the outcome of the case itself is unlikely to matter in the grand scheme of things." #NT!
+ legal_tradition.0511.a: "I will go through every single one!" #NT!
+ legal_tradition.0511.b: "One or two should be good to hone my skills." #NT!
+ legal_tradition.0511.c: "Now, how can I profit from this..." #NT!
+ legal_tradition.0511.d: "This is beneath me." #NT!
+ legal_tradition.0521.t: "Tortious Business" #NT!
+ legal_tradition.0521.desc: "A few magistrates have recommended I go through some of the archives of the local courthouses in order to familiarize myself with the finer points of [wardenite|E] law. It's all well and good to cut my teeth adjudicating on matters of state , they say, but learning the day to day affairs by which my realm functions is vitally important if I am to truly call myself a master of the [first_warden|E]'s laws.\n\nFrankly, given the daunting pile of papers before me, I am having trouble mustering the enthusiasm to agree. Is it really worth my valuable time to be spending it going over disputes between landowners who have been dead for decades?" #NT!
+ legal_tradition.0521.a: "I will go through every single one!" #NT!
+ legal_tradition.0521.b: "One or two should be good to hone my skills." #NT!
+ legal_tradition.0521.c: "I'm sure I can dig up something... useful, from them." #NT!
+ legal_tradition.0521.d: "This is beneath me." #NT!
+ legal_tradition.0531.t: "A Merchant's Squabble" #NT!
+ legal_tradition.0531.desc: "With a deft motion I cut the seal on the latest envelope to find its way to my desk. The papers inside are packed so tightly that they threaten to spill out of their own accord, and I quickly set them down in a neat pile in front of me. As I start to read it's all I can do to keep my eyes from losing focus as they scan over the text. Tenths and hundredths of revenues per centile, finder's fees and portions of tariff recompense. A long addendum going over insurance clauses for if goods are transported overseas and lost due to weather, but only should it be mundane in nature...\n\nWarden's Eyes, I hate it when merchants get into financial disputes with one another. Never before have I met a class of people able to turn a quarrel over ludicrous quantities of money into such a mundane affair. Sighing, I rub my temples as I ponder over whether or not to just hand this off to a lower court." #NT!
+ legal_tradition.0531.a: "I guess I'll give it a shot." #NT!
+ legal_tradition.0531.b: "Let's see who is willing to pay more." #NT!
+ legal_tradition.0531.c: "I have more important business." #NT!
+ legal_tradition.0541.t: "The Honest Craftsmen" #NT!
+ legal_tradition.0541.desc: "By the time the sealed judicial envelope reaches my desk I'm already well aware of its contents, with rumors of angry merchants and enraged peasants having sped to my court faster than the couriers sent by the lower court this morning.\n\nA local guild in [legal_case_county.GetBaseNameNoTier] has, so they say, decided their importance to local society means they get to pick and choose which trade laws they get to follow. The guild of course disputes this narrative, claiming they're merely utilizing loopholes in the First Laws which were clearly intentionally left by the [first_warden|E] to facilitate the business of honest craftsmen, and decrying the efforts of the magistrates to thwart them as illegal tyranny. As I understand it the case has been working its way through lower courts for the better part of the month, with the fact that it would wind up on my desk one way or another being more or less common knowledge.\n\nThe complaints of the magistrates are shrill to the point that you'd think the guild were practicing murder or banditry, and the entreaties of the guild's leaders are worded no less provocatively. Whatever decision I make, it's sure to make somebody angry." #NT!
+ legal_tradition.0541.a: "This whole enterprise must be broken up!" #NT!
+ legal_tradition.0541.b: "These coin-pinchers are not above the First Laws!" #NT!
+ legal_tradition.0541.c: "The guild is in the right." #NT!
+ legal_tradition.0541.d: "Let's see how much these "loopholes" are worth." #NT!
+ legal_tradition.0541.e: "I have more important business." #NT!
+ legal_tradition.0551.t: "Radical Notions" #NT!
+ legal_tradition.0551.desc: "I glare at the leather satchel lying on my desk, having been made perfectly aware of their contents by the news that preceded their arrival. It seems that, in the opinion of my judges, a local magistrate by the name of [heterodox_judge.GetFirstName] has lost [heterodox_judge.GetHerHis] mind. [heterodox_judge.GetSheHe|U] is now preaching all manner of follies which apparently borders on full blown lawless heresy.\n\nWith a heavy sigh I pull the envelope towards me and crack the wax seal with a knife, withdrawing the thin stack of parchment containing testimonials. Among them is a direct appeal from the supposed heretic [heterodox_judge.GetHerHim]self. With a raised eyebrow I begin to read..." #NT!
+ legal_tradition.0551.a: "A fool, but nothing more. Rebuke [heterodox_judge.GetHerHim]." #NT!
+ legal_tradition.0551.b: "A dangerous radical it seems. Prosecute [heterodox_judge.GetHerHim]." #NT!
+ legal_tradition.0551.c: "A complete waste of resources. Bury it." #NT!
+ legal_tradition.0561.t: "A Vague Violation" #NT!
+ legal_tradition.0561.desc: "A messenger arrives before me, clad in the livery of an incredibly minor landholder within my realm. [messenger.GetSheHe|U] bows before me, and presents me with a neatly folded envelope, bearing a partly-melted wax seal.\n\nOpening the letter, I read an extensive legal argument made by said minor landowner, blaming [plaintiff.GetHerHis] immediate overlord for a number of "rights violations", rooting [plaintiff.GetHerHis] arguments in the placement of punctuation within a generations-old contract. A copy of the contract in question was also attached in full, with the relevant passages annotated.\n\nWhile the argument does have some legal merit, the contractual obligations are left vague, most likely by design, and as a result there is nobody clearly in the right, with the "egregious" violations of the landholder's rights being completely within a reasonable interpretation of the law." #NT!
+ legal_tradition.0561.a: "How about I improve this entire contract?" #NT!
+ legal_tradition.0561.b: "I'll weigh in on this matter." #NT!
+ legal_tradition.0561.c: "Well, for a price, I could certainly think about it..." #NT!
+ legal_tradition.0561.d: "I will let my court magistrate handle this." #NT!
+ legal_tradition.0581.t: "Crisis of Inheritance" #NT!
+ legal_tradition.0581.desc: "For hours now I have listened to the bickering and personal attacks of two siblings fighting over the rights to their father's inheritance. While a will was written, explicitly stating the two were to receive equal portions of the land and wealth, the process has stalled over a debate on who gets a small parcel of land in between their domains. One claims that it has always been de jure part of his territory, and brings detailed documents showing how it has been administered in the past, though they date from even before their father's birth.\n\nThe other sibling states that precedent dictate he receive it, as his sibling already controls half of their father's lands, while he does not, thus breaking the rule of their inheritance, though he is unclear on how exactly that is the case. Despite the time we have spent trying to work through this issue, both seem further from reaching an agreement than when we began, and have devolved to hurling insults at each other. It has fallen on me to solve this for them." #NT!
+ legal_tradition.0581.a: "De jure right is law, and he shall receive the land." #NT!
+ legal_tradition.0581.b: "The precedent of your inheritance is clear." #NT!
+ legal_tradition.0581.c: "Since you cannot decide for yourselves, I shall administrate the land myself." #NT!
+ legal_tradition.0581.d: "I will let a magistrate decide on this instead of me." #NT!
+ legal_tradition.1001.t: "The Final Judgement" #NT!
+ legal_tradition.1001.desc.deceased_judge: "A messenger has arrived informing me of the tragic passing of the High Judge [dead_high_judge.GetName]. As [mamur|E] it falls to me to name a suitable replacement, and already my councillors, vassals and aspiring candidates have begun jockeying for the position.\n\nWhile it is generally expected that I should choose a well respected and senior judge, as the highest authority in the courts I can choose virtually whomever I please to fill the vacant seat." #NT!
+ legal_tradition.1001.desc.no_deceased_judge: "A vacancy has existed on my High Court for some time. My councillors, vassals and aspiring candidates have made sure to not let me forget this fact - as well as how suitable they or their favorite would be to fill the position. It is high time I see to this matter.\n\nWhile it is generally expected that I should choose a well respected and senior judge, as the highest authority in the courts I can choose virtually whomever I please to fill the vacant seat." #NT!
+ legal_tradition.1001.a: "Bring me a list of jurists in good repute." #NT!
+ legal_tradition.1001.b: "Perhaps I could politically benefit from this..." #NT!
+ legal_tradition.1001.c: "On second thought, no reason for the rush." #NT!
+ legal_tradition.1002.t: "Practitioners of the Trade" #NT!
+ legal_tradition.1002.desc: "After several days of careful consideration, me and the court magistrates assisting me have narrowed down the list of names under consideration for the vacant seat at the High Court to just a few. Each person on our list is a well respected judge, notable scholar of merit, famous advocate, or some combination of the three.\n\nI have few doubts that they all could fulfill the duties of the High judgeship admirably, but at the end of the day I can only pick one." #NT!
+ legal_tradition.1002.a: "[judge_1.GetFirstName] is an excellent fit." #NT!
+ legal_tradition.1002.b: "We will appoint [judge_2.GetFirstName]." #NT!
+ legal_tradition.1002.c: "[judge_3.GetFirstName] has truly impressed me!" #NT!
+ legal_tradition.1002.d: "None of these are worthy of the seat." #NT!
+ legal_tradition.1003.t: "A Respectable Choice" #NT!
+ legal_tradition.1003.desc: "After some thought I've assembled a list of candidates for the vacant seat on the High Court. All good and wise candidates, I've assured the magistrates, and despite some concerned looks they've been sharing between themselves when they think I'm not looking, they've been smart enough to keep their opinions to themselves.\n\nEach of the names on the list has of course been picked either for their reliability and loyalty to me, the obvious political advantage their appointment represents, the hefty payment they've promised me upon their ascension, or some combination of the three! How else am I supposed to run the Wardenite world?" #NT!
+ legal_tradition.1003.a: "A few are probably halfway decent judges too!" #NT!
+ legal_tradition.1003.b: "This isn't worth the risk." #NT!
+ legal_tradition.1011.t: "The Appointment of [appointed_judge.GetFirstName]" #NT!
+ legal_tradition.1011.desc: "With a final stroke of a pen, [appointed_judge.GetFirstName]'s seat on the High Court is assured. Until [appointed_judge.GetHerHis] death or retirement, [appointed_judge.GetHerHis] position on that august body of judges is all but guaranteed. I hope I made the right decision..." #NT!
+ legal_tradition.1011.a: "I'm sure [appointed_judge.GetFirstName] will do fine work." #NT!
+ legal_tradition.1021.t: "A New School" #NT!
+ legal_tradition.1021.desc: "The legal world is abuzz with the talk of a new school of thought making its rounds among the courthouses of [wardenism|E]. The #underline [Localize(Concatenate(created_legal_tradition.MakeScope.Var('legal_tradition_name').GetFlagName,'_name'))]#! school has only recently been founded, but has already found significant support and popularity among jurists of all stripes, and to hear its overzealous new supporters talk about it could easily make one think that it will bring about the [era_of_admin|E] itself.\n\nNonetheless, only time will tell whether the school will rise to true greatness, or just be one of the hundreds of traditions that have come and gone in history." #NT!
+ legal_tradition.1021.a: "Interesting." #NT!
+ legal_tradition.1031.t: "The Death of a School" #NT!
+ legal_tradition.1031.desc: "For years now, the popularity of the #underline [Localize(Concatenate(tradition_to_delete.MakeScope.Var('legal_tradition_name').GetFlagName,'_name'))]#! school has been dwindling - jurists that adhere to its teachings have become a vanishingly rare breed, and patronage is nonexistent. What had once been the avant-garde of Wardenite thought has grown stale and decrepit, its lustre now long gone.\n\nWith the last supporters of the tradition now themselves dying off as one generation passes the mantle to the next, the school's passage into the realm of historical footnote is all but assured." #NT!
+ legal_tradition.1031.a: "Interesting." #NT!
+  #################### 
+  # GENERAL TOOLTIPS # 
+ legal_challenge.critical_success: "You perform your legal duties in an exemplary manner" #NT!
+ legal_challenge.success: "You perform your legal duties in a respectable manner" #NT!
+ legal_challenge.failure: "You perform your legal duties in a poor manner" #NT!
+ corruption_challenge.success: "Your illicit activities remain undiscovered" #NT!
+ corruption_challenge.failure: "Your illicit activities are uncovered" #NT!
+ will_not_receive_this_type_of_case_cooldown_tooltip: "You will not receive this type of case to preside over for #E 3 years#!, any such cases falling within your jurisdiction instead being sent to a #E provisional court#!" #NT!
+ major_conflict_of_interest_exists_judge_tooltip: "@warning_icon! #X Due to your personal relations to one or both sides of the case, a major conflict of interest exists. It will be much more difficult to give a good legal justification either way, and the [piety] penalty for failing will be tripled. Consider recusing yourself.#!" #NT!
+ minor_conflict_of_interest_exists_judge_tooltip: "@warning_icon! #X Due to your personal relations to one or both sides of the case, a minor conflict of interest exists. It will be somewhat more difficult to give a good legal justification either way, and the [piety] penalty for failing will be doubled. Consider recusing yourself.#!" #NT!
+ evidence_strength_tooltip: "#BOL Evidence Strength:#! [judge.Custom('EvidenceStrengthTooltip')]" #NT!
+ evidence_strength_inverted_tooltip: "#BOL Evidence Strength:#! [judge.Custom('EvidenceStrengthInvertedTooltip')]" #NT!
+ criminal_case_personal_intuition_tooltip: "#BOL Personal Intuition:#! [judge.Custom('CriminalCaseIntuitionTooltip')]" #NT!
+ criminal_case_personal_intuition_inverted_tooltip: "#BOL Personal Intuition:#! [judge.Custom('CriminalCaseIntuitionInvertedTooltip')]" #NT!
+ criminal_case_conviction_seen_as_correct_tooltip: "The world is convinced of the defendant's guilt" #NT!
+ criminal_case_acquittal_seen_as_correct_tooltip: "The world is convinced of the defendant's innocence" #NT!
+ criminal_case_only_correct_judgement_will_give_jurist_progress_tooltip: "You will only get @judicial_power_icon! #E Jurist Trait Progress#! if you both make the correct judgement on the guilt of the defendant and convince the legal community of your reasoning" #NT!
+ can_preside_over_trials_tt: "#positive_value You can now preside over trials#!" #NT!
+  ############# 
+  # MODIFIERS # 
+ local_guild_supported_modifier: "Local Guild Supported" #NT!
+ local_guild_weakened_modifier: "Local Guild Weakened" #NT!
+ local_guild_disbanded_modifier: "Local Guild Disbanded" #NT!
+  ############## 
+  # CUSTOM LOC # 
+ peasant: "peasant" #NT!
+ well_off_citizen: "formerly well-regarded local citizen" #NT!
+ petty_noble: "petty noble" #NT!
+ nonexistent_evidence: "practically nonexistent, but they are virtually the only lead we have" #NT!
+ poor_evidence: "poor and unlikely to hold up to much scrutiny" #NT!
+ uncertain_evidence: "indicative of the accused's guilt, but with a few major unresolved uncertainties" #NT!
+ strong_evidence: "ironclad and almost certainly enough to convict beyond reasonable doubt" #NT!
+ very_strong_evidence: "so abundant and clearly indicative of the accused's guilt that the contrary could only be the result of either a miracle or outright framing" #NT!
+ nonexistent_evidence_tooltip: "#difficulty_hard nonexistent#!" #NT!
+ poor_evidence_tooltip: "#difficulty_hard poor#!" #NT!
+ uncertain_evidence_tooltip: "#difficulty_medium uncertain#!" #NT!
+ strong_evidence_tooltip: "#difficulty_easy strong#!" #NT!
+ very_strong_evidence_tooltip: "#difficulty_easy overwhelming#!" #NT!
+ nonexistent_evidence_inverted_tooltip: "#difficulty_easy nonexistent#!" #NT!
+ poor_evidence_inverted_tooltip: "#difficulty_easy poor#!" #NT!
+ uncertain_evidence_inverted_tooltip: "#difficulty_medium uncertain#!" #NT!
+ strong_evidence_inverted_tooltip: "#difficulty_hard strong#!" #NT!
+ very_strong_evidence_inverted_tooltip: "#difficulty_hard overwhelming#!" #NT!
+ certainly_not_guilty_intuition: "I am certain that there is no basis for the defendant's guilt, and acquittal seems like the only reasonable option." #NT!
+ probably_not_guilty_intuition: "I am of the opinion that there is little basis for the defendant's guilt, and though I should not dismiss evidence that suggests otherwise out of hand, this is still likely going to be an acquittal." #NT!
+ uncertain_guilty_intuition: "I am... unsure. I can see the arguments for both sides, and will likely have quite a bit of thinking to do before I make a decision." #NT!
+ probably_guilty_intuition: "I am quite sure of the defendant's guilt, and any alternatives, while not outside the realm of possibility, simply are not convincing to me." #NT!
+ certainly_guilty_intuition: "I am certain of the defendant's guilt, and this will be a clear-cut verdict if there ever was one." #NT!
+ certainly_not_guilty_intuition_tooltip: "#difficulty_hard definitely innocent#!" #NT!
+ probably_not_guilty_intuition_tooltip: "#difficulty_hard probably innocent#!" #NT!
+ uncertain_guilty_intuition_tooltip: "#difficulty_medium uncertain#!" #NT!
+ probably_guilty_intuition_tooltip: "#difficulty_easy probably guilty#!" #NT!
+ certainly_guilty_intuition_tooltip: "#difficulty_easy definitely guilty#!" #NT!
+ certainly_not_guilty_intuition_inverted_tooltip: "#difficulty_easy definitely innocent#!" #NT!
+ probably_not_guilty_intuition_inverted_tooltip: "#difficulty_easy probably innocent#!" #NT!
+ uncertain_guilty_intuition_inverted_tooltip: "#difficulty_medium uncertain#!" #NT!
+ probably_guilty_intuition_inverted_tooltip: "#difficulty_hard probably guilty#!" #NT!
+ certainly_guilty_intuition_inverted_tooltip: "#difficulty_hard definitely guilty#!" #NT!
+  ############### 
+  # LEGAL WORKS # 
+ the_pillars_of_virtue_name: "The Pillars of Virtue" #NT!
+ the_pillars_of_virtue_desc: "There is enough literature concerning [wardenite|E] law that reading all of it would take even a dedicated student a lifetime to finish. Fortunately, the five works of the [first_warden|E] that form the bedrock of the entire faith — the Three Fathers, Visions and Marginalia — are an uncontroversial starting point for any acolyte's legal studies.\n\nI begin with the First Warden's first and most widely read work, the Pillars lay down much of the foundational work of Wardenite doctrine - the Dead God, the Pillars of Virtue, and several of the most basic of moral imperatives of the faith. Luckily for me, it is also considered the most readable of the five canonical works." #NT!
+ the_book_of_days_name: "The Book of Days" #NT!
+ the_book_of_days_desc: "I continue to advance in my legal studies. Under advisement from some of the magistrates in my court I have acquired a copy of The Book of Days, the third and longest of the so called "Three Fathers".\n\nThe Book of Days is widely regarded as the driest of the [first_warden|E]'s books, and their time studying it is usually viewed with trepidation by most burgeoning legal scholars. The book covers all manner of minutiae in a stilted and awkward style, attempting to cover every possible loophole or exception to the laws and ideas laid out in the First Warden's other texts. Most notorious of all is the massive final half of the book which gives an in-depth guide to all things relating to property, inheritance, and land taxation. Truly a riveting work." #NT!
+ the_marginalia_name: "The Marginalia" #NT!
+ the_marginalia_desc: "Now I move beyond the Three Fathers, onto the Marginalia. Condensed from roughly a dozen smaller works authored by the [first_warden|E] and compiled at the hands of the early [Concept('mamur','Mamurs')|E], the fifth of the Canonical works is also the most controversial. Radical sects often coalesce around obscure texts which they claim were also written by the Father of Our Laws, but purposefully excluded from the Canonical Works by the machinations of wicked scholars or Ritualists.\n\nThe somewhat eclectic texts covers a range of topics, and can be very difficult for students to master. On the other side, its ramshackle nature means that there's something in it for almost any kind of reader. From frank discussions of military logistics to poetic retellings of the First Warden's lesser visions, the Marginalia truly contains multitudes." #NT!
+ the_visions_name: "The Visions" #NT!
+ the_visions_desc: "Now I move beyond the Three Fathers, onto the Visions of the [first_warden|E]. Considered to be of only marginal legal importance by more conservative scholars, the Visions lays out the core ideological basis of our faith. While the books of laws tell us how to live and rule, the Visions of the First Warden lays out, in vivid and somewhat disturbing detail, why we do these things.\n\nOf course, not all scholars dismiss the tome as an ideological or poetic work. Many metaphoralists have come to the conclusion that the passages contain double meanings which, when analyzed by trained scholars, can give valuable new insights into the law." #NT!
+ the_records_of_the_first_wardens_court_name: "The Records of the First Warden's Court" #NT!
+ the_records_of_the_first_wardens_court_desc: "Next on my plan for legal education comes the Records of the [first_warden|E]'s Court, helpfully provided for me by one of my local magistrates. The book is considered the second of the "Three Fathers", and an important milestone in any burgeoning legal scholar's education.\n\nThe Records is more or less exactly as it sounds - a study of the cases which passed through the First Warden's court over a period of roughly five years, though modern scholars bicker whether these cover every single case that the Father of our Laws presided over, or just the ones he considered most valuable to record. To a scholarly minded individual, the Records are something of a page turner, filled with demonstrable examples of [wardenite|E] law in action." #NT!

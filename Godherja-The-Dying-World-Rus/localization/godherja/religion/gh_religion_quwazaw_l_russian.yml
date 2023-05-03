@@ -1,0 +1,67 @@
+﻿l_russian:
+  
+ #quwazaw Loc 
+ quwazaw_religion: "Quwazaw" #NT!
+ quwazaw_religion_adj: "Quwazawi" #NT!
+ quwazaw_religion_adherent: "Quwazaw" #NT!
+ quwazaw_religion_adherent_plural: "Quwazawi" #NT!
+ quwazaw_religion_desc: "One would be forgiven for seeing the Quwazawi and assume they are an offshoot of the Adabyssians, revering great statues of men and beasts. However, the similarities end there. They believe that these divine megaliths are not merely representations of the gods crafted in their image, but the stone remnants of their gods' slumbering physical avatars. They protect these statues with all their might, waiting for the day that their patrons may need to reawaken. The gods are the true rulers of the world, and the Quwazawi are merely its interim caretakers." #NT!
+ quwazaw_high_god_name: "Azezos" #NT!
+ quwazaw_high_god_name_possessive: "Azezos'" #NT!
+ quwazaw_high_god_name_alternate: "The Stone Titan" #NT!
+ quwazaw_high_god_name_alternate_possessive: "The Stone Titan" #NT!
+ quwazaw_devil_name: "Baalak" #NT!
+ quwazaw_devil_name_possessive: "Baalak's" #NT!
+ quwazaw_death_deity_name: "Ba'alalt Gebak" #NT!
+ quwazaw_death_deity_name_possessive: "Ba'alalt Gebak's" #NT!
+ quwazaw_house_of_worship: "temple" #NT!
+ quwazaw_house_of_worship_plural: "temples" #NT!
+ quwazaw_religious_symbol: "The Stone Titan" #NT!
+ quwazaw_religious_text: "The Idols of the Divine" #NT!
+ quwazaw_religious_head_title: "The Great Journey" #NT!
+ quwazaw_religious_head_title_name: "Almasafiralrayiysiu" #NT!
+ quwazaw_devotee_male: "Traveler" #NT!
+ quwazaw_devotee_male_plural: "Travelers" #NT!
+ quwazaw_devotee_female: "Traveler" #NT!
+ quwazaw_devotee_female_plural: "Travelers" #NT!
+ quwazaw_devotee_neuter: "Traveler" #NT!
+ quwazaw_devotee_neuter_plural: "Travelers" #NT!
+ quwazaw_priest_male: "Almasafir" #NT!
+ quwazaw_priest_male_plural: "Almasafiri" #NT!
+ quwazaw_priest_female: "Almasafir" #NT!
+ quwazaw_priest_female_plural: "Almasafiri" #NT!
+ quwazaw_priest_alternate: "Almasafir" #NT!
+ quwazaw_priest_alternate_plural: "Almasafiri" #NT!
+ quwazaw_bishop: "Musafirmurtaf" #NT!
+ quwazaw_bishop_plural: "Musafirmurtaf" #NT!
+ quwazaw_positive_afterlife: "The Divine City" #NT!
+ quwazaw_negative_afterlife: "The City of the Sinners" #NT!
+ quwazaw_creator_god_name: "$quwazaw_high_god_name$" #NT!
+ quwazaw_creator_god_name_possessive: "$quwazaw_high_god_name_possessive$" #NT!
+ quwazaw_health_god_name: "Ba'al Hadak" #NT!
+ quwazaw_health_god_name_possessive: "Ba'al Hadak's" #NT!
+ quwazaw_fertility_god_name: "Ba'al Herkonen" #NT!
+ quwazaw_fertility_god_name_possessive: "Ba'al Herkonen's" #NT!
+ quwazaw_wealth_god_name: "Bal Hammon" #NT!
+ quwazaw_wealth_god_name_possessive: "Bal Hammon's" #NT!
+ quwazaw_household_god_name: "Buulshumin" #NT!
+ quwazaw_household_god_name_possessive: "Buulshumin's" #NT!
+ quwazaw_fate_god_name: "$quwazaw_high_god_name$" #NT!
+ quwazaw_fate_god_name_possessive: "$quwazaw_high_god_name_possessive$" #NT!
+ quwazaw_knowledge_god_name: "Baal-zeph" #NT!
+ quwazaw_knowledge_god_name_possessive: "Baal-zeph's" #NT!
+ quwazaw_war_god_name: "Khemosh" #NT!
+ quwazaw_war_god_name_possessive: "Khemosh's" #NT!
+ quwazaw_trickster_god_name: "Dagan" #NT!
+ quwazaw_trickster_god_name_possessive: "Dagan's" #NT!
+ quwazaw_night_god_name: "Eshmunlin" #NT!
+ quwazaw_night_god_name_possessive: "Eshmunlin's" #NT!
+ quwazaw_water_god_name: "$quwazaw_health_god_name$" #NT!
+ quwazaw_water_god_name_possessive: "$quwazaw_health_god_name_possessive$" #NT!
+ quwazaw_witch_god_name: "Ishara" #NT!
+ quwazaw_witch_god_name_possessive: "Ishara's" #NT!
+ quwazaw: "Quwazaw" #NT!
+ quwazaw_adj: "Quwazawi" #NT!
+ quwazaw_adherent: "Quwazawi" #NT!
+ quwazaw_adherent_plural: "Quwazawi" #NT!
+ quwazaw_desc: "The Quwazawi treat the titanic stone statues they worship with utmost reverence: they wash them, repaint the intricate designs on them, and even weave great cloaks for them that take entire villages a year to produce. The main driving force for these actions, dismissed by outsiders as foolish wastes of time and resources, is the confidence that they will be rewarded for their piety and duty when their gods reawaken and reassert their rule over mankind." #NT!

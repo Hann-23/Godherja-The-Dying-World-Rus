@@ -1,0 +1,123 @@
+﻿l_russian:
+  
+ #marcher Loc 
+ lifepath_religion: "Life Path" #NT!
+ lifepath_religion_adj: "Life Path" #NT!
+ lifepath_religion_adjerent: "Pathtreader" #NT!
+ lifepath_religion_adherent_plural: "Pathtreaders" #NT!
+ lifepath_religion_desc: "Unlike other religions, adherents of the Life Path care more about the journey through life than they do about the destination in the afterlife. They believe in a "clockmaker's universe," where all of existence is a perfect machine, but it may only function if certain roles are properly fulfilled by mankind. As the first and greatest of Wayfathers Sir Ranos laid out for the Marcher people, there are a multitude of different ways in life that people may follow, but within certain guidelines. All harmony comes from people following these ways as intended, and all chaos is caused by the refusal to do so.\n\nWhile [clerical_control_of_chevalie|E] has always been fairly heavy-handed, the [GetTitleByKey('d_lifepath_rel').GetNameNoTier] became the undisputed leader of the Lifepaths after the [war_of_the_heretic_princes|E], declaring schismaticism to be arch-heresy in the 1011 IS Council of Ex. Since Raocourt's victory, most Lifepath faithful have followed a version of the faith in which orthodoxy is tightly controlled by the reigning Council there." #NT!
+ marcher_high_god_name: "Wayfather Sir Ranos" #NT!
+ marcher_high_god_name_possessive: "High Wayfather Sir Ranos'" #NT!
+ marcher_high_god_name_alternate: "High Wayfather Ranos" #NT!
+ marcher_high_god_name_alternate_possessive: "High Wayfather Ranos'" #NT!
+ marcher_devil_name: "Katarnoax" #NT!
+ marcher_devil_name_possessive: "Katarnoax's" #NT!
+ marcher_death_deity_name: "Waymother Naustra" #NT!
+ marcher_death_deity_name_possessive: "Waymother Naustra's" #NT!
+ marcher_house_of_worship: "waymeet" #NT!
+ marcher_house_of_worship_plural: "waymeet" #NT!
+ marcher_religious_symbol: "nine-pointed star" #NT!
+ marcher_religious_text: "Lay of Ranos" #NT!
+ marcher_religious_head_title: "Master of Ways" #NT!
+ marcher_religious_head_title_name: "Master of Ways" #NT!
+ marcher_devotee_male: "Pathtreader" #NT!
+ marcher_devotee_male_plural: "Pathtreaders" #NT!
+ marcher_devotee_female: "Pathtreader" #NT!
+ marcher_devotee_female_plural: "Pathtreaders" #NT!
+ marcher_devotee_neuter: "Pathtreader" #NT!
+ marcher_devotee_neuter_plural: "Pathtreaders" #NT!
+ marcher_priest_male: "Wayfather" #NT!
+ marcher_priest_male_plural: "Wayfathers" #NT!
+ marcher_priest_female: "Waymother" #NT!
+ marcher_priest_female_plural: "Waymothers" #NT!
+ marcher_priest_alternate_plural: "Waymasters" #NT!
+ marcher_priest_neuter: "Wayleader" #NT!
+ marcher_priest_neuter_plural: "Wayleaders" #NT!
+ marcher_bishop: "Waymaster" #NT!
+ marcher_bishop_plural: "Waymaster" #NT!
+ marcher_bishop_possessive: "Waymaster's" #NT!
+ marcher_positive_afterlife: "Gerisonbastian" #NT!
+ marcher_negative_afterlife: "Grishaine" #NT!
+ marcher_creator_god_name: "Wayfather Evraux" #NT!
+ marcher_creator_god_name_possessive: "Wayfather Evraux's" #NT!
+ marcher_health_god_name: "$marcher_fertility_god_name$" #NT!
+ marcher_health_god_name_possessive: "$marcher_fertility_god_name_possessive$" #NT!
+ marcher_fertility_god_name: "Wayfather Rello" #NT!
+ marcher_fertility_god_name_possessive: "Wayfather Rello's" #NT!
+ marcher_wealth_god_name: "Waymother Florenta" #NT!
+ marcher_wealth_god_name_possessive: "Waymother Florenta's" #NT!
+ marcher_household_god_name: "Wayfather Marovech" #NT!
+ marcher_household_god_name_possessive: "Wayfather Marovech's" #NT!
+ marcher_fate_god_name: "Wayfather Lethar" #NT!
+ marcher_fate_god_name_possessive: "Wayfather Lethar's" #NT!
+ marcher_knowledge_god_name: "Waymother Syagria" #NT!
+ marcher_knowledge_god_name_possessive: "Waymother Syagria's" #NT!
+ marcher_war_god_name: "Waymother Besina" #NT!
+ marcher_war_god_name_possessive: "Waymother Besina's" #NT!
+ marcher_trickster_god_name: "Wayfather Tiranos" #NT!
+ marcher_trickster_god_name_possessive: "Wayfather Tiranos'" #NT!
+ marcher_night_god_name: "$marcher_devil_name$" #NT!
+ marcher_night_god_name_possessive: "$marcher_devil_name_possessive$" #NT!
+ marcher_water_god_name: "$marcher_health_god_name$" #NT!
+ marcher_water_god_name_possessive: "$marcher_health_god_name_possessive$" #NT!
+ marcher_witch_god_name: "$marcher_devil_name$" #NT!
+ marcher_witch_god_name_possessive: "$marcher_devil_name_possessive$" #NT!
+ lifepath: "Conclave of Raocourt" #NT!
+ lifepath_adj: "Conclave of Raocourt" #NT!
+ lifepath_adherent: "Pathtreader" #NT!
+ lifepath_adherent_plural: "Pathtreaders" #NT!
+ lifepath_desc: "At the age of sixteen, every Marcher is supposed to choose a Path (or more controversially, have one forced by a parent or lord) that dictates the role they are to play in both Marcher Society and the world. They are tutored in this path by a Waymaster, one skilled in their role who has dedicated their life to teaching others. Initiates study the ways of the revered Waysaints of the past, who guide the spirits in aiding the faithful down their Paths. For most of the faith's existence, its priesthood has organized beneath the [GetTitleByKey('d_lifepath_rel').GetNameNoTier]." #NT!
+  #witchhunter loc 
+ becledienism: "Becledienism" #NT!
+ becledienism_adj: "Becledien" #NT!
+ becledienism_adherent: "Becledite" #NT!
+ becledienism_adherent_plural: "Becledites" #NT!
+ becledienism_desc: "Becledienism is a Marcher belief system founded by the radical monk Urso Becledièvre during the 'War of the Heretic Princes' period of Chevalien history. Becledienism revolves around the concept that ones Lifepath is chosen at birth and not by the adherent's own self, and that a Wayfather must foretell the Path at birth by looking to the stars. Declared arch heresy at the Council of Ex along with the rest of the heresies spawned in the period, it nonetheless continued on for several decades after its compatriot heresies thanks to the relatively small number of (major) differences between the baseline faith." #NT!
+ darrallianism: "Darrallianism" #NT!
+ darrallianism_adj: "Darrallianist" #NT!
+ darrallianism_adherent: "Darrallianist" #NT!
+ darrallianism_adherent_plural: "Darrallianists" #NT!
+ darrallianism_desc: "Founded by noblewoman turned preacher Cathrène den va Darrall, Darrallianism is an esoteric blend of beliefs centered around the 'Tripath'; a belief that the only Paths are those of War, Peace and Death. Darrall also claimed that Wayleaders should rule Chevalie as a [Concept( 'clerical_control_of_chevalie', 'theocratic class' )|E]. This and her belief that anyone could be a Wayleader led to many lords converting to establish power through divine right during the [war_of_the_heretic_princes|E]." #NT!
+ arderism: "Arderism" #NT!
+ arderism_adj: "Arderian" #NT!
+ arderism_adherent: "Arderist" #NT!
+ arderism_adherent_plural: "Arderists" #NT!
+ arderism_desc: "The iconoclastic Arderists (from the [chevalien|E] word for 'burning') see the idolization of spiritual entities (such as gods and waysaints) as the source of all [magic|E] (and [liches|E]). Led during the [war_of_the_heretic_princes|E] by the enigmatic '[black_monk|E]', the burning dozens of churches and hundreds of religious artifacts and adoption by many warlords hoping to seize church lands is often credited for collapsing Raocourt's power in northern [chevalie|E]." #NT!
+ saintsmarch: "Saintsmarch" #NT!
+ saintsmarch_adj: "Saintsmarcher" #NT!
+ saintsmarch_adherent: "Saintsmarcher" #NT!
+ saintsmarch_adherent_plural: "Saintsmarchers" #NT!
+ saintsmarch_desc: "The Saintsmarch is a revanchist movement founded by veteran [antimagi|E] turned prophet Wildermutt den va Seyseunns. Highly militaristic, adherents hold the [GetTrait('way_of_nullification_follower').GetName( GetNullCharacter )] and the [GetTrait('way_of_swords_follower').GetName( GetNullCharacter )] above all others and claim peace can only be found when all [magi|E] are dead. While briefly entertained by several lords, the [war_of_the_noose|E] would lead to the movement's decline and eventual collapse." #NT!
+ innerpath: "Inner Path" #NT!
+ innerpath_adj: "Inner Path" #NT!
+ innerpath_adherent: "Pathtreader" #NT!
+ innerpath_adherent_plural: "Pathtreaders" #NT!
+ innerpath_desc: "The 'Inner Path' is actually a loose name for several versions of the Lifepath normally practiced in the more remote or rugged parts of [chevalie|E], primarily the mountainous interior where the last of the Gallicaders remain. Far looser in many rules and in nature than the mainstream Lifepath, it is the result of Lifepath preachers attempting to reconcile several native Gallicader beliefs with those of their faith.\n\nWhile it has slowly fallen out of favor and has been generally shunned out of Marcher society - especially after the general hostilities against factionalism in the faith following the War of the Heretic Princes - it is nonetheless still popular in some circles." #NT!
+ coastpath: "Coast Path" #NT!
+ coastpath_adj: "Coast Path" #NT!
+ coastpath_adherent: "Pathtreader" #NT!
+ coastpath_adherent_plural: "Pathtreaders" #NT!
+ coastpath_desc: "The 'Coast Path' is an exceptionally loose gathering of several dozen separate faiths that are native to the Konijkmener coasts as well as southeastern [chevalie|E]. The fusing of native beliefs in oceanic and river based pantheons with the Lifepath, it enjoyed several hundred years of relative isolation before being stamped out brutally by Konen Brooeden of the Konijkmener in 772 IS as part of his attempts to centralize the realm. With much of the faith destroyed and little interest or need for it in Chevalie, the Chevaliens soon after began their own process of rooting out the native faiths, though pockets have doggedly survived throughout the centuries." #NT!
+ four_steps_of_salvation: "Four Steps of Salvation" #NT!
+ four_steps_of_salvation_adj: "Four Steps of Salvation" #NT!
+ four_steps_of_salvation_adherent: "Salvationist" #NT!
+ four_steps_of_salvation_adherent_plural: "Salvationists" #NT!
+ four_steps_of_salvation_desc: "The Four Steps of Salvation was a heresy of the Lifepath formed in the mid 9th century by Chevalien aristocrat Thiscul den va Vescot. Salvationists preach that the four true paths are the Way of Pain, the Way of Blood, the Way of Dread, and the Way of Fear, and demanded of its followers everything from ritualized cannibalism to mass torture and murder indiscriminate of station, gender or age.\n\nAlways on the fringe, Salvationists entered the public eye after a string of brutal murders in [peti_gisredde|E], and briefly rose up in several cities before being brutally stomped down on by an inquisitorial force along with over a dozen knightly orders. Thiscul himself, along with his entire dynasty, was publically executed, and 'Thiscul' is now considered something akin to a heretical curse word in Chevalien society." #NT!
+ conclave_of_opakhasia: "Conclave of Opakasija" #NT!
+ conclave_of_opakhasia_adj: "Conclave of Opakasija" #NT!
+ conclave_of_opakhasia_adherent: "Opakasijan" #NT!
+ conclave_of_opakhasia_adherent_plural: "Opakasijans" #NT!
+ conclave_of_opakhasia_desc: "Founded by Lifepather missionaries, the Conclave of Opakasija was officialy formed with the codification of the 'Eastern Paths'. A strange merging of pagan Sjalvolki myth and the Lifepaths of the Marchers, the Conclave of Opakasija preaches the existence of four distinct Lifepaths. The Path of the Hunt, focused on the improvement of one's inner self; the Path of the Sword, focused on practicing war and training the body; the Path of the Shepherd, focused on practicing peaceful pursuits and training the mind; and the Path of the Stars, focusing on magic and trickery.\n\nWhile initially seen as an odd but promising offshoot of the mainstream Marcher faith, with many expecting it to one day join proper northern dogma with the increasing of ties, the Entreatment of Ventell led to the Conclave of Opakasija being declared arch-heresy. With the breaking of ties, the southern worshippers formed their own Conclave to oppose the now antagonistic northerners, and the practices of the southern faith rapidly separated from mainstream Marcher rite." #NT!
+ conclave_of_gisredde: "Conclave of Gisredde" #NT!
+ conclave_of_gisredde_adj: "Gisreddean" #NT!
+ conclave_of_gisredde_adherent: "Gisreddean" #NT!
+ conclave_of_gisredde_adherent_plural: "Gisreddeans" #NT!
+ conclave_of_gisredde_desc: "The Conclave of Gisredde can be best described as an 'anti-Conclave' to the [GetTitleByKey('d_lifepath_rel').GetNameNoTier]. With [peti_gisredde|E] historically chaffing under any sort of outside interference, it should have been expected that they would inevitability dispute (often violently) the influence of 'foreign' churches, even those of the same faith within the same realm that practice the same culture.\n\nFirst declared in 389 IS with the Pontgonez Dispute, the Conclave would fade out of relevance and then suddenly return every few decades. Normally, this would coincide with the Conclave of Raocourt's attempts to enforce any amount of orthodoxy on the always individualistic Gisreddeans, with the 'schism' only ended once they gave the local wayfathers a significant tax decrease." #NT!
+ ####for coronation traits to work properly 
+ marcher_priest: "Waymaster" #NT!
+ marcher_priest_plural: "Waymasters" #NT!
+ #Holy Orders 
+ holy_order_swords_of_ranos: "Swords of Ranos" #NT!
+ holy_order_shields_way: "Shields of the Way" #NT!
+ holy_order_champions_conclave: "Champions of the Conclave" #NT!
+ holy_order_the_pathwardens: "The Pathwardens" #NT!

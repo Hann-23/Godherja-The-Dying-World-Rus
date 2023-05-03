@@ -1,0 +1,69 @@
+﻿l_russian:
+  
+ #hubarism Loc 
+ hubarism_religion: "Hubarism" #NT!
+ hubarism_religion_adj: "Hubarist" #NT!
+ hubarism_religion_adherent: "Hubarist" #NT!
+ hubarism_religion_adherent_plural: "Hubarists" #NT!
+ hubarism_religion_desc: "The Hubarists are part of an ancient faith in [sarradon|E], one practiced by [living_magi|E] as far back as recorded history goes. At the center of the faith is the Sun, the origin of all things and whose blessings come down upon [magi|E] as rays of light that shine upon the crops. As the Sun travels across the sky, it ferries the souls of the dead to its realm, where it holds court during the night. The Sun's antagonist is Ölüm, who sends his avatar—the [Concept('aervalr','Moon')|E]—to hunt the Sun during the night." #NT!
+ hubarism_high_god_name: "Shamsah" #NT!
+ hubarism_high_god_name_possessive: "Shamsah's" #NT!
+ hubarism_high_god_name_alternate: "The Great Sun" #NT!
+ hubarism_high_god_name_alternate_possessive: "The Great Sun's" #NT!
+ hubarism_devil_name: "$hubarism_death_deity_name$" #NT!
+ hubarism_devil_name_possessive: "$hubarism_death_deity_name_possessive$" #NT!
+ hubarism_death_deity_name: "The Void" #NT!
+ hubarism_death_deity_name_possessive: "The Void's" #NT!
+ hubarism_house_of_worship: "Temple" #NT!
+ hubarism_house_of_worship_plural: "Temples" #NT!
+ hubarism_religious_symbol: "The Radiance of the Sun" #NT!
+ hubarism_religious_text: "The Scrolls of Shamsah" #NT!
+ hubarism_religious_head_title: "Radiant Magi-Judge" #NT!
+ hubarism_religious_head_title_name: "Court of the Great Sun" #NT!
+ hubarism_devotee_male: "Hubarist" #NT!
+ hubarism_devotee_male_plural: "Hubarists" #NT!
+ hubarism_devotee_female: "Hubarist" #NT!
+ hubarism_devotee_female_plural: "Hubarists" #NT!
+ hubarism_devotee_neuter: "Hubarist" #NT!
+ hubarism_devotee_neuter_plural: "Hubarist" #NT!
+ hubarism_priest_male: "Magi-Judge" #NT!
+ hubarism_priest_male_plural: "Magi-Judges" #NT!
+ hubarism_priest_female: "Magi-Judge" #NT!
+ hubarism_priest_female_plural: "Magi-Judges" #NT!
+ hubarism_priest_alternate: "Magi-Judge" #NT!
+ hubarism_priest_alternate_plural: "Magi-Judges" #NT!
+ hubarism_bishop: "Brilliant Magi-Judge" #NT!
+ hubarism_bishop_plural: "Brilliant Magi-Judges" #NT!
+ hubarism_positive_afterlife: "College of Shamsah" #NT!
+ hubarism_negative_afterlife: "The Void" #NT!
+ hubarism_creator_god_name: "$hubarism_high_god_name$" #NT!
+ hubarism_creator_god_name_possessive: "$hubarism_high_god_name_possessive$" #NT!
+ hubarism_health_god_name: "$hubarism_high_god_name$" #NT!
+ hubarism_health_god_name_possessive: "$hubarism_fertility_god_name_possessive$" #NT!
+ hubarism_fertility_god_name: "$hubarism_high_god_name$" #NT!
+ hubarism_fertility_god_name_possessive: "$hubarism_high_god_name_possessive$" #NT!
+ hubarism_wealth_god_name: "$hubarism_high_god_name$" #NT!
+ hubarism_wealth_god_name_possessive: "$hubarism_high_god_name_possessive$" #NT!
+ hubarism_household_god_name: "$hubarism_high_god_name_alternate$" #NT!
+ hubarism_household_god_name_possessive: "$hubarism_high_god_name_alternate_possessive$" #NT!
+ hubarism_fate_god_name: "$hubarism_high_god_name$" #NT!
+ hubarism_fate_god_name_possessive: "$hubarism_high_god_name_possessive$" #NT!
+ hubarism_knowledge_god_name: "$hubarism_high_god_name$" #NT!
+ hubarism_knowledge_god_name_possessive: "$hubarism_high_god_name_possessive$" #NT!
+ hubarism_war_god_name: "$hubarism_high_god_name_alternate$" #NT!
+ hubarism_war_god_name_possessive: "$hubarism_high_god_name_alternate_possessive$"" #NT!
+ hubarism_trickster_god_name: "$hubarism_death_deity_name$" #NT!
+ hubarism_trickster_god_name_possessive: "$hubarism_death_deity_name_possessive$" #NT!
+ hubarism_night_god_name: "$hubarism_trickster_god_name$" #NT!
+ hubarism_night_god_name_possessive: "$hubarism_trickster_god_name$" #NT!
+ hubarism_water_god_name: "$hubarism_high_god_name_alternate$" #NT!
+ hubarism_water_god_name_possessive: "$hubarism_high_god_name_alternate_possessive$" #NT!
+ hubarism_witch_god_name: "$hubarism_death_deity_name$" #NT!
+ hubarism_witch_god_name_possessive: "$hubarism_death_deity_name_possessive$" #NT!
+ #hubarism loc 
+ hubarism: "Hubarism" #NT!
+ hubarism_adj: "Hubarite" #NT!
+ hubarism_adherent: "Hubarist" #NT!
+ hubarism_adherent_plural: "Hubarists" #NT!
+ hubarism_desc: "The Hubarists treat [magi|E], who received their gifts from the Sun, as keepers of its will and enforcers of the law. This system of Magi-judges was effective since time immemorial, but its fortunes have reversed recently. Centuries of religious conflict with the [wardenites|E], [ritualists|E], and finally the Agionists have greatly diminished their power, and the Hubarists are now a shadow of what they once were." #NT!
+ holy_order_mekter_netaru: "Mekter Netaru" #NT!
