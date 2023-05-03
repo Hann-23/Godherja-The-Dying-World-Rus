@@ -1,12 +1,12 @@
 ﻿l_russian:
- gh_fog_spread_events.10.title: "The [fog|E] Approaches" #NT!
- gh_fog_spread_events.10.desc: "Darkness looms on the horizon. At first, it was the persistent nightmares, then it was the disappearing peasants, and now that an ominous mist rises, it can no longer be denied - the [fog|E] is creeping upon our lands.\n\nThough still livable, the land has already begun to suffer. Both nobles and smallfolk alike have been frantically gathering what possessions they can and making for greener pastures, while the ghoulish denizens of the [fog|E] have begun descending upon the unprotected and foolish." #NT!
- gh_fog_spread_events.11.t: "Whispers" #NT!
- gh_fog_spread_events.11.desc: "Why am I still here? Every peasant with half the wits of a chicken has already left - there is nothing left here that would interest anyone but the mad! Am I mad?\n\nI can hear it... those things. They speak nonsense, lies, LIES, all of them they LIE.\n\nThe infernal chittering can't get out of my head even when I sleep but I don't sleep because it always wants me to Listen chitter but but it wants to say the chitterchitter truth Listen truth chitter but it lies and I want want the truth yes the truth yes yes yes yesyesyes" #NT!
- gh_fog_spread_events.11.a: "no no NO! I MUST GET OUT OF HERE!" #NT!
- gh_fog_spread_events.11.a.escape.tt: "You successfully escape!" #NT!
- gh_fog_spread_events.11.a.die.tt: "You perish to the perils of the [fog|E]." #NT!
- gh_fog_spread_events.11.a.listen.tt: "You LISTEN." #NT!
- gh_fog_spread_events.11.b: "I CAN HEAR NOW" #NT!
- gh_fog_spread_events.12.title: "Lost to the [fog|E]" #NT!
- gh_fog_spread_events.12.desc: "The last column of refugees from one of my holdings has left the [fogland_forsaken|E] area. Anyone remaining there by this point is either dead, corrupted, or brave beyond possibility - and also soon to be dead or corrupted.\n\nThough I still nominally hold the province, it has entirely slipped out of my control, and is now a hellish wasteland controlled by those vile abominations that skulk within the [fog|E]." #NT!
+ gh_fog_spread_events.10.title:0 "Concept('fog', 'Туман')|E] приближается"
+ gh_fog_spread_events.10.desc:0 "Тьма надвигается с горизонта. Сначала это были постоянные кошмары, потом исчезающие крестьяне, а теперь, когда поднимается зловещая мгла, этого больше нельзя отрицать - [Concept('fog', 'Туман')E] ползет по нашим землям.\n\n Хотя жить еще можно, земля уже начала страдать. Как знать, так и простые люди лихорадочно собирают все, что могут, и уходят к более зеленым пастбищам, в то время как отвратительные обитатели [Concept('fog', 'Тумана')|] начали нападать на беззащищитных и глупых людей."
+ gh_fog_spread_events.11.t:0 "Шепчет"
+ gh_fog_spread_events.11.desc:0 "Почему я все еще здесь? Каждый крестьянин с половиной куриного ума уже ушел - здесь не осталось ничего, что могло бы заинтересовать кого-либо, кроме сумасшедших! Я сошел с ума? \n\n Я слышу это... эти вещи. Они говорят чушь... Лгут, ЛГУТ, все они ЛГУТ. \n\n Адское бормотание не выходит у меня из головы, даже когда я сплю, но я не сплю, потому что оно всегда хочет, чтобы я слушал эту болтовню, но... но оно хочет сказать правду, болтовню, слушаю правду, но это ложь, и я хочу, хочу правды, да, правды, да, да, да, да, да."
+ gh_fog_spread_events.11.a:0 "нет, нет, НЕТ! Я ДОЛЖЕН ВЫБРАТЬСЯ ОТСЮДА!"
+ gh_fog_spread_events.11.a.escape.tt:0 "Вы успешно сбежали!"
+ gh_fog_spread_events.11.a.die.tt:0 "Вы погибаете от опасностей [Concept('fog', 'Тумана')|E]."
+ gh_fog_spread_events.11.a.listen.tt:0 "Ты СЛУШАЕШЬ."
+ gh_fog_spread_events.11.b:0 "ТЕПЕРЬ Я МОГУ СЛЫШАТЬ"
+ gh_fog_spread_events.12.title:0 "Потерянный в [Concept('fog', 'Тумане')|E]"
+ gh_fog_spread_events.12.desc:0 "Последняя колонна беженцев из моих владений покинула [Concept('fogland_forsaken','граничащий с туманом')|E] район. Любой, кто останется там к этому моменту, либо мертв, либо безумен, либо храбр до невозможности, но скоро будет мертв или безумен. \n\n Хотя я все еще номинально владею провинцией, она полностью вышла из-под моего контроля и теперь представляет собой адскую пустошь, контролируемую теми мерзкими тварями, которые прячутся в [Concept('fog', 'Тумане')|E]."
