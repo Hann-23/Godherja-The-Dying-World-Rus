@@ -1,6 +1,6 @@
 ﻿l_russian:
 
- magocratic_government:0 "Магократия"  
+ magocratic_government:0 "Магократия"
  magocratic_government_realm:0 "Магократия" 
  magocratic_government_desc:0 "$game_concept_magocracy_desc$\n\n#F Магократия - это земли, управляемые единственным [Concept('magi', 'магом')|Е]. Этот [Concept('magi', 'маг')|Е] правит во многом как феодальный правитель, за исключением того, что государственное устройство таково, что править могут только [Concept('magi', 'маги')|Е]. Это приводит к системе, где любой ребенок, не обладающий магическим даром, автоматически считается лишенным наследства".
  magocratic_government_adjective:0 "Магократ"
@@ -45,7 +45,7 @@
  migratory_government:0 "Кочевники" #NT!
  migratory_government_adjective:0 "Кочующий" #NT!
  migratory_government_realm:0 "Кочевники" #NT!
- migratory_government_desc:0 "Кочующие государства либо не имеют дома, либо мигрируют между несколькими. Кочевники [Concept('aeras', 'Аэраса')|Е] варьируются от пустынных кланов до странствующих искателей приключений и [Concept('fogeaters','maddened once-men')|E]. Страны кочевников не следует путать с большими группами, выполняющими [Concept('migrations','great migrations')|E] после катастрофических событий [Concept('frodbrokna', 'Фродброкны')|Е].\n\n#N Правительства кочевников скоро будут доступны#!" #NT!
+ migratory_government_desc:0 "Кочующие государства либо не имеют дома, либо перемещаются между несколькими. Кочевники [Concept('aeras', 'Аэраса')|Е] варьируются от пустынных кланов до странствующих искателей приключений и [Concept('fogeaters','туманников')|E]. Страны кочевников не следует путать с большими группами, которые [Concept('migrations','мигрируют')|E] после катастрофических событий [Concept('frodbrokna', 'Фродброкны')|Е].\n\n#N Правительства кочевников скоро будут доступны для игры#!" #NT!
 
  wasteland_government:0 "Пустошь" #NT!
  wasteland_government_realm:0 "Пустошь" #NT!
@@ -70,8 +70,8 @@
  vassal_contribution_dread:0 "Основанный на страхе" #NT!
  vassal_contribution_dread_short:0 "Основанный на страхе" #NT!
  vassal_contribution_dread_desc:0 "#emphasis Сумма налогов и сборов, которые [Concept('vassal', 'вассал')|Е], как ожидается, будет вносить, привязана к @dread_icon [Concept('dread', 'ужасу')|Е] их [Concept('liege', 'сюзерена')|Е]!.#!\n\n#flavor Пиратские вассалы будут запуганы только правителями, которые вселяют страх в их сердца.#!" #NT!
- vassal_contribution_prestige:0 "На основе славы" #NT!
- vassal_contribution_prestige_short:0 "На основе славы" #NT!
+ vassal_contribution_prestige:0 "На основе престижа" #NT!
+ vassal_contribution_prestige_short:0 "На основе престижа" #NT!
  vassal_contribution_prestige_desc:0 "#emphasis Сумма налогов и сборов, которые [Concept('vassal', 'вассал')|Е], как ожидается, будет вносить, привязана к @prestige_icon их [Concept('prestige', 'престижу')|Е] их [Concept('liege', 'сюзерена')|Е]!.#!\n\n#flavor Военные части склоняются только перед правителями, которых они уважают.#!" #NT!
 
  pirate_government_obligations:0 "Страшные обязательства" #NT!
