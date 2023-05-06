@@ -1,12 +1,14 @@
 ﻿l_russian:
-  
- #widow 
- gh_widow.1.t: "A Rushing Bereftness" #NT!
- gh_widow.1.desc: "I am dead and gone, lost to the dark. My spouse will suffer for this." #NT!
- gh_widow.1.a: "You shouldn't be seeing this." #NT!
- gh_widow.2.t: "The Night is Passing" #NT!
- gh_widow.2.desc: "It has been so very long since my beloved was taken from me. So long, in fact, that it does not hurt as much as it once did to think of loving again. The world is not so dark anymore. They are gone, and there is no changing that. Perhaps it is time to move on." #NT!
- gh_widow.2.a: "Yes, yes it is time." #NT!
- stress_threshold_special.1001.widowed: "While I know [deceased_character.GetSheHe] is gone, I do not know if I will find their love again." #NT!
- stress_threshold_special.1001.widowed.flavor: "...and I do not want to." #NT!
- stress_threshold_special.2001.c: "While my love was lost, I think it can be found again." #NT!
+
+#widow
+
+gh_widow.1.t:0 "Нестерпимая потеря"
+gh_widow.1.desc:0 "Я мертв и потерян во тьме. Мой партнер будет страдать из-за этого."
+gh_widow.1.a:0 "За что мне всё это?!"
+
+gh_widow.2.t:0 "Ночь проходит"
+gh_widow.2.desc:0 "Прошло так много времени с тех пор, как мою любовь забрали у меня. На самом деле так много, что уже не так больно, как когда-то, думать о новой любви. Мир уже не такой темный. Мой партнер ушел, и этого не изменить. Возможно, пора двигаться дальше."
+gh_widow.2.a:0 "Да, да, пора."
+stress_threshold_special.1001.widowed:0 "Хотя я знаю, что [deceased_character.GetSheHe] больше нет, я не знаю, найду ли я любовь снова." #NT!
+stress_threshold_special.1001.widowed.flavor:0 "... и я не хочу." #NT!
+stress_threshold_special.2001.c:0 "Хотя я потерял свою любовь, я думаю, что ее можно снова найти." #NT!

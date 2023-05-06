@@ -1,9 +1,9 @@
 ﻿l_russian:
  #################
  # HOLDING TYPES #
- #################
+ ################# 
 
- military_district_holding:0 "Военный округ" 
+ military_district_holding:0 "Военный округ"
  palatial_district_holding:0 "Дворец"
  maritime_district_holding:0 "Приморский округ"
  academic_district_holding:0 "Учебный район"
