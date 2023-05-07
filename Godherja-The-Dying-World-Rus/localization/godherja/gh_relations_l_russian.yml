@@ -1,16 +1,18 @@
 ﻿l_russian:
- relation_magic_tutor_female: "Court Magi" #NT!
- relation_magic_tutor_male: "Court Magi" #NT!
- relation_magic_tutor_female_possessive: "Court Magi's" #NT!
- relation_magic_tutor_male_possessive: "Court Magi's" #NT!
-  
- magic_tutor: "[magic_tutor|E]" #NT!
- killed_my_mother: "[CHARACTER.GetShortUIName|U] began a lifelong quest for vengeance after being forced to watch [TARGET_CHARACTER.GetShortUIName|U] execute [CHARACTER.GetShortUINamePossessiveNoTooltip] mother." #NT!
- killed_my_mother_corresponding: "[CHARACTER.GetShortUIName|U] has been marked for vengeance by [TARGET_CHARACTER.GetShortUIName|U] after executing [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] mother." #NT!
- soulmate_pirates: "[CHARACTER.GetShortUIName|U] seduced [TARGET_CHARACTER.GetShortUIName|U] after saving them from pirates." #NT!
- soulmate_pirates_corresponding: "[TARGET_CHARACTER.GetShortUIName|U] seduced [CHARACTER.GetShortUIName|U] after saving them from pirates." #NT!
- # GH versions of BP custom loc 
- relation_pathfellow: "pathfellow" #NT!
- relation_pactkin: "pactkin" #NT!
- relation_blood_brother: "blood brother" #NT!
- relation_blood_sister: "blood sister" #NT!
+ relation_magic_tutor_female:0 "Придворный Маг"
+ relation_magic_tutor_male:0 "Придворный Маг"
+ relation_magic_tutor_female_possessive:0 "Придворный Маг"
+ relation_magic_tutor_male_possessive:0 "Придворный Маг"
+
+ magic_tutor:1 "[Concept('magic_tutor','Учитель магии')|E]"
+
+ killed_my_mother:0 "[CHARACTER.GetShortUIName|U] всю жизнь стремился отомстить после того, как был вынужден смотреть, как [TARGET_CHARACTER.GetShortUIName|U] казнит мать [CHARACTER.GetShortUINamePossessiveNoTooltip]." #NT!
+ killed_my_mother_corresponding:0 "[CHARACTER.GetShortUIName|U] был отмечен [TARGET_CHARACTER.GetShortUIName|U] для мести после казни [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] матери." #NT!
+ soulmate_pirates:0 "[CHARACTER.GetShortUIName|U] соблазнил [TARGET_CHARACTER.GetShortUIName|U] после того, как спас от пиратов." #NT!
+ soulmate_pirates_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] соблазнил [CHARACTER.GetShortUIName|U] после того, как спас от пиратов." #NT!
+
+# GH versions of BP custom loc
+ relation_pathfellow:0 "путник" #NT!
+ relation_pactkin:0 "паккин" #NT!
+ relation_blood_brother:0 "кровный брат" #NT!
+ relation_blood_sister:0 "кровная сестра" #NT!

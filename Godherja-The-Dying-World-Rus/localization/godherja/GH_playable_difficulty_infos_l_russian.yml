@@ -1,11 +1,11 @@
 ﻿l_russian:
- pdi_imperrech_warpath: "At risk of conquest in the [sjalvolki_migrations|E]" #NT!
- pdi_last_stand: "At [war|E] against the [Concept('sjalvolki_migrations','Witch-Breaker')|E]" #NT!
- pdi_legacy_of_elysia: "[modifier|E]: [GetModifier('legacy_of_elysia').GetNameWithTooltip] until 1304 IS" #NT!
- pdi_legacy_of_icw: "[modifier|E]: [GetModifier('legacy_of_icw').GetNameWithTooltip] until 1286 IS" #NT!
- pdi_malcoisiac_anarchy: "[modifier|E]: [GetModifier('malcoisiac_anarchy').GetNameWithTooltip] until a [kingdom|E] or [empire|E] is formed" #NT!
- pdi_reliant_on_vampirism: "[trait|E]: At risk of $action_dying$ without the [GetTrait('gh_vampiric').GetName( GetNullCharacter )] trait" #NT!
- pdi_killed_the_world: "[modifier|E]: [GetModifier('aeschraes_pissed_on_my_wife').GetNameWithTooltip]" #NT!
- pdi_puppet: "[trait|E]: [GetTrait('gh_puppet').GetName( GetNullCharacter )]" #NT!
- pdi_magic_is_shunned: "Faith Shuns [magic|E]" #NT!
- pdi_magic_is_criminal: "Faith Criminalizes [magic|E]" #NT!
+ pdi_imperrech_warpath:0 "Под угрозой завоевания в [Concept('sjalvolki_migrations','переселении Сьялволки')|E]" #NT!
+ pdi_last_stand:0 "В [Concept('war','войне')|E] против [Concept('sjalvolki_migrations','Witch-Breaker')|E]" #NT!
+ pdi_legacy_of_elysia:0 "[modifier|E]: [GetModifier('legacy_of_elysia').GetNameWithTooltip] до 1304 г." #NT!
+ pdi_legacy_of_icw:0 "[modifier|E]: [GetModifier('legacy_of_icw').GetNameWithTooltip] до 1286 г." #NT!
+ pdi_malcoisiac_anarchy:0 "[modifier|E]: [GetModifier('malcoisiac_anarchy').GetNameWithTooltip], пока не будет сформировано [kingdom|E] или [empire|E]" #NT!
+ pdi_reliant_on_vampirism:0 "[trait|E]: подвержен риску $action_dying$ без свойства [GetTrait('gh_vampiric').GetName( GetNullCharacter )]" #NT!
+ pdi_killed_the_world:0 "[modifier|E]: [GetModifier('aeschraes_pissed_on_my_wife').GetNameWithTooltip]" #NT!
+ pdi_puppet:0 "[trait|E]: [GetTrait('gh_puppet').GetName( GetNullCharacter )]" #NT!
+ pdi_magic_is_shunned:0 "Вера избегает [Concept('magic','магии')|E]" #NT!
+ pdi_magic_is_criminal:0 "Вера криминализирует [Concept('magic','магию')|E]" #NT!

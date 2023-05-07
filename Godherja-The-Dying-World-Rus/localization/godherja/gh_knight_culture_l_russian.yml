@@ -1,9 +1,9 @@
 ﻿l_russian:
   # No tooltip versions 
- knight_aversarian_no_tooltip:0 "Гепразитос" #NT! 
+ knight_aversarian_no_tooltip:0 "Гепразитос" #NT!
  knight_aversarian_no_tooltip_plural:0 "Гепраситои" #NT!
 
- knight_marcher_no_tooltip:0 "Шевалье" #NT! 
+ knight_marcher_no_tooltip:0 "Шевалье" #NT!
  knight_marcher_no_tooltip_plural:0 "Шевалье" #NT!
 
  knight_mubaaizun_no_tooltip:0 "Mubaaizun" #NT!
@@ -20,17 +20,17 @@
 
  knight_marcher_no_tooltip_lowercase:0 "шевалье" #NT!
  knight_marcher_no_tooltip_lowercase_plural:0 "шевалье" #NT!
- knight_marcher_no_tooltip_lowercase_plural_possessive:0 "Шевалье" #NT!
+ knight_marcher_no_tooltip_lowercase_plural_possessive:0 "шевалье" #NT!
  knight_marcher_no_tooltip_lowercase_adjective:0 "шевальеск" #NT!
 
  knight_mubaaizun_no_tooltip_lowercase:0 "мубаризуны" #NT!
  knight_mubaaizun_no_tooltip_lowercase_plural:0 "мубаризун" #NT!
- knight_mubaaizun_no_tooltip_lowercase_plural_possessive:0 "мубаризун'" #NT!
+ knight_mubaaizun_no_tooltip_lowercase_plural_possessive:0 "мубаризуны" #NT!
  knight_mubaaizun_no_tooltip_lowercase_adjective:0 "мубаризунский" #NT!
 
  knight_sjalvolki_no_tooltip_lowercase:0 "хускарл" #NT!
  knight_sjalvolki_no_tooltip_lowercase_plural:0 "хускарлы" #NT!
- knight_sjalvolki_no_tooltip_lowercase_plural_possessive:0 "хускарла" #NT!
+ knight_sjalvolki_no_tooltip_lowercase_plural_possessive:0 "хускарлы" #NT!
  knight_sjalvolki_no_tooltip_lowercase_adjective:0 "хускарлский" #NT!
 
   #Game Concept versions

@@ -1,19 +1,23 @@
 ﻿l_russian:
-  
- #west_migration 
- west_migration.0001.t: "I am Master of the West" #NT!
- west_migration.0001.desc: "I have broken the back of the [aversarian|E] homeland, and thus I rightfully deserve the greatest spoils. The new Empires of Sjevregard, Maskiv, and Keiskad are mine for the taking. These lands are the richest of Western [aversaria|E]. I will lose all of my current personal holdings, and all of my titles except for my primary title. Should I not take them, who holds them now will keep them. Whatever I choose, the migration of the Sjalvolki coalition has begun. The lands of my vassals will radically change." #NT!
- west_migration.0001.a: "These lands will be my new home" #NT!
- west_migration.0001.b: "I will stay where I am" #NT!
- west_migration.0002.t: "A New Land for my People" #NT!
- west_migration.0002.desc: "My liege has broken the Western [aversarians|E], and so he divides the spoils among his loyal vassals. As a Daukeni, I have been promised the Kingdom of Dahagrad. My advisors have warned me that if I do not take this Kingdom, the lands of my current vassals may be lost to other tribes not loyal to me. My liege has promised me that this will be the new permanent Daukeni homeland. Should I migrate, I will lose all of my current lands and titles." #NT!
- west_migration.0002.a: "These lands will be my new home" #NT!
- west_migration.0002.b: "I will stay where I am" #NT!
- west_migration.0003.t: "The End of [aversarian|E]" #NT!
- west_migration.0003.desc: "I stand at the edge of what was formerly Eastern [aversarian|E]. My vassals have already begun moving into these new lands. While this means the end of the coalition draws near, hopefully the region will be a more peaceful place than when the [aversarians|E] ruled." #NT!
- west_migration.0003.a: "The end of an era" #NT!
- west_migration.0003.b: "Hold on, I want a piece too" #NT!
- west_migration.0004.t: "The End of the Imperrech" #NT!
- west_migration.0004.desc: "With the [aversarians|E] spread to the wind and my vassals settled in their new lands, the coalition I have assembled has fulfilled its purpose. My vassals are expecting me to announce an end to their vassalage any day now." #NT!
- west_migration.0004.a: "Good luck and good fortune to all the tribes" #NT!
- west_migration.0004.b: "Actually, I think the current arrangement is fine" #NT!
+
+#west_migration
+
+west_migration.0001.t:0 "Я - Хозяин Запада"
+west_migration.0001.desc:0 "Я переломил хребет [Concept('aversarian','Аверсарианской')|E] родины, и теперь я по праву заслужил величайшие трофеи. Новые империи Сьеврегарда, Маскива, и Кейскада мои для взятия. Эти земли – самые богатые в Западной [Concept('aversaria','Аверсарии')|E]. Я потеряю все мои нынешние личные владения, и все мои титулы, кроме главного. Если я их не заполучу, те, кто удерживают их сейчас, оставят их за собой. Чтобы я не выбрал, переселение Сьяволкийской коалиции началось. Земли моих вассалов серьезно изменятся."
+west_migration.0001.a:0 "Эти земли станут моим новым домом"
+west_migration.0001.b:0 "Я останусь там, где я сейчас"
+
+west_migration.0002.t:0 "Новая земля для моего народа"
+west_migration.0002.desc:0 "Мой правитель разбил Западных [Concept('aversarian','Аверсарианцев')|E], и разделил трофеи среди своих преданных вассалов. Как Даукену, мне было обещано королевство Дахаград. Мои советники предупреждают меня, что если я не возьму королевство, земли моих нынешних вассалов могут быть отобраны другими племенами, не преданными мне. Мой правитель обещал мне, что оно станет новой постоянной родиной для Даукенов. Если я переселюсь, я потеряю все мои нынешние земли и титулы."
+west_migration.0002.a:0 "Эти земли станут моим новым домом"
+west_migration.0002.b:0 "Я останусь там, где я сейчас"
+
+west_migration.0003.t:0 "Конец [Concept('aversarian','Аверсарианцев')|E]"
+west_migration.0003.desc:0 "Я стою на границе того, что раньше было Восточной [Concept('aversaria','Аверсарией')|E]. Мои вассалы уже начали переселяться в эти новые земли. Хоть это и значит, что конец коалиции близок, надеюсь, что регион станет более мирным местом, чем он был под [Concept('aversarian','аверсарианским')|E] правлением."
+west_migration.0003.a:0 "Конец эпохи"
+west_migration.0003.b:0 "Подождите, я тоже хочу кусок"
+
+west_migration.0004.t:0 "Конец Имперреха"
+west_migration.0004.desc:0 "Теперь, когда [Concept('aversarian','аверсарианцы')|E] рассеяны по ветру и мои вассалы поселились в своих новых землях, коалиция, которую я собрал, выполнила своё предназначение. Мои вассалы ожидают моего объявления об окончании их вассального статуса в любой день. "
+west_migration.0004.a:0 "Удачи и счастья всем племенам"
+west_migration.0004.b:0 "На самом деле, я думаю, нынешний порядок хорош"
