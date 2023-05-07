@@ -1,59 +1,59 @@
 ﻿l_russian:
 
- magocratic_government:0 "Магократия"
+ magocratic_government:0 "Магократическ"
  magocratic_government_realm:0 "Магократия" 
  magocratic_government_desc:0 "$game_concept_magocracy_desc$\n\n#F Магократия - это земли, управляемые единственным [Concept('magi', 'магом')|Е]. Этот [Concept('magi', 'маг')|Е] правит во многом как феодальный правитель, за исключением того, что государственное устройство таково, что править могут только [Concept('magi', 'маги')|Е]. Это приводит к системе, где любой ребенок, не обладающий магическим даром, автоматически считается лишенным наследства".
- magocratic_government_adjective:0 "Магократ"
+ magocratic_government_adjective:0 "Магократия"
 
  magocratic_republic:0 "Магократическая Республика"
  magocratic_republic_realm:0 "Магократическая Республика"
  magocratic_republic_desc:0 "$game_concept_magocratic_republic_desc$\n\n#F Магократические республики похожи на стандартную магократию, за исключением того факта, что правитель не является династическим автократом, а автократом, избранным из числа [Concept('magi', 'магов')|Е] власти в их соответствующих сферах."
- magocratic_republic_adjective:0 "Магократ"
+ magocratic_republic_adjective:0 "Магократическая Республика"
 
- peasant_republic:0 "Крестьянская Республика"
+ peasant_republic:0 "Крестьянск"
  peasant_republic_realm:0 "Крестьянская Республика"
  peasant_republic_desc:0 "$game_concept_peasant_republic_desc$\n\n#F Крестьянские республики - это свободные "государства", которые полностью находятся под контролем местного крестьянства. Крестьянские республики часто возникают во времена волнений, но редко существуют долго на политической карте из-за угрозы, которую они представляют для современных систем власти".
- peasant_republic_adjective:0 "Крестьянин"
+ peasant_republic_adjective:0 "Крестьянская Республика"
 
- republic_playable_government:0 "Республика" #NT!
+ republic_playable_government:0 "Республиканск" #NT!
  republic_playable_government_adjective:0 "Республика" #NT!
  republic_playable_government_realm:0 "Республика" #NT!
  republic_playable_government_desc:0 "$game_concept_republic_desc$\n\n#F Городами управляют привилегированные граждане из класса бюргеров, один из которых избирается мэром. Хотя мэр имеет значительное влияние, его переизбрание зависит от популярности.#!" #NT!
  republic_playable_government_vassals_label:1 "[Concept('obligations', 'Обязательства')|Е] одинаковы для всех республиканских [Concept('vassals', 'вассалов')|Е]" #NT!
  republic_playable_government_obligations:1 "Республиканские [Concept('obligations', 'обязательства')|Е]" #NT!
 
- landed_order_government:0 "Приземлился Святой Орден" #NT!
- landed_order_government_realm:0 "Приземлился Святой Орден" #NT!
- landed_order_government_desc:1 "Этот священный орден остепенился и взял на себя роль, больше напоминающую аристократически управляемое царство. Братья этого ордена, хотя и святы в названии и ловушке, а возможно, и в некоторых своих правительственных функциях, в значительной степени действуют как выборная монархия." #NT!
- landed_order_government_adjective:0 "Святой Орден" #NT!
+ landed_order_government:0 "Орденск" #NT!
+ landed_order_government_realm:0 "Военный священный Орден" #NT!
+ landed_order_government_desc:1 "Этот священный орден осел и взял на себя роль, больше напоминающую аристократически управляемое государство. Священный по названию и принятым религиозным традициям, и, возможно, некоторым правительственным функциям, Орден по сути действует как выборная монархия." #NT!
+ landed_order_government_adjective:0 "Военный священный Орден" #NT!
 
- military_unit_government:0 "Военная часть" #NT!
- military_unit_government_realm:0 "Военная часть" #NT!
- military_unit_government_desc:1 "Остатки вооруженных сил [aversarian|E], оставшихся после падения Империи. Будь то Легион [aversarian|E], создавший собственное королевство, или остатки военных границ [aversaria_possessive|E], теперь это подразделение в основном сражается за себя." #NT!
- military_unit_government_adjective:0 "Военный" #NT!
+ military_unit_government:0 "Воинск" #NT!
+ military_unit_government_realm:0 "Воинская часть" #NT!
+ military_unit_government_desc:1 "Остатки вооруженных сил [Concept('aversarian', 'Аверсарии')|Е], оставшихся после падения Империи. Будь то [Concept('aversarian', 'Аверсарианский')|Е] Легион, создавший собственное государство, или остатки военных с пограничья [Concept('aversaria_possessive', 'Аверсарии')|Е], теперь это государство сражается в основном за себя самого." #NT!
+ military_unit_government_adjective:0 "Воинская часть" #NT!
 
- pirate_government:0 "Пираты" #NT!
- pirate_government_adjective:0 "Пиратский" #NT!
+ pirate_government:0 "Пиратск" #NT!
+ pirate_government_adjective:0 "Пираты" #NT!
  pirate_government_realm:0 "Государство пиратов" #NT!
  pirate_government_desc:0 "$game_concept_pirate_desc$\n\n#F Пираты очень редко соблюдают какой-либо кодекс, кроме одного - самого сильного и хитрого правила. Любой мужчина или женщина со стальным сердцем и подходящим умом могут взобраться на вершину горы поверженных врагов, если приложат к этому все усилия.#!" #NT!
 
- administrative_bureaucracy_government:0 "Административная бюрократия" #NT!
- administrative_bureaucracy_government_adjective:0 "Бюрократический" #NT!
+ administrative_bureaucracy_government:0 "Бюрократическ" #NT!
+ administrative_bureaucracy_government_adjective:0 "Административная бюрократия" #NT!
  administrative_bureaucracy_government_realm:0 "Административная бюрократия" #NT!
- administrative_bureaucracy_government_desc:0 "Могущественная империя Адабис является домом, пожалуй, самого централизованного государства на [Concept('aeras', 'Аэрасе')|Е], где сильный император и класс жрецов эффективно управляют огромным королевством, используя свои передовые технологии для организации масштабных строительных проектов и создания гигантских стандартизованных армий.\n\ n#N Бюрократическое правительство в настоящее время недоступно!#!" #NT!
+ administrative_bureaucracy_government_desc:0 "Могущественная империя Адабис является домом, пожалуй, самого централизованного государства на [Concept('aeras', 'Аэрасе')|Е], где сильный император и класс жрецов эффективно управляют огромным королевством, используя свои передовые технологии для организации масштабных строительных проектов и создания гигантских стандартизованных армий.\n\n#N Бюрократическое правительство в настоящее время недоступно!#!" #NT!
 
- migratory_government:0 "Кочевники" #NT!
- migratory_government_adjective:0 "Кочующий" #NT!
+ migratory_government:0 "Кочующ" #NT!
+ migratory_government_adjective:0 "Кочевники" #NT!
  migratory_government_realm:0 "Кочевники" #NT!
  migratory_government_desc:0 "Кочующие государства либо не имеют дома, либо перемещаются между несколькими. Кочевники [Concept('aeras', 'Аэраса')|Е] варьируются от пустынных кланов до странствующих искателей приключений и [Concept('fogeaters','туманников')|E]. Страны кочевников не следует путать с большими группами, которые [Concept('migrations','мигрируют')|E] после катастрофических событий [Concept('frodbrokna', 'Фродброкны')|Е].\n\n#N Правительства кочевников скоро будут доступны для игры#!" #NT!
 
- wasteland_government:0 "Пустошь" #NT!
+ wasteland_government:0 "Пустынн" #NT!
  wasteland_government_realm:0 "Пустошь" #NT!
  #wasteland_government_desc:0 "Разрушенные останки и пустая дикая местность, эта пустошь не тронута цивилизацией, будь то из-за ужасной опасности или просто из-за отсутствия исследований." #NT!
  wasteland_government_desc:0 "$wasteland_faith_desc$" #NT!
  wasteland_government_adjective:0 "Пустошь" #NT!
 
- government_can_raid_over_water_rule:0 "Разрешить [Concept('raiding', 'налёты')|Е] за границей [Concept('counties', 'графств')|Е] для добычи" #NT!
+ government_can_raid_over_water_rule:0 "Разрешает [Concept('raiding', 'налёты')|Е] на заморские [Concept('counties', 'графства')|Е] для добычи" #NT!
 
  GAME_OVER_CANNOT_PLAY_WASTELAND:0 "Нельзя играть за пустошь" #NT!
  NOT_GAME_OVER_CANNOT_PLAY_WASTELAND:0 "$GAME_OVER_CANNOT_PLAY_WASTELAND$" #NT!
