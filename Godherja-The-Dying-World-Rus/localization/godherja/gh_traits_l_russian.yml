@@ -13,7 +13,7 @@
  trait_beasthunter_1_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] — новичок в искусстве охоты на самую опасную дичь." #NT!
 
  trait_beasthunter_2:0 "Истребитель монстров" #NT!
- trait_beasthunter_2_desc:1 "Этот персонаж доказал, что умеет охотиться за экзотическим и опасным. А иногда и за тем, и за другим." #NT!
+ trait_beasthunter_2_desc:1 "Этот персонаж доказал, что умеет охотиться за экзотическим и опасным. А иногда и за тем, и за другим." #NT! 
  trait_beasthunter_2_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] доказал, что умеет охотиться за экзотическим и опасным. А иногда и за тем, и за другим." #NT!
 
  trait_beasthunter_3:0 "Опытный истребитель монстров" #NT!
