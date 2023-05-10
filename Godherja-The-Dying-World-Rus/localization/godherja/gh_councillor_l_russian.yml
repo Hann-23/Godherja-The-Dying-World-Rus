@@ -1,72 +1,90 @@
 ﻿l_russian:
- councillor_court_magi: "Court Magi" #NT!
- councillor_court_magi_possessive: "Court Magi's" #NT!
- councillor_court_magi_desc: "Court Magi" #NT!
- game_concept_court_magi: "Court Magi" #NT!
- game_concept_court_magi_desc: "Court Magi" #NT!
-  
- councillor_quartermaster: "Quartermaster" #NT!
- councillor_quartermaster_possessive: "Quartermaster's" #NT!
- councillor_quartermaster_desc: "The Quartermaster is in charge of managing all logistical parts of your fleet, such as organizing raids, keeping crew in line, and selling your stolen goods." #NT!
- game_concept_quartermaster: "Quartermaster" #NT!
- game_concept_quartermaster_desc: "The Quartermaster is in charge of managing all logistical parts of your fleet, such as organizing raids, keeping crew in line, and selling your stolen goods." #NT!
- task_court_magi_boost_magic_power: "Boost Magic Power" #NT!
- task_court_magi_boost_magic_power_desc: 
- task_court_magi_boost_magic_power_effect_desc: "Will transfer #positive_value [SCOPE.ScriptValue('court_magi_transfer_value')|1]#!@magic_icon!from their monthly #E Magic#! to your own pool." #NT!
- task_court_magi_boost_magic_power_modifier: "Magic Power from Court Magi" #NT!
- task_court_magi_tutor_magic: "Tutor Child" #NT!
- task_court_magi_tutor_magic_desc: 
- task_court_magi_tutor_magic_effect_desc: "Will tutor children in the arcane arts, gradually increasing their magic education level." #NT!
- task_court_magi_cast_spells: "Cast Spells" #NT!
- task_court_magi_cast_spells_desc: "Will be able to cast spells through them, limited by their own magic pool and skill." #NT!
- task_court_magi_cast_spells_effect_desc: "Will be able to cast spells through them, limited by their own magic pool and skill." #NT!
- I_MUST_BE_A_MAGI: "Is a [magi|E]" #NT!
- I_AM_NOT_A_MAGI: "Is a [magi|E]" #NT!
- THEY_MUST_BE_A_MAGI: "Is a [magi|E]" #NT!
- THEY_ARE_NOT_A_MAGI: "Is a [magi|E]" #NT!
-  ####################### 
-  # QUARTERMASTER TASKS # 
- task_manage_crew: "Manage Crew" #NT!
- task_manage_crew_effect_desc: "[councillor.GetModifierDescForTask('task_manage_crew')]\nEarn Additional Loot While Raiding" #NT!
- task_manage_crew_recruitment_drive: "\n$EFFECT_LIST_BULLET$#P Recruitment Drive#!" #NT!
- task_manage_crew_tall_tales_spread: "\n$EFFECT_LIST_BULLET$#P Glory Spreads#!" #NT!
- task_manage_crew_disorganized_crew: "\n$EFFECT_LIST_BULLET$#N Disorganized Crew#!" #NT!
- task_manage_crew_mutiny: "\n$EFFECT_LIST_BULLET$#N Mutiny#!" #NT!
- task_manage_crew_tooltip: "From $task_manage_crew$" #NT!
- task_commerce_raid: "Raid Commerce" #NT!
- task_commerce_raid_desc: "Raid trade and commerce around your empire. Click on this task to see your current raiding area, then click on any county in that area to begin raiding them all." #NT!
- task_commerce_raid_effect_desc_1: "\nYou can currently earn @gold_icon!#P [raiding_balance_income|E]#! [gold|E] per month from commerce raiding" #NT!
- task_commerce_raid_effect_desc_2: "\nYou can currently earn @gold_icon!#P [raiding_balance_cap|E]#! [gold|E] out of a possible @gold_icon!#P [raiding_balance_income|E]#! [gold|E] per month from commerce raiding. Establish more [shadow_ports|E] to raise your cap." #NT!
- task_commerce_raid_straits_income: "\n[GetScriptedGui('commerce_raiding_straits_income_scripted_gui').BuildTooltip(GuiScope.SetRoot(GetPlayer.MakeScope).End)]" #NT!
- commerce_raiding_strait_income_intro_tt: "Extra income from major [straits|E]:" #NT!
- commerce_raiding_strait_income_tt: "[THIS.Var('strait_name').GetFlagName]: @gold_icon!#P [THIS.ScriptValue('total_income_from_strait_value')]#!" #NT!
- no_owned_straits: "You do not control any trade confluences" #NT!
- testing_tooltip: "[THIS.ScriptValue('fingers_crossed')]" #NT!
- commerce_raiding_competition_exists: "#X Halved due to competition#!" #NT!
- commerce_raiding_competition_does_not_exist: 
- task_commerce_raid_capture_ship: "\n$EFFECT_LIST_BULLET$#P Capture Treasure Ship#!" #NT!
- task_commerce_raid_kidnap_captives: "\n$EFFECT_LIST_BULLET$#P Kidnap Captives#!" #NT!
- task_commerce_raid_failed_raids: "\n$EFFECT_LIST_BULLET$#N Failed Raids#!" #NT!
- task_commerce_raid_anger_ruler: "\n$EFFECT_LIST_BULLET$#N Anger Rulers#!" #NT!
- task_establish_shadow_port: "Establish Shadow Port" #NT!
- task_establish_shadow_port_desc: "#S At #V 100%#!#!:\n$TAB$Opportunity to create a [shadow_port|E]" #NT!
- task_establish_shadow_port_control_desc: "\nControl level of [county.GetNameNoTier]: [SCOPE.ScriptValue('quartermaster_county_control_level')]\nAdditional commerce raiding capacity: [SCOPE.ScriptValue('quartermaster_county_raid_cap')]" #NT!
- possible_side_effects: "\n#P Greedy Port Official#!\n#N Enraged Target#!\n#N Unbribable Inspector#!" #NT!
- world_ga_imperial_isle_income_tt: "[GetGeographicalRegion('world_ga_imperial_isle').GetName]: @gold_icon!#P [SCOPE.ScriptValue('world_ga_imperial_isle_value')]#!" #NT!
- world_ga_marcher_kingdoms_income_tt: "[GetGeographicalRegion('world_ga_marcher_kingdoms').GetName]: @gold_icon!#P [SCOPE.ScriptValue('world_ga_marcher_kingdoms_value')]#!" #NT!
- trade_confluence_imperial_strait_income_tt: "[GetGeographicalRegion('trade_confluence_imperial_strait').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_imperial_strait_value')]#!" #NT!
- trade_confluence_helvian_delta_income_tt: "[GetGeographicalRegion('trade_confluence_helvian_delta').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_helvian_delta_value')]#!" #NT!
- trade_confluence_evimos_strait_income_tt: "[GetGeographicalRegion('trade_confluence_evimos_strait').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_evimos_strait_value')]#!" #NT!
- trade_confluence_bay_of_swords_income_tt: "[GetGeographicalRegion('trade_confluence_bay_of_swords').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_bay_of_swords_value')]#!" #NT!
- trade_confluence_varhara_channel_income_tt: "[GetGeographicalRegion('trade_confluence_varhara_channel').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_varhara_channel_value')]#!" #NT!
- trade_confluence_mouth_of_tarsuria_income_tt: "[GetGeographicalRegion('trade_confluence_mouth_of_tarsuria').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_mouth_of_tarsuria_value')]#!" #NT!
- trade_confluence_the_watched_channel_income_tt: "[GetGeographicalRegion('trade_confluence_the_watched_channel').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_the_watched_channel_value')]#!" #NT!
- trade_confluence_kratemezin_rim_income_tt: "[GetGeographicalRegion('trade_confluence_kratemezin_rim').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_kratemezin_rim_value')]#!" #NT!
- trade_confluence_krehejad_income_tt: "[GetGeographicalRegion('trade_confluence_krehejad').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_krehejad_value')]#!" #NT!
- trade_confluence_the_pirate_coast_income_tt: "[GetGeographicalRegion('trade_confluence_the_pirate_coast').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_the_pirate_coast_value')]#!" #NT!
- trade_confluence_teltheans_strait_income_tt: "[GetGeographicalRegion('trade_confluence_teltheans_strait').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_teltheans_strait_value')]#!" #NT!
- trade_confluence_ageotaros_income_tt: "[GetGeographicalRegion('trade_confluence_ageotaros').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_ageotaros_value')]#!" #NT!
- trade_confluence_korvion_strait_income_tt: "[GetGeographicalRegion('trade_confluence_korvion_strait').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_korvion_strait_value')]#!" #NT!
- trade_confluence_volos_pathway_income_tt: "[GetGeographicalRegion('trade_confluence_volos_pathway').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_volos_pathway_value')]#!" #NT!
- trade_confluence_pathos_tower_income_tt: "[GetGeographicalRegion('trade_confluence_pathos_tower').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_pathos_tower_value')]#!" #NT!
- quartermaster_task_angered_ruler_opinion: "Illegal Piracy" #NT!
+ councillor_court_magi:0 "Придворный маг" #NT!
+ councillor_court_magi_possessive:0 "Придворного мага" #NT!
+ councillor_court_magi_desc:0 "Придворный маг" #NT!
+ game_concept_court_magi:0 "Придворные маги" #NT!
+ game_concept_court_magi_desc:0 "Придворные маги" #NT!
+
+ councillor_quartermaster:0 "Интендант" #NT!
+ councillor_quartermaster_possessive:0 "Интенданта" #NT!
+ councillor_quartermaster_desc:0 "Интендант отвечает за управление всеми логистическими частями вашего флота, такими как организация рейдов, поддержание порядка в команде и продажа украденных товаров." #NT!
+ game_concept_quartermaster:0 "Интендант" #NT!
+ game_concept_quartermaster_desc:0 "Интендант отвечает за управление всеми логистическими частями вашего флота, такими как организация рейдов, поддержание порядка в команде и продажа украденных товаров." #NT!
+
+ task_court_magi_boost_magic_power:0 "Повышение магической силы" #NT!
+ task_court_magi_boost_magic_power_desc:
+ task_court_magi_boost_magic_power_effect_desc:0 "Перенесет #positive_value [SCOPE.ScriptValue('court_magi_transfer_value')|1]#!@magic_icon! из их ежемесячной #E магии#! в ваше собственный резерв." #NT!
+ task_court_magi_boost_magic_power_modifier:0 "Магическая сила от придворных магов" #NT!
+
+ task_court_magi_tutor_magic:0 "Обучить ребенка" #NT!
+ task_court_magi_tutor_magic_desc:0 ""
+ task_court_magi_tutor_magic_effect_desc:0 "Будет обучать детей тайным искусствам, постепенно повышая уровень их магического образования." #NT!
+
+ task_court_magi_cast_spells:0 "Заклинания" #NT! 
+ task_court_magi_cast_spells_desc:0 "С помощью придворного мага можно использовать заклинания, ограниченные его собственным запасом магии и навыками." #NT!
+ task_court_magi_cast_spells_effect_desc:0 "С помощью придворного мага можно использовать заклинания, ограниченные его собственным запасом магии и навыками." #NT!
+
+ I_MUST_BE_A_MAGI:0 "Я должен быть [Concept('magi','магом')|Е], чтобы сделать это."
+ I_AM_NOT_A_MAGI:0 "Я не [Concept('magi','маг')|Е]."
+ THEY_MUST_BE_A_MAGI:0 "Должен быть [Concept('magi','магом')|Е], чтобы сделать это." #NT!
+ THEY_ARE_NOT_A_MAGI:0 "Не [Concept('magi','маг')|Е]" #NT!
+
+
+ #######################
+ # QUARTERMASTER TASKS #
+ #######################
+
+ task_manage_crew:0 "Управление командой" #NT!
+ task_manage_crew_effect_desc:1 "[councillor.GetModifierDescForTask('task_manage_crew')]\nПолучить дополнительную добычу во время рейда" #NT!
+ task_manage_crew_recruitment_drive:0 "\n$EFFECT_LIST_BULLET$#P Вербовочный драйв#!" #NT!
+ task_manage_crew_tall_tales_spread:0 "\n$EFFECT_LIST_BULLET$#P Распространение славы#!" #NT!
+ task_manage_crew_disorganized_crew:0 "\n$EFFECT_LIST_BULLET$#N Неорганизованная команда#!" #NT!
+ task_manage_crew_mutiny:0 "\n$EFFECT_LIST_BULLET$#N Мятеж#!" #NT!
+ task_manage_crew_tooltip:0 "От $task_manage_crew$" #NT!
+
+ task_commerce_raid:0 "Рейдовая коммерция" #NT!
+
+ task_commerce_raid_desc:0 "Устраивайте налеты на торговлю и коммерцию на соседних территориях. Нажмите на это задание, чтобы увидеть вашу текущую область налетов, затем нажмите на любое графство в этой области, чтобы начать налеты на них все." #NT!
+ task_commerce_raid_effect_desc_1:0 "\nВ настоящее время вы можете зарабатывать @gold_icon!#P [raiding_balance_income|E]#! [Concept('gold','золота')|Е] в месяц от торговых рейдов" #NT!
+ task_commerce_raid_effect_desc_2:0 "\nВ настоящее время вы можете зарабатывать @gold_icon!#P [raiding_balance_cap|E]#! [Concept('gold','золота')|Е] из возможных @gold_icon!#P [raiding_balance_income|E]#! [Concept('gold','золота')|Е] в месяц за счет рейдерства. Создайте больше [Concept('shadow_port','теневых портов')|Е], чтобы увеличить размер доступной добычи." #NT!
+ task_commerce_raid_straits_income:0 "\n[GetScriptedGui('commerce_raiding_straits_income_scripted_gui').BuildTooltip(GuiScope.SetRoot(GetPlayer.MakeScope).End)]" #NT!
+ commerce_raiding_strait_income_intro_tt:0 "Дополнительный доход от крупных [Concept('straits','торговых путей')|Е]:" #NT!
+ commerce_raiding_strait_income_tt:0 "[THIS.Var('strait_name').GetFlagName]: @gold_icon!#P [THIS.ScriptValue('total_income_from_strait_value')]#!" #NT!
+ no_owned_straits:0 "Вы не контролируете торговые пути" #NT!
+
+ testing_tooltip:0 "[THIS.ScriptValue('fingers_crossed')]" #NT!
+
+ commerce_raiding_competition_exists:0 "#X Уменьшено вдвое из-за конкуренции#!" #NT!
+ commerce_raiding_competition_does_not_exist:0 ""
+ task_commerce_raid_capture_ship:0 "\n$EFFECT_LIST_BULLET$#P Захватить корабль с сокровищами#!" #NT!
+ task_commerce_raid_kidnap_captives:0 "\n$EFFECT_LIST_BULLET$#P Похищение пленников#!" #NT!
+ task_commerce_raid_failed_raids:0 "\n$EFFECT_LIST_BULLET$#N Неудачные рейды#!" #NT!
+ task_commerce_raid_anger_ruler:0 "\n$EFFECT_LIST_BULLET$#N Разгневанные правители#!" #NT!
+
+ task_establish_shadow_port:0 "Создать теневой порт" #NT!
+ task_establish_shadow_port_desc:0 "#S В #V 100%#!#!:\n$TAB$Возможность для создания [Concept('shadow_port','теневого порта')|Е]" #NT!
+ task_establish_shadow_port_control_desc:0 "\nУровень управления [county.GetNameNoTier]: [SCOPE.ScriptValue('quartermaster_county_control_level')]\nДополнительные возможности налетов: [SCOPE.ScriptValue('quartermaster_county_raid_cap')]" #NT!
+ possible_side_effects:0 "\n#P Жадный официальный представитель порта#!\n#N Разъяренная цель#!\n#N Неподкупный инспектор#!" #NT!
+
+
+
+ world_ga_imperial_isle_income_tt:0 "[GetGeographicalRegion('world_ga_imperial_isle').GetName]: @gold_icon!#P [SCOPE.ScriptValue('world_ga_imperial_isle_value')]#!" #NT!
+ world_ga_marcher_kingdoms_income_tt:0 "[GetGeographicalRegion('world_ga_marcher_kingdoms').GetName]: @gold_icon!#P [SCOPE.ScriptValue('world_ga_marcher_kingdoms_value')]#!" #NT!
+ trade_confluence_imperial_strait_income_tt:0 "[GetGeographicalRegion('trade_confluence_imperial_strait').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_imperial_strait_value')]#!" #NT!
+ trade_confluence_helvian_delta_income_tt:0 "[GetGeographicalRegion('trade_confluence_helvian_delta').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_helvian_delta_value')]#!" #NT!
+ trade_confluence_evimos_strait_income_tt:0 "[GetGeographicalRegion('trade_confluence_evimos_strait').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_evimos_strait_value')]#!" #NT!
+ trade_confluence_bay_of_swords_income_tt:0 "[GetGeographicalRegion('trade_confluence_bay_of_swords').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_bay_of_swords_value')]#!" #NT!
+ trade_confluence_varhara_channel_income_tt:0 "[GetGeographicalRegion('trade_confluence_varhara_channel').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_varhara_channel_value')]#!" #NT!
+ trade_confluence_mouth_of_tarsuria_income_tt:0 "[GetGeographicalRegion('trade_confluence_mouth_of_tarsuria').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_mouth_of_tarsuria_value')]#!" #NT!
+ trade_confluence_the_watched_channel_income_tt:0 "[GetGeographicalRegion('trade_confluence_the_watched_channel').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_the_watched_channel_value')]#!" #NT!
+ trade_confluence_kratemezin_rim_income_tt:0 "[GetGeographicalRegion('trade_confluence_kratemezin_rim').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_kratemezin_rim_value')]#!" #NT!
+ trade_confluence_krehejad_income_tt:0 "[GetGeographicalRegion('trade_confluence_krehejad').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_krehejad_value')]#!" #NT!
+ trade_confluence_the_pirate_coast_income_tt:0 "[GetGeographicalRegion('trade_confluence_the_pirate_coast').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_the_pirate_coast_value')]#!" #NT!
+ trade_confluence_teltheans_strait_income_tt:0 "[GetGeographicalRegion('trade_confluence_teltheans_strait').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_teltheans_strait_value')]#!" #NT!
+ trade_confluence_ageotaros_income_tt:0 "[GetGeographicalRegion('trade_confluence_ageotaros').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_ageotaros_value')]#!" #NT!
+ trade_confluence_korvion_strait_income_tt:0 "[GetGeographicalRegion('trade_confluence_korvion_strait').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_korvion_strait_value')]#!" #NT!
+ trade_confluence_volos_pathway_income_tt:0 "[GetGeographicalRegion('trade_confluence_volos_pathway').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_volos_pathway_value')]#!" #NT!
+ trade_confluence_pathos_tower_income_tt:0 "[GetGeographicalRegion('trade_confluence_pathos_tower').GetName]: @gold_icon!#P [SCOPE.ScriptValue('trade_confluence_pathos_tower_value')]#!" #NT!
+
+
+ quartermaster_task_angered_ruler_opinion:0 "Незаконное пиратство" #NT!

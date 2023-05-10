@@ -1,28 +1,35 @@
 ﻿l_russian:
-  
- game_concept_rite_wars_south_struggle: "Southern Rite Wars" #NT!
- game_concept_rite_wars_south_struggle_desc: "The $game_concept_rite_wars_south_struggle$ depicts the conflicts and schisms of the Sjalvolki living in Opakasija following the death of Cenware Witch-Breaker. Born from the great migration into the Shattered Coast, the [struggle|E] shifts between [struggle_phase_phases|E] of violence, wary truces, and pragmatic cooperation. There are few permanent allies and [rulers|E] should be wary of relying purely on a shared [faith|E] or [culture|E]." #NT!
- game_concept_rite_wars_south: "Southern Rite Wars" #NT!
- game_concept_rite_wars_south_desc: "The $game_concept_rite_wars_south_struggle$ depicts the conflicts and schisms of the Sjalvolki living in Opakasija following the death of Cenware Witch-Breaker. Born from the great migration into the Shattered Coast, the [struggle|E] shifts between [struggle_phase_phases|E] of violence, wary truces, and pragmatic cooperation. There are few permanent allies and [rulers|E] should be wary of relying purely on a shared [faith|E] or [culture|E]." #NT!
- game_concept_struggle_phase_rite_wars_south_opportunity: "Opportunity Phase" #NT!
- game_concept_struggle_phase_rite_wars_south_opportunity_desc: "After a long period of relatively peaceful coexistence during the [struggle_phase_rite_wars_south_conciliation|E], complacency begins to set in. Peasantry and nobility alike are comfortable that things just #EMP work#!, allowing more shrewd [characters|E] to take advantage of their naivety.\n\nEventually, fresh abuses will either cause an escalation into the [struggle_phase_rite_wars_south_hostility|E], or else savvy politicking reaches an uneasy equilibrium through the [struggle_phase_rite_wars_south_conciliation|E]." #NT!
- game_concept_struggle_phase_rite_wars_south_hostility: "Hostility Phase" #NT!
- game_concept_struggle_phase_rite_wars_south_hostility_desc: "Tensions flare and tempers fray in this $game_concept_struggle_phase_phase$. Repeated acts of malice and escalated misunderstandings during  the [struggle_phase_rite_wars_south_opportunity|E] have lead to rising hatred of [characters|E] with differing [cultures|E], [faiths|E], or #EMP worse#!: both.\n\nSuch bloodshed cannot persist forever, though. Eventually, either cooler heads or simple exhaustion bring the peninsula to the [struggle_phase_rite_wars_south_compromise|E]." #NT!
- game_concept_struggle_phase_rite_wars_south_compromise: "Compromise Phase" #NT!
- game_concept_struggle_phase_rite_wars_south_compromise_desc: "Whether through sickness with the strife of the [struggle_phase_rite_wars_south_hostility|E] or deft escalation during the [struggle_phase_rite_wars_south_conciliation|E], the $game_concept_struggle_phase_rite_wars_south_compromise$ represents a growing accommodation between the peoples of Opakasija. Differences fall by the wayside and shared history and heritage binds former foes together.\n\nThe peninsula stands at a cross-roads: if conflicts reappear, then the [struggle_phase_rite_wars_south_opportunity|E] awaits." #NT!
- game_concept_struggle_phase_rite_wars_south_conciliation: "Conciliation Phase" #NT!
- game_concept_struggle_phase_rite_wars_south_conciliation_desc: "The product of a notable [struggle_phase_rite_wars_south_compromise|E], during this $game_concept_struggle_phase_phase$, relations between the peoples of Opakasija grow so cordial that outsiders find their permissiveness difficult to parse. Inter-[faith|E] [marriages|E] are particularly common.\n\nThis can't last forever, though, and abuses of trust will eventually bring the [rite_wars_south_struggle|E] back around to the [struggle_phase_rite_wars_south_compromise|E]." #NT!
- rite_wars_south_struggle: "Southern Rite Wars" #NT!
- rite_wars_south_struggle_desc: "$game_concept_rite_wars_south_struggle$" #NT!
- struggle_rite_wars_south_phase_opportunity: "Opportunity" #NT!
- struggle_rite_wars_south_phase_opportunity_desc: "$game_concept_struggle_phase_rite_wars_south_opportunity_desc$" #NT!
- struggle_rite_wars_south_phase_hostility: "Hostility" #NT!
- struggle_rite_wars_south_phase_hostility_desc: "$game_concept_struggle_phase_rite_wars_south_hostility_desc$" #NT!
- #struggle_rite_wars_south_phase_tension: "Tension" #NT!
- struggle_rite_wars_south_phase_compromise: "Compromise" #NT!
- struggle_rite_wars_south_phase_compromise_desc: "$game_concept_struggle_phase_rite_wars_south_compromise_desc$" #NT!
- struggle_rite_wars_south_phase_conciliation: "Conciliation" #NT!
- struggle_rite_wars_south_phase_conciliation_desc: "$game_concept_struggle_phase_rite_wars_south_conciliation_desc$" #NT!
- controls_rite_wars_holy_sites_all: "You control at least 5 [holy_sites|E]" #NT!
- controls_rite_wars_holy_sites_one: "You control at least 1 [holy_site|E]" #NT!
- controls_rite_wars_holy_sites_some: "You control at least 3 [holy_sites|E]" #NT!
+
+ game_concept_rite_wars_south_struggle:0 "Южные обрядовые войны" #NT!
+ game_concept_rite_wars_south_struggle_desc:0 "$game_concept_rite_wars_south_struggle$ отображает конфликты и расколы среди Сьялволки, живущих в Опахазии, после смерти Ценвара Победителя Ведьм. Начавшаяся в результате великого переселения на Расколотый берег, [struggle|E] переключается между [struggle_phase_phases|E] насилия, осторожного перемирия и прагматичного сотрудничества. Постоянных союзников немного, и [Concept('rulers','правителям')|E] следует с осторожностью полагаться только на общую [Concept('faith','веру')|E] или [Concept('culture','культуру')|E]." #NT!
+
+ game_concept_rite_wars_south:0 "Южные обрядовые войны" #NT!
+ game_concept_rite_wars_south_desc:0 "$game_concept_rite_wars_south_struggle$ отображает конфликты и расколы среди Сьялволки, живущих в Опахазии, после смерти Ценвара Победителя Ведьм. Начавшаяся в результате великого переселения на Расколотый берег, [struggle|E] переключается между [struggle_phase_phases|E] насилия, осторожного перемирия и прагматичного сотрудничества. Постоянных союзников немного, и [Concept('rulers','правителям')|E] следует с осторожностью полагаться только на общую [Concept('faith','веру')|E] или [Concept('culture','культуру')|E]." #NT!
+
+ game_concept_struggle_phase_rite_wars_south_opportunity:1 "Возможность" #NT!
+ game_concept_struggle_phase_rite_wars_south_opportunity_desc:2 "После длительного периода относительно мирного сосуществования во время [struggle_phase_rite_wars_south_conciliation|E] начинает проявляться самоуспокоенность. Крестьяне и дворяне в равной степени довольны тем, что #EMP работает#!, позволяя более проницательным [Concept('characters','персонажам')|E] воспользоваться их наивностью.\n\nВ конце концов, новые нарушения или вызовут эскалацию в [struggle_phase_rite_wars_south_hostility|E], или хитроумное политиканство достигает шаткого равновесия через [struggle_phase_rite_wars_south_conciliation|E]." #NT!
+
+ game_concept_struggle_phase_rite_wars_south_hostility:1 "Вражда" #NT!
+ game_concept_struggle_phase_rite_wars_south_hostility_desc:2 "В этом $game_concept_struggle_phase_phase$ нарастает напряжение и накал страстей. Неоднократные злонамеренные, провокационные действия и нарастающие недопонимания во время [struggle_phase_rite_wars_south_opportunity|E] привели к росту ненависти к [Concept('characters','людям')|E] другой [Concept('faith','веры')|E], [Concept('culture','культуры')|E] или даже #EMP хуже#!: того и другого.\n\nОднако такое кровопролитие не может продолжаться вечно. В конце концов, либо здравый смысл, либо простое истощение приводят полуостров к [struggle_phase_rite_wars_south_compromise|E]." #NT!
+
+ game_concept_struggle_phase_rite_wars_south_compromise:1 "Компромисс" #NT!
+ game_concept_struggle_phase_rite_wars_south_compromise_desc:2 "Будь то из-за болезни, вызванной [struggle_phase_rite_wars_south_hostility|E] или искусным обострением во время [struggle_phase_rite_wars_south_conciliation|E], $game_concept_struggle_phase_rite_wars_south_compromise$ представляет собой растущее согласие между народами Опахазии. Различия отходят на второй план, а общая история и наследие связывают бывших врагов вместе.\n\nПолуостров стоит на распутье: если конфликты возобновятся, [struggle_phase_rite_wars_south_opportunity|E] ждет." #NT!
+
+ game_concept_struggle_phase_rite_wars_south_conciliation:1 "Примирение" #NT!
+ game_concept_struggle_phase_rite_wars_south_conciliation_desc:1 "Продукт известного [struggle_phase_rite_wars_south_compromise|E], во время этого $game_concept_struggle_phase_phase$ отношения между народами Опахасии становятся настолько сердечными, что посторонним трудно понять их. Inter-[faith|E] [marriages|E] особенно распространены.\n\nОднако это не может длиться вечно, и злоупотребление доверием в конечном итоге вернет [rite_wars_south_struggle|E] к [struggle_phase_rite_wars_south_compromise|E]." #NT!
+
+ rite_wars_south_struggle:0 "Южные обрядовые войны" #NT!
+ rite_wars_south_struggle_desc:1 "$game_concept_rite_wars_south_struggle$" #NT!
+ struggle_rite_wars_south_phase_opportunity:0 "Возможность" #NT!
+ struggle_rite_wars_south_phase_opportunity_desc:0 "$game_concept_struggle_phase_rite_wars_south_opportunity_desc$" #NT!
+ struggle_rite_wars_south_phase_hostility:0 "Вражда" #NT!
+ struggle_rite_wars_south_phase_hostility_desc:0 "$game_concept_struggle_phase_rite_wars_south_hostility_desc$" #NT!
+ #struggle_rite_wars_south_phase_tension:0 "Напряжение" #NT!
+ struggle_rite_wars_south_phase_compromise:0 "Компромисс" #NT!
+ struggle_rite_wars_south_phase_compromise_desc:0 "$game_concept_struggle_phase_rite_wars_south_compromise_desc$" #NT!
+ struggle_rite_wars_south_phase_conciliation:0 "Примирение" #NT!
+ struggle_rite_wars_south_phase_conciliation_desc:0 "$game_concept_struggle_phase_rite_wars_south_conciliation_desc$" #NT!
+
+ controls_rite_wars_holy_sites_all:0 "Вы контролируете не менее 5 [Concept('holy_sites','священных мест')|E]" #NT!
+ controls_rite_wars_holy_sites_one:0 "Вы контролируете как минимум 1 [Concept('holy_sites','священное место')|E]" #NT!
+ controls_rite_wars_holy_sites_some:0 "Вы контролируете как минимум 3 [Concept('holy_sites','священных мест')|E]" #NT!
